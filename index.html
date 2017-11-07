@@ -39,16 +39,29 @@
   
 
   
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-109349396-1', 'auto');
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
 
   
-  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Daniele Antonioli">
-  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Daniele Antonioli">
+  <link rel="alternate" href="https://francozappa.github.io/index.xml" type="application/rss+xml" title="Daniele Antonioli">
+  <link rel="feed" href="https://francozappa.github.io/index.xml" type="application/rss+xml" title="Daniele Antonioli">
   
 
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="/">
+  <link rel="canonical" href="https://francozappa.github.io/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -56,7 +69,7 @@
   <meta property="twitter:creator" content="@francozappa">
   
   <meta property="og:site_name" content="Daniele Antonioli">
-  <meta property="og:url" content="/">
+  <meta property="og:url" content="https://francozappa.github.io/">
   <meta property="og:title" content="Daniele Antonioli">
   <meta property="og:description" content="PhD Candidate at SUTD">
   <meta property="og:locale" content="en-us">
@@ -110,21 +123,9 @@
         
 
         <li class="nav-item">
-          <a href="/#publications_selected" data-target="#publications_selected">
+          <a href="/#publications" data-target="#publications">
             
             <span>Publications</span>
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        <li class="nav-item">
-          <a href="/#posts" data-target="#posts">
-            
-            <span>Posts</span>
           </a>
         </li>
 
@@ -188,69 +189,6 @@
   
   
   
-    
-
-
-
-<section id="hero" class="hero-overlay" style="
-
-background-color: #666;
-
-
-background-image:
-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-url('/img/headers/bubbles-wide.jpg');
-
-;">
-
-  <div class="container">
-
-    <h1 class="hero-title" itemprop="headline">
-      Academic
-    </h1>
-
-    
-    <p class="hero-lead">The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀
-<br>
-<small><a id="academic-release" href="https://sourcethemes.com/academic/tags/updates">Latest release</a></small>
-<br><br>
-<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=gcushen&amp;repo=hugo-academic&amp;type=star&amp;count=true&amp;size=large" scrolling="0" width="160px" height="30px" frameborder="0"></iframe>
-<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=gcushen&amp;repo=hugo-academic&amp;type=fork&amp;count=true&amp;size=large" scrolling="0" width="158px" height="30px" frameborder="0"></iframe></p>
-
-<script type="text/javascript">
-  (function defer() {
-    if (window.jQuery) {
-      jQuery(document).ready(function(){
-        GetLatestReleaseInfo();
-      });
-    } else {
-      setTimeout(function() { defer() }, 50);
-    }
-  })();  
-  function GetLatestReleaseInfo() {
-    $.getJSON('https://api.github.com/repos/gcushen/hugo-academic/tags').done(function (json) {
-      let release = json[0];
-      // let downloadURL = release.zipball_url;
-      $('#academic-release').text('Latest release ' + release.name);  
-    });    
-}  
-</script>
-</p>
-    
-
-    
-    <p><a href="./post/getting-started/" class="btn btn-light btn-outline btn-large"><i class="fa fa-download"></i> Install Now</a></p>
-    
-
-  </div>
-
-</section>
-
-  
-
-  
-  
-  
   <section id="about" class="home-section">
     <div class="container">
       
@@ -262,8 +200,8 @@ url('/img/headers/bubbles-wide.jpg');
     <div id="profile">
 
       
-      <div class="portrait" style="background-image: url('/img/portrait.jpg');"></div>
-      <meta itemprop="image" content="/img/portrait.jpg">
+      <div class="portrait" style="background-image: url('https://francozappa.github.ioimg/avatar.jpg');"></div>
+      <meta itemprop="image" content="https://francozappa.github.ioimg/avatar.jpg">
       
 
       <div class="portrait-title">
@@ -288,7 +226,7 @@ url('/img/headers/bubbles-wide.jpg');
         
       </div>
 
-      <link itemprop="url" href="/">
+      <link itemprop="url" href="https://francozappa.github.io">
 
       <ul class="network-icon" aria-hidden="true">
         
@@ -301,15 +239,15 @@ url('/img/headers/bubbles-wide.jpg');
         
         
         <li>
-          <a itemprop="sameAs" href="//twitter.com/francozappa" target="_blank" rel="noopener">
-            <i class="fa fa-twitter big-icon"></i>
+          <a itemprop="sameAs" href="//scholar.google.com/citations?user=RkX4eFsAAAAJ&amp;hl" target="_blank" rel="noopener">
+            <i class="ai ai-google-scholar big-icon"></i>
           </a>
         </li>
         
         
         <li>
-          <a itemprop="sameAs" href="https://scholar.google.com/citations?user=RkX4eFsAAAAJ&amp;hl" target="_blank" rel="noopener">
-            <i class="ai ai-google-scholar big-icon"></i>
+          <a itemprop="sameAs" href="//orcid.org/0000-0002-9342-3920" target="_blank" rel="noopener">
+            <i class="ai ai-orcid big-icon"></i>
           </a>
         </li>
         
@@ -317,6 +255,20 @@ url('/img/headers/bubbles-wide.jpg');
         <li>
           <a itemprop="sameAs" href="//github.com/francozappa" target="_blank" rel="noopener">
             <i class="fa fa-github big-icon"></i>
+          </a>
+        </li>
+        
+        
+        <li>
+          <a itemprop="sameAs" href="//twitter.com/francozappa" target="_blank" rel="noopener">
+            <i class="fa fa-twitter big-icon"></i>
+          </a>
+        </li>
+        
+        
+        <li>
+          <a itemprop="sameAs" href="//linkedin.com/in/antoniolidaniele" target="_blank" rel="noopener">
+            <i class="fa fa-linkedin big-icon"></i>
           </a>
         </li>
         
@@ -331,21 +283,27 @@ url('/img/headers/bubbles-wide.jpg');
 <h1 id="biography">Biography</h1>
 
 <p>Daniele holds a BS and MS in Electronics and Telecommunications Engineering
-from the University of Bologna (UniBO, Italy). He started working on
+from the <a href="http://www.unibo.it/en" target="_blank">University of Bologna (UniBO)</a>.
+He started working on
 hardware security while preparing his master thesis about random number
-generation at the University of Massachussets (UMass, Amherst) advised by
+generation at the
+<a href="http://www.umass.edu/" target="_blank">University of Massachussets (UMass Amherst)</a>
+advised by
 <a href="https://ece.umass.edu/faculty/wayne-burleson" target="_blank">W. Burleson</a> and
 <a href="https://www.unibo.it/sitoweb/riccardo.rovatti" target="_blank">R. Rovatti</a>.</p>
 
-<p>Currently he is doing a PhD in Computer Science at the Singapore University
-Design and Technology (SUTD, Singapore) advised by
+<p>Currently he is doing a PhD in Computer Science at the
+<a href="https://sutd.edu.sg/" target="_blank">Singapore University Design and Technology (SUTD)</a>,
+advised by
 <a href="http://people.sutd.edu.sg/~nils_tippenhauer/" target="_blank">N.O. Tippenhauer</a>.
 He is working on industrial control systems security. His main research
 interests are: applied security for cyber-physical systems, hardware
 security for embedded systems and physical layer security of wireless
 systems.</p>
 
-<p>More information on my <a href="/files/cv.pdf">CV</a></p>
+<p>More information on my <a href="https://francozappa.github.io/files/cv.pdf">CV</a>.
+Sometime I self-publish on
+<a href="http://www.lulu.com/shop/search.ep?contributorId=1182719" target="_blank">Lulu</a>.</p>
 
 
     <div class="row">
@@ -356,6 +314,8 @@ systems.</p>
         <ul class="ul-interests">
           
           <li>Security</li>
+          
+          <li>Industrial Control Systems</li>
           
           <li>Cyber-Physical Systems</li>
           
@@ -411,145 +371,6 @@ systems.</p>
   
   
   
-  <section id="publications_selected" class="home-section">
-    <div class="container">
-      
-
-
-
-<div class="row">
-  <div class="col-xs-12 col-md-4 section-heading">
-    <h1>Selected Publications</h1>
-    
-  </div>
-  <div class="col-xs-12 col-md-8">
-    
-
-    
-      
-    
-
-    
-    
-      
-        <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
-  <div class="row">
-
-    
-
-    <div class="col-md-12">
-      <a href="/publication/clothing-search/">
-        <img src="/img/headers/bubbles-wide.jpg" class="pub-banner" itemprop="image">
-      </a>
-    </div>
-    <div class="col-md-12">
-
-    
-
-      <h3 class="article-title" itemprop="name">
-        <a href="/publication/clothing-search/" itemprop="url">Mobile visual clothing search</a>
-      </h3>
-
-      <div class="pub-abstract" itemprop="text">
-        
-        A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone&rsquo;s GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on.
-        
-      </div>
-
-      <div class="pub-authors" itemprop="author">
-        
-        GA Cushen, MS Nixon
-        
-      </div>
-
-      <div class="pub-publication">
-        In <em>ICMEW</em>,&nbsp;2013.
-      </div>
-
-      <div class="pub-links">
-        
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf" target="_blank" rel="noopener">
-  Preprint
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
-        data-filename="/files/citations/clothing-search.bib">
-  Cite
-</button>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Dataset
-</a>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/project/example-external-project/">
-  Project
-</a>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Source Document
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="http://example.org" target="_blank" rel="noopener">
-  Custom Link
-</a>
-
-
-      </div>
-
-    </div>
-  </div>
-</div>
-
-      
-    
-
-  </div>
-</div>
-
-    </div>
-  </section>
-  
-
-  
-  
-  
   <section id="publications" class="home-section">
     <div class="container">
       
@@ -562,6 +383,13 @@ systems.</p>
     <h1>Recent Publications</h1>
     
     
+    <p class="view-all">
+      <a href="/publication/">
+        More Publications
+        <i class="fa fa-angle-double-right"></i>
+      </a>
+    </p>
+    
   </div>
   <div class="col-xs-12 col-md-8">
     
@@ -576,28 +404,72 @@ systems.</p>
         <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
   <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
   <span itemprop="author">
-    GA Cushen</span>.
-  <a href="/publication/person-re-identification/" itemprop="name">A Person Re-Identification System For Mobile Devices</a>.
-  In <em>SITIS</em>,&nbsp;2015.
+    D. Antonioli, H. Reza Ghaeini, S. Adepu, M. Ochoa, N. Ole Tippenhauer</span>.
+  <a href="https://francozappa.github.io/publication/antonioli17s3/" itemprop="name">Gamifying ICS Security Training and Research: Design, Implementation, and Results of S3</a>.
+  In <em>CPS-SCP 2017</em>,&nbsp;2017.
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1702.03067" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/antonioli17s3.bib">
+  Cite
+</button>
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/minicps/">
+  Project
+</a>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://francozappa.github.io/files/slides/cps-spc17.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+</p>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Daniele Antonioli, Sandra Siby, Nils Ole Tippenhauer</span>.
+  <a href="https://francozappa.github.io/publication/antonioli17eavesdropping/" itemprop="name">Practical Evaluation of Passive COTS Eavesdropping in 802.11b/n/ac WLAN</a>.
+  In <em>CANS 2017</em>,&nbsp;2017.
   <p>
 
 
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="http://arxiv.org/pdf/1512.04133v1" target="_blank" rel="noopener">
-  PDF
-</a>
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/antonioli17eavesdropping.bib">
+  Cite
+</button>
 
 
 
 
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/project/deep-learning/">
-  Project
-</a>
 
 
 
@@ -614,19 +486,15 @@ systems.</p>
         <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
   <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
   <span itemprop="author">
-    GA Cushen, MS Nixon</span>.
-  <a href="/publication/clothing-search/" itemprop="name">Mobile visual clothing search</a>.
-  In <em>ICMEW</em>,&nbsp;2013.
+    J. Henry Castellanos, D. Antonioli, N. Ole Tippenhauer, M. Ochoa</span>.
+  <a href="https://francozappa.github.io/publication/castellanos17legacy/" itemprop="name">Legacy-Compliant Data Authentication for Industrial Control System Traffic</a>.
+  In <em>ACNS 2017</em>,&nbsp;2017.
   <p>
 
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf" target="_blank" rel="noopener">
-  Preprint
-</a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline btn-xs" href="https://link.springer.com/chapter/10.1007/978-3-319-61204-1_33" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -634,507 +502,202 @@ systems.</p>
 
 
 <button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
-        data-filename="/files/citations/clothing-search.bib">
+        data-filename="/files/citations/castellanos17legacy.bib">
   Cite
 </button>
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Dataset
-</a>
 
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/project/example-external-project/">
-  Project
-</a>
 
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Poster
-</a>
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Source Document
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="http://example.org" target="_blank" rel="noopener">
-  Custom Link
-</a>
 
 </p>
 </div>
 
       
     
-
-  </div>
-</div>
-
-    </div>
-  </section>
-  
-
-  
-  
-  
-  <section id="talks" class="home-section">
-    <div class="container">
       
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    D. Antonioli, A. Agrawal, N. Ole Tippenhauer</span>.
+  <a href="https://francozappa.github.io/publication/antonioli2016towards/" itemprop="name">Towards high-interaction virtual ICS honeypots-in-a-box</a>.
+  In <em>CPS-SPC 2016</em>,&nbsp;2016.
+  <p>
 
 
 
 
-<div class="row">
-  <div class="col-xs-12 col-md-4 section-heading">
-    <h1>Recent &amp; Upcoming Talks</h1>
-    
-    
-  </div>
-  <div class="col-xs-12 col-md-8">
-    
+<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/citation.cfm?id=2994493" target="_blank" rel="noopener">
+  PDF
+</a>
 
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/Event">
-  <i class="fa fa-comment-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name"><a href="/talk/example-talk/">Example Talk</a></span>
-  <div itemprop="startDate">
-    
-    Jun 1, 2030
-    
-      13:00
-    
-  </div>
-  <div class="talk-metadata">
-    
-            Academic Theme Conference
-    
-  </div>
-  <div class="talk-links">
-    
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/antonioli2016towards.bib">
+  Cite
+</button>
 
 
 
 
 
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/project/deep-learning/">
+<a class="btn btn-primary btn-outline btn-xs" href="/project/minicps/">
   Project
 </a>
 
 
 
-  </div>
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://francozappa.github.io/files/slides/cps-spc16.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+</p>
 </div>
 
       
     
-  </div>
-</div>
-
-    </div>
-  </section>
-  
-
-  
-  
-  
-  <section id="posts" class="home-section">
-    <div class="container">
       
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    D. Antonioli, N. Ole Tippenhauer</span>.
+  <a href="https://francozappa.github.io/publication/antonioli2015minicps/" itemprop="name">MiniCPS: A toolkit for security research on CPS networks</a>.
+  In <em>CPS-SCP 2015</em>,&nbsp;2015.
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1507.04860" target="_blank" rel="noopener">
+  Preprint
+</a>
 
 
 
 
-<div class="row">
-  <div class="col-xs-12 col-md-4 section-heading">
 
-    <h1>Recent Posts</h1>
-    
-    
-    <p class="view-all">
-      <a href="/post/">
-        More Posts
-        <i class="fa fa-angle-double-right"></i>
-      </a>
-    </p>
-    
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/antonioli2015minicps.bib">
+  Cite
+</button>
 
-  </div>
-  <div class="col-xs-12 col-md-8">
 
-    
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/scy-phy/minicps" target="_blank" rel="noopener">
+  Code
+</a>
 
-    
-      
 
-      
-      
 
-        
 
-        
-        
+<a class="btn btn-primary btn-outline btn-xs" href="/project/minicps/">
+  Project
+</a>
 
-        
-        
-          
-      
-          
-      
 
-      
-      
-        
-        
 
-<div class="article-list-item" itemscope itemprop="blogPost">
-  
-  
-  <a href="/post/getting-started/">
-    <img src="/img/headers/getting-started.png" class="article-banner" itemprop="image">
-  </a>
-  
-  <h3 class="article-title" itemprop="name">
-    <a href="/post/getting-started/" itemprop="url">Getting started with the Academic framework for Hugo</a>
-  </h3>
-  
 
-<div class="article-metadata">
+<a class="btn btn-primary btn-outline btn-xs" href="https://francozappa.github.io/files/slides/cps-spc15.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
 
-  <span class="article-date">
-    
-        Last updated on
-    
-    <time datetime="2016-04-20 00:00:00 &#43;0800 &#43;08" itemprop="datePublished">
-      Sep 3, 2017
-    </time>
-  </span>
 
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    8 min read
-  </span>
-  
 
-  
-  
-  <span class="middot-divider"></span>
-  <a href="/post/getting-started/#disqus_thread"></a>
-  
 
-  
-
-  
-
-</div>
-
-  <div class="article-style" itemprop="articleBody">
-    
-    <p>Create a beautifully simple personal or academic website in under 10 minutes.</p>
-    
-  </div>
-  <p class="read-more">
-    <a href="/post/getting-started/" class="btn btn-primary btn-outline">
-      CONTINUE READING
-    </a>
-  </p>
+</p>
 </div>
 
       
-
-      
-
-        
-
-        
-        
-
-        
-        
-          
-      
-          
-      
-
-      
-      
-        
-        
-
-<div class="article-list-item" itemscope itemprop="blogPost">
-  
-  
-  <h3 class="article-title" itemprop="name">
-    <a href="/post/widgets/" itemprop="url">Customizing the homepage with widgets</a>
-  </h3>
-  
-
-<div class="article-metadata">
-
-  <span class="article-date">
     
-    <time datetime="2016-04-19 00:00:00 &#43;0800 &#43;08" itemprop="datePublished">
-      Apr 19, 2016
-    </time>
-  </span>
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    D. Antonioli</span>.
+  <a href="https://francozappa.github.io/publication/antonioli2013rand/" itemprop="name">Design and Testing of RNG</a>.
+  <em>University of Bologna and University of Massachussets Amherst</em>,&nbsp;2013.
+  <p>
 
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    3 min read
-  </span>
-  
 
-  
-  
-  <span class="middot-divider"></span>
-  <a href="/post/widgets/#disqus_thread"></a>
-  
 
-  
 
-  
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.dropbox.com/s/c58r2gnemfmp7q2/thesis.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
-</div>
 
-  <div class="article-style" itemprop="articleBody">
-    
-    <p>Enable/disable and configure widgets to customize your homepage.</p>
-    
-  </div>
-  <p class="read-more">
-    <a href="/post/widgets/" class="btn btn-primary btn-outline">
-      CONTINUE READING
-    </a>
-  </p>
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/antonioli2013rand.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://prezi.com/nb1ecwcycptt/?utm_campaign=share&amp;utm_medium=copy" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+</p>
 </div>
 
       
-
-      
-
-        
-
-        
-        
-
-        
-        
-          
-      
-          
-      
-
-      
-      
-        
-        
-
-<div class="article-list-item" itemscope itemprop="blogPost">
-  
-  
-  <h3 class="article-title" itemprop="name">
-    <a href="/post/managing-content/" itemprop="url">Managing content</a>
-  </h3>
-  
-
-<div class="article-metadata">
-
-  <span class="article-date">
     
-    <time datetime="2016-04-18 00:00:00 &#43;0800 &#43;08" itemprop="datePublished">
-      Apr 18, 2016
-    </time>
-  </span>
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    V. B Suresh, D. Antonioli, W. P Burleson</span>.
+  <a href="https://francozappa.github.io/publication/suresh2013chip/" itemprop="name">On-chip lightweight implementation of reduced NIST randomness test suite</a>.
+  In <em>HOST 2013</em>,&nbsp;2013.
+  <p>
 
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    8 min read
-  </span>
-  
 
-  
-  
-  <span class="middot-divider"></span>
-  <a href="/post/managing-content/#disqus_thread"></a>
-  
 
-  
 
-  
+<a class="btn btn-primary btn-outline btn-xs" href="http://sharps.org/wp-content/uploads/SURESH-HOST13.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/suresh2013chip.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+</p>
 </div>
-
-  <div class="article-style" itemprop="articleBody">
-    
-    <p>This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about <a href="/post/writing-markdown-latex/" target="_blank">writing content with Markdown, LaTeX, and Shortcodes</a>.</p>
-    
-  </div>
-  <p class="read-more">
-    <a href="/post/managing-content/" class="btn btn-primary btn-outline">
-      CONTINUE READING
-    </a>
-  </p>
-</div>
-
-      
-
-      
-
-        
-
-        
-        
-
-        
-        
-
-      
-      
-        
-        
-
-<div class="article-list-item" itemscope itemprop="blogPost">
-  
-  
-  <h3 class="article-title" itemprop="name">
-    <a href="/post/writing-markdown-latex/" itemprop="url">Writing content with Markdown, LaTeX, and Shortcodes</a>
-  </h3>
-  
-
-<div class="article-metadata">
-
-  <span class="article-date">
-    
-    <time datetime="2016-04-17 00:00:00 &#43;0800 &#43;08" itemprop="datePublished">
-      Apr 17, 2016
-    </time>
-  </span>
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    7 min read
-  </span>
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <a href="/post/writing-markdown-latex/#disqus_thread"></a>
-  
-
-  
-
-  
-
-</div>
-
-  <div class="article-style" itemprop="articleBody">
-    
-    <p>Content can be written using <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown</a>, <a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank">LaTeX math</a>, and <a href="http://gohugo.io/extras/shortcodes/" target="_blank">Hugo Shortcodes</a>. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.</p>
-    
-  </div>
-  <p class="read-more">
-    <a href="/post/writing-markdown-latex/" class="btn btn-primary btn-outline">
-      CONTINUE READING
-    </a>
-  </p>
-</div>
-
-      
-
-      
-
-        
-
-        
-        
-
-        
-        
-          
-      
-          
-      
-
-      
-      
-        
-        
-
-<div class="article-list-item" itemscope itemprop="blogPost">
-  
-  
-  <h3 class="article-title" itemprop="name">
-    <a href="/post/faq/" itemprop="url">Frequently Asked Questions (FAQ)</a>
-  </h3>
-  
-
-<div class="article-metadata">
-
-  <span class="article-date">
-    
-    <time datetime="2016-04-10 00:00:00 &#43;0800 &#43;08" itemprop="datePublished">
-      Apr 10, 2016
-    </time>
-  </span>
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    2 min read
-  </span>
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <a href="/post/faq/#disqus_thread"></a>
-  
-
-  
-
-  
-
-</div>
-
-  <div class="article-style" itemprop="articleBody">
-    
-    <p>Troubleshoot common issues.</p>
-    
-  </div>
-  <p class="read-more">
-    <a href="/post/faq/" class="btn btn-primary btn-outline">
-      CONTINUE READING
-    </a>
-  </p>
-</div>
-
-      
 
       
     
@@ -1177,9 +740,7 @@ systems.</p>
             
               <a href="#" data-filter="*" class="btn btn-primary btn-large active">All</a>
             
-              <a href="#" data-filter=".deep-learning" class="btn btn-primary btn-large">Deep Learning</a>
-            
-              <a href="#" data-filter=".demo" class="btn btn-primary btn-large">Other</a>
+              <a href="#" data-filter=".security" class="btn btn-primary btn-large">Security</a>
             
           </div>
         </div>
@@ -1196,41 +757,16 @@ systems.</p>
       
       
       
-      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item deep-learning">
+      
+      
+      
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item python security">
         <div class="card">
           
-          <a href="/project/deep-learning/" title="" class="card-image hover-overlay"
-             >
-            <img src="/img/bubbles.jpg" alt="" class="img-responsive">
-          </a>
-          
           <div class="card-text">
-            <h4><a href="/project/deep-learning/" >Deep Learning</a></h4>
+            <h4><a href="https://github.com/scy-phy/minicps" target="_blank">Minicps</a></h4>
             <div class="card-desription">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      
-      
-      
-      
-      
-      
-      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item demo">
-        <div class="card">
-          
-          <a href="http://example.org" title="" class="card-image hover-overlay"
-             target="_blank">
-            <img src="/img/boards.jpg" alt="" class="img-responsive">
-          </a>
-          
-          <div class="card-text">
-            <h4><a href="http://example.org" target="_blank">External Project</a></h4>
-            <div class="card-desription">
-              <p>An example of linking directly to an external project website using <code>external_link</code>.</p>
+              <p>A framework for Cyber-Physical Systems real-time simulation, built on top of mininet</p>
             </div>
           </div>
         </div>
@@ -1282,79 +818,6 @@ paradigm, HTTP(S)</li>
 
   </div>
   
-</div>
-
-    </div>
-  </section>
-  
-
-  
-  
-  
-  <section id="tags" class="home-section">
-    <div class="container">
-      
-
-
-<div class="row">
-  <div class="col-xs-12 col-md-4 section-heading">
-    <h1>Tags</h1>
-    
-  </div>
-  <div class="col-xs-12 col-md-8">
-    
-
-    
-      
-      
-
-      
-      
-      
-      
-      
-
-      <div id="tag-cloud">
-        
-          
-          
-          
-          
-          
-          <a href="/tags/academic" style="font-size:2.2643002974495365rem">academic</a>
-        
-          
-          
-          
-          
-          
-          <a href="/tags/deep-learning" style="font-size:0.8rem">deep-learning</a>
-        
-          
-          
-          
-          
-          
-          <a href="/tags/demo" style="font-size:0.8rem">demo</a>
-        
-          
-          
-          
-          
-          
-          <a href="/tags/hugo" style="font-size:2.2643002974495365rem">hugo</a>
-        
-          
-          
-          
-          
-          
-          <a href="/tags/jekyll" style="font-size:0.8rem">jekyll</a>
-        
-      </div>
-    
-
-  </div>
 </div>
 
     </div>

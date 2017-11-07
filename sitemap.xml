@@ -5,7 +5,43 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
+      <loc>https://francozappa.github.io/project/minicps/</loc>
+      <lastmod>2017-11-07T17:46:49+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/publication/antonioli17s3/</loc>
+      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/publication/antonioli17eavesdropping/</loc>
+      <lastmod>2017-10-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/publication/castellanos17legacy/</loc>
+      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +50,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://francozappa.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +59,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://francozappa.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +68,7 @@
     
     <url>
     
-      <loc>/talk/example-talk/</loc>
+      <loc>https://francozappa.github.io/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
     
@@ -41,7 +77,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://francozappa.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
     
@@ -50,25 +86,7 @@
     
     <url>
     
-      <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/getting-started/</loc>
+      <loc>https://francozappa.github.io/post/getting-started/</loc>
       <lastmod>2017-09-03T00:00:00+08:00</lastmod>
     </url>
     
@@ -77,7 +95,7 @@
     
     <url>
     
-      <loc>/post/widgets/</loc>
+      <loc>https://francozappa.github.io/post/widgets/</loc>
       <lastmod>2016-04-19T00:00:00+08:00</lastmod>
     </url>
     
@@ -86,7 +104,7 @@
     
     <url>
     
-      <loc>/post/managing-content/</loc>
+      <loc>https://francozappa.github.io/post/managing-content/</loc>
       <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     </url>
     
@@ -95,7 +113,7 @@
     
     <url>
     
-      <loc>/post/writing-markdown-latex/</loc>
+      <loc>https://francozappa.github.io/post/writing-markdown-latex/</loc>
       <lastmod>2016-04-17T00:00:00+08:00</lastmod>
     </url>
     
@@ -104,7 +122,7 @@
     
     <url>
     
-      <loc>/post/faq/</loc>
+      <loc>https://francozappa.github.io/post/faq/</loc>
       <lastmod>2016-04-10T00:00:00+08:00</lastmod>
     </url>
     
@@ -113,8 +131,8 @@
     
     <url>
     
-      <loc>/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <loc>https://francozappa.github.io/publication/antonioli2016towards/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -122,7 +140,16 @@
     
     <url>
     
-      <loc>/post/migrate-from-jekyll/</loc>
+      <loc>https://francozappa.github.io/publication/antonioli2015minicps/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+08:00</lastmod>
     </url>
     
@@ -131,8 +158,8 @@
     
     <url>
     
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <loc>https://francozappa.github.io/publication/antonioli2013rand/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -140,8 +167,26 @@
     
     <url>
     
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <loc>https://francozappa.github.io/publication/suresh2013chip/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/publication/antonioli2010radiation/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/publication_types/1/</loc>
+      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -150,8 +195,8 @@
     
     <url>
     
-      <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <loc>https://francozappa.github.io/publication_types/4/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -160,7 +205,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://francozappa.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -169,7 +214,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://francozappa.github.io/</loc>
       <lastmod>2017-10-15T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -179,27 +224,7 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/hugo/</loc>
+      <loc>https://francozappa.github.io/tags/hugo/</loc>
       <lastmod>2017-09-03T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -209,7 +234,7 @@
     
     <url>
     
-      <loc>/tags/jekyll/</loc>
+      <loc>https://francozappa.github.io/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -219,8 +244,8 @@
     
     <url>
     
-      <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>https://francozappa.github.io/project/</loc>
+      <lastmod>2017-11-07T17:46:49+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -229,8 +254,8 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <loc>https://francozappa.github.io/publication_types/</loc>
+      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -239,7 +264,27 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>https://francozappa.github.io/tags/python/</loc>
+      <lastmod>2017-11-07T17:46:49+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/security/</loc>
+      <lastmod>2017-11-07T17:46:49+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
