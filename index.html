@@ -123,7 +123,7 @@
         
 
         <li class="nav-item">
-          <a href="/#publications" data-target="#publications">
+          <a href="/#publications_selected" data-target="#publications_selected">
             
             <span>Publications</span>
           </a>
@@ -282,26 +282,37 @@
 
 <h1 id="biography">Biography</h1>
 
-<p>Daniele holds a BS and MS in Electronics and Telecommunications Engineering
+<p>I hold a BS and MS in Electronics and Telecommunications Engineering
 from the <a href="http://www.unibo.it/en" target="_blank">University of Bologna (UniBO)</a>.
-He started working on
-hardware security while preparing his master thesis about random number
-generation at the
-<a href="http://www.umass.edu/" target="_blank">University of Massachussets (UMass Amherst)</a>
+I spent three months at the
+<a href="http://www.umass.edu/" target="_blank">University of Massachussets (UMass Amherst)</a> as a
+research assistant
+to prepare my master thesis about random number generation and testing
 advised by
 <a href="https://ece.umass.edu/faculty/wayne-burleson" target="_blank">W. Burleson</a> and
 <a href="https://www.unibo.it/sitoweb/riccardo.rovatti" target="_blank">R. Rovatti</a>.</p>
 
-<p>Currently he is doing a PhD in Computer Science at the
+<p>Currently I&rsquo;m doing a PhD in Computer Science at the
 <a href="https://sutd.edu.sg/" target="_blank">Singapore University Design and Technology (SUTD)</a>,
 advised by
 <a href="http://people.sutd.edu.sg/~nils_tippenhauer/" target="_blank">N.O. Tippenhauer</a>.
-He is working on industrial control systems security. His main research
-interests are: applied security for cyber-physical systems, hardware
-security for embedded systems and physical layer security of wireless
-systems.</p>
+My main research interests are:</p>
 
-<p>More information on my <a href="https://francozappa.github.io/files/cv.pdf">CV</a>.
+<ul>
+<li>Applied security for Cyber-Physical systems
+
+<ul>
+<li>In particular Industrial Control Systems</li>
+</ul></li>
+<li>Physical layer security of wireless systems
+
+<ul>
+<li>In particular IEEE 802.11 WLAN</li>
+</ul></li>
+<li>Hardware security for embedded systems</li>
+</ul>
+
+<p>For more information please have a look at my <a href="https://francozappa.github.io/files/cv.pdf">CV</a>.
 Sometime I self-publish on
 <a href="http://www.lulu.com/shop/search.ep?contributorId=1182719" target="_blank">Lulu</a>.</p>
 
@@ -371,6 +382,254 @@ Sometime I self-publish on
   
   
   
+  <section id="publications_selected" class="home-section">
+    <div class="container">
+      
+
+
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>Selected Publications</h1>
+    
+  </div>
+  <div class="col-xs-12 col-md-8">
+    
+
+    
+      
+    
+
+    
+    
+      
+        <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row">
+
+    
+
+    <div class="col-md-12">
+
+    
+
+      <h3 class="article-title" itemprop="name">
+        <a href="https://francozappa.github.io/publication/antonioli17eavesdropping/" itemprop="url">Practical Evaluation of Passive COTS Eavesdropping in 802.11b/n/ac WLAN</a>
+      </h3>
+
+      <div class="pub-abstract" itemprop="text">
+        
+        In this work, we compare the performance of a passive eavesdropper in 802.11b/n/ac WLAN networks. In particular, we investigate the downlink of 802.11 networks in infrastructure mode (e. g. from an access point to a terminal) using Commercial-Of-The-Shelf (COTS) devices. Recent 802.11n/ac amendments introduced several physical and link layer features, such as MIMO, spatial diversity, and frame aggregation, to increase the throughput and the capacity of the channel. Several information theoretical studies state that some of those 802.11n/ac features (e. g. beamforming) should provide a degradation of performance for a passive eavesdropper. However, the real impact of those features has not yet been analyzed in a practical context and experimentally evaluated. We present a theoretical discussion and a statistical analysis (using path loss models) to estimate the effects of such features on a passive eavesdropper in 802.11n/ac, using 802.11b as a baseline. We use Signal-to-Noise-Ratio (SNR) and Packet-Error-Rate (PER) as our main metrics. We compute lower and upper bounds for the expected SNR difference between 802.11b and 802.11n/ac using high-level wireless channel characteristics. We show that the PER in 802.11n/ac increases up to 98% (compared to 802.11b) at a distance of 20 meters between the sender and the eavesdropper. To obtain a PER of 0.5 in 802.11n/ac, the attacker’s maximal distance is reduced by up to 129.5 m compared to 802.11b. We perform an extensive set of experiments, using COTS devices in an indoor office environment, to verify our theoretical estimations. The ex- perimental results validate our predicted effects and show that every amendment add extra resiliency against passive COTS eavesdropping.
+        
+      </div>
+
+      <div class="pub-authors" itemprop="author">
+        
+        Daniele Antonioli, Sandra Siby, Nils Ole Tippenhauer
+        
+      </div>
+
+      <div class="pub-publication">
+        <em>CANS</em>,&nbsp;2017.
+      </div>
+
+      <div class="pub-links">
+        
+
+
+
+
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/antonioli17eavesdropping.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row">
+
+    
+
+    <div class="col-md-12">
+
+    
+
+      <h3 class="article-title" itemprop="name">
+        <a href="https://francozappa.github.io/publication/antonioli2016towards/" itemprop="url">Towards high-interaction virtual ICS honeypots-in-a-box</a>
+      </h3>
+
+      <div class="pub-abstract" itemprop="text">
+        
+        In this work, we address the problem of designing and implementing honeypots for Industrial Control Systems (ICS). Honeypots are vulnerable systems that are set up with the intent to be probed and compromised by attackers. Analysis of those attacks then allows the defender to learn about novel attacks and general strategy of the attacker. Honeypots for ICS systems need to satisfy both traditional ICT requirements, such as cost and maintainability, and more specific ICS requirements, such as time and determinism. We propose the design of a virtual, high-interaction and server-based ICS honeypot to satisfy the requirements, and the deployment of a realistic, cost-effective, and maintainable ICS honeypot. An attacker model is introduced to complete the problem statement and requirements. Based on our design and the MiniCPS framework, we implemented a honeypot mimicking a water treatment testbed. To the best of our knowledge, the presented honeypot implementation is the first academic work targeting Ethernet/IP based ICS honeypots, the first ICS virtual honeypot that is high-interactive without the use of full virtualization technologies (such as a network of virtual machines), and the first ICS honeypot that can be managed with a Software-Defined Network (SDN) controller.
+        
+      </div>
+
+      <div class="pub-authors" itemprop="author">
+        
+        D. Antonioli, A. Agrawal, N. Ole Tippenhauer
+        
+      </div>
+
+      <div class="pub-publication">
+        <em>CPS-SCP (co-located with ACM CCS)</em>,&nbsp;2016.
+      </div>
+
+      <div class="pub-links">
+        
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/citation.cfm?id=2994493" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/antonioli2016towards.bib">
+  Cite
+</button>
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/minicps/">
+  Project
+</a>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://francozappa.github.io/files/slides/cps-spc16.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row">
+
+    
+
+    <div class="col-md-12">
+
+    
+
+      <h3 class="article-title" itemprop="name">
+        <a href="https://francozappa.github.io/publication/antonioli2015minicps/" itemprop="url">MiniCPS: A toolkit for security research on CPS networks</a>
+      </h3>
+
+      <div class="pub-abstract" itemprop="text">
+        
+        In recent years, tremendous effort has been spent to modernizing communication infrastructure in Cyber-Physical Systems (CPS) such as Industrial Control Systems (ICS) and related Supervisory Control and Data Acquisition (SCADA) systems. While a great amount of research has been conducted on network security of office and home networks, recently the security of CPS and related systems has gained increased attention. Unfortunately, real-world CPS are often not open to security researchers, and as a result very few reference physical-layer processes, control systems and communication topologies are available. In this work, we present MiniCPS, a toolkit intended to alleviate this problem. The goal of MiniCPS is to create an extensible, reproducible research environment for network communications, control systems, and physical-layer interactions in CPS. Instead of focusing on a customized simulation settings for specific subsystems, the main goal is to establish a framework to connect together real CPS soft- and hardware, simulation scripts for such components, and physical-layer simulation engines. MiniCPS builds on Mininet to provide lightweight real-time network emulation, and extends Mininet with tools to simulate typical CPS components such as programmable logic controllers, which use industrial protocols (eg. EtherNet/IP, Modbus/TCP). To capture physical-layer interactions, MiniCPS defines a simple API to connect to physical-layer simulations. We demonstrate applications of MiniCPS in two example scenarios, and show how MiniCPS can be used to develop attacks and defenses that are directly applicable to real systems.
+        
+      </div>
+
+      <div class="pub-authors" itemprop="author">
+        
+        D. Antonioli, N. Ole Tippenhauer
+        
+      </div>
+
+      <div class="pub-publication">
+        <em>CPS-SCP (co-located with ACM CCS)</em>,&nbsp;2015.
+      </div>
+
+      <div class="pub-links">
+        
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1507.04860" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/antonioli2015minicps.bib">
+  Cite
+</button>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/scy-phy/minicps" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/minicps/">
+  Project
+</a>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://francozappa.github.io/files/slides/cps-spc15.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+      
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+  
+
+  
+  
+  
   <section id="publications" class="home-section">
     <div class="container">
       
@@ -406,7 +665,7 @@ Sometime I self-publish on
   <span itemprop="author">
     D. Antonioli, H. Reza Ghaeini, S. Adepu, M. Ochoa, N. Ole Tippenhauer</span>.
   <a href="https://francozappa.github.io/publication/antonioli17s3/" itemprop="name">Gamifying ICS Security Training and Research: Design, Implementation, and Results of S3</a>.
-  In <em>CPS-SCP 2017</em>,&nbsp;2017.
+  <em>CPS-SCP (co-located with ACM CCS)</em>,&nbsp;2017.
   <p>
 
 
@@ -453,7 +712,7 @@ Sometime I self-publish on
   <span itemprop="author">
     Daniele Antonioli, Sandra Siby, Nils Ole Tippenhauer</span>.
   <a href="https://francozappa.github.io/publication/antonioli17eavesdropping/" itemprop="name">Practical Evaluation of Passive COTS Eavesdropping in 802.11b/n/ac WLAN</a>.
-  In <em>CANS 2017</em>,&nbsp;2017.
+  <em>CANS</em>,&nbsp;2017.
   <p>
 
 
@@ -488,7 +747,7 @@ Sometime I self-publish on
   <span itemprop="author">
     J. Henry Castellanos, D. Antonioli, N. Ole Tippenhauer, M. Ochoa</span>.
   <a href="https://francozappa.github.io/publication/castellanos17legacy/" itemprop="name">Legacy-Compliant Data Authentication for Industrial Control System Traffic</a>.
-  In <em>ACNS 2017</em>,&nbsp;2017.
+  <em>ACNS</em>,&nbsp;2017.
   <p>
 
 
@@ -527,7 +786,7 @@ Sometime I self-publish on
   <span itemprop="author">
     D. Antonioli, A. Agrawal, N. Ole Tippenhauer</span>.
   <a href="https://francozappa.github.io/publication/antonioli2016towards/" itemprop="name">Towards high-interaction virtual ICS honeypots-in-a-box</a>.
-  In <em>CPS-SPC 2016</em>,&nbsp;2016.
+  <em>CPS-SCP (co-located with ACM CCS)</em>,&nbsp;2016.
   <p>
 
 
@@ -574,7 +833,7 @@ Sometime I self-publish on
   <span itemprop="author">
     D. Antonioli, N. Ole Tippenhauer</span>.
   <a href="https://francozappa.github.io/publication/antonioli2015minicps/" itemprop="name">MiniCPS: A toolkit for security research on CPS networks</a>.
-  In <em>CPS-SCP 2015</em>,&nbsp;2015.
+  <em>CPS-SCP (co-located with ACM CCS)</em>,&nbsp;2015.
   <p>
 
 
@@ -668,7 +927,7 @@ Sometime I self-publish on
   <span itemprop="author">
     V. B Suresh, D. Antonioli, W. P Burleson</span>.
   <a href="https://francozappa.github.io/publication/suresh2013chip/" itemprop="name">On-chip lightweight implementation of reduced NIST randomness test suite</a>.
-  In <em>HOST 2013</em>,&nbsp;2013.
+  <em>HOST</em>,&nbsp;2013.
   <p>
 
 
