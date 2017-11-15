@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/francozappa
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://francozappa.github.io
+  * I am francozappa (https://keybase.io/francozappa) on keybase.
+  * I have a public key ASCGkNx1xhjDncOwXPLUxL8l9UbF4s8YckUbwyZ4xc3LdAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208690dc75c618c39dc3b05cf2d4c4bf25f546c5e2cf1872451bc3267
+8c5cdcb740a",
+      "host": "keybase.io",
+      "kid": "01208690dc75c618c39dc3b05cf2d4c4bf25f546c5e2cf1872451bc32678c5cdcb740a",
+      "uid": "e038de8ae96ed4717eea53fedc4a8b19",
+      "username": "francozappa"
+    },
+    "merkle_root": {
+      "ctime": 1510720242,
+      "hash": "98f5a2a2d24e7e2a7bd5b80c2af9516320f5efdcfe07d80b080343aa3ac2ecebc6dbb8010ec82b773dc745dfc6007d7964dff382e9e50ef40250d23e8204d3a9",
+      "hash_meta": "3fa4aa7b135affdc82773ad8d92850948fbc27b91d55ff3a91db59791604df82",
+      "seqno": 1705841
+    },
+    "service": {
+      "hostname": "francozappa.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1510720317,
+  "expire_in": 504576000,
+  "prev": "87254539bb0e1cfac6acad416cc89eee5087a782350fbdff9078f3f1fd11ea1c",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghpDcdcYYw53DsFzy1MS/JfVGxeLPGHJFG8MmeMXNy3QKp3BheWxvYWTFA1F7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODY5MGRjNzVjNjE4YzM5ZGMzYjA1Y2YyZDRjNGJmMjVmNTQ2YzVlMmNmMTg3MjQ1MWJjMzI2NzhjNWNkY2I3NDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODY5MGRjNzVjNjE4YzM5ZGMzYjA1Y2YyZDRjNGJmMjVmNTQ2YzVlMmNmMTg3MjQ1MWJjMzI2NzhjNWNkY2I3NDBhIiwidWlkIjoiZTAzOGRlOGFlOTZlZDQ3MTdlZWE1M2ZlZGM0YThiMTkiLCJ1c2VybmFtZSI6ImZyYW5jb3phcHBhIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTEwNzIwMjQyLCJoYXNoIjoiOThmNWEyYTJkMjRlN2UyYTdiZDViODBjMmFmOTUxNjMyMGY1ZWZkY2ZlMDdkODBiMDgwMzQzYWEzYWMyZWNlYmM2ZGJiODAxMGVjODJiNzczZGM3NDVkZmM2MDA3ZDc5NjRkZmYzODJlOWU1MGVmNDAyNTBkMjNlODIwNGQzYTkiLCJoYXNoX21ldGEiOiIzZmE0YWE3YjEzNWFmZmRjODI3NzNhZDhkOTI4NTA5NDhmYmMyN2I5MWQ1NWZmM2E5MWRiNTk3OTE2MDRkZjgyIiwic2Vxbm8iOjE3MDU4NDF9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZnJhbmNvemFwcGEuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MTA3MjAzMTcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiODcyNTQ1MzliYjBlMWNmYWM2YWNhZDQxNmNjODllZWU1MDg3YTc4MjM1MGZiZGZmOTA3OGYzZjFmZDExZWExYyIsInNlcW5vIjoxNiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAzvE1WGFxxvPMT/r6PLxCjELhroVWVuzBCAcsXawIsBIdjhCCbqmcNmUjKs/NuBDcYZ+gzzgHAPp4nq3OUsisDqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgOz0oi23v9SVGmhDkdIXmdmHrtGycv0jbRQhofVQgTNmjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/francozappa
+
+==================================================================
