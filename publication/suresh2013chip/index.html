@@ -11,6 +11,15 @@
   <meta name="description" content="PhD Candidate at SUTD">
 
   
+  <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/publication/suresh2013chip/">
+
+  
+  
+
+
+  
+
+  
   
   
   
@@ -19,7 +28,9 @@
   
     
     
-    <link rel="stylesheet" href="/css/highlight.min.css">
+      
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+      
     
   
   
@@ -29,10 +40,7 @@
   
   
   
-
-
   
-
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
   
   <link rel="stylesheet" href="/styles.css">
@@ -58,8 +66,9 @@
   <link rel="feed" href="https://francozappa.github.io/index.xml" type="application/rss+xml" title="Daniele Antonioli">
   
 
+  <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://francozappa.github.io/publication/suresh2013chip/">
 
@@ -84,7 +93,7 @@
   <title>On-chip lightweight implementation of reduced NIST randomness test suite | Daniele Antonioli</title>
 
 </head>
-<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
+<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71" >
 
 <nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
   <div class="container">
@@ -107,70 +116,97 @@
     <div class="collapse navbar-collapse">
 
       
+      
       <ul class="nav navbar-nav navbar-right">
         
 
+        
+
+        
+          
         
 
         <li class="nav-item">
           <a href="/#about">
             
             <span>Home</span>
+            
           </a>
         </li>
 
         
         
 
+        
+
+        
+          
         
 
         <li class="nav-item">
           <a href="/#publications_selected">
             
             <span>Publications</span>
+            
           </a>
         </li>
 
         
         
 
+        
+
+        
+          
         
 
         <li class="nav-item">
           <a href="/#projects">
             
             <span>Projects</span>
+            
           </a>
         </li>
 
         
         
 
+        
+
+        
+          
         
 
         <li class="nav-item">
           <a href="/#teaching">
             
             <span>Teaching</span>
+            
           </a>
         </li>
 
         
         
 
+        
+
+        
+          
         
 
         <li class="nav-item">
           <a href="/#contact">
             
             <span>Contact</span>
+            
           </a>
         </li>
 
         
         
+      
 
-        
+      
       </ul>
 
     </div>
@@ -238,8 +274,10 @@
 
     
 
+    
     <h3>Abstract</h3>
     <p class="pub-abstract" itemprop="text">On-chip Random Number Generators (RNGs) are critical components in lightweight ubiquitous devices like RFIDs and smart cards. These devices require low cost test methodologies and security against cryptanalytic and invasive attacks. In this work we propose an on-chip implementation of a reduced set of NIST-SP-800-22 randomness test suite to provide on-line RNG testing for low cost security devices along with runtime monitoring of RNG performance. The on-chip NIST module monitors the effect of dynamic variation of operating condition and time dependent wear-out on RNG circuits. It indicates invasive attacks on RNG and allows the secure system to take protective measures. Six NIST tests are optimized to a hardware design friendly format, but in compliance with the NIST standard. The lightweight implementations reduce complex statistical and arithmetic operations of conventional NIST tests to a series of bit stream count and compare operations. A cycle-to-cycle serial test of incoming bits from RNG eliminates need for additional storage. A partial re-configurable feature is designed to set the pass/fail threshold for each test depending on the system requirements. The on-chip NIST module, although not exhaustive, is an effective layer of validation and security for RNG circuits. The six 128-bit tests implemented in 45nm NCSU PDK have a total synthesized area of ~1926.sq.um for an optimized frequency of 2GHz. The total dynamic power is 3.75mW and leakage power is 10.5μW. At 2Gbps, the NIST module consumes 1.87pJ/bit. The lightweight ultra-low power implementation is scalable for larger input bit samples.</p>
+    
 
     
     <div class="row">
