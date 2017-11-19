@@ -86,51 +86,6 @@
     
     <url>
     
-      <loc>https://francozappa.github.io/post/getting-started/</loc>
-      <lastmod>2017-09-03T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/managing-content/</loc>
-      <lastmod>2016-04-18T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-17T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/faq/</loc>
-      <lastmod>2016-04-10T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://francozappa.github.io/publication/antonioli2016towards/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -142,15 +97,6 @@
     
       <loc>https://francozappa.github.io/publication/antonioli2015minicps/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+08:00</lastmod>
     </url>
     
   
@@ -216,26 +162,6 @@
     
       <loc>https://francozappa.github.io/</loc>
       <lastmod>2017-10-15T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/hugo/</loc>
-      <lastmod>2017-09-03T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
