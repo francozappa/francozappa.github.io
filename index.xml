@@ -11,6 +11,39 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>S317: MiniCPS Challenges</title>
+      <link>https://francozappa.github.io/post/minicps-s317/</link>
+      <pubDate>Tue, 21 Nov 2017 14:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/post/minicps-s317/</guid>
+      <description>&lt;p&gt;I recently open-sourced the code that I developed for the MiniCPS challenges
+for the SWaT Security Showdown (S3) event in 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/scy-phy/minicps/tree/master/examples/s3-2017&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; is the code.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;init.sh&lt;/code&gt; contains the list of commands that I run on a local testing
+machine and on the remote AWS instances that we used during the event.
+The attackers were provided with the VPN credentials to
+access two different subnetworks in a &lt;em&gt;mixed&lt;/em&gt; MiniCPS simulation eg:
+water treatment (SWaT) and water distribution (WaDI).&lt;/p&gt;
+
+&lt;p&gt;The code is expecting to find the four files (flags) in the &lt;code&gt;/root/flags&lt;/code&gt;
+folder named &lt;code&gt;wadi1&lt;/code&gt;, &lt;code&gt;wadi2&lt;/code&gt;, &lt;code&gt;flag2&lt;/code&gt;, and &lt;code&gt;flag3&lt;/code&gt;. Indeed you have to create
+those files and write the string flags.&lt;/p&gt;
+
+&lt;p&gt;The relevant information to start and stop the challenges are in the
+&lt;code&gt;README.md&lt;/code&gt;. In general, I like to use a &lt;code&gt;Makefile&lt;/code&gt; as a launcher for the various
+commands. If you open the file, you will find several targets. To test the
+challenges locally use:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;make local
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Please let me know if you find any bugs or missing files.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Minicps</title>
       <link>https://francozappa.github.io/project/minicps/</link>
       <pubDate>Tue, 07 Nov 2017 17:46:49 +0800</pubDate>
