@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://francozappa.github.io/post/sutd-vpn-student/</loc>
+      <lastmod>2018-01-20T11:28:36+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://francozappa.github.io/post/oxford-overseas/</loc>
       <lastmod>2018-01-14T11:28:36+08:00</lastmod>
     </url>
@@ -236,6 +245,16 @@
     
       <loc>https://francozappa.github.io/</loc>
       <lastmod>2017-10-15T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/howto/</loc>
+      <lastmod>2018-01-20T11:28:36+08:00</lastmod>
       <priority>0</priority>
     </url>
     
