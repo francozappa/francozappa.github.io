@@ -17,8 +17,8 @@
       
       <guid>https://francozappa.github.io/post/sutd-vpn-student/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve recently came across the problem of connecting to the SUTD VPN server
-from overseas. SUTD&amp;rsquo;s IT support for (Arch) Linux is &lt;em&gt;none&lt;/em&gt;, and after a bit of
-research I&amp;rsquo;ve found a quick and easy solution.&lt;/p&gt;
+from overseas. SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of writing
+is &lt;em&gt;none&lt;/em&gt;, and after a bit of research I&amp;rsquo;ve found a quick and easy solution.&lt;/p&gt;
 
 &lt;p&gt;SUTD runs &lt;em&gt;Pulse Connect Secure (PCS)&lt;/em&gt; server, a commercial solution known as
 &lt;em&gt;Juniper SSL VPN&lt;/em&gt;. Luckily there is an open-source client that supports PCS
