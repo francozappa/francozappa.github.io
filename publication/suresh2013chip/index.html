@@ -6,19 +6,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.32.3" />
+  <meta name="generator" content="Hugo 0.37" />
   <meta name="author" content="Daniele Antonioli">
-  <meta name="description" content="PhD Candidate at SUTD">
+
+  
+  
+  
+  
+    
+      
+    
+  
+  <meta name="description" content="On-chip Random Number Generators (RNGs) are critical components in lightweight ubiquitous devices like RFIDs and smart cards. These devices require low cost test methodologies and security against cryptanalytic and invasive attacks. In this work we propose an on-chip implementation of a reduced set of NIST-SP-800-22 randomness test suite to provide on-line RNG testing for low cost security devices along with runtime monitoring of RNG performance. The on-chip NIST module monitors the effect of dynamic variation of operating condition and time dependent wear-out on RNG circuits. It indicates invasive attacks on RNG and allows the secure system to take protective measures. Six NIST tests are optimized to a hardware design friendly format, but in compliance with the NIST standard. The lightweight implementations reduce complex statistical and arithmetic operations of conventional NIST tests to a series of bit stream count and compare operations. A cycle-to-cycle serial test of incoming bits from RNG eliminates need for additional storage. A partial re-configurable feature is designed to set the pass/fail threshold for each test depending on the system requirements. The on-chip NIST module, although not exhaustive, is an effective layer of validation and security for RNG circuits. The six 128-bit tests implemented in 45nm NCSU PDK have a total synthesized area of ~1926.sq.um for an optimized frequency of 2GHz. The total dynamic power is 3.75mW and leakage power is 10.5μW. At 2Gbps, the NIST module consumes 1.87pJ/bit. The lightweight ultra-low power implementation is scalable for larger input bit samples.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/publication/suresh2013chip/">
 
   
-  
 
 
   
 
+  
+  
+  <meta name="theme-color" content="#0095eb">
   
   
   
@@ -37,11 +48,12 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
   
   
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Playfair&#43;Display:400,700%7cFauna&#43;One">
   
   <link rel="stylesheet" href="/styles.css">
   
@@ -121,7 +133,9 @@
         
 
         
-
+        
+        
+        
         
           
         
@@ -138,7 +152,9 @@
         
 
         
-
+        
+        
+        
         
           
         
@@ -155,7 +171,9 @@
         
 
         
-
+        
+        
+        
         
           
         
@@ -172,7 +190,9 @@
         
 
         
-
+        
+        
+        
         
           
         
@@ -189,7 +209,9 @@
         
 
         
-
+        
+        
+        
         
           
         
@@ -206,7 +228,9 @@
         
 
         
-
+        
+        
+        
         
           
         
@@ -235,7 +259,7 @@
   
 
 
-  <div class="container pub-title">
+  <div class="article-container">
     <h1 itemprop="name">On-chip lightweight implementation of reduced NIST randomness test suite</h1>
     <span class="pub-authors" itemprop="author">
       
@@ -285,9 +309,6 @@
 
 
     </span>
-  </div>
-
-  <div class="article-container">
 
     
 
@@ -316,6 +337,7 @@
     <div class="visible-xs space-below"></div>
     
 
+    
     <div class="row">
       <div class="col-sm-1"></div>
       <div class="col-sm-10">
@@ -327,6 +349,7 @@
       <div class="col-sm-1"></div>
     </div>
     <div class="visible-xs space-below"></div>
+    
 
     <div class="row">
       <div class="col-sm-1"></div>
@@ -395,22 +418,7 @@
   </div>
 </div>
 
-<div class="container">
-  <nav>
-  <ul class="pager">
-    
-    <li class="previous"><a href="https://francozappa.github.io/publication/antonioli2010radiation/"><span
-      aria-hidden="true">&larr;</span> Artificial Optical Radiation Management, Risk and Safety in the Hospital Environment</a></li>
-    
 
-    
-    <li class="next"><a href="https://francozappa.github.io/publication/antonioli2013rand/">Design and Testing of RNG <span
-      aria-hidden="true">&rarr;</span></a></li>
-    
-  </ul>
-</nav>
-
-</div>
 
 <footer class="site-footer">
   <div class="container">
@@ -472,6 +480,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
     
     
     <script src="/js/hugo-academic.js"></script>

@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Daniele Antonioli</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://francozappa.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>HowTo: Connect to the SUTD&#39;s eduroam using (Arch) Linux</title>
@@ -16,29 +18,8 @@
       <pubDate>Sat, 27 Jan 2018 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/sutd-eduroam/</guid>
-      <description>&lt;p&gt;After the
-&lt;a href=&#34;https://francozappa.github.io/post/sutd-vpn-student/&#34; target=&#34;_blank&#34;&gt;post about connecting to SUTD&amp;rsquo;s VPN&lt;/a&gt;
-is now time to connect eduroam! Again, SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of
-writing is &lt;em&gt;none&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;SUTD runs a setup with only username-password (no certificates required) and
-the connection can be established using the GUI of NetworkManager. If your
-WiFi card is on and eduroam is in your range you should see the &lt;code&gt;eduroam&lt;/code&gt; SSID
-on the list of the available WiFi networks. If you attempt to connect then
-all you need to do is enter your &lt;code&gt;username&lt;/code&gt; and &lt;code&gt;password&lt;/code&gt;. As usual, PhD
-student and staff are separated into different namespaces. Use the username
-&lt;code&gt;name_surname@sutd.edu.sg&lt;/code&gt; if you are a staff member or &lt;code&gt;xxxxxxx@sutd.edu.sg&lt;/code&gt;
-if you are a student (&lt;code&gt;xxxxxxx&lt;/code&gt; is your 7-digits student id). The password
-should be the same as the one you are using to connect to the Internet from
-SUTD.&lt;/p&gt;
-
-&lt;p&gt;Your NetworkManager Wi-Fi Security screen should look like this (&lt;code&gt;username&lt;/code&gt; and
-&lt;code&gt;password&lt;/code&gt; are obscured):&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/sutd-eduroam.png&#34; alt=&#34;SUTD eduroam&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;🐧&lt;/p&gt;
-</description>
+      <description>After the post about connecting to SUTD&amp;rsquo;s VPN is now time to connect eduroam! Again, SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of writing is none.
+SUTD runs a setup with only username-password (no certificates required) and the connection can be established using the GUI of NetworkManager. If your WiFi card is on and eduroam is in your range you should see the eduroam SSID on the list of the available WiFi networks.</description>
     </item>
     
     <item>
@@ -47,39 +28,8 @@ SUTD.&lt;/p&gt;
       <pubDate>Sat, 20 Jan 2018 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/sutd-vpn-student/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve recently came across the problem of connecting to the SUTD VPN server
-from overseas. SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of writing
-is &lt;em&gt;none&lt;/em&gt;, and after a bit of research I&amp;rsquo;ve found a quick and easy solution.&lt;/p&gt;
-
-&lt;p&gt;SUTD runs &lt;em&gt;Pulse Connect Secure (PCS)&lt;/em&gt; server, a commercial solution known as
-&lt;em&gt;Juniper SSL VPN&lt;/em&gt;. Luckily there is an open-source client that supports PCS
-named &lt;em&gt;OpenConnect&lt;/em&gt;. Arch has an &lt;code&gt;openconnect&lt;/code&gt; package and a NetworkManager
-plugin called &lt;code&gt;networkmanager-openconnect&lt;/code&gt;. Install both packages trough your
-package manager.&lt;/p&gt;
-
-&lt;p&gt;Then you can use the (user-friendly?) NetworkManager GUI to add the new VPN setup.
-Use the openconnect profile and all the default options (eg: no need of Realm, and Certificates).
-Point your &lt;code&gt;Gateway&lt;/code&gt; to &lt;code&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_0/welcome.cgi&lt;/code&gt; and
-your GUI screen should look like this:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/sutd-vpn-student.png&#34; alt=&#34;SUTD VPN Student&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then save it and you will be prompted to accept a certificate. Once you accept
-it you can enter your username (student_id eg: &lt;code&gt;1001234&lt;/code&gt;) and passwords (same
-as the &lt;code&gt;SUTD_Student&lt;/code&gt; network&amp;rsquo;s one). Once you are connected your GUI should
-present you a message to confirm that. You can manually check it using
-&lt;code&gt;ifconfig&lt;/code&gt; and &lt;code&gt;route&lt;/code&gt; commands.
-If you encounter problems try to have a look
-&lt;a href=&#34;https://wiki.archlinux.org/index.php?title=Pulse_Connect_Secure&amp;amp;mobileaction&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;
-or post a comment below.&lt;/p&gt;
-
-&lt;p&gt;P.S. Thanks to
-&lt;a href=&#34;http://people.sutd.edu.sg/~nils_tippenhauer/connecting-to-sutd-vpn-from-linux/&#34; target=&#34;_blank&#34;&gt;Nils&amp;rsquo;s post&lt;/a&gt;
-from which I&amp;rsquo;ve started my research,
-this post should update it with an easier setup!&lt;/p&gt;
-
-&lt;p&gt;🐧&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;ve recently came across the problem of connecting to the SUTD VPN server from overseas. SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of writing is none, and after a bit of research I&amp;rsquo;ve found a quick and easy solution.
+SUTD runs Pulse Connect Secure (PCS) server, a commercial solution known as Juniper SSL VPN. Luckily there is an open-source client that supports PCS named OpenConnect. Arch has an openconnect package and a NetworkManager plugin called networkmanager-openconnect.</description>
     </item>
     
     <item>
@@ -88,17 +38,9 @@ this post should update it with an easier setup!&lt;/p&gt;
       <pubDate>Sun, 14 Jan 2018 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/oxford-overseas/</guid>
-      <description>&lt;p&gt;As part of my PhD I&amp;rsquo;ve recently joined as a visiting researcher the
-&lt;a href=&#34;https://www.cs.ox.ac.uk/&#34; target=&#34;_blank&#34;&gt;Department of Computer Science, University of Oxford&lt;/a&gt;
-🇬🇧.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m going to spend around six months here, supervised by
-&lt;a href=&#34;https://www.cs.ox.ac.uk/people/kasper.rasmussen/&#34; target=&#34;_blank&#34;&gt;Prof. Kasper Rasmussen&lt;/a&gt;
-and co-supervised by
-&lt;a href=&#34;https://www.cs.ox.ac.uk/people/ivan.martinovic/&#34; target=&#34;_blank&#34;&gt;Prof. Ivan Martinovic&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m very excited!&lt;/p&gt;
-</description>
+      <description>As part of my PhD I&amp;rsquo;ve recently joined as a visiting researcher the Department of Computer Science, University of Oxford 🇬🇧.
+I&amp;rsquo;m going to spend around six months here, supervised by Prof. Kasper Rasmussen and co-supervised by Prof. Ivan Martinovic.
+I&amp;rsquo;m very excited!</description>
     </item>
     
     <item>
@@ -107,14 +49,8 @@ and co-supervised by
       <pubDate>Thu, 21 Dec 2017 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/sac18/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m happy to announce that our paper titled
-&lt;em&gt;State-Aware Anomaly Detection for Industrial Control Systems&lt;/em&gt;
-has been accepted for the
-&lt;a href=&#34;https://www.sigapp.org/sac/sac2018/&#34; target=&#34;_blank&#34;&gt;Symposium On Applied Computing (SAC) 2018&lt;/a&gt; conference.&lt;/p&gt;
-
-&lt;p&gt;Congratulations to &lt;a href=&#34;http://people.sutd.edu.sg/~1001407/?page_id=10&amp;amp;lang=en&#34; target=&#34;_blank&#34;&gt;Hamid&lt;/a&gt;,
-and the co-authors!&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;m happy to announce that our paper titled State-Aware Anomaly Detection for Industrial Control Systems has been accepted for the Symposium On Applied Computing (SAC) 2018 conference.
+Congratulations to Hamid, and the co-authors!</description>
     </item>
     
     <item>
@@ -123,18 +59,9 @@ and the co-authors!&lt;/p&gt;
       <pubDate>Sat, 02 Dec 2017 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/cans17/</guid>
-      <description>&lt;p&gt;This week I&amp;rsquo;ve been in Hong Kong for the
-&lt;a href=&#34;http://crypto.ie.cuhk.edu.hk/cans17/index.html&#34; target=&#34;_blank&#34;&gt;Cryptology And Network Security Conference (CANS) 2017&lt;/a&gt; conference.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve presented our paper about:
-&lt;a href=&#34;https://francozappa.github.io/publication/antonioli17eavesdropping/&#34; target=&#34;_blank&#34;&gt;Practical Evaluation of Passive COTS Eavesdropping in 802.11b/n/ac WLAN&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Here I&amp;rsquo;m sharing some pictures with some new friends:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/cans17-ferry.jpg&#34; alt=&#34;CANS17 Ferry&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/cans17-dinner.jpg&#34; alt=&#34;CANS17 Dinner&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>This week I&amp;rsquo;ve been in Hong Kong for the Cryptology And Network Security Conference (CANS) 2017 conference.
+I&amp;rsquo;ve presented our paper about: Practical Evaluation of Passive COTS Eavesdropping in 802.11b/n/ac WLAN.
+Here I&amp;rsquo;m sharing some pictures with some new friends:</description>
     </item>
     
     <item>
@@ -143,15 +70,8 @@ and the co-authors!&lt;/p&gt;
       <pubDate>Sun, 26 Nov 2017 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/email-issues/</guid>
-      <description>&lt;p&gt;For some &lt;!-- STUpiD --&gt; reasons my &lt;code&gt;name_surname@sutd.edu.sg&lt;/code&gt; email address was
-deactivated &lt;em&gt;without notice&lt;/em&gt; sometime at the end of October 2017. Unfortunately
-I&amp;rsquo;ve discovered it only this week and I&amp;rsquo;m still trying to reactivate it. I
-apologize if you recently got an error message while trying to send me an
-email to that address.&lt;/p&gt;
-
-&lt;p&gt;Please use the &lt;code&gt;surname.name@gmail.com&lt;/code&gt;
-address instead. I ❤️ ✉️&lt;/p&gt;
-</description>
+      <description>For some reasons my name_surname@sutd.edu.sg email address was deactivated without notice sometime at the end of October 2017. Unfortunately I&amp;rsquo;ve discovered it only this week and I&amp;rsquo;m still trying to reactivate it. I apologize if you recently got an error message while trying to send me an email to that address.
+Please use the surname.name@gmail.com address instead. I ❤️ ✉️</description>
     </item>
     
     <item>
@@ -160,31 +80,9 @@ address instead. I ❤️ ✉️&lt;/p&gt;
       <pubDate>Tue, 21 Nov 2017 14:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/minicps-s317/</guid>
-      <description>&lt;p&gt;I recently open-sourced the code that I developed for the MiniCPS challenges
-for the SWaT Security Showdown (S3) event in 2017.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/scy-phy/minicps/tree/master/examples/s3-2017&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; is the code.&lt;/p&gt;
-
-&lt;p&gt;The &lt;code&gt;init.sh&lt;/code&gt; contains the list of commands that I run on a local testing
-machine and on the remote AWS instances that we used during the event.
-The attackers were provided with the VPN credentials to
-access two different subnetworks in a &lt;em&gt;mixed&lt;/em&gt; MiniCPS simulation eg:
-water treatment (SWaT) and water distribution (WaDI).&lt;/p&gt;
-
-&lt;p&gt;The code is expecting to find the four files (flags) in the &lt;code&gt;/root/flags&lt;/code&gt;
-folder named &lt;code&gt;wadi1&lt;/code&gt;, &lt;code&gt;wadi2&lt;/code&gt;, &lt;code&gt;flag2&lt;/code&gt;, and &lt;code&gt;flag3&lt;/code&gt;. Indeed you have to create
-those files and write the string flags.&lt;/p&gt;
-
-&lt;p&gt;The relevant information to start and stop the challenges are in the
-&lt;code&gt;README.md&lt;/code&gt;. In general, I like to use a &lt;code&gt;Makefile&lt;/code&gt; as a launcher for the various
-commands. If you open the file, you will find several targets. To test the
-challenges locally use:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;make local
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Please let me know if you find any bugs or missing files.&lt;/p&gt;
-</description>
+      <description>I recently open-sourced the code that I developed for the MiniCPS challenges for the SWaT Security Showdown (S3) event in 2017.
+Here is the code.
+The init.sh contains the list of commands that I run on a local testing machine and on the remote AWS instances that we used during the event. The attackers were provided with the VPN credentials to access two different subnetworks in a mixed MiniCPS simulation eg: water treatment (SWaT) and water distribution (WaDI).</description>
     </item>
     
     <item>
@@ -193,26 +91,9 @@ challenges locally use:&lt;/p&gt;
       <pubDate>Wed, 26 Jul 2017 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/first-workshop17/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m happy to announce that my poster titled
-&lt;a href=&#34;files/posters/cps-spc16.pdf&#34; target=&#34;_blank&#34;&gt;Towards high-interaction virtual ICS honeypots-in-a-box&lt;/a&gt;
-won the
-&lt;a href=&#34;https://www.stengg.com/en/electronics/&#34; target=&#34;_blank&#34;&gt;ST Electronics&lt;/a&gt;
-Poster Award at the
-&lt;a href=&#34;https://gradevents.sutd.edu.sg/first/&#34; target=&#34;_blank&#34;&gt;FIRST industry workshop&lt;/a&gt;, held at
-SUTD. This is a special gift one day before my 30th birthday!
-Here I&amp;rsquo;m sharing a picture from the award ceremony:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/first17-award.jpg&#34; alt=&#34;FIRST17 Award Ceremony&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Congratulations also to &lt;a href=&#34;http://people.sutd.edu.sg/~1001407/?page_id=10&amp;amp;lang=en&#34; target=&#34;_blank&#34;&gt;Hamid&lt;/a&gt; who won
-one award:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/first17-hamid.jpg&#34; alt=&#34;FIRST17 Hamid and Me&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;and &lt;a href=&#34;http://people.sutd.edu.sg/~eyasugetahun/&#34; target=&#34;_blank&#34;&gt;Eyasu&lt;/a&gt; who managed to win two awards:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/first17-eyasu.jpg&#34; alt=&#34;FIRST17 Eyasu and Me&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;m happy to announce that my poster titled Towards high-interaction virtual ICS honeypots-in-a-box won the ST Electronics Poster Award at the FIRST industry workshop, held at SUTD. This is a special gift one day before my 30th birthday! Here I&amp;rsquo;m sharing a picture from the award ceremony:
+Congratulations also to Hamid who won one award:
+and Eyasu who managed to win two awards:</description>
     </item>
     
     <item>
@@ -221,68 +102,8 @@ one award:&lt;/p&gt;
       <pubDate>Mon, 17 Jul 2017 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/smart17/</guid>
-      <description>&lt;p&gt;Recently I was selected as a &lt;em&gt;mentor&lt;/em&gt; for the cybersecurity track of the
-&lt;em&gt;Future of Science, Technology and Policy&lt;/em&gt; Workshop, organized by
-&lt;a href=&#34;https://smart.mit.edu/&#34; target=&#34;_blank&#34;&gt;SMART&lt;/a&gt;. I had the privilege to supervision
-six graduate and post-graduate colleagues with different backgrounds:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Jukka Isohätälä from NUS (Physics and CS)&lt;/li&gt;
-&lt;li&gt;Nikhil Mallareddy from MIT (Environmental Engineering)&lt;/li&gt;
-&lt;li&gt;Ioannis Fousekis from ETH (EECS and Economics)&lt;/li&gt;
-&lt;li&gt;Michael Wicki from ETH (Political sciences and Economics)&lt;/li&gt;
-&lt;li&gt;Fabian Willibaldf rom ETH (Environmental Engineering)&lt;/li&gt;
-&lt;li&gt;Jay Prakash from SUTD (EECS)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I&amp;rsquo;m presenting the summary of our activities of day 2 related to
-cybersecurity organized at my institution &lt;a href=&#34;https://www.sutd.edu.sg/&#34; target=&#34;_blank&#34;&gt;SUTD&lt;/a&gt;:&lt;/p&gt;
-
-&lt;p&gt;We started knowing about Singapore&amp;rsquo;s Cyber-Security Agency (CSA). In
-particular, we were introduced to Singapore cybersecurity strategies and
-long-term plans.Then we heard the personal story of a cybersecurity
-startup founder and we discovered common and effective threats in the
-cybersecurity landscape. Finally, we heard two presentations from two
-SUTD cybersecurity professors about novel cybersecurity problems and
-solutions, such as cyber-physical systems, IoT and adversarial machine
-learning. We understood the importance of education and awareness when
-talking about cybersecurity.&lt;/p&gt;
-
-&lt;p&gt;After lunch we visited SUTD&amp;rsquo;s world-class cybersecurity facilites. We started
-from &lt;a href=&#34;https://itrust.sutd.edu.sg/&#34; target=&#34;_blank&#34;&gt;iTrust&lt;/a&gt;, SUTD&amp;rsquo;s cybersecurity research
-centre. iTrust covers a broad range of topics spanning from theoretical
-to applied cybersecurity. The range of research area covered spans from
-traditional computer security to domain-specific areas such as: industrial
-control systems, Internet of Things, and autonomous vehicles.&lt;/p&gt;
-
-&lt;p&gt;iTrust in collaboration with the Singapore government and private
-industries has developed four state-of-the-art testbeds. Those testbed
-allow researchers to apply and evaluate their ideas in realistic and
-safe environment. We now briefly comment of each of the testbed. The
-Secure Water Treatment testbed is the oldest and it includes advanced
-sub-processes such as Ultrafiltration and Reverse Osmosis. The water
-treated by SWaT is one of the sources of the second oldest testbed: the
-Water Distribution (WaDi) testbed. WaDi is a miniaturized reproduction
-of a water distribution facility with six consumers tanks with
-independent demands patters. WaDi can be used to simulated water
-leakages, water-hammer attacks and water contamination. Both SWaT and
-WaDi can be powered by EPIC the smart grid testbed. EPIC is the newest
-and less-know testbed at SUTD and several researchers are actively
-working to evaluate it.  Finally, we visited the Internet-of-Things
-testbed that includes an anechoic chamber to perform radio tests and
-several Commercial-Off-The-Shelf devices (such as IP camera, smart
-thermostats and smart lamps) to recreate a smart home environment.&lt;/p&gt;
-
-&lt;p&gt;Overall it was a very rich experience. We understand that coming up with
-a cybersecurity policy is a hard problem for several independent reasons
-such as cross-disciplinary knowledge, funding, awareness, and education.&lt;/p&gt;
-
-&lt;p&gt;Here I&amp;rsquo;m sharing a picture with all the participants from SUTD:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/smart17-sutd.jpg&#34; alt=&#34;SMART SUTD&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;More pictures &lt;a href=&#34;https://www.instagram.com/explore/tags/fstp2017/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Recently I was selected as a mentor for the cybersecurity track of the Future of Science, Technology and Policy Workshop, organized by SMART. I had the privilege to supervision six graduate and post-graduate colleagues with different backgrounds:
+ Jukka Isohätälä from NUS (Physics and CS) Nikhil Mallareddy from MIT (Environmental Engineering) Ioannis Fousekis from ETH (EECS and Economics) Michael Wicki from ETH (Political sciences and Economics) Fabian Willibaldf rom ETH (Environmental Engineering) Jay Prakash from SUTD (EECS)  I&amp;rsquo;m presenting the summary of our activities of day 2 related to cybersecurity organized at my institution SUTD:</description>
     </item>
     
   </channel>
