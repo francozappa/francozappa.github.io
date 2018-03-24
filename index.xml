@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>State-Aware Anomaly Detection for Industrial Control Systems</title>
+      <link>https://francozappa.github.io/publication/ghaeini18sac/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://francozappa.github.io/publication/ghaeini18sac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>HowTo: Connect to the SUTD&#39;s eduroam using (Arch) Linux</title>
       <link>https://francozappa.github.io/post/sutd-eduroam/</link>
       <pubDate>Sat, 27 Jan 2018 11:28:36 +0800</pubDate>
@@ -330,16 +339,6 @@ such as cross-disciplinary knowledge, funding, awareness, and education.&lt;/p&g
       
       <guid>https://francozappa.github.io/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Towards high-interaction virtual ICS honeypots-in-a-box</title>
-      <link>https://francozappa.github.io/publication/antonioli2016towards/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://francozappa.github.io/publication/antonioli2016towards/</guid>
-      <description>&lt;p&gt;This paper won the &lt;strong&gt;Research excellence award by ST Electronics FIRST workshop 2017&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
