@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Howto on Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tags/howto/</link>
+    <description>Recent content in Howto on Daniele Antonioli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Daniele Antonioli</copyright>
+    <lastBuildDate>Sat, 27 Jan 2018 11:28:36 +0800</lastBuildDate>
+    
+	<atom:link href="https://francozappa.github.io/tags/howto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HowTo: Connect to the SUTD&#39;s eduroam using (Arch) Linux</title>
+      <link>https://francozappa.github.io/post/sutd-eduroam/</link>
+      <pubDate>Sat, 27 Jan 2018 11:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/post/sutd-eduroam/</guid>
+      <description>After the post about connecting to SUTD&amp;rsquo;s VPN is now time to connect eduroam! Again, SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of writing is none.
+SUTD runs a setup with only username-password (no certificates required) and the connection can be established using the GUI of NetworkManager. If your WiFi card is on and eduroam is in your range you should see the eduroam SSID on the list of the available WiFi networks.</description>
+    </item>
+    
+    <item>
+      <title>HowTo: Connect to the SUTD&#39;s VPN using (Arch) Linux as a Student</title>
+      <link>https://francozappa.github.io/post/sutd-vpn-student/</link>
+      <pubDate>Sat, 20 Jan 2018 11:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/post/sutd-vpn-student/</guid>
+      <description>I&amp;rsquo;ve recently came across the problem of connecting to the SUTD VPN server from overseas. SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of writing is none, and after a bit of research I&amp;rsquo;ve found a quick and easy solution.
+SUTD runs Pulse Connect Secure (PCS) server, a commercial solution known as Juniper SSL VPN. Luckily there is an open-source client that supports PCS named OpenConnect. Arch has an openconnect package and a NetworkManager plugin called networkmanager-openconnect.</description>
+    </item>
+    
+  </channel>
+</rss>

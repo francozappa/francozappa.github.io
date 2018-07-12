@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minicps on Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tags/minicps/</link>
+    <description>Recent content in Minicps on Daniele Antonioli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Daniele Antonioli</copyright>
+    <lastBuildDate>Tue, 21 Nov 2017 14:28:36 +0800</lastBuildDate>
+    
+	<atom:link href="https://francozappa.github.io/tags/minicps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>S317: MiniCPS Challenges</title>
+      <link>https://francozappa.github.io/post/minicps-s317/</link>
+      <pubDate>Tue, 21 Nov 2017 14:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/post/minicps-s317/</guid>
+      <description>I recently open-sourced the code that I developed for the MiniCPS challenges for the SWaT Security Showdown (S3) event in 2017.
+Here is the code.
+The init.sh contains the list of commands that I run on a local testing machine and on the remote AWS instances that we used during the event. The attackers were provided with the VPN credentials to access two different subnetworks in a mixed MiniCPS simulation eg: water treatment (SWaT) and water distribution (WaDI).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Daniele Antonioli</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -101,7 +101,7 @@ this post should update it with an easier setup!&lt;/p&gt;
 &lt;a href=&#34;https://www.cs.ox.ac.uk/&#34; target=&#34;_blank&#34;&gt;Department of Computer Science, University of Oxford&lt;/a&gt;
 🇬🇧.&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;m going to spend around six months here, supervised by
+&lt;p&gt;I&amp;rsquo;m going to spend around six months there, supervised by
 &lt;a href=&#34;https://www.cs.ox.ac.uk/people/kasper.rasmussen/&#34; target=&#34;_blank&#34;&gt;Prof. Kasper Rasmussen&lt;/a&gt;
 and co-supervised by
 &lt;a href=&#34;https://www.cs.ox.ac.uk/people/ivan.martinovic/&#34; target=&#34;_blank&#34;&gt;Prof. Ivan Martinovic&lt;/a&gt;.&lt;/p&gt;
@@ -335,7 +335,7 @@ such as cross-disciplinary knowledge, funding, awareness, and education.&lt;/p&g
     <item>
       <title>Example Talk</title>
       <link>https://francozappa.github.io/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
       
       <guid>https://francozappa.github.io/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
