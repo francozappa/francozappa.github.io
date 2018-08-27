@@ -34,7 +34,7 @@ Currently I&amp;rsquo;m doing a PhD in Computer Science at the Singapore Univers
     <item>
       <title>Academic</title>
       <link>https://francozappa.github.io/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
@@ -44,7 +44,7 @@ Currently I&amp;rsquo;m doing a PhD in Computer Science at the Singapore Univers
     <item>
       <title>Recent Publications</title>
       <link>https://francozappa.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/home/publications/</guid>
       <description></description>
@@ -53,7 +53,7 @@ Currently I&amp;rsquo;m doing a PhD in Computer Science at the Singapore Univers
     <item>
       <title>Selected Publications</title>
       <link>https://francozappa.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/home/publications_selected/</guid>
       <description></description>
@@ -92,9 +92,7 @@ Currently I&amp;rsquo;m doing a PhD in Computer Science at the Singapore Univers
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://francozappa.github.io/home/teaching/</guid>
-      <description>Summer 2018: TA Security Principles (SPR) MSc, University of Oxford UK, Prof K.B. Rasmussen
- Responsable for the exercises and presentation of Scyther Topics: CIA, Authentication, Cryptography, RSA, Protocols  Fall 2017: TA 50.012 Networks BSc, SUTD Singapore, Prof N.O. Tippenhauer
- Manage weekly lab session, grading of homeworks, office hours for 30 students. Topics: Internet, TCP/IP, UDP, BGP, SDN, HTTP, REST API, TLS, tunnels, NAT, embedded networks  Spring 2017: TA 50.</description>
+      <description> Summer 2018: TA Security Principles (SPR) MSc, University of Oxford UK, Prof K.B. Rasmussen  CIA, Authentication, Cryptography, RSA, Protocols Exercises and presentation of Scyther  Fall 2017: TA 50.012 Networks BSc, SUTD Singapore, Prof N.O. Tippenhauer  TCP/IP, UDP, BGP, SDN, HTTP, REST, TLS, tunnels, NAT Lab session, grading, office hours  Spring 2017: TA 50.020 Security BSc, SUTD Singapore, Prof N.O. Tippenhauer  CIA, Cryptography, Exploitation, TLS, CTF, Network Security Lab session, grading, office hours  2013-2015: Private teacher  Grad/undergrad: linear algebra, calculus, programming (C, Pascal) High school: math, physics, programming (C++)  2013: External Professor for High School Final Exams (Italy)  LAMP, SQL, PHP, JS, relational DB, MVC, HTTP(S)   </description>
     </item>
     
     <item>
@@ -118,7 +116,7 @@ Currently I&amp;rsquo;m doing a PhD in Computer Science at the Singapore Univers
     <item>
       <title>Tags</title>
       <link>https://francozappa.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/home/tags/</guid>
       <description></description>

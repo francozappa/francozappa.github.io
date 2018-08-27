@@ -11,6 +11,21 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Visiting Researcher at CISPA, University of Saarbrücken</title>
+      <link>https://francozappa.github.io/post/cispa-overseas/</link>
+      <pubDate>Thu, 23 Aug 2018 11:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/post/cispa-overseas/</guid>
+      <description>&lt;p&gt;As part of my PhD I&amp;rsquo;ve recently joined as a visiting researcher the
+&lt;a href=&#34;https://cispa.saarland/&#34; target=&#34;_blank&#34;&gt;CISPA – Helmholtz-Zentrum, Saarbruecken&lt;/a&gt;
+🇩🇪.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m going to spend six months there, supervised by
+&lt;a href=&#34;https://cispa.saarland/people/nils.tippenhauer/&#34; target=&#34;_blank&#34;&gt;Prof. N.O. Tippenhauer&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>State-Aware Anomaly Detection for Industrial Control Systems</title>
       <link>https://francozappa.github.io/publication/ghaeini18sac/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
@@ -330,16 +345,6 @@ such as cross-disciplinary knowledge, funding, awareness, and education.&lt;/p&g
       
       <guid>https://francozappa.github.io/publication/castellanos17legacy/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>https://francozappa.github.io/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
