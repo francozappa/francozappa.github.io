@@ -6,72 +6,81 @@
     <description>Recent content in 1 on Daniele Antonioli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Daniele Antonioli</copyright>
-    <lastBuildDate>Mon, 05 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <lastBuildDate>Thu, 15 Nov 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://francozappa.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby Connections’ on Android</title>
+      <link>https://francozappa.github.io/publication/rearby/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://francozappa.github.io/publication/rearby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>State-Aware Anomaly Detection for Industrial Control Systems</title>
-      <link>https://francozappa.github.io/publication/ghaeini18sac/</link>
+      <link>https://francozappa.github.io/publication/state-anomaly-detection/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://francozappa.github.io/publication/ghaeini18sac/</guid>
+      <guid>https://francozappa.github.io/publication/state-anomaly-detection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gamifying ICS Security Training and Research: Design, Implementation, and Results of S3</title>
-      <link>https://francozappa.github.io/publication/antonioli17s3/</link>
+      <link>https://francozappa.github.io/publication/s3/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://francozappa.github.io/publication/antonioli17s3/</guid>
+      <guid>https://francozappa.github.io/publication/s3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical Evaluation of Passive COTS Eavesdropping in 802.11b/n/ac WLAN</title>
-      <link>https://francozappa.github.io/publication/antonioli17eavesdropping/</link>
+      <link>https://francozappa.github.io/publication/wifi-mimo/</link>
       <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://francozappa.github.io/publication/antonioli17eavesdropping/</guid>
+      <guid>https://francozappa.github.io/publication/wifi-mimo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Legacy-Compliant Data Authentication for Industrial Control System Traffic</title>
-      <link>https://francozappa.github.io/publication/castellanos17legacy/</link>
+      <link>https://francozappa.github.io/publication/legacy-authentication/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://francozappa.github.io/publication/castellanos17legacy/</guid>
+      <guid>https://francozappa.github.io/publication/legacy-authentication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards high-interaction virtual ICS honeypots-in-a-box</title>
-      <link>https://francozappa.github.io/publication/antonioli2016towards/</link>
+      <link>https://francozappa.github.io/publication/honeypot/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://francozappa.github.io/publication/antonioli2016towards/</guid>
+      <guid>https://francozappa.github.io/publication/honeypot/</guid>
       <description>This paper won the Research excellence award by ST Electronics FIRST workshop 2017</description>
     </item>
     
     <item>
       <title>MiniCPS: A toolkit for security research on CPS networks</title>
-      <link>https://francozappa.github.io/publication/antonioli2015minicps/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <link>https://francozappa.github.io/publication/minicps/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://francozappa.github.io/publication/antonioli2015minicps/</guid>
+      <guid>https://francozappa.github.io/publication/minicps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On-chip lightweight implementation of reduced NIST randomness test suite</title>
-      <link>https://francozappa.github.io/publication/suresh2013chip/</link>
+      <link>https://francozappa.github.io/publication/nist-randomness/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://francozappa.github.io/publication/suresh2013chip/</guid>
+      <guid>https://francozappa.github.io/publication/nist-randomness/</guid>
       <description></description>
     </item>
     

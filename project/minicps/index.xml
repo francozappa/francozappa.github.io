@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MiniCPS on Daniele Antonioli</title>
+    <link>https://francozappa.github.io/project/minicps/</link>
+    <description>Recent content in MiniCPS on Daniele Antonioli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <lastBuildDate>Tue, 07 Nov 2017 17:46:49 +0800</lastBuildDate>
+    
+	<atom:link href="https://francozappa.github.io/project/minicps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

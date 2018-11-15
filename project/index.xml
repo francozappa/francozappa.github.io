@@ -6,20 +6,10 @@
     <description>Recent content in Projects on Daniele Antonioli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Daniele Antonioli</copyright>
-    <lastBuildDate>Tue, 07 Nov 2017 17:46:49 +0800</lastBuildDate>
+    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
     
 	<atom:link href="https://francozappa.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Minicps</title>
-      <link>https://francozappa.github.io/project/minicps/</link>
-      <pubDate>Tue, 07 Nov 2017 17:46:49 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/project/minicps/</guid>
-      <description>MiniCPS: a framework for Cyber-Physical Systems real-time simulation, built on top of mininet.</description>
-    </item>
     
   </channel>
 </rss>

@@ -6,16 +6,47 @@
     <description>Recent content in Daniele Antonioli on Daniele Antonioli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Daniele Antonioli</copyright>
+    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby Connections’ on Android</title>
+      <link>https://francozappa.github.io/publication/rearby/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://francozappa.github.io/publication/rearby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Paper is Accepted for NDSS 2019</title>
+      <link>https://francozappa.github.io/post/ndss19/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://francozappa.github.io/post/ndss19/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m very happy to announce that our paper titled
+&lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby
+Connections&amp;rdquo; on Android&lt;/em&gt; has been accepted for the
+&lt;a href=&#34;https://www.ndss-symposium.org/&#34; target=&#34;_blank&#34;&gt;The Network and Distributed System Security Symposium (NDSS)&lt;/a&gt;. Here you can download a
+&lt;a href=&#34;http://www.cs.ox.ac.uk/files/10367/ndss19-paper367.pdf&#34; target=&#34;_blank&#34;&gt;pre-print&lt;/a&gt;.
+Here is the list of
+&lt;a href=&#34;https://www.ndss-symposium.org/ndss2019/accepted-papers/&#34; target=&#34;_blank&#34;&gt;accepted papers for NDSS 2019&lt;/a&gt;
+Soon I&amp;rsquo;ll update more material such an exploit PoC code.&lt;/p&gt;
+
+&lt;p&gt;Congratulations to
+&lt;a href=&#34;https://www.cs.ox.ac.uk/people/kasper.rasmussen/&#34; target=&#34;_blank&#34;&gt;Kasper&lt;/a&gt;
+and
+&lt;a href=&#34;https://tippenhauer.de/&#34; target=&#34;_blank&#34;&gt;Nils&lt;/a&gt; and thank you for the help.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Visiting Researcher at CISPA, University of Saarbrücken</title>
-      <link>https://francozappa.github.io/post/cispa-overseas/</link>
+      <link>https://francozappa.github.io/post/cispa-visiting/</link>
       <pubDate>Thu, 23 Aug 2018 11:28:36 +0800</pubDate>
       
-      <guid>https://francozappa.github.io/post/cispa-overseas/</guid>
+      <guid>https://francozappa.github.io/post/cispa-visiting/</guid>
       <description>&lt;p&gt;As part of my PhD I&amp;rsquo;ve recently joined as a visiting researcher the
 &lt;a href=&#34;https://cispa.saarland/&#34; target=&#34;_blank&#34;&gt;CISPA – Helmholtz-Zentrum, Saarbruecken&lt;/a&gt;
 🇩🇪.&lt;/p&gt;
@@ -27,10 +58,10 @@
     
     <item>
       <title>State-Aware Anomaly Detection for Industrial Control Systems</title>
-      <link>https://francozappa.github.io/publication/ghaeini18sac/</link>
+      <link>https://francozappa.github.io/publication/state-anomaly-detection/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://francozappa.github.io/publication/ghaeini18sac/</guid>
+      <guid>https://francozappa.github.io/publication/state-anomaly-detection/</guid>
       <description></description>
     </item>
     
@@ -67,10 +98,10 @@ SUTD.&lt;/p&gt;
     
     <item>
       <title>HowTo: Connect to the SUTD&#39;s VPN using (Arch) Linux as a Student</title>
-      <link>https://francozappa.github.io/post/sutd-vpn-student/</link>
+      <link>https://francozappa.github.io/post/sutd-vpn/</link>
       <pubDate>Sat, 20 Jan 2018 11:28:36 +0800</pubDate>
       
-      <guid>https://francozappa.github.io/post/sutd-vpn-student/</guid>
+      <guid>https://francozappa.github.io/post/sutd-vpn/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve recently came across the problem of connecting to the SUTD VPN server
 from overseas. SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of writing
 is &lt;em&gt;none&lt;/em&gt;, and after a bit of research I&amp;rsquo;ve found a quick and easy solution.&lt;/p&gt;
@@ -108,10 +139,10 @@ this post should update it with an easier setup!&lt;/p&gt;
     
     <item>
       <title>Visiting Researcher at the University of Oxford</title>
-      <link>https://francozappa.github.io/post/oxford-overseas/</link>
+      <link>https://francozappa.github.io/post/oxford-visiting/</link>
       <pubDate>Sun, 14 Jan 2018 11:28:36 +0800</pubDate>
       
-      <guid>https://francozappa.github.io/post/oxford-overseas/</guid>
+      <guid>https://francozappa.github.io/post/oxford-visiting/</guid>
       <description>&lt;p&gt;As part of my PhD I&amp;rsquo;ve recently joined as a visiting researcher the
 &lt;a href=&#34;https://www.cs.ox.ac.uk/&#34; target=&#34;_blank&#34;&gt;Department of Computer Science, University of Oxford&lt;/a&gt;
 🇬🇧.&lt;/p&gt;
@@ -180,10 +211,10 @@ address instead. I ❤️ ✉️&lt;/p&gt;
     
     <item>
       <title>S317: MiniCPS Challenges</title>
-      <link>https://francozappa.github.io/post/minicps-s317/</link>
+      <link>https://francozappa.github.io/post/minicps-s3-code/</link>
       <pubDate>Tue, 21 Nov 2017 14:28:36 +0800</pubDate>
       
-      <guid>https://francozappa.github.io/post/minicps-s317/</guid>
+      <guid>https://francozappa.github.io/post/minicps-s3-code/</guid>
       <description>&lt;p&gt;I recently open-sourced the code that I developed for the MiniCPS challenges
 for the SWaT Security Showdown (S3) event in 2017.&lt;/p&gt;
 
@@ -212,40 +243,29 @@ challenges locally use:&lt;/p&gt;
     </item>
     
     <item>
-      <title>Minicps</title>
-      <link>https://francozappa.github.io/project/minicps/</link>
-      <pubDate>Tue, 07 Nov 2017 17:46:49 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/project/minicps/</guid>
-      <description>&lt;p&gt;MiniCPS: a framework for Cyber-Physical Systems real-time simulation, built
- on top of mininet.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Gamifying ICS Security Training and Research: Design, Implementation, and Results of S3</title>
-      <link>https://francozappa.github.io/publication/antonioli17s3/</link>
+      <link>https://francozappa.github.io/publication/s3/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://francozappa.github.io/publication/antonioli17s3/</guid>
+      <guid>https://francozappa.github.io/publication/s3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical Evaluation of Passive COTS Eavesdropping in 802.11b/n/ac WLAN</title>
-      <link>https://francozappa.github.io/publication/antonioli17eavesdropping/</link>
+      <link>https://francozappa.github.io/publication/wifi-mimo/</link>
       <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://francozappa.github.io/publication/antonioli17eavesdropping/</guid>
+      <guid>https://francozappa.github.io/publication/wifi-mimo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ST Electronics Poster Award at FIRST Industry Workshop 2017</title>
-      <link>https://francozappa.github.io/post/first-workshop17/</link>
+      <link>https://francozappa.github.io/post/first17/</link>
       <pubDate>Wed, 26 Jul 2017 11:28:36 +0800</pubDate>
       
-      <guid>https://francozappa.github.io/post/first-workshop17/</guid>
+      <guid>https://francozappa.github.io/post/first17/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m happy to announce that my poster titled
 &lt;a href=&#34;files/posters/cps-spc16.pdf&#34; target=&#34;_blank&#34;&gt;Towards high-interaction virtual ICS honeypots-in-a-box&lt;/a&gt;
 won the
@@ -336,15 +356,6 @@ such as cross-disciplinary knowledge, funding, awareness, and education.&lt;/p&g
 
 &lt;p&gt;More pictures &lt;a href=&#34;https://www.instagram.com/explore/tags/fstp2017/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Legacy-Compliant Data Authentication for Industrial Control System Traffic</title>
-      <link>https://francozappa.github.io/publication/castellanos17legacy/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://francozappa.github.io/publication/castellanos17legacy/</guid>
-      <description></description>
     </item>
     
   </channel>
