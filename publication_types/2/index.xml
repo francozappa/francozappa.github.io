@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Daniele Antonioli</title>
+    <link>https://francozappa.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Daniele Antonioli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://francozappa.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artificial Optical Radiation Management, Risk and Safety in the Hospital Environment</title>
+      <link>https://francozappa.github.io/publication/laser-safety/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://francozappa.github.io/publication/laser-safety/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
