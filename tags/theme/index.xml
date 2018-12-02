@@ -14,10 +14,10 @@
     
     <item>
       <title>Academic day_night and search</title>
-      <link>https://francozappa.github.io/post/theme-daynight-search_/</link>
+      <link>https://francozappa.github.io/post/theme-daynight-search/</link>
       <pubDate>Sun, 02 Dec 2018 11:28:36 +0800</pubDate>
       
-      <guid>https://francozappa.github.io/post/theme-daynight-search_/</guid>
+      <guid>https://francozappa.github.io/post/theme-daynight-search/</guid>
       <description>Recently gcushen updated Academic (the theme that I&amp;rsquo;m using to build this website with hugo) with two useful features that I recommend to use: day_night and search.
 day_night allows the reader to toggle light and dark color themes for the website. If you look at the top navigation bar on the right you should spot an icon with either a moon (to switch to a dark theme) or a sun (to switch to a light theme).</description>
     </item>
