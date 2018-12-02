@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 3.1.1">
+  <meta name="generator" content="Source Themes Academic 3.2.0">
   <meta name="generator" content="Hugo 0.51" />
   <meta name="author" content="Daniele Antonioli">
 
@@ -22,6 +22,12 @@
 
   
 
+
+  
+
+  
+
+  
 
   
 
@@ -102,7 +108,14 @@
 
   <link rel="canonical" href="https://francozappa.github.io/publication/state-anomaly-detection/">
 
-  <meta property="twitter:card" content="summary_large_image">
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
   
   <meta property="twitter:site" content="@francozappa">
   <meta property="twitter:creator" content="@francozappa">
@@ -110,11 +123,7 @@
   <meta property="og:site_name" content="Daniele Antonioli">
   <meta property="og:url" content="https://francozappa.github.io/publication/state-anomaly-detection/">
   <meta property="og:title" content="State-Aware Anomaly Detection for Industrial Control Systems | Daniele Antonioli">
-  <meta property="og:description" content="Anomaly detection for industrial control systems (ICS) can leverage process data to detect malicious derivations from expected process behavior. We propose state-aware anomaly detection that uses state dependent detection thresholds, which provide tighter constraints for an attacker trying to manipulate the process. In particular, our system provides: (i) estimation of system state from the knowl- edge of the network and the physical process (ii) a state-aware cumulative sum of residuals for monitoring the industrial control system (iii) and a novel state-aware anomaly detection technique.  We implement and evaluate our anomaly detection technique on a real-world ICS. We pre-compute the process-state parameters using a big data framework for ICS and train the detector leveraging more than 120 GB of historical data from the ICS. The results show that the proposed method improves prior works by providing less time-to-detect of attacks while generating fewer false alarms.">
-  
-  
-    
-  <meta property="og:image" content="https://francozappa.github.io/img/icon-192.png">
+  <meta property="og:description" content="Anomaly detection for industrial control systems (ICS) can leverage process data to detect malicious derivations from expected process behavior. We propose state-aware anomaly detection that uses state dependent detection thresholds, which provide tighter constraints for an attacker trying to manipulate the process. In particular, our system provides: (i) estimation of system state from the knowl- edge of the network and the physical process (ii) a state-aware cumulative sum of residuals for monitoring the industrial control system (iii) and a novel state-aware anomaly detection technique.  We implement and evaluate our anomaly detection technique on a real-world ICS. We pre-compute the process-state parameters using a big data framework for ICS and train the detector leveraging more than 120 GB of historical data from the ICS. The results show that the proposed method improves prior works by providing less time-to-detect of attacks while generating fewer false alarms."><meta property="og:image" content="https://francozappa.github.io/img/avatar3.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-03-05T00:00:00&#43;00:00">
@@ -130,6 +139,37 @@
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
 
 <nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
   <div class="container">
@@ -289,6 +329,19 @@
         
 
         
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
       </ul>
 
     </div>
@@ -505,7 +558,7 @@
           <div class="col-12 col-md-9">
             
             <a href="/publication/#1">
-              Conference proceedings
+              Conference paper
             </a>
             
           </div>
@@ -667,7 +720,7 @@
       const search_index_filename = "/index.json";
       const i18n = {
         'placeholder': "Search...",
-        'results': "Search Results",
+        'results': "results found",
         'no_results': "No results found"
       };
       const content_type = {
@@ -714,7 +767,7 @@
     
     
     
-    <script src="/js/academic.min.2861db6bcf2db4b5eade32c795453e47.js"></script>
+    <script src="/js/academic.min.d037ee5294b166a79dec317c58aea9cc.js"></script>
 
     
 

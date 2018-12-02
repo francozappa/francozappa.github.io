@@ -15,10 +15,11 @@
   
     
   
-  <meta name="description" content="On-chip Random Number Generators (RNGs) are critical components in lightweight ubiquitous devices like RFIDs and smart cards. These devices require low cost test methodologies and security against cryptanalytic and invasive attacks. In this work we propose an on-chip implementation of a reduced set of NIST-SP-800-22 randomness test suite to provide on-line RNG testing for low cost security devices along with runtime monitoring of RNG performance. The on-chip NIST module monitors the effect of dynamic variation of operating condition and time dependent wear-out on RNG circuits. It indicates invasive attacks on RNG and allows the secure system to take protective measures. Six NIST tests are optimized to a hardware design friendly format, but in compliance with the NIST standard. The lightweight implementations reduce complex statistical and arithmetic operations of conventional NIST tests to a series of bit stream count and compare operations. A cycle-to-cycle serial test of incoming bits from RNG eliminates need for additional storage. A partial re-configurable feature is designed to set the pass/fail threshold for each test depending on the system requirements. The on-chip NIST module, although not exhaustive, is an effective layer of validation and security for RNG circuits. The six 128-bit tests implemented in 45nm NCSU PDK have a total synthesized area of ~1926.sq.um for an optimized frequency of 2GHz. The total dynamic power is 3.75mW and leakage power is 10.5μW. At 2Gbps, the NIST module consumes 1.87pJ/bit. The lightweight ultra-low power implementation is scalable for larger input bit samples.">
+  <meta name="description" content="Recently gcushen updated Academic (the theme that I&rsquo;m using to build this website with hugo) with two useful features that I recommend to use: day_night and search.
+day_night allows the reader to toggle light and dark color themes for the website. If you look at the top navigation bar on the right you should spot an icon with either a moon (to switch to a dark theme) or a sun (to switch to a light theme).">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/publication/nist-randomness/">
+  <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/post/theme-daynight-search_/">
 
   
 
@@ -106,7 +107,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://francozappa.github.io/publication/nist-randomness/">
+  <link rel="canonical" href="https://francozappa.github.io/post/theme-daynight-search_/">
 
   
   
@@ -121,21 +122,22 @@
   <meta property="twitter:creator" content="@francozappa">
   
   <meta property="og:site_name" content="Daniele Antonioli">
-  <meta property="og:url" content="https://francozappa.github.io/publication/nist-randomness/">
-  <meta property="og:title" content="On-chip lightweight implementation of reduced NIST randomness test suite | Daniele Antonioli">
-  <meta property="og:description" content="On-chip Random Number Generators (RNGs) are critical components in lightweight ubiquitous devices like RFIDs and smart cards. These devices require low cost test methodologies and security against cryptanalytic and invasive attacks. In this work we propose an on-chip implementation of a reduced set of NIST-SP-800-22 randomness test suite to provide on-line RNG testing for low cost security devices along with runtime monitoring of RNG performance. The on-chip NIST module monitors the effect of dynamic variation of operating condition and time dependent wear-out on RNG circuits. It indicates invasive attacks on RNG and allows the secure system to take protective measures. Six NIST tests are optimized to a hardware design friendly format, but in compliance with the NIST standard. The lightweight implementations reduce complex statistical and arithmetic operations of conventional NIST tests to a series of bit stream count and compare operations. A cycle-to-cycle serial test of incoming bits from RNG eliminates need for additional storage. A partial re-configurable feature is designed to set the pass/fail threshold for each test depending on the system requirements. The on-chip NIST module, although not exhaustive, is an effective layer of validation and security for RNG circuits. The six 128-bit tests implemented in 45nm NCSU PDK have a total synthesized area of ~1926.sq.um for an optimized frequency of 2GHz. The total dynamic power is 3.75mW and leakage power is 10.5μW. At 2Gbps, the NIST module consumes 1.87pJ/bit. The lightweight ultra-low power implementation is scalable for larger input bit samples."><meta property="og:image" content="https://francozappa.github.io/img/avatar3.png">
+  <meta property="og:url" content="https://francozappa.github.io/post/theme-daynight-search_/">
+  <meta property="og:title" content="Academic day_night and search | Daniele Antonioli">
+  <meta property="og:description" content="Recently gcushen updated Academic (the theme that I&rsquo;m using to build this website with hugo) with two useful features that I recommend to use: day_night and search.
+day_night allows the reader to toggle light and dark color themes for the website. If you look at the top navigation bar on the right you should spot an icon with either a moon (to switch to a dark theme) or a sun (to switch to a light theme)."><meta property="og:image" content="https://francozappa.github.io/img/avatar3.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2013-01-01T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2018-12-02T11:28:36&#43;08:00">
   
-  <meta property="article:modified_time" content="2013-01-01T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2018-12-02T11:28:36&#43;08:00">
   
 
   
 
-  <title>On-chip lightweight implementation of reduced NIST randomness test suite | Daniele Antonioli</title>
+  
+
+  <title>Academic day_night and search | Daniele Antonioli</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -348,7 +350,8 @@
   </div>
 </nav>
 
-<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
 
   
 
@@ -369,7 +372,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">On-chip lightweight implementation of reduced NIST randomness test suite</h1>
+  <h1 itemprop="name">Academic day_night and search</h1>
 
   
 
@@ -380,26 +383,16 @@
 
   
   
-  
-  <div>
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">V. B. Suresh</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">D. Antonioli</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">W. P. Burleson</span>
-    </span>
-    
-  </div>
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Daniele Antonioli">
+  </span>
   
 
   <span class="article-date">
     
-    <meta content="2013-01-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2013-01-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-      Jan 1, 2013
+    <meta content="2018-12-02 11:28:36 &#43;0800 &#43;0800" itemprop="datePublished">
+    <time datetime="2018-12-02 11:28:36 &#43;0800 &#43;0800" itemprop="dateModified">
+      Dec 2, 2018
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -407,11 +400,16 @@
   </span>
 
   
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
 
   
   
   <span class="middot-divider"></span>
-  <a href="/publication/nist-randomness/#disqus_thread"></a>
+  <a href="/post/theme-daynight-search_/#disqus_thread"></a>
   
 
   
@@ -422,35 +420,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=On-chip%20lightweight%20implementation%20of%20reduced%20NIST%20randomness%20test%20suite&amp;url=https%3a%2f%2ffrancozappa.github.io%2fpublication%2fnist-randomness%2f"
+         href="https://twitter.com/intent/tweet?text=Academic%20day_night%20and%20search&amp;url=https%3a%2f%2ffrancozappa.github.io%2fpost%2ftheme-daynight-search_%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2ffrancozappa.github.io%2fpublication%2fnist-randomness%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2ffrancozappa.github.io%2fpost%2ftheme-daynight-search_%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ffrancozappa.github.io%2fpublication%2fnist-randomness%2f&amp;title=On-chip%20lightweight%20implementation%20of%20reduced%20NIST%20randomness%20test%20suite"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ffrancozappa.github.io%2fpost%2ftheme-daynight-search_%2f&amp;title=Academic%20day_night%20and%20search"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2ffrancozappa.github.io%2fpublication%2fnist-randomness%2f&amp;title=On-chip%20lightweight%20implementation%20of%20reduced%20NIST%20randomness%20test%20suite"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2ffrancozappa.github.io%2fpost%2ftheme-daynight-search_%2f&amp;title=Academic%20day_night%20and%20search"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=On-chip%20lightweight%20implementation%20of%20reduced%20NIST%20randomness%20test%20suite&amp;body=https%3a%2f%2ffrancozappa.github.io%2fpublication%2fnist-randomness%2f">
+         href="mailto:?subject=Academic%20day_night%20and%20search&amp;body=https%3a%2f%2ffrancozappa.github.io%2fpost%2ftheme-daynight-search_%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -477,54 +475,7 @@
 
 
 
-  
 
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-  
-
-
-
-  
-    
-  
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="http://sharps.org/wp-content/uploads/SURESH-HOST13.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/nist-randomness/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
 
 
   
@@ -534,81 +485,257 @@
 
   <div class="article-container">
 
-    
-    <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">On-chip Random Number Generators (RNGs) are critical components in lightweight ubiquitous devices like RFIDs and smart cards. These devices require low cost test methodologies and security against cryptanalytic and invasive attacks. In this work we propose an on-chip implementation of a reduced set of NIST-SP-800-22 randomness test suite to provide on-line RNG testing for low cost security devices along with runtime monitoring of RNG performance. The on-chip NIST module monitors the effect of dynamic variation of operating condition and time dependent wear-out on RNG circuits. It indicates invasive attacks on RNG and allows the secure system to take protective measures. Six NIST tests are optimized to a hardware design friendly format, but in compliance with the NIST standard. The lightweight implementations reduce complex statistical and arithmetic operations of conventional NIST tests to a series of bit stream count and compare operations. A cycle-to-cycle serial test of incoming bits from RNG eliminates need for additional storage. A partial re-configurable feature is designed to set the pass/fail threshold for each test depending on the system requirements. The on-chip NIST module, although not exhaustive, is an effective layer of validation and security for RNG circuits. The six 128-bit tests implemented in 45nm NCSU PDK have a total synthesized area of ~1926.sq.um for an optimized frequency of 2GHz. The total dynamic power is 3.75mW and leakage power is 10.5μW. At 2Gbps, the NIST module consumes 1.87pJ/bit. The lightweight ultra-low power implementation is scalable for larger input bit samples.</p>
-    
+    <div class="article-style" itemprop="articleBody">
+      <p>Recently <a href="https://github.com/gcushen" target="_blank">gcushen</a> updated
+<a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic</a> (the theme that I&rsquo;m using
+to build this website with <code>hugo</code>)
+with two useful features that I recommend to use: <code>day_night</code> and <code>search</code>.</p>
 
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
-          <div class="col-12 col-md-9">
-            
-            <a href="/publication/#1">
-              Conference paper
-            </a>
-            
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
+<p><code>day_night</code> allows the reader to toggle light and dark color themes for the website.
+If you look at the top navigation bar on the right you should spot an icon
+with either a moon (to switch to a dark theme) or a sun (to switch to a light
+theme).</p>
+
+<p><code>search</code> allows to search the website using keywords such as minicps or
+rearby. This functionality is accessed by clicking the magnifying glass icon
+close to the theme switch icon or by using <code>vim</code>-like shortcuts: <code>/</code> enables
+search and <code>Esc</code> disables it.</p>
+
     </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>IEEE International Symposium on Hardware-Oriented Security and Trust (HOST)</em></div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Date</div>
-          <div class="col-12 col-md-9" itemprop="datePublished">
-            January, 2013
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-sm-none space-below"></div>
-
-    <div class="space-below"></div>
-
-    <div class="article-style"></div>
-
-    
 
     
 
 
-
+<div class="article-tags">
   
+  <a class="badge badge-light" href="/tags/news/">news</a>
+  
+  <a class="badge badge-light" href="/tags/theme/">theme</a>
+  
+</div>
+
+
+
+    
 
 
 
 
 
 
-
+<div class="media author-card" itemscope itemtype="http://schema.org/Person">
+  
+  <img class="portrait mr-3" src="/img/avatar3.png" itemprop="image" alt="Avatar">
+  
+  <div class="media-body">
+    <h5 class="card-title" itemprop="name"><a href="/">Daniele Antonioli</a></h5>
+    <h6 class="card-subtitle">PhD Candidate at SUTD</h6>
+    
+    <ul class="network-icon" aria-hidden="true">
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="/files/cv.pdf" >
+          <i class="ai ai-cv"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      <li>
+        <a itemprop="sameAs" href="mailto:antonioli.daniele@gmail.com" >
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://scholar.google.com/citations?user=RkX4eFsAAAAJ&amp;hl" target="_blank" rel="noopener">
+          <i class="ai ai-google-scholar"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://github.com/francozappa" target="_blank" rel="noopener">
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://twitter.com/francozappa" target="_blank" rel="noopener">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://linkedin.com/in/antoniolidaniele" target="_blank" rel="noopener">
+          <i class="fab fa-linkedin"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://keybase.io/francozappa" target="_blank" rel="noopener">
+          <i class="fas fa-key"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://orcid.org/0000-0002-9342-3920" target="_blank" rel="noopener">
+          <i class="ai ai-orcid"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://lulu.com/shop/search.ep?contributorId=1182719" target="_blank" rel="noopener">
+          <i class="fab fa-leanpub"></i>
+        </a>
+      </li>
+      
+    </ul>
   </div>
 </div>
 
 
+
+
+    
+    
+    <div class="article-widget">
+      <div class="hr-light"></div>
+      <h3>Related</h3>
+      <ul>
+        
+        <li><a href="/post/ndss19/">Our Paper is Accepted for NDSS 2019</a></li>
+        
+        <li><a href="/post/cispa-visiting/">Visiting Researcher at CISPA, University of Saarbrücken</a></li>
+        
+        <li><a href="/post/oxford-visiting/">Visiting Researcher at the University of Oxford</a></li>
+        
+        <li><a href="/post/sac18/">SAC 2018</a></li>
+        
+        <li><a href="/post/cans17/">CANS 2017</a></li>
+        
+      </ul>
+    </div>
+    
+
+    
+
+    
+<section id="comments">
+  <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "francozappa-github-io" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+
+
+  </div>
+</article>
 
 <div class="container">
   <footer class="site-footer">
@@ -665,9 +792,6 @@
 
     
     
-    
-    <script src="/js/mathjax-config.js"></script>
-    
 
     
     
@@ -685,8 +809,6 @@
       
 
       
-      
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
       
     
 
