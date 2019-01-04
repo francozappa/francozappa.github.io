@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cans on Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tags/cans/</link>
+    <description>Recent content in cans on Daniele Antonioli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <lastBuildDate>Sat, 02 Dec 2017 11:28:36 +0800</lastBuildDate>
+    
+	<atom:link href="https://francozappa.github.io/tags/cans/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CANS 2017</title>
+      <link>https://francozappa.github.io/post/cans17/</link>
+      <pubDate>Sat, 02 Dec 2017 11:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/post/cans17/</guid>
+      <description>This week I&amp;rsquo;ve been in Hong Kong for the Cryptology And Network Security Conference (CANS) 2017 conference.
+I&amp;rsquo;ve presented our paper about: Practical Evaluation of Passive COTS Eavesdropping in 802.11b/n/ac WLAN.
+Here I&amp;rsquo;m sharing some pictures with some new friends:</description>
+    </item>
+    
+  </channel>
+</rss>

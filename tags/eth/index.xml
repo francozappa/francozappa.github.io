@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eth on Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tags/eth/</link>
+    <description>Recent content in eth on Daniele Antonioli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <lastBuildDate>Mon, 17 Jul 2017 11:28:36 +0800</lastBuildDate>
+    
+	<atom:link href="https://francozappa.github.io/tags/eth/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Future of Science, Technology and Policy Workshop</title>
+      <link>https://francozappa.github.io/post/smart17/</link>
+      <pubDate>Mon, 17 Jul 2017 11:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/post/smart17/</guid>
+      <description>Recently I was selected as a mentor for the cybersecurity track of the Future of Science, Technology and Policy Workshop, organized by SMART. I had the privilege to supervision six graduate and post-graduate colleagues with different backgrounds:
+ Jukka Isohätälä from NUS (Physics and CS) Nikhil Mallareddy from MIT (Environmental Engineering) Ioannis Fousekis from ETH (EECS and Economics) Michael Wicki from ETH (Political sciences and Economics) Fabian Willibaldf rom ETH (Environmental Engineering) Jay Prakash from SUTD (EECS)  I&amp;rsquo;m presenting the summary of our activities of day 2 related to cybersecurity organized at my institution SUTD:</description>
+    </item>
+    
+  </channel>
+</rss>

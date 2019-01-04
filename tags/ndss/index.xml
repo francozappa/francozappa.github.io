@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ndss on Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tags/ndss/</link>
+    <description>Recent content in ndss on Daniele Antonioli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <lastBuildDate>Thu, 15 Nov 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://francozappa.github.io/tags/ndss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our Paper is Accepted for NDSS 2019</title>
+      <link>https://francozappa.github.io/post/ndss19/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://francozappa.github.io/post/ndss19/</guid>
+      <description>I&amp;rsquo;m very happy to announce that our paper titled Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android has been accepted for the The Network and Distributed System Security Symposium (NDSS). Here you can download a pre-print. Here is the list of accepted papers for NDSS 2019 Soon I&amp;rsquo;ll update more material such an exploit PoC code.
+Congratulations to Kasper and Nils and thank you for the help.</description>
+    </item>
+    
+  </channel>
+</rss>

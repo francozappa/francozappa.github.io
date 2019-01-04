@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sac on Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tags/sac/</link>
+    <description>Recent content in sac on Daniele Antonioli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <lastBuildDate>Thu, 21 Dec 2017 11:28:36 +0800</lastBuildDate>
+    
+	<atom:link href="https://francozappa.github.io/tags/sac/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SAC 2018</title>
+      <link>https://francozappa.github.io/post/sac18/</link>
+      <pubDate>Thu, 21 Dec 2017 11:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/post/sac18/</guid>
+      <description>I&amp;rsquo;m happy to announce that our paper titled State-Aware Anomaly Detection for Industrial Control Systems has been accepted for the Symposium On Applied Computing (SAC) 2018 conference.
+Congratulations to Hamid, and the co-authors!</description>
+    </item>
+    
+  </channel>
+</rss>

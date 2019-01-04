@@ -307,6 +307,33 @@
     
     <url>
     
+      <loc>https://francozappa.github.io/tags/cans/</loc>
+      <lastmod>2017-12-02T11:28:36+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/cispa/</loc>
+      <lastmod>2018-08-23T11:28:36+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/code/</loc>
+      <lastmod>2017-11-21T14:28:36+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://francozappa.github.io/tags/cps/</loc>
       <lastmod>2017-11-07T17:46:49+08:00</lastmod>
       <priority>0</priority>
@@ -316,8 +343,26 @@
     
     <url>
     
-      <loc>https://francozappa.github.io/tags/ctf/</loc>
-      <lastmod>2017-11-21T14:28:36+08:00</lastmod>
+      <loc>https://francozappa.github.io/tags/eduroam/</loc>
+      <lastmod>2018-01-27T11:28:36+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/epfl/</loc>
+      <lastmod>2017-07-17T11:28:36+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/eth/</loc>
+      <lastmod>2017-07-17T11:28:36+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -334,6 +379,15 @@
     
     <url>
     
+      <loc>https://francozappa.github.io/tags/issue/</loc>
+      <lastmod>2017-11-26T11:28:36+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://francozappa.github.io/tags/minicps/</loc>
       <lastmod>2017-11-21T14:28:36+08:00</lastmod>
       <priority>0</priority>
@@ -343,8 +397,44 @@
     
     <url>
     
-      <loc>https://francozappa.github.io/tags/news/</loc>
-      <lastmod>2018-12-02T11:28:36+08:00</lastmod>
+      <loc>https://francozappa.github.io/tags/mit/</loc>
+      <lastmod>2017-07-17T11:28:36+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/ndss/</loc>
+      <lastmod>2018-11-15T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/oxford/</loc>
+      <lastmod>2018-01-14T11:28:36+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/paper/</loc>
+      <lastmod>2018-11-15T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/poster/</loc>
+      <lastmod>2017-07-26T11:28:36+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -361,8 +451,62 @@
     
     <url>
     
+      <loc>https://francozappa.github.io/tags/sac/</loc>
+      <lastmod>2017-12-21T11:28:36+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://francozappa.github.io/tags/theme/</loc>
       <lastmod>2018-12-02T11:28:36+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/visiting/</loc>
+      <lastmod>2018-08-23T11:28:36+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/visting/</loc>
+      <lastmod>2018-01-14T11:28:36+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/vpn/</loc>
+      <lastmod>2018-01-20T11:28:36+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/website/</loc>
+      <lastmod>2018-12-02T11:28:36+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/workshop/</loc>
+      <lastmod>2017-07-17T11:28:36+08:00</lastmod>
       <priority>0</priority>
     </url>
     
