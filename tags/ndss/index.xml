@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
-    <lastBuildDate>Thu, 15 Nov 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://francozappa.github.io/tags/ndss/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NDSS 2019 camera-ready and PoC attack code</title>
+      <link>https://francozappa.github.io/post/ndss19-cr/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://francozappa.github.io/post/ndss19-cr/</guid>
+      <description>The camera-ready version of Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android is available here
+We also released a proof of concept code to perform the Soft AP manipulation attack. The code was previously disclosed to Google. In summary, the attack allows a malicious Nearby Connections server (advertiser) to redirect a client to a malicious Internet connected access point. As a result the attacker can reconfigure the wireless network interface of the victim via DHCP and gets access to all the Wi-Fi traffic (even traffic from non Nearby Connections applications).</description>
+    </item>
     
     <item>
       <title>Our Paper is Accepted for NDSS 2019</title>

@@ -11,6 +11,28 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>NDSS 2019 camera-ready and PoC attack code</title>
+      <link>https://francozappa.github.io/post/ndss19-cr/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://francozappa.github.io/post/ndss19-cr/</guid>
+      <description>&lt;p&gt;The camera-ready version of
+&lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;
+is available
+&lt;a href=&#34;https://francozappa.github.io/publication/rearby/paper.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We also released a
+&lt;a href=&#34;https://github.com/francozappa/REarby/tree/master/poc-hostapd&#34; target=&#34;_blank&#34;&gt;proof of concept code&lt;/a&gt;
+to perform the &lt;em&gt;Soft AP manipulation attack&lt;/em&gt;. The code was previously
+disclosed to Google. In summary, the attack allows a malicious Nearby
+Connections server (advertiser) to redirect a client to a malicious Internet
+connected access point. As a result the attacker can reconfigure the wireless
+network interface of the victim via DHCP and gets access to all the Wi-Fi
+traffic (even traffic from non Nearby Connections applications).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby Connections’ on Android</title>
       <link>https://francozappa.github.io/publication/rearby/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0100</pubDate>
@@ -286,34 +308,6 @@ challenges locally use:&lt;/p&gt;
       
       <guid>https://francozappa.github.io/publication/wifi-mimo/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>ST Electronics Poster Award at FIRST Industry Workshop 2017</title>
-      <link>https://francozappa.github.io/post/first17/</link>
-      <pubDate>Wed, 26 Jul 2017 11:28:36 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/post/first17/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m happy to announce that my poster titled
-&lt;a href=&#34;files/posters/cps-spc16.pdf&#34; target=&#34;_blank&#34;&gt;Towards high-interaction virtual ICS honeypots-in-a-box&lt;/a&gt;
-won the
-&lt;a href=&#34;https://www.stengg.com/en/electronics/&#34; target=&#34;_blank&#34;&gt;ST Electronics&lt;/a&gt;
-Poster Award at the
-&lt;a href=&#34;https://gradevents.sutd.edu.sg/first/&#34; target=&#34;_blank&#34;&gt;FIRST industry workshop&lt;/a&gt;, held at
-SUTD. This is a special gift one day before my 30th birthday!
-Here I&amp;rsquo;m sharing a picture from the award ceremony:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/first17-award.jpg&#34; alt=&#34;FIRST17 Award Ceremony&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Congratulations also to &lt;a href=&#34;http://people.sutd.edu.sg/~1001407/?page_id=10&amp;amp;lang=en&#34; target=&#34;_blank&#34;&gt;Hamid&lt;/a&gt; who won
-one award:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/first17-hamid.jpg&#34; alt=&#34;FIRST17 Hamid and Me&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;and &lt;a href=&#34;http://people.sutd.edu.sg/~eyasugetahun/&#34; target=&#34;_blank&#34;&gt;Eyasu&lt;/a&gt; who managed to win two awards:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/first17-eyasu.jpg&#34; alt=&#34;FIRST17 Eyasu and Me&#34; /&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
