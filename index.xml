@@ -11,6 +11,37 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>CFP: Cyber-Physical System SECutiy (CPS-SEC) Workshop 19</title>
+      <link>https://francozappa.github.io/post/cfp-cps-sec19/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://francozappa.github.io/post/cfp-cps-sec19/</guid>
+      <description>&lt;p&gt;Recently, I joined the TPC of the &lt;a href=&#34;https://www.todo.org/&#34; target=&#34;_blank&#34;&gt;CPS-SEC&lt;/a&gt;
+workshop, co-located with the &lt;a href=&#34;https://cns2019.ieee-cns.org/&#34; target=&#34;_blank&#34;&gt;CNS&lt;/a&gt;
+conference.&lt;/p&gt;
+
+&lt;p&gt;We are accepting bla.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Important dates:
+
+&lt;ul&gt;
+&lt;li&gt;Bla&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby Connections’ on Android</title>
+      <link>https://francozappa.github.io/publication/rearby/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://francozappa.github.io/publication/rearby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NDSS 2019 camera-ready and PoC attack code</title>
       <link>https://francozappa.github.io/post/ndss19-cr/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0100</pubDate>
@@ -30,15 +61,6 @@ connected access point. As a result the attacker can reconfigure the wireless
 network interface of the victim via DHCP and gets access to all the Wi-Fi
 traffic (even traffic from non Nearby Connections applications).&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby Connections’ on Android</title>
-      <link>https://francozappa.github.io/publication/rearby/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://francozappa.github.io/publication/rearby/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -298,15 +320,6 @@ challenges locally use:&lt;/p&gt;
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://francozappa.github.io/publication/s3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Practical Evaluation of Passive COTS Eavesdropping in 802.11b/n/ac WLAN</title>
-      <link>https://francozappa.github.io/publication/wifi-mimo/</link>
-      <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://francozappa.github.io/publication/wifi-mimo/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cps-sec on Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tags/cps-sec/</link>
+    <description>Recent content in cps-sec on Daniele Antonioli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://francozappa.github.io/tags/cps-sec/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CFP: Cyber-Physical System SECutiy (CPS-SEC) Workshop 19</title>
+      <link>https://francozappa.github.io/post/cfp-cps-sec19/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://francozappa.github.io/post/cfp-cps-sec19/</guid>
+      <description>Recently, I joined the TPC of the CPS-SEC workshop, co-located with the CNS conference.
+We are accepting bla.
+ Important dates:  Bla   </description>
+    </item>
+    
+  </channel>
+</rss>
