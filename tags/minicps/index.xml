@@ -23,5 +23,14 @@ Here is the code.
 The init.sh contains the list of commands that I run on a local testing machine and on the remote AWS instances that we used during the event. The attackers were provided with the VPN credentials to access two different subnetworks in a mixed MiniCPS simulation eg: water treatment (SWaT) and water distribution (WaDI).</description>
     </item>
     
+    <item>
+      <title>MiniCPS</title>
+      <link>https://francozappa.github.io/project/minicps/</link>
+      <pubDate>Tue, 07 Nov 2017 17:46:49 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/project/minicps/</guid>
+      <description>MiniCPS is a framework that I developed for Cyber-Physical Systems real-time simulation, built on top of Mininet.</description>
+    </item>
+    
   </channel>
 </rss>

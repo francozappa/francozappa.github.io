@@ -66,6 +66,17 @@ Transportation Systems, Medical applications.&lt;/p&gt;
     </item>
     
     <item>
+      <title>REarby</title>
+      <link>https://francozappa.github.io/project/rearby/</link>
+      <pubDate>Sat, 02 Feb 2019 17:46:49 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/project/rearby/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/francozappa/REarby&#34; target=&#34;_blank&#34;&gt;REarby&lt;/a&gt; is a toolkit that I developed to reverse engineer and attack
+&lt;a href=&#34;https://developers.google.com/nearby/connections/overview&#34; target=&#34;_blank&#34;&gt;Google&amp;rsquo;s Nearby Connections&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby Connections’ on Android</title>
       <link>https://francozappa.github.io/publication/rearby/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0100</pubDate>
@@ -345,15 +356,6 @@ challenges locally use:&lt;/p&gt;
 
 &lt;p&gt;Please let me know if you find any bugs or missing files.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Gamifying ICS Security Training and Research: Design, Implementation, and Results of S3</title>
-      <link>https://francozappa.github.io/publication/s3/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://francozappa.github.io/publication/s3/</guid>
-      <description></description>
     </item>
     
   </channel>

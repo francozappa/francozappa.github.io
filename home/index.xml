@@ -18,8 +18,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://francozappa.github.io/home/about/</guid>
-      <description>Biography I&amp;rsquo;m doing a PhD in Computer Science at the Singapore University Design and Technology (SUTD), advised by P. Szalachowski. I work on various aspects of cyber-physical security. I spent six months at the Computer Science Department of the University of Oxford (UK) as a visiting researcher advised by K. B. Rasmussen. Currently, I&amp;rsquo;m a visiting researcher of N. Tippenhauer. at CISPA
-I hold a BS and MS in Electronics and Telecommunications Engineering from the University of Bologna (UniBO).</description>
+      <description>Biography I&amp;rsquo;m doing a PhD in Computer Science at the Singapore University Design and Technology (SUTD), advised by P. Szalachowski. I work on various aspects of cyber-physical and wireless systems security.
+I spent six months at the Computer Science Department of the University of Oxford (UK) as a visiting researcher advised by K. B. Rasmussen. Currently, I&amp;rsquo;m a visiting researcher at Helmholtz Center for Information Security (CISPA) advised by N.</description>
     </item>
     
     <item>
@@ -51,6 +51,15 @@ I hold a BS and MS in Electronics and Telecommunications Engineering from the Un
     </item>
     
     <item>
+      <title>Projects</title>
+      <link>https://francozappa.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Selected Publications</title>
       <link>https://francozappa.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
@@ -65,15 +74,6 @@ I hold a BS and MS in Electronics and Telecommunications Engineering from the Un
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://francozappa.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://francozappa.github.io/home/projects/</guid>
       <description></description>
     </item>
     

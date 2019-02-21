@@ -12,6 +12,14 @@
     
     <url>
     
+      <loc>https://francozappa.github.io/project/rearby/</loc>
+      <lastmod>2019-02-02T17:46:49+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://francozappa.github.io/publication/rearby/</loc>
       <lastmod>2019-02-02T00:00:00+01:00</lastmod>
     </url>
@@ -289,6 +297,7 @@
     <url>
     
       <loc>https://francozappa.github.io/project/</loc>
+      <lastmod>2019-02-02T17:46:49+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -352,15 +361,6 @@
     
       <loc>https://francozappa.github.io/tags/code/</loc>
       <lastmod>2019-01-23T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/cps/</loc>
-      <lastmod>2017-11-07T17:46:49+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -469,6 +469,15 @@
     
       <loc>https://francozappa.github.io/tags/poster/</loc>
       <lastmod>2017-07-26T11:28:36+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/rearby/</loc>
+      <lastmod>2019-02-02T17:46:49+08:00</lastmod>
       <priority>0</priority>
     </url>
     
