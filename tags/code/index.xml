@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
-    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://francozappa.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>NDSS 2019 camera-ready and PoC attack code</title>
       <link>https://francozappa.github.io/post/ndss19-cr/</link>
-      <pubDate>Wed, 23 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 -0800</pubDate>
       
       <guid>https://francozappa.github.io/post/ndss19-cr/</guid>
       <description>The camera-ready version of Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android is available here

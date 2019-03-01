@@ -15,11 +15,12 @@
   
     
   
-  <meta name="description" content="The camera-ready version of Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&rsquo;s &ldquo;Nearby Connections&rdquo; on Android is available here
-We also released a proof of concept code to perform the Soft AP manipulation attack. The code was previously disclosed to Google. In summary, the attack allows a malicious Nearby Connections server (advertiser) to redirect a client to a malicious Internet connected access point. As a result the attacker can reconfigure the wireless network interface of the victim via DHCP and gets access to all the Wi-Fi traffic (even traffic from non Nearby Connections applications).">
+  <meta name="description" content="This week I&rsquo;ve been in San Diego CA for the The Network and Distributed System Security Symposium (NDSS) 2019 conference.
+I&rsquo;ve presented our paper about Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby Connections’ on Android.
+Please have a look at the slides, and at the Soft AP manipulation PoC.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/post/ndss19-cr/">
+  <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/post/ndss19-conf/">
 
   
 
@@ -107,37 +108,37 @@ We also released a proof of concept code to perform the Soft AP manipulation att
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://francozappa.github.io/post/ndss19-cr/">
+  <link rel="canonical" href="https://francozappa.github.io/post/ndss19-conf/">
 
   
   
   
   
     
-    
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="twitter:site" content="@francozappa">
   <meta property="twitter:creator" content="@francozappa">
   
   <meta property="og:site_name" content="Daniele Antonioli">
-  <meta property="og:url" content="https://francozappa.github.io/post/ndss19-cr/">
-  <meta property="og:title" content="NDSS 2019 camera-ready and PoC attack code | Daniele Antonioli">
-  <meta property="og:description" content="The camera-ready version of Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&rsquo;s &ldquo;Nearby Connections&rdquo; on Android is available here
-We also released a proof of concept code to perform the Soft AP manipulation attack. The code was previously disclosed to Google. In summary, the attack allows a malicious Nearby Connections server (advertiser) to redirect a client to a malicious Internet connected access point. As a result the attacker can reconfigure the wireless network interface of the victim via DHCP and gets access to all the Wi-Fi traffic (even traffic from non Nearby Connections applications)."><meta property="og:image" content="https://francozappa.github.io/img/avatar3.png">
+  <meta property="og:url" content="https://francozappa.github.io/post/ndss19-conf/">
+  <meta property="og:title" content="NDSS 2019 in San Diego | Daniele Antonioli">
+  <meta property="og:description" content="This week I&rsquo;ve been in San Diego CA for the The Network and Distributed System Security Symposium (NDSS) 2019 conference.
+I&rsquo;ve presented our paper about Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby Connections’ on Android.
+Please have a look at the slides, and at the Soft AP manipulation PoC."><meta property="og:image" content="https://francozappa.github.io/img/posts/ndss19-beach.jpg">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-01-23T00:00:00-08:00">
+  <meta property="article:published_time" content="2019-02-26T11:28:36&#43;08:00">
   
-  <meta property="article:modified_time" content="2019-01-23T00:00:00-08:00">
-  
-
+  <meta property="article:modified_time" content="2019-02-26T11:28:36&#43;08:00">
   
 
   
 
-  <title>NDSS 2019 camera-ready and PoC attack code | Daniele Antonioli</title>
+  
+
+  <title>NDSS 2019 in San Diego | Daniele Antonioli</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -363,6 +364,15 @@ We also released a proof of concept code to perform the Soft AP manipulation att
 
 
 
+<div class="article-header">
+  
+  
+  <img src="/img/posts/ndss19-beach.jpg" class="article-banner" itemprop="image" alt="">
+  
+
+  <span class="article-header-caption">Pacific Beach, San Diego CA</span>
+</div>
+
 
 
 
@@ -372,7 +382,7 @@ We also released a proof of concept code to perform the Soft AP manipulation att
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">NDSS 2019 camera-ready and PoC attack code</h1>
+  <h1 itemprop="name">NDSS 2019 in San Diego</h1>
 
   
 
@@ -390,9 +400,9 @@ We also released a proof of concept code to perform the Soft AP manipulation att
 
   <span class="article-date">
     
-    <meta content="2019-01-23 00:00:00 -0800 PST" itemprop="datePublished">
-    <time datetime="2019-01-23 00:00:00 -0800 PST" itemprop="dateModified">
-      Jan 23, 2019
+    <meta content="2019-02-26 11:28:36 &#43;0800 &#43;0800" itemprop="datePublished">
+    <time datetime="2019-02-26 11:28:36 &#43;0800 &#43;0800" itemprop="dateModified">
+      Feb 26, 2019
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -409,7 +419,7 @@ We also released a proof of concept code to perform the Soft AP manipulation att
   
   
   <span class="middot-divider"></span>
-  <a href="/post/ndss19-cr/#disqus_thread"></a>
+  <a href="/post/ndss19-conf/#disqus_thread"></a>
   
 
   
@@ -420,35 +430,35 @@ We also released a proof of concept code to perform the Soft AP manipulation att
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=NDSS%202019%20camera-ready%20and%20PoC%20attack%20code&amp;url=https%3a%2f%2ffrancozappa.github.io%2fpost%2fndss19-cr%2f"
+         href="https://twitter.com/intent/tweet?text=NDSS%202019%20in%20San%20Diego&amp;url=https%3a%2f%2ffrancozappa.github.io%2fpost%2fndss19-conf%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2ffrancozappa.github.io%2fpost%2fndss19-cr%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2ffrancozappa.github.io%2fpost%2fndss19-conf%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ffrancozappa.github.io%2fpost%2fndss19-cr%2f&amp;title=NDSS%202019%20camera-ready%20and%20PoC%20attack%20code"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ffrancozappa.github.io%2fpost%2fndss19-conf%2f&amp;title=NDSS%202019%20in%20San%20Diego"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2ffrancozappa.github.io%2fpost%2fndss19-cr%2f&amp;title=NDSS%202019%20camera-ready%20and%20PoC%20attack%20code"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2ffrancozappa.github.io%2fpost%2fndss19-conf%2f&amp;title=NDSS%202019%20in%20San%20Diego"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=NDSS%202019%20camera-ready%20and%20PoC%20attack%20code&amp;body=https%3a%2f%2ffrancozappa.github.io%2fpost%2fndss19-cr%2f">
+         href="mailto:?subject=NDSS%202019%20in%20San%20Diego&amp;body=https%3a%2f%2ffrancozappa.github.io%2fpost%2fndss19-conf%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -486,19 +496,18 @@ We also released a proof of concept code to perform the Soft AP manipulation att
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      <p>The camera-ready version of
-<em>Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&rsquo;s &ldquo;Nearby Connections&rdquo; on Android</em>
-is available
-<a href="https://francozappa.github.io/publication/rearby/paper.pdf" target="_blank">here</a></p>
+      <p>This week I&rsquo;ve been in San Diego CA for the
+<a href="https://www.ndss-symposium.org/" target="_blank">The Network and Distributed System Security Symposium (NDSS)
+2019</a> conference.</p>
 
-<p>We also released a
-<a href="https://github.com/francozappa/REarby/tree/master/poc-hostapd" target="_blank">proof of concept code</a>
-to perform the <em>Soft AP manipulation attack</em>. The code was previously
-disclosed to Google. In summary, the attack allows a malicious Nearby
-Connections server (advertiser) to redirect a client to a malicious Internet
-connected access point. As a result the attacker can reconfigure the wireless
-network interface of the victim via DHCP and gets access to all the Wi-Fi
-traffic (even traffic from non Nearby Connections applications).</p>
+<p>I&rsquo;ve presented our paper about
+<a href="https://francozappa.github.io/publication/rearby/paper.pdf" target="_blank">Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby
+Connections’ on Android</a>.</p>
+
+<p>Please have a look at the
+<a href="https://francozappa.github.io/publication/rearby/slides.pdf" target="_blank">slides</a>,
+and at the
+<a href="https://github.com/francozappa/REarby/tree/master/poc-hostapd" target="_blank">Soft AP manipulation PoC</a>.</p>
 
     </div>
 
@@ -510,8 +519,6 @@ traffic (even traffic from non Nearby Connections applications).</p>
   <a class="badge badge-light" href="/tags/paper/">paper</a>
   
   <a class="badge badge-light" href="/tags/ndss/">ndss</a>
-  
-  <a class="badge badge-light" href="/tags/code/">code</a>
   
 </div>
 
@@ -693,13 +700,13 @@ traffic (even traffic from non Nearby Connections applications).</p>
       <h3>Related</h3>
       <ul>
         
+        <li><a href="/post/ndss19-cr/">NDSS 2019 camera-ready and PoC attack code</a></li>
+        
         <li><a href="/post/ndss19/">Our Paper is Accepted for NDSS 2019</a></li>
         
         <li><a href="/post/sac18/">SAC 2018</a></li>
         
         <li><a href="/post/cans17/">CANS 2017</a></li>
-        
-        <li><a href="/post/minicps-s3-code/">S317: MiniCPS Challenges</a></li>
         
       </ul>
     </div>

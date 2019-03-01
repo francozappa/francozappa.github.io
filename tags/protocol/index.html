@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
@@ -15,11 +17,10 @@
   
     
   
-  <meta name="description" content="The camera-ready version of Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&rsquo;s &ldquo;Nearby Connections&rdquo; on Android is available here
-We also released a proof of concept code to perform the Soft AP manipulation attack. The code was previously disclosed to Google. In summary, the attack allows a malicious Nearby Connections server (advertiser) to redirect a client to a malicious Internet connected access point. As a result the attacker can reconfigure the wireless network interface of the victim via DHCP and gets access to all the Wi-Fi traffic (even traffic from non Nearby Connections applications).">
+  <meta name="description" content="researcher">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/post/ndss19-cr/">
+  <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/tags/protocol/">
 
   
 
@@ -99,15 +100,15 @@ We also released a proof of concept code to perform the Soft AP manipulation att
   
 
   
-  <link rel="alternate" href="https://francozappa.github.io/index.xml" type="application/rss+xml" title="Daniele Antonioli">
-  <link rel="feed" href="https://francozappa.github.io/index.xml" type="application/rss+xml" title="Daniele Antonioli">
+  <link rel="alternate" href="https://francozappa.github.io/tags/protocol/index.xml" type="application/rss+xml" title="Daniele Antonioli">
+  <link rel="feed" href="https://francozappa.github.io/tags/protocol/index.xml" type="application/rss+xml" title="Daniele Antonioli">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://francozappa.github.io/post/ndss19-cr/">
+  <link rel="canonical" href="https://francozappa.github.io/tags/protocol/">
 
   
   
@@ -122,22 +123,19 @@ We also released a proof of concept code to perform the Soft AP manipulation att
   <meta property="twitter:creator" content="@francozappa">
   
   <meta property="og:site_name" content="Daniele Antonioli">
-  <meta property="og:url" content="https://francozappa.github.io/post/ndss19-cr/">
-  <meta property="og:title" content="NDSS 2019 camera-ready and PoC attack code | Daniele Antonioli">
-  <meta property="og:description" content="The camera-ready version of Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&rsquo;s &ldquo;Nearby Connections&rdquo; on Android is available here
-We also released a proof of concept code to perform the Soft AP manipulation attack. The code was previously disclosed to Google. In summary, the attack allows a malicious Nearby Connections server (advertiser) to redirect a client to a malicious Internet connected access point. As a result the attacker can reconfigure the wireless network interface of the victim via DHCP and gets access to all the Wi-Fi traffic (even traffic from non Nearby Connections applications)."><meta property="og:image" content="https://francozappa.github.io/img/avatar3.png">
+  <meta property="og:url" content="https://francozappa.github.io/tags/protocol/">
+  <meta property="og:title" content="protocol | Daniele Antonioli">
+  <meta property="og:description" content="researcher"><meta property="og:image" content="https://francozappa.github.io/img/avatar3.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-01-23T00:00:00-08:00">
-  
-  <meta property="article:modified_time" content="2019-01-23T00:00:00-08:00">
+  <meta property="og:updated_time" content="2019-02-02T17:46:49&#43;08:00">
   
 
   
 
   
 
-  <title>NDSS 2019 camera-ready and PoC attack code | Daniele Antonioli</title>
+  <title>protocol | Daniele Antonioli</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -351,9 +349,7 @@ We also released a proof of concept code to perform the Soft AP manipulation att
 </nav>
 
 
-<article class="article" itemscope itemtype="http://schema.org/Article">
 
-  
 
 
 
@@ -370,372 +366,37 @@ We also released a proof of concept code to perform the Soft AP manipulation att
 
   
   
-  
-<div class="article-container pt-3">
-  <h1 itemprop="name">NDSS 2019 camera-ready and PoC attack code</h1>
-
-  
-
   
     
-
-<div class="article-metadata">
+  
+<div class="universal-wrapper pt-3">
+  <h1 itemprop="name">protocol</h1>
 
   
-  
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Daniele Antonioli">
-  </span>
-  
-
-  <span class="article-date">
-    
-    <meta content="2019-01-23 00:00:00 -0800 PST" itemprop="datePublished">
-    <time datetime="2019-01-23 00:00:00 -0800 PST" itemprop="dateModified">
-      Jan 23, 2019
-    </time>
-  </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Daniele Antonioli">
-  </span>
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <a href="/post/ndss19-cr/#disqus_thread"></a>
-  
-
-  
-
-  
-  
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=NDSS%202019%20camera-ready%20and%20PoC%20attack%20code&amp;url=https%3a%2f%2ffrancozappa.github.io%2fpost%2fndss19-cr%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2ffrancozappa.github.io%2fpost%2fndss19-cr%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ffrancozappa.github.io%2fpost%2fndss19-cr%2f&amp;title=NDSS%202019%20camera-ready%20and%20PoC%20attack%20code"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2ffrancozappa.github.io%2fpost%2fndss19-cr%2f&amp;title=NDSS%202019%20camera-ready%20and%20PoC%20attack%20code"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=NDSS%202019%20camera-ready%20and%20PoC%20attack%20code&amp;body=https%3a%2f%2ffrancozappa.github.io%2fpost%2fndss19-cr%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
-</div>
-
-
-  
-
-</div>
-
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
 
   
 </div>
 
 
 
-  <div class="article-container">
+<div class="universal-wrapper">
+  
 
-    <div class="article-style" itemprop="articleBody">
-      <p>The camera-ready version of
-<em>Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&rsquo;s &ldquo;Nearby Connections&rdquo; on Android</em>
-is available
-<a href="https://francozappa.github.io/publication/rearby/paper.pdf" target="_blank">here</a></p>
-
-<p>We also released a
-<a href="https://github.com/francozappa/REarby/tree/master/poc-hostapd" target="_blank">proof of concept code</a>
-to perform the <em>Soft AP manipulation attack</em>. The code was previously
-disclosed to Google. In summary, the attack allows a malicious Nearby
-Connections server (advertiser) to redirect a client to a malicious Internet
-connected access point. As a result the attacker can reconfigure the wireless
-network interface of the victim via DHCP and gets access to all the Wi-Fi
-traffic (even traffic from non Nearby Connections applications).</p>
-
+  
+  
+  <div>
+    <h2><a href="/project/rearby/">REarby</a></h2>
+    <div class="article-style">
+      
+      A toolkit to reverse engineer and attack Google's Nearby Connections
+      
     </div>
-
-    
-
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/paper/">paper</a>
-  
-  <a class="badge badge-light" href="/tags/ndss/">ndss</a>
-  
-  <a class="badge badge-light" href="/tags/code/">code</a>
-  
-</div>
-
-
-
-    
-
-
-
-
-
-
-<div class="media author-card" itemscope itemtype="http://schema.org/Person">
-  
-  <img class="portrait mr-3" src="/img/avatar3.png" itemprop="image" alt="Avatar">
-  
-  <div class="media-body">
-    <h5 class="card-title" itemprop="name"><a href="/">Daniele Antonioli</a></h5>
-    <h6 class="card-subtitle">PhD Candidate at SUTD</h6>
-    
-    <ul class="network-icon" aria-hidden="true">
-      
-      
-      
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="/files/cv.pdf" >
-          <i class="ai ai-cv"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-      <li>
-        <a itemprop="sameAs" href="mailto:antonioli.daniele@gmail.com" >
-          <i class="fas fa-envelope"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="https://scholar.google.com/citations?user=RkX4eFsAAAAJ&amp;hl" target="_blank" rel="noopener">
-          <i class="ai ai-google-scholar"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="https://github.com/francozappa" target="_blank" rel="noopener">
-          <i class="fab fa-github"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="https://twitter.com/francozappa" target="_blank" rel="noopener">
-          <i class="fab fa-twitter"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="https://linkedin.com/in/antoniolidaniele" target="_blank" rel="noopener">
-          <i class="fab fa-linkedin"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="https://keybase.io/francozappa" target="_blank" rel="noopener">
-          <i class="fas fa-key"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="https://orcid.org/0000-0002-9342-3920" target="_blank" rel="noopener">
-          <i class="ai ai-orcid"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="https://lulu.com/shop/search.ep?contributorId=1182719" target="_blank" rel="noopener">
-          <i class="fab fa-leanpub"></i>
-        </a>
-      </li>
-      
-    </ul>
   </div>
+  
+
+  
+
 </div>
-
-
-
-
-    
-    
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Related</h3>
-      <ul>
-        
-        <li><a href="/post/ndss19/">Our Paper is Accepted for NDSS 2019</a></li>
-        
-        <li><a href="/post/sac18/">SAC 2018</a></li>
-        
-        <li><a href="/post/cans17/">CANS 2017</a></li>
-        
-        <li><a href="/post/minicps-s3-code/">S317: MiniCPS Challenges</a></li>
-        
-      </ul>
-    </div>
-    
-
-    
-
-    
-<section id="comments">
-  <div id="disqus_thread"></div>
-<script type="application/javascript">
-    var disqus_config = function () {
-    
-    
-    
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
-        }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "francozappa-github-io" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-</section>
-
-
-
-  </div>
-</article>
-
 <div class="container">
   <footer class="site-footer">
   
@@ -884,4 +545,6 @@ traffic (even traffic from non Nearby Connections applications).</p>
 
   </body>
 </html>
+
+
 
