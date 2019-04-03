@@ -11,6 +11,23 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>NDSS 2019 YouTube video of the presentation</title>
+      <link>https://francozappa.github.io/post/ndss19-video/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/post/ndss19-video/</guid>
+      <description>&lt;p&gt;My NDSS 2019 presentation of
+&lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/h5geJLoQIsU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>NDSS 2019 in San Diego</title>
       <link>https://francozappa.github.io/post/ndss19-conf/</link>
       <pubDate>Tue, 26 Feb 2019 11:28:36 +0800</pubDate>
@@ -328,23 +345,6 @@ and the co-authors!&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/cans17-ferry.jpg&#34; alt=&#34;CANS17 Ferry&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/cans17-dinner.jpg&#34; alt=&#34;CANS17 Dinner&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Institutional Email Issue</title>
-      <link>https://francozappa.github.io/post/email-issues/</link>
-      <pubDate>Sun, 26 Nov 2017 11:28:36 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/post/email-issues/</guid>
-      <description>&lt;p&gt;For some &lt;!-- STUpiD --&gt; reasons my &lt;code&gt;name_surname@sutd.edu.sg&lt;/code&gt; email address was
-deactivated &lt;em&gt;without notice&lt;/em&gt; sometime at the end of October 2017. Unfortunately
-I&amp;rsquo;ve discovered it only this week and I&amp;rsquo;m still trying to reactivate it. I
-apologize if you recently got an error message while trying to send me an
-email to that address.&lt;/p&gt;
-
-&lt;p&gt;Please use the &lt;code&gt;surname.name@gmail.com&lt;/code&gt;
-address instead. I ❤️ ✉️&lt;/p&gt;
 </description>
     </item>
     
