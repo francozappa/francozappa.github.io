@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://francozappa.github.io/post/phd-defense/</loc>
+      <lastmod>2019-06-10T11:28:36+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://francozappa.github.io/post/ndss19-video/</loc>
       <lastmod>2019-04-03T00:00:00+02:00</lastmod>
     </url>
@@ -491,6 +499,15 @@
     
     <url>
     
+      <loc>https://francozappa.github.io/tags/phd/</loc>
+      <lastmod>2019-06-10T11:28:36+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://francozappa.github.io/tags/poster/</loc>
       <lastmod>2017-07-26T11:28:36+08:00</lastmod>
       <priority>0</priority>
@@ -529,6 +546,15 @@
     
       <loc>https://francozappa.github.io/tags/sac/</loc>
       <lastmod>2017-12-21T11:28:36+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://francozappa.github.io/tags/talk/</loc>
+      <lastmod>2019-06-10T11:28:36+08:00</lastmod>
       <priority>0</priority>
     </url>
     
