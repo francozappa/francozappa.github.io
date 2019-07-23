@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Siby on Daniele Antonioli</title>
+    <link>https://francozappa.github.io/authors/s.-siby/</link>
+    <description>Recent content in S. Siby on Daniele Antonioli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <lastBuildDate>Sat, 07 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://francozappa.github.io/authors/s.-siby/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Practical Evaluation of Passive COTS Eavesdropping in 802.11b/n/ac WLAN</title>
+      <link>https://francozappa.github.io/publication/wifi-mimo/</link>
+      <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://francozappa.github.io/publication/wifi-mimo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

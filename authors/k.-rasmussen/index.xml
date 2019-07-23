@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Rasmussen on Daniele Antonioli</title>
+    <link>https://francozappa.github.io/authors/k.-rasmussen/</link>
+    <description>Recent content in K. Rasmussen on Daniele Antonioli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://francozappa.github.io/authors/k.-rasmussen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation of Bluetooth BR/EDR</title>
+      <link>https://francozappa.github.io/publication/knob/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://francozappa.github.io/publication/knob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby Connections’ on Android</title>
+      <link>https://francozappa.github.io/publication/rearby/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/publication/rearby/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

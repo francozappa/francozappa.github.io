@@ -1,634 +1,501 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/phd-defense/</loc>
-      <lastmod>2019-06-10T11:28:36+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/ndss19-video/</loc>
-      <lastmod>2019-04-03T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/publication/knob/</loc>
-      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/ndss19-conf/</loc>
-      <lastmod>2019-02-26T11:28:36+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/cfp-cps-sec19/</loc>
-      <lastmod>2019-02-14T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/project/rearby/</loc>
-      <lastmod>2019-02-02T17:46:49+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/publication/rearby/</loc>
-      <lastmod>2019-02-02T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/ndss19-cr/</loc>
-      <lastmod>2019-01-23T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/theme-daynight-search/</loc>
-      <lastmod>2018-12-02T11:28:36+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/ndss19/</loc>
-      <lastmod>2018-11-15T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/cispa-visiting/</loc>
-      <lastmod>2018-08-23T11:28:36+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/publication/state-anomaly-detection/</loc>
-      <lastmod>2018-03-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/sutd-eduroam/</loc>
-      <lastmod>2018-01-27T11:28:36+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/sutd-vpn/</loc>
-      <lastmod>2018-01-20T11:28:36+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/oxford-visiting/</loc>
-      <lastmod>2018-01-14T11:28:36+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/sac18/</loc>
-      <lastmod>2017-12-21T11:28:36+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/cans17/</loc>
-      <lastmod>2017-12-02T11:28:36+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/email-issues/</loc>
-      <lastmod>2017-11-26T11:28:36+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/minicps-s3-code/</loc>
-      <lastmod>2017-11-21T14:28:36+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/project/minicps/</loc>
-      <lastmod>2017-11-07T17:46:49+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/publication/s3/</loc>
-      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/publication/wifi-mimo/</loc>
-      <lastmod>2017-10-07T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/first17/</loc>
-      <lastmod>2017-07-26T11:28:36+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/smart17/</loc>
-      <lastmod>2017-07-17T11:28:36+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/publication/legacy-authentication/</loc>
-      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/publication/honeypot/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/publication/minicps/</loc>
-      <lastmod>2015-01-01T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/publication/master-thesis/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/publication/nist-randomness/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/publication/laser-safety/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/publication_types/1/</loc>
-      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/publication_types/2/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/publication_types/4/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/project/</loc>
-      <lastmod>2019-02-02T17:46:49+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/publication_types/</loc>
-      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/awards/</loc>
-      <lastmod>2017-07-26T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/cans/</loc>
-      <lastmod>2017-12-02T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/cfp/</loc>
-      <lastmod>2019-02-14T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/cispa/</loc>
-      <lastmod>2018-08-23T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/code/</loc>
-      <lastmod>2019-01-23T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/cps-sec/</loc>
-      <lastmod>2019-02-14T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/eduroam/</loc>
-      <lastmod>2018-01-27T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/epfl/</loc>
-      <lastmod>2017-07-17T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/eth/</loc>
-      <lastmod>2017-07-17T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/howto/</loc>
-      <lastmod>2018-01-27T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/issue/</loc>
-      <lastmod>2017-11-26T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/minicps/</loc>
-      <lastmod>2017-11-21T14:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/mit/</loc>
-      <lastmod>2017-07-17T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/ndss/</loc>
-      <lastmod>2019-04-03T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/oxford/</loc>
-      <lastmod>2018-01-14T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/paper/</loc>
-      <lastmod>2019-02-26T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/phd/</loc>
-      <lastmod>2019-06-10T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/poster/</loc>
-      <lastmod>2017-07-26T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/protocol/</loc>
-      <lastmod>2019-02-02T17:46:49+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/rearby/</loc>
-      <lastmod>2019-02-02T17:46:49+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/s3/</loc>
-      <lastmod>2017-11-21T14:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/sac/</loc>
-      <lastmod>2017-12-21T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/talk/</loc>
-      <lastmod>2019-06-10T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/theme/</loc>
-      <lastmod>2018-12-02T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/tpc/</loc>
-      <lastmod>2019-02-14T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/video/</loc>
-      <lastmod>2019-04-03T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/visiting/</loc>
-      <lastmod>2018-08-23T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/visting/</loc>
-      <lastmod>2018-01-14T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/vpn/</loc>
-      <lastmod>2018-01-20T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/website/</loc>
-      <lastmod>2018-12-02T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://francozappa.github.io/tags/workshop/</loc>
-      <lastmod>2017-07-17T11:28:36+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://francozappa.github.io/</loc>
+    <lastmod>2019-06-10T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/phd-defense/</loc>
+    <lastmod>2019-06-10T11:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/</loc>
+    <lastmod>2019-06-10T11:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/</loc>
+    <lastmod>2019-06-10T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/phd/</loc>
+    <lastmod>2019-06-10T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/talk/</loc>
+    <lastmod>2019-06-10T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/ndss19-video/</loc>
+    <lastmod>2019-04-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/ndss/</loc>
+    <lastmod>2019-04-03T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/video/</loc>
+    <lastmod>2019-04-03T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/publication_types/1/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/authors/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/authors/d.-antonioli/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/authors/k.-rasmussen/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/authors/n.-o.-tippenhauer/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/publication_types/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/publication/knob/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/ndss19-conf/</loc>
+    <lastmod>2019-02-26T11:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/paper/</loc>
+    <lastmod>2019-02-26T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/cfp-cps-sec19/</loc>
+    <lastmod>2019-02-14T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/cfp/</loc>
+    <lastmod>2019-02-14T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/cps-sec/</loc>
+    <lastmod>2019-02-14T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/tpc/</loc>
+    <lastmod>2019-02-14T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/project/</loc>
+    <lastmod>2019-02-02T17:46:49+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/project/rearby/</loc>
+    <lastmod>2019-02-02T17:46:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/protocol/</loc>
+    <lastmod>2019-02-02T17:46:49+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/rearby/</loc>
+    <lastmod>2019-02-02T17:46:49+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/publication/rearby/</loc>
+    <lastmod>2019-02-02T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/ndss19-cr/</loc>
+    <lastmod>2019-01-23T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/code/</loc>
+    <lastmod>2019-01-23T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/theme-daynight-search/</loc>
+    <lastmod>2018-12-02T11:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/theme/</loc>
+    <lastmod>2018-12-02T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/website/</loc>
+    <lastmod>2018-12-02T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/ndss19/</loc>
+    <lastmod>2018-11-15T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/cispa-visiting/</loc>
+    <lastmod>2018-08-23T11:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/cispa/</loc>
+    <lastmod>2018-08-23T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/visiting/</loc>
+    <lastmod>2018-08-23T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/authors/a.-r.-sadeghi/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/authors/f.-brasser/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/authors/h.-r.-ghaeini/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/publication/state-anomaly-detection/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/sutd-eduroam/</loc>
+    <lastmod>2018-01-27T11:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/eduroam/</loc>
+    <lastmod>2018-01-27T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/howto/</loc>
+    <lastmod>2018-01-27T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/sutd-vpn/</loc>
+    <lastmod>2018-01-20T11:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/vpn/</loc>
+    <lastmod>2018-01-20T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/oxford-visiting/</loc>
+    <lastmod>2018-01-14T11:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/oxford/</loc>
+    <lastmod>2018-01-14T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/visting/</loc>
+    <lastmod>2018-01-14T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/sac18/</loc>
+    <lastmod>2017-12-21T11:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/sac/</loc>
+    <lastmod>2017-12-21T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/cans17/</loc>
+    <lastmod>2017-12-02T11:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/cans/</loc>
+    <lastmod>2017-12-02T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/email-issues/</loc>
+    <lastmod>2017-11-26T11:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/issue/</loc>
+    <lastmod>2017-11-26T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/minicps-s3-code/</loc>
+    <lastmod>2017-11-21T14:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/minicps/</loc>
+    <lastmod>2017-11-21T14:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/s3/</loc>
+    <lastmod>2017-11-21T14:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/project/minicps/</loc>
+    <lastmod>2017-11-07T17:46:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/publication/s3/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/authors/m.-ochoa/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/authors/s.-adepu/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/publication/wifi-mimo/</loc>
+    <lastmod>2017-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/authors/s.-siby/</loc>
+    <lastmod>2017-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/first17/</loc>
+    <lastmod>2017-07-26T11:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/awards/</loc>
+    <lastmod>2017-07-26T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/poster/</loc>
+    <lastmod>2017-07-26T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/smart17/</loc>
+    <lastmod>2017-07-17T11:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/epfl/</loc>
+    <lastmod>2017-07-17T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/eth/</loc>
+    <lastmod>2017-07-17T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/mit/</loc>
+    <lastmod>2017-07-17T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/workshop/</loc>
+    <lastmod>2017-07-17T11:28:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/authors/j.-h.-castellanos/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/publication/legacy-authentication/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/academic/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/publication/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/talk/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/talk/example-talk/</loc>
+    <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/authors/a.-agrawal/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/publication/honeypot/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/publication/minicps/</loc>
+    <lastmod>2015-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/publication_types/4/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/publication/master-thesis/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/publication/nist-randomness/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/authors/v.-b.-suresh/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/authors/w.-p.-burleson/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/publication_types/2/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/publication/laser-safety/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
   
 </urlset>

@@ -18,7 +18,7 @@
       <pubDate>Sat, 02 Feb 2019 17:46:49 +0800</pubDate>
       
       <guid>https://francozappa.github.io/project/rearby/</guid>
-      <description>REarby is a toolkit that I developed to reverse engineer and attack Google&amp;rsquo;s Nearby Connections.</description>
+      <description>A toolkit to reverse engineer and attack Google&amp;rsquo;s Nearby Connections</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 07 Nov 2017 17:46:49 +0800</pubDate>
       
       <guid>https://francozappa.github.io/project/minicps/</guid>
-      <description>MiniCPS is a framework that I developed for Cyber-Physical Systems real-time simulation, built on top of Mininet.</description>
+      <description>A framework for Cyber-Physical Systems real-time simulation, built on top of Mininet</description>
     </item>
     
   </channel>

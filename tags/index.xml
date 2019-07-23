@@ -7,134 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2019 11:28:36 +0800</lastBuildDate>
     
 	<atom:link href="https://francozappa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://francozappa.github.io/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>phd</title>
+      <link>https://francozappa.github.io/tags/phd/</link>
+      <pubDate>Mon, 10 Jun 2019 11:28:36 +0800</pubDate>
       
-      <guid>https://francozappa.github.io/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
-    </item>
-    
-    <item>
-      <title>awards</title>
-      <link>https://francozappa.github.io/tags/awards/</link>
-      <pubDate>Wed, 26 Jul 2017 11:28:36 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/awards/</guid>
+      <guid>https://francozappa.github.io/tags/phd/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>cans</title>
-      <link>https://francozappa.github.io/tags/cans/</link>
-      <pubDate>Sat, 02 Dec 2017 11:28:36 +0800</pubDate>
+      <title>talk</title>
+      <link>https://francozappa.github.io/tags/talk/</link>
+      <pubDate>Mon, 10 Jun 2019 11:28:36 +0800</pubDate>
       
-      <guid>https://francozappa.github.io/tags/cans/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cfp</title>
-      <link>https://francozappa.github.io/tags/cfp/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/cfp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cispa</title>
-      <link>https://francozappa.github.io/tags/cispa/</link>
-      <pubDate>Thu, 23 Aug 2018 11:28:36 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/cispa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>code</title>
-      <link>https://francozappa.github.io/tags/code/</link>
-      <pubDate>Wed, 23 Jan 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cps-sec</title>
-      <link>https://francozappa.github.io/tags/cps-sec/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/cps-sec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eduroam</title>
-      <link>https://francozappa.github.io/tags/eduroam/</link>
-      <pubDate>Sat, 27 Jan 2018 11:28:36 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/eduroam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>epfl</title>
-      <link>https://francozappa.github.io/tags/epfl/</link>
-      <pubDate>Mon, 17 Jul 2017 11:28:36 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/epfl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eth</title>
-      <link>https://francozappa.github.io/tags/eth/</link>
-      <pubDate>Mon, 17 Jul 2017 11:28:36 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/eth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>howto</title>
-      <link>https://francozappa.github.io/tags/howto/</link>
-      <pubDate>Sat, 27 Jan 2018 11:28:36 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/howto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>issue</title>
-      <link>https://francozappa.github.io/tags/issue/</link>
-      <pubDate>Sun, 26 Nov 2017 11:28:36 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/issue/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>minicps</title>
-      <link>https://francozappa.github.io/tags/minicps/</link>
-      <pubDate>Tue, 21 Nov 2017 14:28:36 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/minicps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mit</title>
-      <link>https://francozappa.github.io/tags/mit/</link>
-      <pubDate>Mon, 17 Jul 2017 11:28:36 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/mit/</guid>
+      <guid>https://francozappa.github.io/tags/talk/</guid>
       <description></description>
     </item>
     
@@ -148,11 +40,11 @@
     </item>
     
     <item>
-      <title>oxford</title>
-      <link>https://francozappa.github.io/tags/oxford/</link>
-      <pubDate>Sun, 14 Jan 2018 11:28:36 +0800</pubDate>
+      <title>video</title>
+      <link>https://francozappa.github.io/tags/video/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://francozappa.github.io/tags/oxford/</guid>
+      <guid>https://francozappa.github.io/tags/video/</guid>
       <description></description>
     </item>
     
@@ -166,20 +58,29 @@
     </item>
     
     <item>
-      <title>phd</title>
-      <link>https://francozappa.github.io/tags/phd/</link>
-      <pubDate>Mon, 10 Jun 2019 11:28:36 +0800</pubDate>
+      <title>cfp</title>
+      <link>https://francozappa.github.io/tags/cfp/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://francozappa.github.io/tags/phd/</guid>
+      <guid>https://francozappa.github.io/tags/cfp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>poster</title>
-      <link>https://francozappa.github.io/tags/poster/</link>
-      <pubDate>Wed, 26 Jul 2017 11:28:36 +0800</pubDate>
+      <title>cps-sec</title>
+      <link>https://francozappa.github.io/tags/cps-sec/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://francozappa.github.io/tags/poster/</guid>
+      <guid>https://francozappa.github.io/tags/cps-sec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tpc</title>
+      <link>https://francozappa.github.io/tags/tpc/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/tpc/</guid>
       <description></description>
     </item>
     
@@ -202,29 +103,11 @@
     </item>
     
     <item>
-      <title>s3</title>
-      <link>https://francozappa.github.io/tags/s3/</link>
-      <pubDate>Tue, 21 Nov 2017 14:28:36 +0800</pubDate>
+      <title>code</title>
+      <link>https://francozappa.github.io/tags/code/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://francozappa.github.io/tags/s3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sac</title>
-      <link>https://francozappa.github.io/tags/sac/</link>
-      <pubDate>Thu, 21 Dec 2017 11:28:36 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/sac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>https://francozappa.github.io/tags/talk/</link>
-      <pubDate>Mon, 10 Jun 2019 11:28:36 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/talk/</guid>
+      <guid>https://francozappa.github.io/tags/code/</guid>
       <description></description>
     </item>
     
@@ -238,20 +121,20 @@
     </item>
     
     <item>
-      <title>tpc</title>
-      <link>https://francozappa.github.io/tags/tpc/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 +0800</pubDate>
+      <title>website</title>
+      <link>https://francozappa.github.io/tags/website/</link>
+      <pubDate>Sun, 02 Dec 2018 11:28:36 +0800</pubDate>
       
-      <guid>https://francozappa.github.io/tags/tpc/</guid>
+      <guid>https://francozappa.github.io/tags/website/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>video</title>
-      <link>https://francozappa.github.io/tags/video/</link>
-      <pubDate>Wed, 03 Apr 2019 00:00:00 +0800</pubDate>
+      <title>cispa</title>
+      <link>https://francozappa.github.io/tags/cispa/</link>
+      <pubDate>Thu, 23 Aug 2018 11:28:36 +0800</pubDate>
       
-      <guid>https://francozappa.github.io/tags/video/</guid>
+      <guid>https://francozappa.github.io/tags/cispa/</guid>
       <description></description>
     </item>
     
@@ -265,11 +148,20 @@
     </item>
     
     <item>
-      <title>visting</title>
-      <link>https://francozappa.github.io/tags/visting/</link>
-      <pubDate>Sun, 14 Jan 2018 11:28:36 +0800</pubDate>
+      <title>eduroam</title>
+      <link>https://francozappa.github.io/tags/eduroam/</link>
+      <pubDate>Sat, 27 Jan 2018 11:28:36 +0800</pubDate>
       
-      <guid>https://francozappa.github.io/tags/visting/</guid>
+      <guid>https://francozappa.github.io/tags/eduroam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>howto</title>
+      <link>https://francozappa.github.io/tags/howto/</link>
+      <pubDate>Sat, 27 Jan 2018 11:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/howto/</guid>
       <description></description>
     </item>
     
@@ -283,11 +175,110 @@
     </item>
     
     <item>
-      <title>website</title>
-      <link>https://francozappa.github.io/tags/website/</link>
-      <pubDate>Sun, 02 Dec 2018 11:28:36 +0800</pubDate>
+      <title>oxford</title>
+      <link>https://francozappa.github.io/tags/oxford/</link>
+      <pubDate>Sun, 14 Jan 2018 11:28:36 +0800</pubDate>
       
-      <guid>https://francozappa.github.io/tags/website/</guid>
+      <guid>https://francozappa.github.io/tags/oxford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visting</title>
+      <link>https://francozappa.github.io/tags/visting/</link>
+      <pubDate>Sun, 14 Jan 2018 11:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/visting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sac</title>
+      <link>https://francozappa.github.io/tags/sac/</link>
+      <pubDate>Thu, 21 Dec 2017 11:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/sac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cans</title>
+      <link>https://francozappa.github.io/tags/cans/</link>
+      <pubDate>Sat, 02 Dec 2017 11:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/cans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>issue</title>
+      <link>https://francozappa.github.io/tags/issue/</link>
+      <pubDate>Sun, 26 Nov 2017 11:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/issue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>minicps</title>
+      <link>https://francozappa.github.io/tags/minicps/</link>
+      <pubDate>Tue, 21 Nov 2017 14:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/minicps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>s3</title>
+      <link>https://francozappa.github.io/tags/s3/</link>
+      <pubDate>Tue, 21 Nov 2017 14:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/s3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>awards</title>
+      <link>https://francozappa.github.io/tags/awards/</link>
+      <pubDate>Wed, 26 Jul 2017 11:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/awards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poster</title>
+      <link>https://francozappa.github.io/tags/poster/</link>
+      <pubDate>Wed, 26 Jul 2017 11:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>epfl</title>
+      <link>https://francozappa.github.io/tags/epfl/</link>
+      <pubDate>Mon, 17 Jul 2017 11:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/epfl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eth</title>
+      <link>https://francozappa.github.io/tags/eth/</link>
+      <pubDate>Mon, 17 Jul 2017 11:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/eth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mit</title>
+      <link>https://francozappa.github.io/tags/mit/</link>
+      <pubDate>Mon, 17 Jul 2017 11:28:36 +0800</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/mit/</guid>
       <description></description>
     </item>
     
@@ -298,6 +289,15 @@
       
       <guid>https://francozappa.github.io/tags/workshop/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>https://francozappa.github.io/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
   </channel>

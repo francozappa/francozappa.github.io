@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Brasser on Daniele Antonioli</title>
+    <link>https://francozappa.github.io/authors/f.-brasser/</link>
+    <description>Recent content in F. Brasser on Daniele Antonioli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <lastBuildDate>Mon, 05 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://francozappa.github.io/authors/f.-brasser/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>State-Aware Anomaly Detection for Industrial Control Systems</title>
+      <link>https://francozappa.github.io/publication/state-anomaly-detection/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://francozappa.github.io/publication/state-anomaly-detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

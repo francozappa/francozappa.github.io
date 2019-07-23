@@ -5,11 +5,23 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 3.2.0">
-  <meta name="generator" content="Hugo 0.51" />
-  <meta name="author" content="Daniele Antonioli">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
 
   
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Daniele Antonioli">
+
   
   
   
@@ -26,16 +38,6 @@
   
 
   
-
-  
-
-  
-
-  
-
-  
-
-  
   
   
   <meta name="theme-color" content="#2962ff">
@@ -46,9 +48,8 @@
   
   
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
 
     
@@ -60,7 +61,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
@@ -76,7 +78,11 @@
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
   
 
-  <link rel="stylesheet" href="/styles.css">
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.dc2a312999c42d400cf1e632dd37dee3.css">
+
   
 
   
@@ -98,9 +104,6 @@
   
 
   
-  <link rel="alternate" href="https://francozappa.github.io/index.xml" type="application/rss+xml" title="Daniele Antonioli">
-  <link rel="feed" href="https://francozappa.github.io/index.xml" type="application/rss+xml" title="Daniele Antonioli">
-  
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
@@ -117,13 +120,10 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="twitter:site" content="@francozappa">
-  <meta property="twitter:creator" content="@francozappa">
-  
   <meta property="og:site_name" content="Daniele Antonioli">
   <meta property="og:url" content="https://francozappa.github.io/publication/state-anomaly-detection/">
   <meta property="og:title" content="State-Aware Anomaly Detection for Industrial Control Systems | Daniele Antonioli">
-  <meta property="og:description" content="Anomaly detection for industrial control systems (ICS) can leverage process data to detect malicious derivations from expected process behavior. We propose state-aware anomaly detection that uses state dependent detection thresholds, which provide tighter constraints for an attacker trying to manipulate the process. In particular, our system provides: (i) estimation of system state from the knowl- edge of the network and the physical process (ii) a state-aware cumulative sum of residuals for monitoring the industrial control system (iii) and a novel state-aware anomaly detection technique.  We implement and evaluate our anomaly detection technique on a real-world ICS. We pre-compute the process-state parameters using a big data framework for ICS and train the detector leveraging more than 120 GB of historical data from the ICS. The results show that the proposed method improves prior works by providing less time-to-detect of attacks while generating fewer false alarms."><meta property="og:image" content="https://francozappa.github.io/img/avatar3.png">
+  <meta property="og:description" content="Anomaly detection for industrial control systems (ICS) can leverage process data to detect malicious derivations from expected process behavior. We propose state-aware anomaly detection that uses state dependent detection thresholds, which provide tighter constraints for an attacker trying to manipulate the process. In particular, our system provides: (i) estimation of system state from the knowl- edge of the network and the physical process (ii) a state-aware cumulative sum of residuals for monitoring the industrial control system (iii) and a novel state-aware anomaly detection technique.  We implement and evaluate our anomaly detection technique on a real-world ICS. We pre-compute the process-state parameters using a big data framework for ICS and train the detector leveraging more than 120 GB of historical data from the ICS. The results show that the proposed method improves prior works by providing less time-to-detect of attacks while generating fewer false alarms."><meta property="og:image" content="https://francozappa.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-03-05T00:00:00&#43;00:00">
@@ -171,6 +171,7 @@
 </aside>
 
 
+
 <nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
   <div class="container">
 
@@ -199,8 +200,22 @@
           
         
 
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/#about">
+          <a class="nav-link " href="/#about">
             
             <span>Home</span>
             
@@ -218,8 +233,22 @@
           
         
 
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/#publications">
+          <a class="nav-link " href="/#publications">
             
             <span>Publications</span>
             
@@ -237,8 +266,22 @@
           
         
 
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/#projects">
+          <a class="nav-link " href="/#projects">
             
             <span>Projects</span>
             
@@ -256,8 +299,22 @@
           
         
 
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/#posts">
+          <a class="nav-link " href="/#posts">
             
             <span>Posts</span>
             
@@ -275,8 +332,22 @@
           
         
 
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/#service">
+          <a class="nav-link " href="/#service">
             
             <span>Service</span>
             
@@ -294,8 +365,22 @@
           
         
 
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/#teaching">
+          <a class="nav-link " href="/#teaching">
             
             <span>Teaching</span>
             
@@ -313,8 +398,22 @@
           
         
 
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/#contact">
+          <a class="nav-link " href="/#contact">
             
             <span>Contact</span>
             
@@ -376,41 +475,39 @@
   
     
 
+
+
+<meta content="2018-03-05 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2018-03-05 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
 <div class="article-metadata">
 
   
   
   
+  
   <div>
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">H. R. Ghaeini</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">D. Antonioli</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">F. Brasser</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">A. R. Sadeghi</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">N. O. Tippenhauer</span>
-    </span>
     
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/h.-r.-ghaeini/">H. R. Ghaeini</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/d.-antonioli/">D. Antonioli</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/f.-brasser/">F. Brasser</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-r.-sadeghi/">A. R. Sadeghi</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/n.-o.-tippenhauer/">N. O. Tippenhauer</a></span>
+
   </div>
   
+  
 
+  
   <span class="article-date">
     
-    <meta content="2018-03-05 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2018-03-05 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-      Mar 5, 2018
-    </time>
+    
+      
+    
+    <time>March 2018</time>
   </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Daniele Antonioli">
-  </span>
+  
+
+  
 
   
 
@@ -421,42 +518,43 @@
   
 
   
+  
 
   
-  
+    
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=State-Aware%20Anomaly%20Detection%20for%20Industrial%20Control%20Systems&amp;url=https%3a%2f%2ffrancozappa.github.io%2fpublication%2fstate-anomaly-detection%2f"
+         href="https://twitter.com/intent/tweet?text=&amp;url="
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2ffrancozappa.github.io%2fpublication%2fstate-anomaly-detection%2f"
+         href="https://www.facebook.com/sharer.php?u="
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ffrancozappa.github.io%2fpublication%2fstate-anomaly-detection%2f&amp;title=State-Aware%20Anomaly%20Detection%20for%20Industrial%20Control%20Systems"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title="
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2ffrancozappa.github.io%2fpublication%2fstate-anomaly-detection%2f&amp;title=State-Aware%20Anomaly%20Detection%20for%20Industrial%20Control%20Systems"
+         href="http://service.weibo.com/share/share.php?url=&amp;title="
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=State-Aware%20Anomaly%20Detection%20for%20Industrial%20Control%20Systems&amp;body=https%3a%2f%2ffrancozappa.github.io%2fpublication%2fstate-anomaly-detection%2f">
+         href="mailto:?subject=&amp;body=">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -476,9 +574,6 @@
 
 
 
-  
-
-
 
 
 
@@ -496,13 +591,12 @@
 
 
 
-  
-
 
 
   
     
   
+
 
 
 <a class="btn btn-outline-primary my-1 mr-1" href="http://people.sutd.edu.sg/~1001407/wp-content/uploads/2018/02/1297_Paper.pdf" target="_blank" rel="noopener">
@@ -557,6 +651,7 @@
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
             
+            
             <a href="/publication/#1">
               Conference paper
             </a>
@@ -583,34 +678,45 @@
     <div class="d-md-none space-below"></div>
     
 
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Date</div>
-          <div class="col-12 col-md-9" itemprop="datePublished">
-            March, 2018
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-sm-none space-below"></div>
-
     <div class="space-below"></div>
 
     <div class="article-style"></div>
 
     
 
+
     
 
 
 
+
+
+
+
+
+  
+  
+    
+  
   
 
 
 
+
+
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/h.-r.-ghaeini/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
 
 
 
@@ -682,15 +788,14 @@
     
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
         
       
 
@@ -767,9 +872,13 @@
     
     
     
-    <script src="/js/academic.min.d037ee5294b166a79dec317c58aea9cc.js"></script>
-
     
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.15494b02d66be9b96bab2e305f69c460.js"></script>
 
   </body>
 </html>

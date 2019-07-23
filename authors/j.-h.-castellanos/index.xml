@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. H. Castellanos on Daniele Antonioli</title>
+    <link>https://francozappa.github.io/authors/j.-h.-castellanos/</link>
+    <description>Recent content in J. H. Castellanos on Daniele Antonioli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://francozappa.github.io/authors/j.-h.-castellanos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Legacy-Compliant Data Authentication for Industrial Control System Traffic</title>
+      <link>https://francozappa.github.io/publication/legacy-authentication/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://francozappa.github.io/publication/legacy-authentication/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
