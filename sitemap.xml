@@ -4,24 +4,41 @@
   
   <url>
     <loc>https://francozappa.github.io/</loc>
-    <lastmod>2019-06-10T11:28:36+08:00</lastmod>
+    <lastmod>2019-08-14T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/knob-announce/</loc>
+    <lastmod>2019-08-14T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/</loc>
+    <lastmod>2019-08-14T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/</loc>
+    <lastmod>2019-08-14T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/knob/</loc>
+    <lastmod>2019-08-14T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/news/</loc>
+    <lastmod>2019-08-14T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://francozappa.github.io/post/phd-defense/</loc>
     <lastmod>2019-06-10T11:28:36+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/post/</loc>
-    <lastmod>2019-06-10T11:28:36+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tags/</loc>
-    <lastmod>2019-06-10T11:28:36+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -38,18 +55,18 @@
   
   <url>
     <loc>https://francozappa.github.io/post/ndss19-video/</loc>
-    <lastmod>2019-04-03T00:00:00+08:00</lastmod>
+    <lastmod>2019-04-03T00:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://francozappa.github.io/tags/ndss/</loc>
-    <lastmod>2019-04-03T00:00:00+08:00</lastmod>
+    <lastmod>2019-04-03T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://francozappa.github.io/tags/video/</loc>
-    <lastmod>2019-04-03T00:00:00+08:00</lastmod>
+    <lastmod>2019-04-03T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -107,24 +124,24 @@
   
   <url>
     <loc>https://francozappa.github.io/post/cfp-cps-sec19/</loc>
-    <lastmod>2019-02-14T00:00:00+08:00</lastmod>
+    <lastmod>2019-02-14T00:00:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://francozappa.github.io/tags/cfp/</loc>
-    <lastmod>2019-02-14T00:00:00+08:00</lastmod>
+    <lastmod>2019-02-14T00:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://francozappa.github.io/tags/cps-sec/</loc>
-    <lastmod>2019-02-14T00:00:00+08:00</lastmod>
+    <lastmod>2019-02-14T00:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://francozappa.github.io/tags/tpc/</loc>
-    <lastmod>2019-02-14T00:00:00+08:00</lastmod>
+    <lastmod>2019-02-14T00:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -153,17 +170,17 @@
   
   <url>
     <loc>https://francozappa.github.io/publication/rearby/</loc>
-    <lastmod>2019-02-02T00:00:00+08:00</lastmod>
+    <lastmod>2019-02-02T00:00:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://francozappa.github.io/post/ndss19-cr/</loc>
-    <lastmod>2019-01-23T00:00:00+08:00</lastmod>
+    <lastmod>2019-01-23T00:00:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://francozappa.github.io/tags/code/</loc>
-    <lastmod>2019-01-23T00:00:00+08:00</lastmod>
+    <lastmod>2019-01-23T00:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -186,7 +203,7 @@
   
   <url>
     <loc>https://francozappa.github.io/post/ndss19/</loc>
-    <lastmod>2018-11-15T00:00:00+08:00</lastmod>
+    <lastmod>2018-11-15T00:00:00-08:00</lastmod>
   </url>
   
   <url>
@@ -415,6 +432,11 @@
   </url>
   
   <url>
+    <loc>https://francozappa.github.io/talk/example-talk/</loc>
+    <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://francozappa.github.io/tags/academic/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -430,11 +452,6 @@
   </url>
   
   <url>
-    <loc>https://francozappa.github.io/talk/example-talk/</loc>
-    <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://francozappa.github.io/authors/a.-agrawal/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -447,7 +464,7 @@
   
   <url>
     <loc>https://francozappa.github.io/publication/minicps/</loc>
-    <lastmod>2015-01-01T00:00:00+08:00</lastmod>
+    <lastmod>2015-01-01T00:00:00-08:00</lastmod>
   </url>
   
   <url>
