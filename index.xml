@@ -7,10 +7,24 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
-    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 -0700</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KNOB Attack Repository is Online</title>
+      <link>https://francozappa.github.io/post/knob-repo/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://francozappa.github.io/post/knob-repo/</guid>
+      <description>&lt;p&gt;Our &lt;a href=&#34;https://github.com/francozappa/knob&#34; target=&#34;_blank&#34;&gt;KNOB repository&lt;/a&gt;
+is online, and it includes our
+&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34; target=&#34;_blank&#34;&gt;PoC&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For more information visit &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Key Negotiation Of Bluetooth (KNOB) Attack</title>
