@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
-    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2019 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://francozappa.github.io/tags/knob/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KNOB Attack Code for E0 and Slides from USEC19 are Online</title>
+      <link>https://francozappa.github.io/post/knob-repo2/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://francozappa.github.io/post/knob-repo2/</guid>
+      <description>The code that we developed to validate and brute force E0 encryption keys is online.
+The slides of my KNOB attack USEC19 talk are also online. As we can see from the slides, the KNOB attack is not conducted while two Bluetooth devices are pairing, but when two devices are connecting (establishing a new encrypted session). Bluetooth (BR/EDR) is a technology with a pair-once connect-multiple-times paradigm. For example, you pair your smartphone with your car once, and then every day you connect the two and the devices negotiate a new (fresh) encryption key.</description>
+    </item>
     
     <item>
       <title>KNOB Attack Repository is Online</title>
