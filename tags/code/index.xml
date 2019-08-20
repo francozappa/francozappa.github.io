@@ -4,12 +4,12 @@
     <title>code on Daniele Antonioli</title>
     <link>https://francozappa.github.io/tags/code/</link>
     <description>Recent content in code on Daniele Antonioli</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
     <lastBuildDate>Sun, 18 Aug 2019 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://francozappa.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://francozappa.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,8 +18,25 @@
       <pubDate>Sun, 18 Aug 2019 00:00:00 -0700</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-repo2/</guid>
-      <description>The code that we developed to validate and brute force E0 encryption keys is online.
-The slides of my KNOB attack USEC19 talk are also online. As we can see from the slides, the KNOB attack is not conducted while two Bluetooth devices are pairing, but when two devices are connecting (establishing a new encrypted session). Bluetooth (BR/EDR) is a technology with a pair-once connect-multiple-times paradigm. For example, you pair your smartphone with your car once, and then every day you connect the two and the devices negotiate a new (fresh) encryption key.</description>
+      <description>&lt;p&gt;The
+&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/e0&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;
+that we developed to validate and brute force
+&lt;a href=&#34;https://en.wikipedia.org/wiki/E0_(cipher)&#34; target=&#34;_blank&#34;&gt;E0&lt;/a&gt;
+encryption keys is online.&lt;/p&gt;
+
+&lt;p&gt;The
+&lt;a href=&#34;https://francozappa.github.io/publication/knob/slides.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;
+of my KNOB attack USEC19 talk are also online.
+As we can see from the slides, the KNOB attack is &lt;em&gt;not&lt;/em&gt;
+conducted while two Bluetooth devices are pairing, but when two devices are
+connecting (establishing a new encrypted session).
+Bluetooth (BR/EDR) is a technology with a &lt;em&gt;pair-once&lt;/em&gt;
+&lt;em&gt;connect-multiple-times&lt;/em&gt; paradigm. For example, you pair your smartphone
+with your car once, and then every day you connect the two and the devices
+negotiate a new (fresh) encryption key.&lt;/p&gt;
+
+&lt;p&gt;For more information visit &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -28,8 +45,12 @@ The slides of my KNOB attack USEC19 talk are also online. As we can see from the
       <pubDate>Fri, 16 Aug 2019 00:00:00 -0700</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-repo/</guid>
-      <description>Our KNOB repository is online, and it includes our PoC.
-For more information visit knobattack.com</description>
+      <description>&lt;p&gt;Our &lt;a href=&#34;https://github.com/francozappa/knob&#34; target=&#34;_blank&#34;&gt;KNOB repository&lt;/a&gt;
+is online, and it includes our
+&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34; target=&#34;_blank&#34;&gt;PoC&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For more information visit &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -38,8 +59,20 @@ For more information visit knobattack.com</description>
       <pubDate>Wed, 23 Jan 2019 00:00:00 -0800</pubDate>
       
       <guid>https://francozappa.github.io/post/ndss19-cr/</guid>
-      <description>The camera-ready version of Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android is available here
-We also released a proof of concept code to perform the Soft AP manipulation attack. The code was previously disclosed to Google. In summary, the attack allows a malicious Nearby Connections server (advertiser) to redirect a client to a malicious Internet connected access point. As a result the attacker can reconfigure the wireless network interface of the victim via DHCP and gets access to all the Wi-Fi traffic (even traffic from non Nearby Connections applications).</description>
+      <description>&lt;p&gt;The camera-ready version of
+&lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;
+is available
+&lt;a href=&#34;https://francozappa.github.io/publication/rearby/paper.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We also released a
+&lt;a href=&#34;https://github.com/francozappa/REarby/tree/master/poc-hostapd&#34; target=&#34;_blank&#34;&gt;proof of concept code&lt;/a&gt;
+to perform the &lt;em&gt;Soft AP manipulation attack&lt;/em&gt;. The code was previously
+disclosed to Google. In summary, the attack allows a malicious Nearby
+Connections server (advertiser) to redirect a client to a malicious Internet
+connected access point. As a result the attacker can reconfigure the wireless
+network interface of the victim via DHCP and gets access to all the Wi-Fi
+traffic (even traffic from non Nearby Connections applications).&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -48,9 +81,31 @@ We also released a proof of concept code to perform the Soft AP manipulation att
       <pubDate>Tue, 21 Nov 2017 14:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/minicps-s3-code/</guid>
-      <description>I recently open-sourced the code that I developed for the MiniCPS challenges for the SWaT Security Showdown (S3) event in 2017.
-Here is the code.
-The init.sh contains the list of commands that I run on a local testing machine and on the remote AWS instances that we used during the event. The attackers were provided with the VPN credentials to access two different subnetworks in a mixed MiniCPS simulation eg: water treatment (SWaT) and water distribution (WaDI).</description>
+      <description>&lt;p&gt;I recently open-sourced the code that I developed for the MiniCPS challenges
+for the SWaT Security Showdown (S3) event in 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/scy-phy/minicps/tree/master/examples/s3-2017&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; is the code.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;init.sh&lt;/code&gt; contains the list of commands that I run on a local testing
+machine and on the remote AWS instances that we used during the event.
+The attackers were provided with the VPN credentials to
+access two different subnetworks in a &lt;em&gt;mixed&lt;/em&gt; MiniCPS simulation eg:
+water treatment (SWaT) and water distribution (WaDI).&lt;/p&gt;
+
+&lt;p&gt;The code is expecting to find the four files (flags) in the &lt;code&gt;/root/flags&lt;/code&gt;
+folder named &lt;code&gt;wadi1&lt;/code&gt;, &lt;code&gt;wadi2&lt;/code&gt;, &lt;code&gt;flag2&lt;/code&gt;, and &lt;code&gt;flag3&lt;/code&gt;. Indeed you have to create
+those files and write the string flags.&lt;/p&gt;
+
+&lt;p&gt;The relevant information to start and stop the challenges are in the
+&lt;code&gt;README.md&lt;/code&gt;. In general, I like to use a &lt;code&gt;Makefile&lt;/code&gt; as a launcher for the various
+commands. If you open the file, you will find several targets. To test the
+challenges locally use:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;make local
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Please let me know if you find any bugs or missing files.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

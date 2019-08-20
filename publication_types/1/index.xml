@@ -4,12 +4,12 @@
     <title>1 on Daniele Antonioli</title>
     <link>https://francozappa.github.io/publication_types/1/</link>
     <description>Recent content in 1 on Daniele Antonioli</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://francozappa.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://francozappa.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -72,7 +72,8 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://francozappa.github.io/publication/honeypot/</guid>
-      <description>This paper won the Research excellence award by ST Engineering during the FIRST workshop in 2017.</description>
+      <description>&lt;p&gt;This paper won the &lt;strong&gt;Research excellence award by ST Engineering during the FIRST workshop in 2017&lt;/strong&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>

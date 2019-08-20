@@ -4,12 +4,12 @@
     <title>protocol on Daniele Antonioli</title>
     <link>https://francozappa.github.io/tags/protocol/</link>
     <description>Recent content in protocol on Daniele Antonioli</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
     <lastBuildDate>Tue, 20 Aug 2019 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://francozappa.github.io/tags/protocol/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://francozappa.github.io/tags/protocol/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,7 +18,14 @@
       <pubDate>Tue, 20 Aug 2019 00:00:00 -0700</pubDate>
       
       <guid>https://francozappa.github.io/project/knob/</guid>
-      <description>Standard-compliant attack to the Key Negotiation Of Bluetooth (KNOB)</description>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://knobattack.com&#34; target=&#34;_blank&#34;&gt;Key Negotiation Of Bluetooth (KNOB) attack&lt;/a&gt; exploits
+the fact that the specification of Bluetooth includes an encryption key negotiation protocol
+that allows to negotiate encryption keys with entropy as low as 1 Byte, without
+protecting the integrity of the negotiation process. A remote attacker can
+manipulate the entropy negotiation to let any standard compliant Bluetooth
+device negotiate encryption keys with 1 byte of entropy, and then brute force
+the low entropy keys in real time.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,7 +34,9 @@
       <pubDate>Sat, 02 Feb 2019 17:46:49 +0800</pubDate>
       
       <guid>https://francozappa.github.io/project/rearby/</guid>
-      <description>A toolkit to reverse engineer and attack Google&amp;rsquo;s Nearby Connections</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/francozappa/REarby&#34; target=&#34;_blank&#34;&gt;REarby&lt;/a&gt; is a toolkit that I developed to reverse engineer and attack
+&lt;a href=&#34;https://developers.google.com/nearby/connections/overview&#34; target=&#34;_blank&#34;&gt;Google&amp;rsquo;s Nearby Connections&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

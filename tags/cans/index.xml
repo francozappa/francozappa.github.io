@@ -4,12 +4,12 @@
     <title>cans on Daniele Antonioli</title>
     <link>https://francozappa.github.io/tags/cans/</link>
     <description>Recent content in cans on Daniele Antonioli</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
     <lastBuildDate>Sat, 02 Dec 2017 11:28:36 +0800</lastBuildDate>
     
-	<atom:link href="https://francozappa.github.io/tags/cans/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://francozappa.github.io/tags/cans/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,9 +18,18 @@
       <pubDate>Sat, 02 Dec 2017 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/cans17/</guid>
-      <description>This week I&amp;rsquo;ve been in Hong Kong for the Cryptology And Network Security Conference (CANS) 2017 conference.
-I&amp;rsquo;ve presented our paper about: Practical Evaluation of Passive COTS Eavesdropping in 802.11b/n/ac WLAN.
-Here I&amp;rsquo;m sharing some pictures with some new friends:</description>
+      <description>&lt;p&gt;This week I&amp;rsquo;ve been in Hong Kong for the
+&lt;a href=&#34;http://crypto.ie.cuhk.edu.hk/cans17/index.html&#34; target=&#34;_blank&#34;&gt;Cryptology And Network Security Conference (CANS) 2017&lt;/a&gt; conference.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve presented our paper about:
+&lt;a href=&#34;https://francozappa.github.io/publication/antonioli17eavesdropping/&#34; target=&#34;_blank&#34;&gt;Practical Evaluation of Passive COTS Eavesdropping in 802.11b/n/ac WLAN&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here I&amp;rsquo;m sharing some pictures with some new friends:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/cans17-ferry.jpg&#34; alt=&#34;CANS17 Ferry&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/cans17-dinner.jpg&#34; alt=&#34;CANS17 Dinner&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

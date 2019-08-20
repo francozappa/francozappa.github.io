@@ -4,12 +4,12 @@
     <title>vpn on Daniele Antonioli</title>
     <link>https://francozappa.github.io/tags/vpn/</link>
     <description>Recent content in vpn on Daniele Antonioli</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
     <lastBuildDate>Sat, 20 Jan 2018 11:28:36 +0800</lastBuildDate>
     
-	<atom:link href="https://francozappa.github.io/tags/vpn/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://francozappa.github.io/tags/vpn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,8 +18,39 @@
       <pubDate>Sat, 20 Jan 2018 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/sutd-vpn/</guid>
-      <description>I&amp;rsquo;ve recently came across the problem of connecting to the SUTD VPN server from overseas. SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of writing is none, and after a bit of research I&amp;rsquo;ve found a quick and easy solution.
-SUTD runs Pulse Connect Secure (PCS) server, a commercial solution known as Juniper SSL VPN. Luckily there is an open-source client that supports PCS named OpenConnect. Arch has an openconnect package and a NetworkManager plugin called networkmanager-openconnect.</description>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently came across the problem of connecting to the SUTD VPN server
+from overseas. SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of writing
+is &lt;em&gt;none&lt;/em&gt;, and after a bit of research I&amp;rsquo;ve found a quick and easy solution.&lt;/p&gt;
+
+&lt;p&gt;SUTD runs &lt;em&gt;Pulse Connect Secure (PCS)&lt;/em&gt; server, a commercial solution known as
+&lt;em&gt;Juniper SSL VPN&lt;/em&gt;. Luckily there is an open-source client that supports PCS
+named &lt;em&gt;OpenConnect&lt;/em&gt;. Arch has an &lt;code&gt;openconnect&lt;/code&gt; package and a NetworkManager
+plugin called &lt;code&gt;networkmanager-openconnect&lt;/code&gt;. Install both packages trough your
+package manager.&lt;/p&gt;
+
+&lt;p&gt;Then you can use the (user-friendly?) NetworkManager GUI to add the new VPN setup.
+Use the openconnect profile and all the default options (eg: no need of Realm, and Certificates).
+Point your &lt;code&gt;Gateway&lt;/code&gt; to &lt;code&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_0/welcome.cgi&lt;/code&gt; and
+your GUI screen should look like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/sutd-vpn-student.png&#34; alt=&#34;SUTD VPN Student&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then save it and you will be prompted to accept a certificate. Once you accept
+it you can enter your username (student_id eg: &lt;code&gt;1001234&lt;/code&gt;) and passwords (same
+as the &lt;code&gt;SUTD_Student&lt;/code&gt; network&amp;rsquo;s one). Once you are connected your GUI should
+present you a message to confirm that. You can manually check it using
+&lt;code&gt;ifconfig&lt;/code&gt; and &lt;code&gt;route&lt;/code&gt; commands.
+If you encounter problems try to have a look
+&lt;a href=&#34;https://wiki.archlinux.org/index.php?title=Pulse_Connect_Secure&amp;amp;mobileaction&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;
+or post a comment below.&lt;/p&gt;
+
+&lt;p&gt;P.S. Thanks to
+&lt;a href=&#34;http://people.sutd.edu.sg/~nils_tippenhauer/connecting-to-sutd-vpn-from-linux/&#34; target=&#34;_blank&#34;&gt;Nils&amp;rsquo;s post&lt;/a&gt;
+from which I&amp;rsquo;ve started my research,
+this post should update it with an easier setup!&lt;/p&gt;
+
+&lt;p&gt;🐧&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -4,12 +4,12 @@
     <title>rearby on Daniele Antonioli</title>
     <link>https://francozappa.github.io/tags/rearby/</link>
     <description>Recent content in rearby on Daniele Antonioli</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
     <lastBuildDate>Sat, 02 Feb 2019 17:46:49 +0800</lastBuildDate>
     
-	<atom:link href="https://francozappa.github.io/tags/rearby/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://francozappa.github.io/tags/rearby/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,7 +18,9 @@
       <pubDate>Sat, 02 Feb 2019 17:46:49 +0800</pubDate>
       
       <guid>https://francozappa.github.io/project/rearby/</guid>
-      <description>A toolkit to reverse engineer and attack Google&amp;rsquo;s Nearby Connections</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/francozappa/REarby&#34; target=&#34;_blank&#34;&gt;REarby&lt;/a&gt; is a toolkit that I developed to reverse engineer and attack
+&lt;a href=&#34;https://developers.google.com/nearby/connections/overview&#34; target=&#34;_blank&#34;&gt;Google&amp;rsquo;s Nearby Connections&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

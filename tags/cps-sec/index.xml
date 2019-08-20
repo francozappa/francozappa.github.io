@@ -4,12 +4,12 @@
     <title>cps-sec on Daniele Antonioli</title>
     <link>https://francozappa.github.io/tags/cps-sec/</link>
     <description>Recent content in cps-sec on Daniele Antonioli</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
     <lastBuildDate>Thu, 14 Feb 2019 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="https://francozappa.github.io/tags/cps-sec/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://francozappa.github.io/tags/cps-sec/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,9 +18,53 @@
       <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
       
       <guid>https://francozappa.github.io/post/cfp-cps-sec19/</guid>
-      <description>Recently, I&amp;rsquo;ve accepted the invitation to join the IEEE CPS-SEC workshop TPC. CPS-SEC is co-located with the IEEE CNS conference . From the official website:
- The IEEE International Workshop on Cyber-Physical Systems Security (CPS-Sec) will be held in conjunction with the IEEE Conference on Communications and Network Security (CNS) 2019 in Washington, D.C., USA, on 10-12 June, 2019.
-Nowadays, the correct functioning of information systems represents a fundamental milestone for the well-being of modern economies and societies.</description>
+      <description>&lt;p&gt;Recently, I&amp;rsquo;ve accepted the invitation to join the
+&lt;a href=&#34;https://cns2019.ieee-cns.org/workshop/cps-sec-international-workshop-cyber-physical-systems-security&#34; target=&#34;_blank&#34;&gt;IEEE CPS-SEC workshop&lt;/a&gt;
+TPC. CPS-SEC is co-located with the
+&lt;a href=&#34;https://cns2019.ieee-cns.org/&#34; target=&#34;_blank&#34;&gt;IEEE CNS conference&lt;/a&gt; .
+From the official website:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The IEEE International Workshop on Cyber-Physical Systems Security (CPS-Sec)
+will be held in conjunction with the IEEE Conference on Communications and
+Network Security (CNS) 2019 in Washington, D.C., USA, on 10-12 June, 2019.&lt;/p&gt;
+
+&lt;p&gt;Nowadays, the correct functioning of information systems represents a
+fundamental milestone for the well-being of modern economies and societies.
+The scientific evolution of digital, analog, and physical components with the
+interactions between networks created the Cyber-Physical Systems (CPS). Even
+though the benefits of the cyber and physical world interactions are
+noticeable, new security challenges have arisen: typical vulnerabilities from
+the cyber domain emerged in CPS. Cyber-attacks over CPS pose different
+security challenges. In particular, classic Information Technology (IT) cyber
+security tools are considered partially or totally ineffective in CPS
+scenarios because complex cyber-physical attacks could avoid security
+detection methodologies developed specifically for the IT world. The
+prevention, detection, and mitigation of cyber-attacks encompass both the
+physical and the cyber layers of a system: to this end, approaches to securing
+CPS consider techniques adopted in the physical domain and in the cyber space.&lt;/p&gt;
+
+&lt;p&gt;Following the success of the previous editions, the IEEE International
+Workshop on Cyber-Physical Systems Security 2019 (CPS-Sec 2019) aims to
+represent a forum for researchers and practitioners from industry and academia
+interested in the areas of CPS security. CPS-Sec 2019 seeks novel submissions
+describing practical and theoretical solutions to the cyber-physical security
+challenges. A submission may represent any CPS domain, including embedded
+systems, Internet of Things (IoT), Industrial Internet of Things (IIoT), SCADA
+Systems, Smart-Grid Systems, Critical Infrastructure, Automotive and
+Transportation Systems, Medical applications.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Important dates:
+
+&lt;ul&gt;
+&lt;li&gt;Submission Deadline: 15 March, 2019 (extended)&lt;/li&gt;
+&lt;li&gt;Notification of Acceptance: 26 March, 2019&lt;/li&gt;
+&lt;li&gt;Camera-Ready: 2 April, 2019&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

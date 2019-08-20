@@ -4,11 +4,11 @@
     <title>Daniele Antonioli</title>
     <link>https://francozappa.github.io/authors/admin/</link>
     <description>Recent content on Daniele Antonioli</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
     
-	<atom:link href="https://francozappa.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://francozappa.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +17,29 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://francozappa.github.io/authors/admin/</guid>
-      <description>I&amp;rsquo;m interested in various aspects of cyber-physical and wireless systems security.
-I hold a PhD in Computer Science from the Singapore University Design and Technology (SUTD), As part of my PhD I spent six months at the Computer Science Department of the University of Oxford (UK) as a visiting researcher advised by Kasper Rasmussen, and ten months as a visiting researcher at the Helmholtz Center for Information Security (CISPA) advised by Nils Ole Tippenhauer.</description>
+      <description>&lt;p&gt;I&amp;rsquo;m interested in various aspects of &lt;em&gt;cyber-physical and wireless systems security&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I hold a PhD in Computer Science from the &lt;a href=&#34;https://sutd.edu.sg/&#34; target=&#34;_blank&#34;&gt;Singapore University Design
+and Technology (SUTD)&lt;/a&gt;, As part of my PhD I spent
+six months at the Computer Science Department of the &lt;a href=&#34;http://www.cs.ox.ac.uk/&#34; target=&#34;_blank&#34;&gt;University of
+Oxford (UK)&lt;/a&gt; as a visiting researcher advised
+by &lt;a href=&#34;https://www.cs.ox.ac.uk/people/kasper.rasmussen/&#34; target=&#34;_blank&#34;&gt;Kasper Rasmussen&lt;/a&gt;,
+and ten months as a visiting researcher at the &lt;a href=&#34;https://cispa.saarland/&#34; target=&#34;_blank&#34;&gt;Helmholtz Center for
+Information Security (CISPA)&lt;/a&gt; advised by &lt;a href=&#34;https://tippenhauer.de/&#34; target=&#34;_blank&#34;&gt;Nils Ole
+Tippenhauer&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I hold a BS and MS in Electronics and Telecommunications Engineering
+from the &lt;a href=&#34;http://www.unibo.it/en&#34; target=&#34;_blank&#34;&gt;University of Bologna (UniBO)&lt;/a&gt;.
+I spent three months at the &lt;a href=&#34;http://www.umass.edu/&#34; target=&#34;_blank&#34;&gt;University of Massachusetts (UMass
+Amherst)&lt;/a&gt; as a research assistant to prepare my
+master thesis about random number generation and testing advised by &lt;a href=&#34;https://ece.umass.edu/faculty/wayne-burleson&#34; target=&#34;_blank&#34;&gt;Wayne
+Burleson&lt;/a&gt; and &lt;a href=&#34;https://www.unibo.it/sitoweb/riccardo.rovatti&#34; target=&#34;_blank&#34;&gt;Riccardo
+Rovatti&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!---
+For more information please have a look at my &lt;a href=&#34;https://francozappa.github.io/files/cv.pdf&#34;&gt;CV&lt;/a&gt;
+--&gt;
+</description>
     </item>
     
   </channel>

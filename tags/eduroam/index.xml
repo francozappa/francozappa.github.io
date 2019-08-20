@@ -4,12 +4,12 @@
     <title>eduroam on Daniele Antonioli</title>
     <link>https://francozappa.github.io/tags/eduroam/</link>
     <description>Recent content in eduroam on Daniele Antonioli</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
+    <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
     <lastBuildDate>Sat, 27 Jan 2018 11:28:36 +0800</lastBuildDate>
     
-	<atom:link href="https://francozappa.github.io/tags/eduroam/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://francozappa.github.io/tags/eduroam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,8 +18,29 @@
       <pubDate>Sat, 27 Jan 2018 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/sutd-eduroam/</guid>
-      <description>After the post about connecting to SUTD&amp;rsquo;s VPN is now time to connect eduroam! Again, SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of writing is none.
-SUTD runs a setup with only username-password (no certificates required) and the connection can be established using the GUI of NetworkManager. If your WiFi card is on and eduroam is in your range you should see the eduroam SSID on the list of the available WiFi networks.</description>
+      <description>&lt;p&gt;After the
+&lt;a href=&#34;https://francozappa.github.io/post/sutd-vpn-student/&#34; target=&#34;_blank&#34;&gt;post about connecting to SUTD&amp;rsquo;s VPN&lt;/a&gt;
+is now time to connect eduroam! Again, SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of
+writing is &lt;em&gt;none&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;SUTD runs a setup with only username-password (no certificates required) and
+the connection can be established using the GUI of NetworkManager. If your
+WiFi card is on and eduroam is in your range you should see the &lt;code&gt;eduroam&lt;/code&gt; SSID
+on the list of the available WiFi networks. If you attempt to connect then
+all you need to do is enter your &lt;code&gt;username&lt;/code&gt; and &lt;code&gt;password&lt;/code&gt;. As usual, PhD
+student and staff are separated into different namespaces. Use the username
+&lt;code&gt;name_surname@sutd.edu.sg&lt;/code&gt; if you are a staff member or &lt;code&gt;xxxxxxx@sutd.edu.sg&lt;/code&gt;
+if you are a student (&lt;code&gt;xxxxxxx&lt;/code&gt; is your 7-digits student id). The password
+should be the same as the one you are using to connect to the Internet from
+SUTD.&lt;/p&gt;
+
+&lt;p&gt;Your NetworkManager Wi-Fi Security screen should look like this (&lt;code&gt;username&lt;/code&gt; and
+&lt;code&gt;password&lt;/code&gt; are obscured):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/sutd-eduroam.png&#34; alt=&#34;SUTD eduroam&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;🐧&lt;/p&gt;
+</description>
     </item>
     
   </channel>
