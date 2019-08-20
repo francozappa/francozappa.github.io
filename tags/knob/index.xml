@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
-    <lastBuildDate>Sun, 18 Aug 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://francozappa.github.io/tags/knob/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KNOB Attack FAQ</title>
+      <link>https://francozappa.github.io/post/knob-faq/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://francozappa.github.io/post/knob-faq/</guid>
+      <description>In this post I&amp;rsquo;m trying to address some discussion points and misconceptions about the KNOB attack.
+Attribution  Researchers from CISPA discovered the KNOB attack
+ Partially true. The KNOB attack was discovered by myself (Daniele Antonioli) from SUTD, Nils Ole Tippenhauer from CISPA, and Kasper Rasmussen from the University of Oxford. In particular, I&amp;rsquo;ve identified the vulnerability back in May 2018 while I was working with Kasper on Nearby Connections at the University of Oxford, and I wrote the first exploit in October 2018 while I was visiting Nils (my former advisor at SUTD) at CISPA.</description>
+    </item>
     
     <item>
       <title>KNOB Attack Code for E0 and Slides from USEC19 are Online</title>
