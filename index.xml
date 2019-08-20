@@ -32,8 +32,8 @@ misconceptions about the KNOB attack.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Partially true&lt;/strong&gt;. The KNOB attack was discovered by myself (Daniele Antonioli) from SUTD,
 Nils Ole Tippenhauer from CISPA, and Kasper Rasmussen from the University of Oxford.
 In particular, I&amp;rsquo;ve identified the vulnerability back in &lt;em&gt;May 2018&lt;/em&gt; while I was
-working with Kasper on &lt;a href=&#34;http://www.url.com&#34; target=&#34;_blank&#34;&gt;Nearby Connections&lt;/a&gt; at the University of
-Oxford, and I wrote
+working with Kasper on &lt;a href=&#34;https://francozappa.github.io/publication/rearby/&#34; target=&#34;_blank&#34;&gt;Nearby Connections&lt;/a&gt;
+at the University of Oxford, and I wrote
 the first exploit in &lt;em&gt;October 2018&lt;/em&gt; while I was visiting Nils (my former
 advisor at SUTD) at CISPA. I&amp;rsquo;d like to thank the researchers from CISPA
 who kindly lent me their Bluetooth devices.&lt;/p&gt;
