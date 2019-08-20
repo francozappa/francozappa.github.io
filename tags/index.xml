@@ -7,17 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
-    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://francozappa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>blueooth</title>
+      <link>https://francozappa.github.io/tags/blueooth/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/blueooth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>knob</title>
       <link>https://francozappa.github.io/tags/knob/</link>
-      <pubDate>Mon, 19 Aug 2019 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 -0700</pubDate>
       
       <guid>https://francozappa.github.io/tags/knob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>protocol</title>
+      <link>https://francozappa.github.io/tags/protocol/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/protocol/</guid>
       <description></description>
     </item>
     
@@ -108,15 +126,6 @@
       <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
       
       <guid>https://francozappa.github.io/tags/tpc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>protocol</title>
-      <link>https://francozappa.github.io/tags/protocol/</link>
-      <pubDate>Sat, 02 Feb 2019 17:46:49 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/protocol/</guid>
       <description></description>
     </item>
     

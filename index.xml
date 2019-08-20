@@ -7,10 +7,26 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
-    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 -0700</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KNOB</title>
+      <link>https://francozappa.github.io/project/knob/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://francozappa.github.io/project/knob/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://knobattack.com&#34; target=&#34;_blank&#34;&gt;Key Negotiation Of Bluetooth (KNOB) attack&lt;/a&gt; exploits
+the fact that the specification of Bluetooth includes an encryption key negotiation protocol
+that allows to negotiate encryption keys with entropy as low as 1 Byte, without
+protecting the integrity of the negotiation process. A remote attacker can
+manipulate the entropy negotiation to let any standard compliant Bluetooth
+device negotiate encryption keys with 1 byte of entropy, and then brute force
+the low entropy keys in real time.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>KNOB Attack FAQ</title>

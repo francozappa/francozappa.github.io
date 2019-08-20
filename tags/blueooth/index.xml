@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>protocol on Daniele Antonioli</title>
-    <link>https://francozappa.github.io/tags/protocol/</link>
-    <description>Recent content in protocol on Daniele Antonioli</description>
+    <title>blueooth on Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tags/blueooth/</link>
+    <description>Recent content in blueooth on Daniele Antonioli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Daniele Antonioli</copyright>
     <lastBuildDate>Tue, 20 Aug 2019 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://francozappa.github.io/tags/protocol/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://francozappa.github.io/tags/blueooth/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://francozappa.github.io/project/knob/</guid>
       <description>Standard-compliant attack to the Key Negotiation Of Bluetooth (KNOB)</description>
-    </item>
-    
-    <item>
-      <title>REarby</title>
-      <link>https://francozappa.github.io/project/rearby/</link>
-      <pubDate>Sat, 02 Feb 2019 17:46:49 +0800</pubDate>
-      
-      <guid>https://francozappa.github.io/project/rearby/</guid>
-      <description>A toolkit to reverse engineer and attack Google&amp;rsquo;s Nearby Connections</description>
     </item>
     
   </channel>
