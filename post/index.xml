@@ -7,15 +7,32 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>KNOB Attack Add Slave Patch for poc-internalblue</title>
+      <link>https://francozappa.github.io/post/knob-repo3/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/post/knob-repo3/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve pushed the
+&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;
+to perform the KNOB attack also when the Nexus 5 is the Bluetooth slave
+responding to the first LMP packet. To switch between different attack modes
+have a look at the updated
+&lt;a href=&#34;https://github.com/francozappa/knob/blob/master/poc-internalblue/README.md&#34; target=&#34;_blank&#34;&gt;README&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For more information visit &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>KNOB Attack FAQ</title>
       <link>https://francozappa.github.io/post/knob-faq/</link>
-      <pubDate>Mon, 19 Aug 2019 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-faq/</guid>
       <description>
@@ -135,7 +152,7 @@ attack over the air.&lt;/p&gt;
     <item>
       <title>KNOB Attack Code for E0 and Slides from USEC19 are Online</title>
       <link>https://francozappa.github.io/post/knob-repo2/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-repo2/</guid>
       <description>&lt;p&gt;The
@@ -162,7 +179,7 @@ negotiate a new (fresh) encryption key.&lt;/p&gt;
     <item>
       <title>KNOB Attack Repository is Online</title>
       <link>https://francozappa.github.io/post/knob-repo/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-repo/</guid>
       <description>&lt;p&gt;Our &lt;a href=&#34;https://github.com/francozappa/knob&#34; target=&#34;_blank&#34;&gt;KNOB repository&lt;/a&gt;
@@ -176,7 +193,7 @@ is online, and it includes our
     <item>
       <title>Key Negotiation Of Bluetooth (KNOB) Attack</title>
       <link>https://francozappa.github.io/post/knob-announce/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-announce/</guid>
       <description>&lt;p&gt;The embargo is over! The information about &lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
@@ -247,7 +264,7 @@ and its related projects and use cases.&lt;/p&gt;
     <item>
       <title>NDSS 2019 YouTube video of the presentation</title>
       <link>https://francozappa.github.io/post/ndss19-video/</link>
-      <pubDate>Wed, 03 Apr 2019 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/post/ndss19-video/</guid>
       <description>&lt;p&gt;My NDSS 2019 presentation of
@@ -287,7 +304,7 @@ and the
     <item>
       <title>CFP: Cyber-Physical System SECurity (CPS-SEC) Workshop 2019</title>
       <link>https://francozappa.github.io/post/cfp-cps-sec19/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>https://francozappa.github.io/post/cfp-cps-sec19/</guid>
       <description>&lt;p&gt;Recently, I&amp;rsquo;ve accepted the invitation to join the
@@ -342,7 +359,7 @@ Transportation Systems, Medical applications.&lt;/p&gt;
     <item>
       <title>NDSS 2019 camera-ready and PoC attack code</title>
       <link>https://francozappa.github.io/post/ndss19-cr/</link>
-      <pubDate>Wed, 23 Jan 2019 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>https://francozappa.github.io/post/ndss19-cr/</guid>
       <description>&lt;p&gt;The camera-ready version of
@@ -392,7 +409,7 @@ global menu icon.&lt;/p&gt;
     <item>
       <title>Our Paper is Accepted for NDSS 2019</title>
       <link>https://francozappa.github.io/post/ndss19/</link>
-      <pubDate>Thu, 15 Nov 2018 00:00:00 -0800</pubDate>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>https://francozappa.github.io/post/ndss19/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m very happy to announce that our paper titled

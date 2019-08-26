@@ -7,53 +7,53 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>blueooth</title>
-      <link>https://francozappa.github.io/tags/blueooth/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 -0700</pubDate>
+      <title>code</title>
+      <link>https://francozappa.github.io/tags/code/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://francozappa.github.io/tags/blueooth/</guid>
+      <guid>https://francozappa.github.io/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>knob</title>
       <link>https://francozappa.github.io/tags/knob/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/tags/knob/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>protocol</title>
-      <link>https://francozappa.github.io/tags/protocol/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/protocol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>news</title>
       <link>https://francozappa.github.io/tags/news/</link>
-      <pubDate>Mon, 19 Aug 2019 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/tags/news/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>code</title>
-      <link>https://francozappa.github.io/tags/code/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 -0700</pubDate>
+      <title>blueooth</title>
+      <link>https://francozappa.github.io/tags/blueooth/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://francozappa.github.io/tags/code/</guid>
+      <guid>https://francozappa.github.io/tags/blueooth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>protocol</title>
+      <link>https://francozappa.github.io/tags/protocol/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/protocol/</guid>
       <description></description>
     </item>
     
@@ -78,7 +78,7 @@
     <item>
       <title>ndss</title>
       <link>https://francozappa.github.io/tags/ndss/</link>
-      <pubDate>Wed, 03 Apr 2019 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/tags/ndss/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>video</title>
       <link>https://francozappa.github.io/tags/video/</link>
-      <pubDate>Wed, 03 Apr 2019 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/tags/video/</guid>
       <description></description>
@@ -105,7 +105,7 @@
     <item>
       <title>cfp</title>
       <link>https://francozappa.github.io/tags/cfp/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>https://francozappa.github.io/tags/cfp/</guid>
       <description></description>
@@ -114,7 +114,7 @@
     <item>
       <title>cps-sec</title>
       <link>https://francozappa.github.io/tags/cps-sec/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>https://francozappa.github.io/tags/cps-sec/</guid>
       <description></description>
@@ -123,7 +123,7 @@
     <item>
       <title>tpc</title>
       <link>https://francozappa.github.io/tags/tpc/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>https://francozappa.github.io/tags/tpc/</guid>
       <description></description>
