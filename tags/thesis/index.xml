@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thesis on Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tags/thesis/</link>
+    <description>Recent content in thesis on Daniele Antonioli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
+    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0200</lastBuildDate>
+    
+	    <atom:link href="https://francozappa.github.io/tags/thesis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I&#39;ve Completed my PhD at SUTD</title>
+      <link>https://francozappa.github.io/post/phd-completed/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/post/phd-completed/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m glad to announce that I&amp;rsquo;ve completed my PhD in Computer Science with a
+specialization in Cyber-Physical and Wireless Systems Security at SUTD.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve uploaded my
+[thesis]()
+and the
+[slides]()
+of my final presentation.
+For more information have a look
+[here]()&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
