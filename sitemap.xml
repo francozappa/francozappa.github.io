@@ -50,12 +50,35 @@
   </url>
   
   <url>
-    <loc>https://francozappa.github.io/post/knob-repo3/</loc>
-    <lastmod>2019-08-26T00:00:00+02:00</lastmod>
+    <loc>https://francozappa.github.io/post/phd-completed/</loc>
+    <lastmod>2019-08-27T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://francozappa.github.io/post/</loc>
+    <lastmod>2019-08-27T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/news/</loc>
+    <lastmod>2019-08-27T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/phd/</loc>
+    <lastmod>2019-08-27T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/thesis/</loc>
+    <lastmod>2019-08-27T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/knob-repo3/</loc>
     <lastmod>2019-08-26T00:00:00+02:00</lastmod>
   </url>
   
@@ -67,12 +90,6 @@
   
   <url>
     <loc>https://francozappa.github.io/tags/knob/</loc>
-    <lastmod>2019-08-26T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tags/news/</loc>
     <lastmod>2019-08-26T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -123,12 +140,6 @@
   <url>
     <loc>https://francozappa.github.io/post/phd-defense/</loc>
     <lastmod>2019-06-10T11:28:36+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tags/phd/</loc>
-    <lastmod>2019-06-10T11:28:36+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

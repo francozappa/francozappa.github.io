@@ -7,10 +7,38 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PhD at SUTD Completed!</title>
+      <link>https://francozappa.github.io/post/phd-completed/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/post/phd-completed/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m glad to announce that I&amp;rsquo;ve completed my PhD in Computer Science at SUTD
+about &lt;em&gt;Design, Implementation, and Evaluation of Secure Cyber-Physical and
+Wireless Systems&lt;/em&gt;. I&amp;rsquo;ve uploaded my
+&lt;a href=&#34;https://francozappa.github.io/publication/phd-thesis/thesis.pdf&#34; target=&#34;_blank&#34;&gt;thesis&lt;/a&gt;
+and the
+&lt;a href=&#34;https://francozappa.github.io/publication/phd-thesis/slides.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;
+of my final presentation.
+For more information have a look
+&lt;a href=&#34;https://francozappa.github.io/publication/phd-thesis/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;🎶 😆 🎶&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/kHx5hCVN26E&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;🎶 😆 🎶&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>KNOB Attack Add Slave Patch for poc-internalblue</title>
