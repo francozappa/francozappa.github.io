@@ -7,10 +7,24 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2019 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KNOB Attack Interview with Dave Bittner (CyberWire)</title>
+      <link>https://francozappa.github.io/post/knob-cyberwire/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/post/knob-cyberwire/</guid>
+      <description>&lt;p&gt;Today CyberWire aired my
+&lt;a href=&#34;https://thecyberwire.com/podcasts/cw-podcasts-rs-2019-09-14.html&#34; target=&#34;_blank&#34;&gt;interview&lt;/a&gt;
+about the
+&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34;&gt;KNOB attack&lt;/a&gt;
+with &lt;a href=&#34;https://twitter.com/bittner&#34; target=&#34;_blank&#34;&gt;Dave Bittner&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PhD at SUTD Completed!</title>
