@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Sat, 14 Sep 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,27 @@
     <item>
       <title>knob</title>
       <link>https://francozappa.github.io/tags/knob/</link>
-      <pubDate>Sat, 14 Sep 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/tags/knob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>usec</title>
+      <link>https://francozappa.github.io/tags/usec/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/usec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>https://francozappa.github.io/tags/video/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/video/</guid>
       <description></description>
     </item>
     
@@ -99,15 +117,6 @@
       <pubDate>Wed, 03 Apr 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/tags/ndss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>video</title>
-      <link>https://francozappa.github.io/tags/video/</link>
-      <pubDate>Wed, 03 Apr 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/video/</guid>
       <description></description>
     </item>
     

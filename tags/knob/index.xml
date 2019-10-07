@@ -7,10 +7,30 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Sat, 14 Sep 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/tags/knob/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video of my KNOB Attack Presentation at USENIX Security 2019</title>
+      <link>https://francozappa.github.io/post/knob-usec-video/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/post/knob-usec-video/</guid>
+      <description>&lt;p&gt;Title of the paper:
+&lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
+in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/v9Xg9XcnNh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;More info at &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>KNOB Attack Interview with Dave Bittner (CyberWire)</title>
