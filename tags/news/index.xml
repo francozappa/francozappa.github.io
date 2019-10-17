@@ -7,10 +7,26 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Sat, 14 Sep 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KNOB Attack References and Advisories</title>
+      <link>https://francozappa.github.io/post/knob-references/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/post/knob-references/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve collected a list of references and advisories about the KNOB attack from
+several hardware and software providers and organizations. You can find it in
+the last paragraph of
+the &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Are my Devices Vulnerable?&amp;rdquo; section of knobattack.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please let me know if any link in the list is wrong and/or broken, and if you
+find other relevant links!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>KNOB Attack Interview with Dave Bittner (CyberWire)</title>
@@ -46,7 +62,7 @@ For more information have a look
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/kHx5hCVN26E&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/kHx5hCVN26E&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
