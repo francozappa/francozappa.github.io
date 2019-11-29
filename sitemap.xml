@@ -1,10 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://francozappa.github.io/</loc>
-    <lastmod>2019-10-17T00:00:00+02:00</lastmod>
+    <lastmod>2019-11-29T14:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/epfl/</loc>
+    <lastmod>2019-11-29T14:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/news/</loc>
+    <lastmod>2019-11-29T14:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/postdoc/</loc>
+    <lastmod>2019-11-29T14:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/epfl-postdoc/</loc>
+    <lastmod>2019-11-29T14:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/</loc>
+    <lastmod>2019-11-29T14:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/</loc>
+    <lastmod>2019-11-29T14:28:36+08:00</lastmod>
   </url>
   
   <url>
@@ -14,21 +44,6 @@
   
   <url>
     <loc>https://francozappa.github.io/post/knob-references/</loc>
-    <lastmod>2019-10-17T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tags/news/</loc>
-    <lastmod>2019-10-17T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/post/</loc>
-    <lastmod>2019-10-17T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tags/</loc>
     <lastmod>2019-10-17T00:00:00+02:00</lastmod>
   </url>
   
@@ -420,11 +435,6 @@
   <url>
     <loc>https://francozappa.github.io/post/first17/</loc>
     <lastmod>2017-07-26T11:28:36+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tags/epfl/</loc>
-    <lastmod>2017-07-17T11:28:36+08:00</lastmod>
   </url>
   
   <url>
