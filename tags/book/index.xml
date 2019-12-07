@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>book on Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tags/book/</link>
+    <description>Recent content in book on Daniele Antonioli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
+    <lastBuildDate>Sat, 07 Dec 2019 00:00:00 +0100</lastBuildDate>
+    
+	    <atom:link href="https://francozappa.github.io/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Security Engineering Third Edition (SEv3)</title>
+      <link>https://francozappa.github.io/post/knob-sev3/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://francozappa.github.io/post/knob-sev3/</guid>
+      <description>&lt;p&gt;Recently, I&amp;rsquo;ve stumbled upon the webpage about
+&lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/book.html&#34; target=&#34;_blank&#34;&gt;Security Engineering &amp;ndash; Third Edition (SEv3)&lt;/a&gt;
+by &lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/&#34; target=&#34;_blank&#34;&gt;Prof. Ross Anderson&lt;/a&gt;.
+I&amp;rsquo;m particularly attached to this book,
+as it is the &lt;em&gt;first&lt;/em&gt; book about information security that I bought
+(I bought SEv2 in 2012), and it was very helpful to introduce
+me to security engineering (coming from an EE background) and to tackle my
+&lt;a href=&#34;https://francozappa.github.io/publication/master-thesis/thesis.pdf&#34; target=&#34;_blank&#34;&gt;master thesis about Random Number Generators&lt;/a&gt;.
+Actually, I have to thank
+&lt;a href=&#34;https://ece.umass.edu/faculty/wayne-burleson&#34; target=&#34;_blank&#34;&gt;Prof. Wayne Burleson&lt;/a&gt;
+for the book recommendation!&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m very proud that the
+&lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch5-oct12.pdf&#34; target=&#34;_blank&#34;&gt;Cryptography Chapter of SEv3&lt;/a&gt;
+(so far 😄) includes a discussion about the
+&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34;&gt;KNOB attack&lt;/a&gt; in the subsection about
+Diffie-Hellman key establishment (5.7.2.2). I look forward to read SEv3
+once is ready!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
