@@ -118,7 +118,8 @@ that allows to negotiate encryption keys with entropy as low as 1 Byte, without
 protecting the integrity of the negotiation process. A remote attacker can
 manipulate the entropy negotiation to let any standard compliant Bluetooth
 device negotiate encryption keys with 1 byte of entropy, and then brute force
-the low entropy keys in real time.&lt;/p&gt;
+the low entropy keys in real time. The KNOB attack is listed as
+&lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2019-9506&#34; target=&#34;_blank&#34;&gt;CVE-2019-9506&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
