@@ -18,14 +18,14 @@
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/project/knob/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://knobattack.com&#34; target=&#34;_blank&#34;&gt;Key Negotiation Of Bluetooth (KNOB) attack&lt;/a&gt; exploits
+      <description>&lt;p&gt;The &lt;a href=&#34;https://knobattack.com&#34;&gt;Key Negotiation Of Bluetooth (KNOB) attack&lt;/a&gt; exploits
 the fact that the specification of Bluetooth includes an encryption key negotiation protocol
 that allows to negotiate encryption keys with entropy as low as 1 Byte, without
 protecting the integrity of the negotiation process. A remote attacker can
 manipulate the entropy negotiation to let any standard compliant Bluetooth
 device negotiate encryption keys with 1 byte of entropy, and then brute force
 the low entropy keys in real time. The KNOB attack is listed as
-&lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2019-9506&#34; target=&#34;_blank&#34;&gt;CVE-2019-9506&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2019-9506&#34;&gt;CVE-2019-9506&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

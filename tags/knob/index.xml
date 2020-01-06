@@ -18,22 +18,21 @@
       <pubDate>Sat, 07 Dec 2019 00:00:00 +0100</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-sev3/</guid>
-      <description>&lt;p&gt;Recently, I&amp;rsquo;ve stumbled upon the webpage about
-&lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/book.html&#34; target=&#34;_blank&#34;&gt;Security Engineering &amp;ndash; Third Edition (SEv3)&lt;/a&gt;
-by &lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/&#34; target=&#34;_blank&#34;&gt;Prof. Ross Anderson&lt;/a&gt;.
-I&amp;rsquo;m particularly attached to this book,
+      <description>&lt;p&gt;Recently, I&#39;ve stumbled upon the webpage about
+&lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/book.html&#34;&gt;Security Engineering &amp;ndash; Third Edition (SEv3)&lt;/a&gt;
+by &lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/&#34;&gt;Prof. Ross Anderson&lt;/a&gt;.
+I&#39;m particularly attached to this book,
 as it is the &lt;em&gt;first&lt;/em&gt; book about information security that I bought
 (I bought SEv2 in 2012), and it was very helpful to introduce
 me to security engineering (coming from an EE background) and to tackle my
-&lt;a href=&#34;https://francozappa.github.io/publication/master-thesis/thesis.pdf&#34; target=&#34;_blank&#34;&gt;master thesis about Random Number Generators&lt;/a&gt;.
+&lt;a href=&#34;https://francozappa.github.io/publication/master-thesis/thesis.pdf&#34;&gt;master thesis about Random Number Generators&lt;/a&gt;.
 Actually, I have to thank
-&lt;a href=&#34;https://ece.umass.edu/faculty/wayne-burleson&#34; target=&#34;_blank&#34;&gt;Prof. Wayne Burleson&lt;/a&gt;
+&lt;a href=&#34;https://ece.umass.edu/faculty/wayne-burleson&#34;&gt;Prof. Wayne Burleson&lt;/a&gt;
 for the book recommendation!&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m very proud that the
-&lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch5-oct12.pdf&#34; target=&#34;_blank&#34;&gt;Cryptography Chapter of SEv3&lt;/a&gt;
+&lt;p&gt;I&#39;m very proud that the
+&lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch5-oct12.pdf&#34;&gt;Cryptography Chapter of SEv3&lt;/a&gt;
 (so far 😄) includes a discussion about the
-&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34;&gt;KNOB attack&lt;/a&gt; in the subsection about
+&lt;a href=&#34;https://knobattack.com/&#34;&gt;KNOB attack&lt;/a&gt; in the subsection about
 Diffie-Hellman key establishment (5.7.2.2). I look forward to read SEv3
 once is ready!&lt;/p&gt;
 </description>
@@ -45,11 +44,10 @@ once is ready!&lt;/p&gt;
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-references/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve collected a list of references and advisories about the KNOB attack from
+      <description>&lt;p&gt;I&#39;ve collected a list of references and advisories about the KNOB attack from
 several hardware and software providers and organizations. You can find it in
 the last paragraph of
-the &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Are my Devices Vulnerable?&amp;rdquo; section of knobattack.com&lt;/a&gt;.&lt;/p&gt;
-
+the &lt;a href=&#34;https://knobattack.com/&#34;&gt;&amp;ldquo;Are my Devices Vulnerable?&amp;rdquo; section of knobattack.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Please let me know if any link in the list is wrong and/or broken, and if you
 find other relevant links!&lt;/p&gt;
 </description>
@@ -65,13 +63,11 @@ find other relevant links!&lt;/p&gt;
 &lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
 in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;:&lt;/p&gt;
 
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/v9Xg9XcnNh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-
-&lt;p&gt;More info at &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More info at &lt;a href=&#34;https://knobattack.com/&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -82,10 +78,10 @@ in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;:&lt;/p&gt;
       
       <guid>https://francozappa.github.io/post/knob-cyberwire/</guid>
       <description>&lt;p&gt;Today CyberWire aired my
-&lt;a href=&#34;https://thecyberwire.com/podcasts/cw-podcasts-rs-2019-09-14.html&#34; target=&#34;_blank&#34;&gt;interview&lt;/a&gt;
+&lt;a href=&#34;https://thecyberwire.com/podcasts/cw-podcasts-rs-2019-09-14.html&#34;&gt;interview&lt;/a&gt;
 about the
-&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34;&gt;KNOB attack&lt;/a&gt;
-with &lt;a href=&#34;https://twitter.com/bittner&#34; target=&#34;_blank&#34;&gt;Dave Bittner&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://knobattack.com/&#34;&gt;KNOB attack&lt;/a&gt;
+with &lt;a href=&#34;https://twitter.com/bittner&#34;&gt;Dave Bittner&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -95,14 +91,13 @@ with &lt;a href=&#34;https://twitter.com/bittner&#34; target=&#34;_blank&#34;&gt
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-repo3/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve pushed the
-&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;
+      <description>&lt;p&gt;I&#39;ve pushed the
+&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34;&gt;code&lt;/a&gt;
 to perform the KNOB attack also when the Nexus 5 is the Bluetooth slave
 responding to the first LMP packet. To switch between different attack modes
 have a look at the updated
-&lt;a href=&#34;https://github.com/francozappa/knob/blob/master/poc-internalblue/README.md&#34; target=&#34;_blank&#34;&gt;README&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;For more information visit &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/francozappa/knob/blob/master/poc-internalblue/README.md&#34;&gt;README&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more information visit &lt;a href=&#34;https://knobattack.com/&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -112,14 +107,14 @@ have a look at the updated
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/project/knob/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://knobattack.com&#34; target=&#34;_blank&#34;&gt;Key Negotiation Of Bluetooth (KNOB) attack&lt;/a&gt; exploits
+      <description>&lt;p&gt;The &lt;a href=&#34;https://knobattack.com&#34;&gt;Key Negotiation Of Bluetooth (KNOB) attack&lt;/a&gt; exploits
 the fact that the specification of Bluetooth includes an encryption key negotiation protocol
 that allows to negotiate encryption keys with entropy as low as 1 Byte, without
 protecting the integrity of the negotiation process. A remote attacker can
 manipulate the entropy negotiation to let any standard compliant Bluetooth
 device negotiate encryption keys with 1 byte of entropy, and then brute force
 the low entropy keys in real time. The KNOB attack is listed as
-&lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2019-9506&#34; target=&#34;_blank&#34;&gt;CVE-2019-9506&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2019-9506&#34;&gt;CVE-2019-9506&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -129,112 +124,89 @@ the low entropy keys in real time. The KNOB attack is listed as
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-faq/</guid>
-      <description>
-
-&lt;p&gt;In this post I&amp;rsquo;m trying to address some discussion points and
+      <description>&lt;p&gt;In this post I&#39;m trying to address some discussion points and
 misconceptions about the KNOB attack.&lt;/p&gt;
-
 &lt;h2 id=&#34;attribution&#34;&gt;Attribution&lt;/h2&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;Researchers from CISPA discovered the KNOB attack&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;&lt;strong&gt;Partially true&lt;/strong&gt;. The KNOB attack was discovered by myself (Daniele Antonioli) from SUTD,
 Nils Ole Tippenhauer from CISPA, and Kasper Rasmussen from the University of Oxford.
-In particular, I&amp;rsquo;ve identified the vulnerability back in &lt;em&gt;May 2018&lt;/em&gt; while I was
-working with Kasper on &lt;a href=&#34;https://francozappa.github.io/publication/rearby/&#34; target=&#34;_blank&#34;&gt;Nearby Connections&lt;/a&gt;
+In particular, I&#39;ve identified the vulnerability back in &lt;em&gt;May 2018&lt;/em&gt; while I was
+working with Kasper on &lt;a href=&#34;https://francozappa.github.io/publication/rearby/&#34;&gt;Nearby Connections&lt;/a&gt;
 at the University of Oxford, and I wrote
 the first exploit in &lt;em&gt;October 2018&lt;/em&gt; while I was visiting Nils (my former
-advisor at SUTD) at CISPA. I&amp;rsquo;d like to thank the researchers from CISPA
+advisor at SUTD) at CISPA. I&#39;d like to thank the researchers from CISPA
 who kindly lent me their Bluetooth devices.&lt;/p&gt;
-
 &lt;h2 id=&#34;attack&#34;&gt;Attack&lt;/h2&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;The KNOB attack is performed while two Bluetooth BR/EDR devices are pairing&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. The KNOB attack targets the connection phase and can be conducted
 between two devices are already paired. See also
-&lt;a href=&#34;https://francozappa.github.io/publication/knob/slides.pdf&#34; target=&#34;_blank&#34;&gt;slide 6&lt;/a&gt;&lt;/p&gt;
-
+&lt;a href=&#34;https://francozappa.github.io/publication/knob/slides.pdf&#34;&gt;slide 6&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The KNOB attack can only be used to spy Bluetooth communications&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;&lt;strong&gt;Partially true&lt;/strong&gt;. The KNOB attack can also be used to inject valid
 ciphertext, e.g., to impersonate a legitimate Bluetooth device.&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;The KNOB attack reduces the encryption key size to 1 byte&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. The encryption key size stays the same (16 bytes). The KNOB attack reduces
 the &lt;em&gt;entropy (randomness)&lt;/em&gt; of the key to 1 byte. For example the key
 &lt;code&gt;0xa395a045bf2410983b4309214598beaf&lt;/code&gt; (16 byte of entropy)
 is reduced to
 &lt;code&gt;0xa3000000000000000000000000000000&lt;/code&gt; (1 byte of entropy) and not
 to &lt;code&gt;0xa3&lt;/code&gt;.&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;The KNOB attack is theoretical&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. The KNOB attack exploits an actual vulnerability in the key
 negotiation protocol of Bluetooth (BR/EDR). As it is an attack at the &lt;em&gt;architectural&lt;/em&gt; level,
 all standard compliant devices are potentially vulnerable.
 Back in 2018 we performed the KNOB attack on more than 20 Bluetooth devices,
 and all of them were vulnerable. You can test if your device is vulnerable by
 using our
-&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34; target=&#34;_blank&#34;&gt;PoC&lt;/a&gt;.&lt;/p&gt;
-
+&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34;&gt;PoC&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The attacker has to be &amp;ldquo;local&amp;rdquo; or in a &amp;ldquo;privileged&amp;rdquo; position&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. The KNOB attack can be conducted remotely. For obvious reasons the
 attacker has to be in Bluetooth range, but this does not imply a privileged
 position.&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;Internalblue enabled the discovery of the KNOB attack&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. I&amp;rsquo;ve discovered the vulnerability while I was analyzing
-&lt;a href=&#34;https://francozappa.github.io/publication/rearby/&#34; target=&#34;_blank&#34;&gt;Nearby Connections&lt;/a&gt;
+&lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. I&#39;ve discovered the vulnerability while I was analyzing
+&lt;a href=&#34;https://francozappa.github.io/publication/rearby/&#34;&gt;Nearby Connections&lt;/a&gt;
 and reading the Bluetooth specification in May 2018. Then, while I was looking
 at devices with an open source Bluetooth firmware,
-I&amp;rsquo;ve stumbled upon the Internalblue v0.1. To implement the attack  I had
+I&#39;ve stumbled upon the Internalblue v0.1. To implement the attack  I had
 to
-&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34; target=&#34;_blank&#34;&gt;extend Internalblue&lt;/a&gt;
+&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34;&gt;extend Internalblue&lt;/a&gt;
 to support LMP packet injection, and develop some
-&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/e0&#34; target=&#34;_blank&#34;&gt;extra code for E0&lt;/a&gt;.
+&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/e0&#34;&gt;extra code for E0&lt;/a&gt;.
 Nevertheless,
-&lt;a href=&#34;https://github.com/seemoo-lab/internalblue&#34; target=&#34;_blank&#34;&gt;Internalblue&lt;/a&gt;
+&lt;a href=&#34;https://github.com/seemoo-lab/internalblue&#34;&gt;Internalblue&lt;/a&gt;
 is an awesome project, I recommend it, and I thank
-&lt;a href=&#34;http://tech.mantz-it.com/&#34; target=&#34;_blank&#34;&gt;Dennis&lt;/a&gt;
+&lt;a href=&#34;http://tech.mantz-it.com/&#34;&gt;Dennis&lt;/a&gt;
 and
-&lt;a href=&#34;http://nerdine.org/&#34; target=&#34;_blank&#34;&gt;Jiska&lt;/a&gt;
+&lt;a href=&#34;http://nerdine.org/&#34;&gt;Jiska&lt;/a&gt;
 for releasing it to the public.&lt;/p&gt;
-
 &lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;The researchers did not implement the attack&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. We implemented the KNOB attack and our implementation generates
 the same effects of a remote KNOB attack conducted over the air. This is nice
 because we have a reliable and cheap attack setup that can be reproduced
 without the need of signal manipulation and jamming techniques, and SDR.
 If you want to reproduce the attack look at our
-&lt;a href=&#34;https://github.com/francozappa/knob&#34; target=&#34;_blank&#34;&gt;repo&lt;/a&gt;.&lt;/p&gt;
-
+&lt;a href=&#34;https://github.com/francozappa/knob&#34;&gt;repo&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The researchers implemented only the firmware attack&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. We implement the remote attack by patching the firmware of one of
 the victim devices (Nexus 5). Our patches simulate the effect of a remote MitM
 attack and they do not change any firmware logic. This allows us to test the
@@ -250,13 +222,12 @@ attack over the air.&lt;/p&gt;
       
       <guid>https://francozappa.github.io/post/knob-repo2/</guid>
       <description>&lt;p&gt;The
-&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/e0&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;
+&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/e0&#34;&gt;code&lt;/a&gt;
 that we developed to validate and brute force
-&lt;a href=&#34;https://en.wikipedia.org/wiki/E0_(cipher)&#34; target=&#34;_blank&#34;&gt;E0&lt;/a&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/E0_(cipher)&#34;&gt;E0&lt;/a&gt;
 encryption keys is online.&lt;/p&gt;
-
 &lt;p&gt;The
-&lt;a href=&#34;https://francozappa.github.io/publication/knob/slides.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;
+&lt;a href=&#34;https://francozappa.github.io/publication/knob/slides.pdf&#34;&gt;slides&lt;/a&gt;
 of my KNOB attack USEC19 talk are also online.
 As we can see from the slides, the KNOB attack is &lt;em&gt;not&lt;/em&gt;
 conducted while two Bluetooth devices are pairing, but when two devices are
@@ -265,8 +236,7 @@ Bluetooth (BR/EDR) is a technology with a &lt;em&gt;pair-once&lt;/em&gt;
 &lt;em&gt;connect-multiple-times&lt;/em&gt; paradigm. For example, you pair your smartphone
 with your car once, and then every day you connect the two and the devices
 negotiate a new (fresh) encryption key.&lt;/p&gt;
-
-&lt;p&gt;For more information visit &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For more information visit &lt;a href=&#34;https://knobattack.com/&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -276,11 +246,10 @@ negotiate a new (fresh) encryption key.&lt;/p&gt;
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-repo/</guid>
-      <description>&lt;p&gt;Our &lt;a href=&#34;https://github.com/francozappa/knob&#34; target=&#34;_blank&#34;&gt;KNOB repository&lt;/a&gt;
+      <description>&lt;p&gt;Our &lt;a href=&#34;https://github.com/francozappa/knob&#34;&gt;KNOB repository&lt;/a&gt;
 is online, and it includes our
-&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34; target=&#34;_blank&#34;&gt;PoC&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;For more information visit &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34;&gt;PoC&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more information visit &lt;a href=&#34;https://knobattack.com/&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -293,7 +262,7 @@ is online, and it includes our
       <description>&lt;p&gt;The embargo is over! The information about &lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
 in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;, including our research
 paper, CVE details, and media coverage, are publicly available at
-&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://knobattack.com/&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
