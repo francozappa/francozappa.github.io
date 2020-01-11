@@ -7,10 +7,24 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Sat, 07 Dec 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>InspiredResearch Newsletter University of Oxford</title>
+      <link>https://francozappa.github.io/post/knob-ir/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://francozappa.github.io/post/knob-ir/</guid>
+      <description>&lt;p&gt;The
+&lt;a href=&#34;https://www.cs.ox.ac.uk/innovation/inspiredresearch/InspiredResearch-winter2019.pdf&#34;&gt;In&lt;em&gt;spired&lt;/em&gt;Research (Winter 2019 Issue 15)&lt;/a&gt;
+twice-yearly newsletter from the Computer Science Department of the University of
+Oxford features a nice article about the KNOB attack by
+&lt;a href=&#34;https://www.cs.ox.ac.uk/people/kasper.rasmussen/&#34;&gt;Prof. Kasper Rasmussen&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Security Engineering Third Edition (SEv3)</title>
