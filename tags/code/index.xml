@@ -18,7 +18,7 @@
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-repo3/</guid>
-      <description>&lt;p&gt;I&#39;ve pushed the
+      <description>&lt;p&gt;I&amp;rsquo;ve pushed the
 &lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34;&gt;code&lt;/a&gt;
 to perform the KNOB attack also when the Nexus 5 is the Bluetooth slave
 responding to the first LMP packet. To switch between different attack modes
@@ -29,7 +29,7 @@ have a look at the updated
     </item>
     
     <item>
-      <title>KNOB Attack Code for E0 and Slides from USEC19 are Online</title>
+      <title>KNOB Attack Code for E0 and Slides from SEC19 are Online</title>
       <link>https://francozappa.github.io/post/knob-repo2/</link>
       <pubDate>Sun, 18 Aug 2019 00:00:00 +0200</pubDate>
       
@@ -41,7 +41,7 @@ that we developed to validate and brute force
 encryption keys is online.&lt;/p&gt;
 &lt;p&gt;The
 &lt;a href=&#34;https://francozappa.github.io/publication/knob/slides.pdf&#34;&gt;slides&lt;/a&gt;
-of my KNOB attack USEC19 talk are also online.
+of my KNOB attack SEC19 talk are also online.
 As we can see from the slides, the KNOB attack is &lt;em&gt;not&lt;/em&gt;
 conducted while two Bluetooth devices are pairing, but when two devices are
 connecting (establishing a new encrypted session).
@@ -73,7 +73,7 @@ is online, and it includes our
       
       <guid>https://francozappa.github.io/post/ndss19-cr/</guid>
       <description>&lt;p&gt;The camera-ready version of
-&lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&#39;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;
+&lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;
 is available
 &lt;a href=&#34;https://francozappa.github.io/publication/rearby/paper.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We also released a

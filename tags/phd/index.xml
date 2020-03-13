@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/tags/phd/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,9 +18,9 @@
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/post/phd-completed/</guid>
-      <description>&lt;p&gt;I&#39;m glad to announce that I&#39;ve completed my PhD in Computer Science at SUTD
+      <description>&lt;p&gt;I&amp;rsquo;m glad to announce that I&amp;rsquo;ve completed my PhD in Computer Science at SUTD
 about &lt;em&gt;Design, Implementation, and Evaluation of Secure Cyber-Physical and
-Wireless Systems&lt;/em&gt;. I&#39;ve uploaded my
+Wireless Systems&lt;/em&gt;. I&amp;rsquo;ve uploaded my
 &lt;a href=&#34;https://francozappa.github.io/publication/phd-thesis/thesis.pdf&#34;&gt;thesis&lt;/a&gt;
 and the
 &lt;a href=&#34;https://francozappa.github.io/publication/phd-thesis/slides.pdf&#34;&gt;slides&lt;/a&gt;
@@ -43,7 +43,7 @@ For more information have a look
       <pubDate>Mon, 10 Jun 2019 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/phd-defense/</guid>
-      <description>&lt;p&gt;Soon I&#39;m going to defend my PhD thesis at SUTD. Feel free to join!&lt;/p&gt;
+      <description>&lt;p&gt;Soon I&amp;rsquo;m going to defend my PhD thesis at SUTD. Feel free to join!&lt;/p&gt;
 &lt;p&gt;Date and time:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Friday, 5 July 2019, 10:00 - 11:00 (AM)&lt;/p&gt;

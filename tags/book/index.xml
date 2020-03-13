@@ -18,10 +18,10 @@
       <pubDate>Sat, 07 Dec 2019 00:00:00 +0100</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-sev3/</guid>
-      <description>&lt;p&gt;Recently, I&#39;ve stumbled upon the webpage about
+      <description>&lt;p&gt;Recently, I&amp;rsquo;ve stumbled upon the webpage about
 &lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/book.html&#34;&gt;Security Engineering &amp;ndash; Third Edition (SEv3)&lt;/a&gt;
 by &lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/&#34;&gt;Prof. Ross Anderson&lt;/a&gt;.
-I&#39;m particularly attached to this book,
+I&amp;rsquo;m particularly attached to this book,
 as it is the &lt;em&gt;first&lt;/em&gt; book about information security that I bought
 (I bought SEv2 in 2012), and it was very helpful to introduce
 me to security engineering (coming from an EE background) and to tackle my
@@ -29,7 +29,7 @@ me to security engineering (coming from an EE background) and to tackle my
 Actually, I have to thank
 &lt;a href=&#34;https://ece.umass.edu/faculty/wayne-burleson&#34;&gt;Prof. Wayne Burleson&lt;/a&gt;
 for the book recommendation!&lt;/p&gt;
-&lt;p&gt;I&#39;m very proud that the
+&lt;p&gt;I&amp;rsquo;m very proud that the
 &lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch5-oct12.pdf&#34;&gt;Cryptography Chapter of SEv3&lt;/a&gt;
 (so far 😄) includes a discussion about the
 &lt;a href=&#34;https://knobattack.com/&#34;&gt;KNOB attack&lt;/a&gt; in the subsection about

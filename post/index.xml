@@ -32,10 +32,10 @@ Oxford features a nice article about the KNOB attack by
       <pubDate>Sat, 07 Dec 2019 00:00:00 +0100</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-sev3/</guid>
-      <description>&lt;p&gt;Recently, I&#39;ve stumbled upon the webpage about
+      <description>&lt;p&gt;Recently, I&amp;rsquo;ve stumbled upon the webpage about
 &lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/book.html&#34;&gt;Security Engineering &amp;ndash; Third Edition (SEv3)&lt;/a&gt;
 by &lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/&#34;&gt;Prof. Ross Anderson&lt;/a&gt;.
-I&#39;m particularly attached to this book,
+I&amp;rsquo;m particularly attached to this book,
 as it is the &lt;em&gt;first&lt;/em&gt; book about information security that I bought
 (I bought SEv2 in 2012), and it was very helpful to introduce
 me to security engineering (coming from an EE background) and to tackle my
@@ -43,7 +43,7 @@ me to security engineering (coming from an EE background) and to tackle my
 Actually, I have to thank
 &lt;a href=&#34;https://ece.umass.edu/faculty/wayne-burleson&#34;&gt;Prof. Wayne Burleson&lt;/a&gt;
 for the book recommendation!&lt;/p&gt;
-&lt;p&gt;I&#39;m very proud that the
+&lt;p&gt;I&amp;rsquo;m very proud that the
 &lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch5-oct12.pdf&#34;&gt;Cryptography Chapter of SEv3&lt;/a&gt;
 (so far 😄) includes a discussion about the
 &lt;a href=&#34;https://knobattack.com/&#34;&gt;KNOB attack&lt;/a&gt; in the subsection about
@@ -71,7 +71,7 @@ once is ready!&lt;/p&gt;
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-references/</guid>
-      <description>&lt;p&gt;I&#39;ve collected a list of references and advisories about the KNOB attack from
+      <description>&lt;p&gt;I&amp;rsquo;ve collected a list of references and advisories about the KNOB attack from
 several hardware and software providers and organizations. You can find it in
 the last paragraph of
 the &lt;a href=&#34;https://knobattack.com/&#34;&gt;&amp;ldquo;Are my Devices Vulnerable?&amp;rdquo; section of knobattack.com&lt;/a&gt;.&lt;/p&gt;
@@ -118,9 +118,9 @@ with &lt;a href=&#34;https://twitter.com/bittner&#34;&gt;Dave Bittner&lt;/a&gt;.
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/post/phd-completed/</guid>
-      <description>&lt;p&gt;I&#39;m glad to announce that I&#39;ve completed my PhD in Computer Science at SUTD
+      <description>&lt;p&gt;I&amp;rsquo;m glad to announce that I&amp;rsquo;ve completed my PhD in Computer Science at SUTD
 about &lt;em&gt;Design, Implementation, and Evaluation of Secure Cyber-Physical and
-Wireless Systems&lt;/em&gt;. I&#39;ve uploaded my
+Wireless Systems&lt;/em&gt;. I&amp;rsquo;ve uploaded my
 &lt;a href=&#34;https://francozappa.github.io/publication/phd-thesis/thesis.pdf&#34;&gt;thesis&lt;/a&gt;
 and the
 &lt;a href=&#34;https://francozappa.github.io/publication/phd-thesis/slides.pdf&#34;&gt;slides&lt;/a&gt;
@@ -143,7 +143,7 @@ For more information have a look
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-repo3/</guid>
-      <description>&lt;p&gt;I&#39;ve pushed the
+      <description>&lt;p&gt;I&amp;rsquo;ve pushed the
 &lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34;&gt;code&lt;/a&gt;
 to perform the KNOB attack also when the Nexus 5 is the Bluetooth slave
 responding to the first LMP packet. To switch between different attack modes
@@ -159,7 +159,7 @@ have a look at the updated
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-faq/</guid>
-      <description>&lt;p&gt;In this post I&#39;m trying to address some discussion points and
+      <description>&lt;p&gt;In this post I&amp;rsquo;m trying to address some discussion points and
 misconceptions about the KNOB attack.&lt;/p&gt;
 &lt;h2 id=&#34;attribution&#34;&gt;Attribution&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -167,11 +167,11 @@ misconceptions about the KNOB attack.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Partially true&lt;/strong&gt;. The KNOB attack was discovered by myself (Daniele Antonioli) from SUTD,
 Nils Ole Tippenhauer from CISPA, and Kasper Rasmussen from the University of Oxford.
-In particular, I&#39;ve identified the vulnerability back in &lt;em&gt;May 2018&lt;/em&gt; while I was
+In particular, I&amp;rsquo;ve identified the vulnerability back in &lt;em&gt;May 2018&lt;/em&gt; while I was
 working with Kasper on &lt;a href=&#34;https://francozappa.github.io/publication/rearby/&#34;&gt;Nearby Connections&lt;/a&gt;
 at the University of Oxford, and I wrote
 the first exploit in &lt;em&gt;October 2018&lt;/em&gt; while I was visiting Nils (my former
-advisor at SUTD) at CISPA. I&#39;d like to thank the researchers from CISPA
+advisor at SUTD) at CISPA. I&amp;rsquo;d like to thank the researchers from CISPA
 who kindly lent me their Bluetooth devices.&lt;/p&gt;
 &lt;h2 id=&#34;attack&#34;&gt;Attack&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -213,11 +213,11 @@ position.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Internalblue enabled the discovery of the KNOB attack&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. I&#39;ve discovered the vulnerability while I was analyzing
+&lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. I&amp;rsquo;ve discovered the vulnerability while I was analyzing
 &lt;a href=&#34;https://francozappa.github.io/publication/rearby/&#34;&gt;Nearby Connections&lt;/a&gt;
 and reading the Bluetooth specification in May 2018. Then, while I was looking
 at devices with an open source Bluetooth firmware,
-I&#39;ve stumbled upon the Internalblue v0.1. To implement the attack  I had
+I&amp;rsquo;ve stumbled upon the Internalblue v0.1. To implement the attack  I had
 to
 &lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34;&gt;extend Internalblue&lt;/a&gt;
 to support LMP packet injection, and develop some
@@ -251,7 +251,7 @@ attack over the air.&lt;/p&gt;
     </item>
     
     <item>
-      <title>KNOB Attack Code for E0 and Slides from USEC19 are Online</title>
+      <title>KNOB Attack Code for E0 and Slides from SEC19 are Online</title>
       <link>https://francozappa.github.io/post/knob-repo2/</link>
       <pubDate>Sun, 18 Aug 2019 00:00:00 +0200</pubDate>
       
@@ -263,7 +263,7 @@ that we developed to validate and brute force
 encryption keys is online.&lt;/p&gt;
 &lt;p&gt;The
 &lt;a href=&#34;https://francozappa.github.io/publication/knob/slides.pdf&#34;&gt;slides&lt;/a&gt;
-of my KNOB attack USEC19 talk are also online.
+of my KNOB attack SEC19 talk are also online.
 As we can see from the slides, the KNOB attack is &lt;em&gt;not&lt;/em&gt;
 conducted while two Bluetooth devices are pairing, but when two devices are
 connecting (establishing a new encrypted session).
@@ -307,7 +307,7 @@ paper, CVE details, and media coverage, are publicly available at
       <pubDate>Mon, 10 Jun 2019 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/phd-defense/</guid>
-      <description>&lt;p&gt;Soon I&#39;m going to defend my PhD thesis at SUTD. Feel free to join!&lt;/p&gt;
+      <description>&lt;p&gt;Soon I&amp;rsquo;m going to defend my PhD thesis at SUTD. Feel free to join!&lt;/p&gt;
 &lt;p&gt;Date and time:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Friday, 5 July 2019, 10:00 - 11:00 (AM)&lt;/p&gt;
@@ -358,7 +358,7 @@ and its related projects and use cases.&lt;/p&gt;
       
       <guid>https://francozappa.github.io/post/ndss19-video/</guid>
       <description>&lt;p&gt;My NDSS 2019 presentation of
-&lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&#39;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/h5geJLoQIsU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -373,10 +373,10 @@ and its related projects and use cases.&lt;/p&gt;
       <pubDate>Tue, 26 Feb 2019 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/ndss19-conf/</guid>
-      <description>&lt;p&gt;This week I&#39;ve been in San Diego CA for the
+      <description>&lt;p&gt;This week I&amp;rsquo;ve been in San Diego CA for the
 &lt;a href=&#34;https://www.ndss-symposium.org/&#34;&gt;The Network and Distributed System Security Symposium (NDSS)
 2019&lt;/a&gt; conference.&lt;/p&gt;
-&lt;p&gt;I&#39;ve presented our paper about
+&lt;p&gt;I&amp;rsquo;ve presented our paper about
 &lt;a href=&#34;https://francozappa.github.io/publication/rearby/paper.pdf&#34;&gt;Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby
 Connections’ on Android&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Please have a look at the
@@ -394,7 +394,7 @@ and the
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>https://francozappa.github.io/post/cfp-cps-sec19/</guid>
-      <description>&lt;p&gt;Recently, I&#39;ve accepted the invitation to join the
+      <description>&lt;p&gt;Recently, I&amp;rsquo;ve accepted the invitation to join the
 &lt;a href=&#34;https://cns2019.ieee-cns.org/workshop/cps-sec-international-workshop-cyber-physical-systems-security&#34;&gt;IEEE CPS-SEC workshop&lt;/a&gt;
 TPC. CPS-SEC is co-located with the
 &lt;a href=&#34;https://cns2019.ieee-cns.org/&#34;&gt;IEEE CNS conference&lt;/a&gt; .
@@ -450,7 +450,7 @@ Transportation Systems, Medical applications.&lt;/p&gt;
       
       <guid>https://francozappa.github.io/post/ndss19-cr/</guid>
       <description>&lt;p&gt;The camera-ready version of
-&lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&#39;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;
+&lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;
 is available
 &lt;a href=&#34;https://francozappa.github.io/publication/rearby/paper.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We also released a
@@ -471,7 +471,7 @@ traffic (even traffic from non Nearby Connections applications).&lt;/p&gt;
       
       <guid>https://francozappa.github.io/post/theme-daynight-search/</guid>
       <description>&lt;p&gt;Recently &lt;a href=&#34;https://github.com/gcushen&#34;&gt;gcushen&lt;/a&gt; updated
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Academic&lt;/a&gt; (the theme that I&#39;m using
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Academic&lt;/a&gt; (the theme that I&amp;rsquo;m using
 to build this website with &lt;code&gt;hugo&lt;/code&gt;)
 with two useful features that I recommend to use: &lt;code&gt;day_night&lt;/code&gt; and &lt;code&gt;search&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;day_night&lt;/code&gt; allows the reader to toggle light and dark color themes for the website.
@@ -482,7 +482,7 @@ theme).&lt;/p&gt;
 rearby. This functionality is accessed by clicking the magnifying glass icon
 close to the theme switch icon or by using &lt;code&gt;vim&lt;/code&gt;-like shortcuts: &lt;code&gt;/&lt;/code&gt; enables
 search and &lt;code&gt;Esc&lt;/code&gt; disables it. Currently, this functionality can be supported
-using built-in Fuse (client-side) or Agolia (server-side). I&#39;m using the first
+using built-in Fuse (client-side) or Agolia (server-side). I&amp;rsquo;m using the first
 option.&lt;/p&gt;
 &lt;p&gt;If you are browsing from a mobile device the icons can be found by tapping the
 global menu icon.&lt;/p&gt;
@@ -495,14 +495,14 @@ global menu icon.&lt;/p&gt;
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>https://francozappa.github.io/post/ndss19/</guid>
-      <description>&lt;p&gt;I&#39;m very happy to announce that our paper titled
-&lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&#39;s &amp;ldquo;Nearby
+      <description>&lt;p&gt;I&amp;rsquo;m very happy to announce that our paper titled
+&lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby
 Connections&amp;rdquo; on Android&lt;/em&gt; has been accepted for the
 &lt;a href=&#34;https://www.ndss-symposium.org/&#34;&gt;The Network and Distributed System Security Symposium (NDSS)&lt;/a&gt;. Here you can download a
 &lt;a href=&#34;http://www.cs.ox.ac.uk/files/10367/ndss19-paper367.pdf&#34;&gt;pre-print&lt;/a&gt;.
 Here is the list of
 &lt;a href=&#34;https://www.ndss-symposium.org/ndss2019/accepted-papers/&#34;&gt;accepted papers for NDSS 2019&lt;/a&gt;
-Soon I&#39;ll update more material such an exploit PoC code.&lt;/p&gt;
+Soon I&amp;rsquo;ll update more material such an exploit PoC code.&lt;/p&gt;
 &lt;p&gt;Congratulations to
 &lt;a href=&#34;https://www.cs.ox.ac.uk/people/kasper.rasmussen/&#34;&gt;Kasper&lt;/a&gt;
 and
@@ -516,10 +516,10 @@ and
       <pubDate>Thu, 23 Aug 2018 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/cispa-visiting/</guid>
-      <description>&lt;p&gt;As part of my PhD I&#39;ve recently joined as a visiting researcher the
+      <description>&lt;p&gt;As part of my PhD I&amp;rsquo;ve recently joined as a visiting researcher the
 &lt;a href=&#34;https://cispa.saarland/&#34;&gt;CISPA – Helmholtz-Zentrum, Saarbruecken&lt;/a&gt;
 🇩🇪.&lt;/p&gt;
-&lt;p&gt;I&#39;m going to spend six months there, supervised by
+&lt;p&gt;I&amp;rsquo;m going to spend six months there, supervised by
 &lt;a href=&#34;https://cispa.saarland/people/nils.tippenhauer/&#34;&gt;Prof. N.O. Tippenhauer&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -531,8 +531,8 @@ and
       
       <guid>https://francozappa.github.io/post/sutd-eduroam/</guid>
       <description>&lt;p&gt;After the
-&lt;a href=&#34;https://francozappa.github.io/post/sutd-vpn-student/&#34;&gt;post about connecting to SUTD&#39;s VPN&lt;/a&gt;
-is now time to connect eduroam! Again, SUTD&#39;s IT support for (Arch) Linux at the time of
+&lt;a href=&#34;https://francozappa.github.io/post/sutd-vpn-student/&#34;&gt;post about connecting to SUTD&amp;rsquo;s VPN&lt;/a&gt;
+is now time to connect eduroam! Again, SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of
 writing is &lt;em&gt;none&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;SUTD runs a setup with only username-password (no certificates required) and
 the connection can be established using the GUI of NetworkManager. If your
@@ -540,7 +540,8 @@ WiFi card is on and eduroam is in your range you should see the &lt;code&gt;edur
 on the list of the available WiFi networks. If you attempt to connect then
 all you need to do is enter your &lt;code&gt;username&lt;/code&gt; and &lt;code&gt;password&lt;/code&gt;. As usual, PhD
 student and staff are separated into different namespaces. Use the username
-&lt;code&gt;name_surname@sutd.edu.sg&lt;/code&gt; if you are a staff member or &lt;a href=&#34;mailto:%60xxxxxxx@sutd.edu.sg&#34;&gt;`xxxxxxx@sutd.edu.sg&lt;/a&gt;&lt;code&gt;if you are a student (&lt;/code&gt;xxxxxxx` is your 7-digits student id). The password
+&lt;code&gt;name_surname@sutd.edu.sg&lt;/code&gt; if you are a staff member or &lt;code&gt;xxxxxxx@sutd.edu.sg&lt;/code&gt;
+if you are a student (&lt;code&gt;xxxxxxx&lt;/code&gt; is your 7-digits student id). The password
 should be the same as the one you are using to connect to the Internet from
 SUTD.&lt;/p&gt;
 &lt;p&gt;Your NetworkManager Wi-Fi Security screen should look like this (&lt;code&gt;username&lt;/code&gt; and
@@ -556,9 +557,9 @@ SUTD.&lt;/p&gt;
       <pubDate>Sat, 20 Jan 2018 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/sutd-vpn/</guid>
-      <description>&lt;p&gt;I&#39;ve recently came across the problem of connecting to the SUTD VPN server
-from overseas. SUTD&#39;s IT support for (Arch) Linux at the time of writing
-is &lt;em&gt;none&lt;/em&gt;, and after a bit of research I&#39;ve found a quick and easy solution.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;ve recently came across the problem of connecting to the SUTD VPN server
+from overseas. SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of writing
+is &lt;em&gt;none&lt;/em&gt;, and after a bit of research I&amp;rsquo;ve found a quick and easy solution.&lt;/p&gt;
 &lt;p&gt;SUTD runs &lt;em&gt;Pulse Connect Secure (PCS)&lt;/em&gt; server, a commercial solution known as
 &lt;em&gt;Juniper SSL VPN&lt;/em&gt;. Luckily there is an open-source client that supports PCS
 named &lt;em&gt;OpenConnect&lt;/em&gt;. Arch has an &lt;code&gt;openconnect&lt;/code&gt; package and a NetworkManager
@@ -571,15 +572,15 @@ your GUI screen should look like this:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/sutd-vpn-student.png&#34; alt=&#34;SUTD VPN Student&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Then save it and you will be prompted to accept a certificate. Once you accept
 it you can enter your username (student_id eg: &lt;code&gt;1001234&lt;/code&gt;) and passwords (same
-as the &lt;code&gt;SUTD_Student&lt;/code&gt; network&#39;s one). Once you are connected your GUI should
+as the &lt;code&gt;SUTD_Student&lt;/code&gt; network&amp;rsquo;s one). Once you are connected your GUI should
 present you a message to confirm that. You can manually check it using
 &lt;code&gt;ifconfig&lt;/code&gt; and &lt;code&gt;route&lt;/code&gt; commands.
 If you encounter problems try to have a look
 &lt;a href=&#34;https://wiki.archlinux.org/index.php?title=Pulse_Connect_Secure&amp;amp;mobileaction&#34;&gt;here&lt;/a&gt;
 or post a comment below.&lt;/p&gt;
 &lt;p&gt;P.S. Thanks to
-&lt;a href=&#34;http://people.sutd.edu.sg/~nils_tippenhauer/connecting-to-sutd-vpn-from-linux/&#34;&gt;Nils&#39;s post&lt;/a&gt;
-from which I&#39;ve started my research,
+&lt;a href=&#34;http://people.sutd.edu.sg/~nils_tippenhauer/connecting-to-sutd-vpn-from-linux/&#34;&gt;Nils&amp;rsquo;s post&lt;/a&gt;
+from which I&amp;rsquo;ve started my research,
 this post should update it with an easier setup!&lt;/p&gt;
 &lt;p&gt;🐧&lt;/p&gt;
 </description>
@@ -591,14 +592,14 @@ this post should update it with an easier setup!&lt;/p&gt;
       <pubDate>Sun, 14 Jan 2018 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/oxford-visiting/</guid>
-      <description>&lt;p&gt;As part of my PhD I&#39;ve recently joined as a visiting researcher the
+      <description>&lt;p&gt;As part of my PhD I&amp;rsquo;ve recently joined as a visiting researcher the
 &lt;a href=&#34;https://www.cs.ox.ac.uk/&#34;&gt;Department of Computer Science, University of Oxford&lt;/a&gt;
 🇬🇧.&lt;/p&gt;
-&lt;p&gt;I&#39;m going to spend around six months there, supervised by
+&lt;p&gt;I&amp;rsquo;m going to spend around six months there, supervised by
 &lt;a href=&#34;https://www.cs.ox.ac.uk/people/kasper.rasmussen/&#34;&gt;Prof. Kasper Rasmussen&lt;/a&gt;
 and co-supervised by
 &lt;a href=&#34;https://www.cs.ox.ac.uk/people/ivan.martinovic/&#34;&gt;Prof. Ivan Martinovic&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I&#39;m very excited!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m very excited!&lt;/p&gt;
 </description>
     </item>
     
@@ -608,7 +609,7 @@ and co-supervised by
       <pubDate>Thu, 21 Dec 2017 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/sac18/</guid>
-      <description>&lt;p&gt;I&#39;m happy to announce that our paper titled
+      <description>&lt;p&gt;I&amp;rsquo;m happy to announce that our paper titled
 &lt;em&gt;State-Aware Anomaly Detection for Industrial Control Systems&lt;/em&gt;
 has been accepted for the
 &lt;a href=&#34;https://www.sigapp.org/sac/sac2018/&#34;&gt;Symposium On Applied Computing (SAC) 2018&lt;/a&gt; conference.&lt;/p&gt;
@@ -623,11 +624,11 @@ and the co-authors!&lt;/p&gt;
       <pubDate>Sat, 02 Dec 2017 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/cans17/</guid>
-      <description>&lt;p&gt;This week I&#39;ve been in Hong Kong for the
+      <description>&lt;p&gt;This week I&amp;rsquo;ve been in Hong Kong for the
 &lt;a href=&#34;http://crypto.ie.cuhk.edu.hk/cans17/index.html&#34;&gt;Cryptology And Network Security Conference (CANS) 2017&lt;/a&gt; conference.&lt;/p&gt;
-&lt;p&gt;I&#39;ve presented our paper about:
+&lt;p&gt;I&amp;rsquo;ve presented our paper about:
 &lt;a href=&#34;https://francozappa.github.io/publication/antonioli17eavesdropping/&#34;&gt;Practical Evaluation of Passive COTS Eavesdropping in 802.11b/n/ac WLAN&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Here I&#39;m sharing some pictures with some new friends:&lt;/p&gt;
+&lt;p&gt;Here I&amp;rsquo;m sharing some pictures with some new friends:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/cans17-ferry.jpg&#34; alt=&#34;CANS17 Ferry&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/cans17-dinner.jpg&#34; alt=&#34;CANS17 Dinner&#34;&gt;&lt;/p&gt;
 </description>
@@ -639,12 +640,12 @@ and the co-authors!&lt;/p&gt;
       <pubDate>Sun, 26 Nov 2017 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/email-issues/</guid>
-      <description>&lt;p&gt;For some &lt;!-- raw HTML omitted --&gt; reasons my &lt;a href=&#34;mailto:%60name_surname@sutd.edu.sg&#34;&gt;`name_surname@sutd.edu.sg&lt;/a&gt;` email address was
+      <description>&lt;p&gt;For some &lt;!-- raw HTML omitted --&gt; reasons my &lt;code&gt;name_surname@sutd.edu.sg&lt;/code&gt; email address was
 deactivated &lt;em&gt;without notice&lt;/em&gt; sometime at the end of October 2017. Unfortunately
-I&#39;ve discovered it only this week and I&#39;m still trying to reactivate it. I
+I&amp;rsquo;ve discovered it only this week and I&amp;rsquo;m still trying to reactivate it. I
 apologize if you recently got an error message while trying to send me an
 email to that address.&lt;/p&gt;
-&lt;p&gt;Please use the &lt;a href=&#34;mailto:%60surname.name@gmail.com&#34;&gt;`surname.name@gmail.com&lt;/a&gt;`
+&lt;p&gt;Please use the &lt;code&gt;surname.name@gmail.com&lt;/code&gt;
 address instead. I ❤ ✉️&lt;/p&gt;
 </description>
     </item>
@@ -682,14 +683,14 @@ challenges locally use:&lt;/p&gt;
       <pubDate>Wed, 26 Jul 2017 11:28:36 +0800</pubDate>
       
       <guid>https://francozappa.github.io/post/first17/</guid>
-      <description>&lt;p&gt;I&#39;m happy to announce that my poster titled
+      <description>&lt;p&gt;I&amp;rsquo;m happy to announce that my poster titled
 &lt;a href=&#34;files/posters/cps-spc16.pdf&#34;&gt;Towards high-interaction virtual ICS honeypots-in-a-box&lt;/a&gt;
 won the
 &lt;a href=&#34;https://www.stengg.com/en/electronics/&#34;&gt;ST Engineering&lt;/a&gt;
 Poster Award at the
 &lt;a href=&#34;https://gradevents.sutd.edu.sg/first/&#34;&gt;FIRST industry workshop&lt;/a&gt;, held at
 SUTD. This is a special gift one day before my 30th birthday!
-Here I&#39;m sharing a picture from the award ceremony:&lt;/p&gt;
+Here I&amp;rsquo;m sharing a picture from the award ceremony:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/first17-award.jpg&#34; alt=&#34;FIRST17 Award Ceremony&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Congratulations also to &lt;a href=&#34;http://people.sutd.edu.sg/~1001407/?page_id=10&amp;amp;lang=en&#34;&gt;Hamid&lt;/a&gt; who won
 one award:&lt;/p&gt;
@@ -717,9 +718,9 @@ six graduate and post-graduate colleagues with different backgrounds:&lt;/p&gt;
 &lt;li&gt;Fabian Willibaldf rom ETH (Environmental Engineering)&lt;/li&gt;
 &lt;li&gt;Jay Prakash from SUTD (EECS)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;I&#39;m presenting the summary of our activities of day 2 related to
+&lt;p&gt;I&amp;rsquo;m presenting the summary of our activities of day 2 related to
 cybersecurity organized at my institution &lt;a href=&#34;https://www.sutd.edu.sg/&#34;&gt;SUTD&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;We started knowing about Singapore&#39;s Cyber-Security Agency (CSA). In
+&lt;p&gt;We started knowing about Singapore&amp;rsquo;s Cyber-Security Agency (CSA). In
 particular, we were introduced to Singapore cybersecurity strategies and
 long-term plans.Then we heard the personal story of a cybersecurity
 startup founder and we discovered common and effective threats in the
@@ -728,8 +729,8 @@ SUTD cybersecurity professors about novel cybersecurity problems and
 solutions, such as cyber-physical systems, IoT and adversarial machine
 learning. We understood the importance of education and awareness when
 talking about cybersecurity.&lt;/p&gt;
-&lt;p&gt;After lunch we visited SUTD&#39;s world-class cybersecurity facilites. We started
-from &lt;a href=&#34;https://itrust.sutd.edu.sg/&#34;&gt;iTrust&lt;/a&gt;, SUTD&#39;s cybersecurity research
+&lt;p&gt;After lunch we visited SUTD&amp;rsquo;s world-class cybersecurity facilites. We started
+from &lt;a href=&#34;https://itrust.sutd.edu.sg/&#34;&gt;iTrust&lt;/a&gt;, SUTD&amp;rsquo;s cybersecurity research
 centre. iTrust covers a broad range of topics spanning from theoretical
 to applied cybersecurity. The range of research area covered spans from
 traditional computer security to domain-specific areas such as: industrial
@@ -754,7 +755,7 @@ thermostats and smart lamps) to recreate a smart home environment.&lt;/p&gt;
 &lt;p&gt;Overall it was a very rich experience. We understand that coming up with
 a cybersecurity policy is a hard problem for several independent reasons
 such as cross-disciplinary knowledge, funding, awareness, and education.&lt;/p&gt;
-&lt;p&gt;Here I&#39;m sharing a picture with all the participants from SUTD:&lt;/p&gt;
+&lt;p&gt;Here I&amp;rsquo;m sharing a picture with all the participants from SUTD:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/smart17-sutd.jpg&#34; alt=&#34;SMART SUTD&#34;&gt;&lt;/p&gt;
 &lt;p&gt;More pictures &lt;a href=&#34;https://www.instagram.com/explore/tags/fstp2017/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>

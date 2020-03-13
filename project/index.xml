@@ -36,7 +36,7 @@ the low entropy keys in real time. The KNOB attack is listed as
       
       <guid>https://francozappa.github.io/project/rearby/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/francozappa/REarby&#34;&gt;REarby&lt;/a&gt; is a toolkit that I developed to reverse engineer and attack
-&lt;a href=&#34;https://developers.google.com/nearby/connections/overview&#34;&gt;Google&#39;s Nearby Connections&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://developers.google.com/nearby/connections/overview&#34;&gt;Google&amp;rsquo;s Nearby Connections&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

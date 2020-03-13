@@ -19,7 +19,7 @@
       
       <guid>https://francozappa.github.io/post/theme-daynight-search/</guid>
       <description>&lt;p&gt;Recently &lt;a href=&#34;https://github.com/gcushen&#34;&gt;gcushen&lt;/a&gt; updated
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Academic&lt;/a&gt; (the theme that I&#39;m using
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Academic&lt;/a&gt; (the theme that I&amp;rsquo;m using
 to build this website with &lt;code&gt;hugo&lt;/code&gt;)
 with two useful features that I recommend to use: &lt;code&gt;day_night&lt;/code&gt; and &lt;code&gt;search&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;day_night&lt;/code&gt; allows the reader to toggle light and dark color themes for the website.
@@ -30,7 +30,7 @@ theme).&lt;/p&gt;
 rearby. This functionality is accessed by clicking the magnifying glass icon
 close to the theme switch icon or by using &lt;code&gt;vim&lt;/code&gt;-like shortcuts: &lt;code&gt;/&lt;/code&gt; enables
 search and &lt;code&gt;Esc&lt;/code&gt; disables it. Currently, this functionality can be supported
-using built-in Fuse (client-side) or Agolia (server-side). I&#39;m using the first
+using built-in Fuse (client-side) or Agolia (server-side). I&amp;rsquo;m using the first
 option.&lt;/p&gt;
 &lt;p&gt;If you are browsing from a mobile device the icons can be found by tapping the
 global menu icon.&lt;/p&gt;
