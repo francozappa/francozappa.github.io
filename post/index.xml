@@ -7,10 +7,30 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bluetooth Impersonation AttackS (BIAS) at IEEE S&amp;P 2020</title>
+      <link>https://francozappa.github.io/post/bias-announce/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/post/bias-announce/</guid>
+      <description>&lt;p&gt;Our paper
+&lt;a href=&#34;https://francozappa.github.io/publication/bias/&#34;&gt;Bluetooth Impersonation AttackS (BIAS)&lt;/a&gt;
+will be presented at the
+&lt;a href=&#34;https://www.ieee-security.org/TC/SP2020//index.html&#34;&gt;IEEE Symposium on Security and Privacy (IEEE S&amp;amp;P) 2020&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fASGU7Og5_4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;More information are available in the &lt;a href=&#34;https://francozappa.github.io/about-bias&#34;&gt;BIAS website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The BIAS code will be also uploaded soon! Stay tuned and unbiased 😄&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>KNOB Attacks Talk at Hardwear.io 2020</title>
