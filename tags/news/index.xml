@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy</title>
+      <link>https://francozappa.github.io/post/knob-tops/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/post/knob-tops/</guid>
+      <description>&lt;p&gt;Our new paper
+&lt;a href=&#34;https://francozappa.github.io/publication/knob-ble/&#34;&gt;Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy&lt;/a&gt;
+will appear in the &lt;a href=&#34;https://dl.acm.org/journal/tops&#34;&gt;ACM Transactions on Privacy and Security&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our paper extends our previous work on the
+&lt;a href=&#34;https://knobattack.com&#34;&gt;KNOB attack on Bluetooth BR/EDR&lt;/a&gt;
+to Bluetooth Low Energy (BLE), presents an updated evaluation of the KNOB attack for
+Bluetooth BR/EDR and discusses some of the countermeasures put in place by
+vendors such as Google and Apple after the disclosure of the KNOB attack and
+the amendment of the Bluetooth standard.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bluetooth Impersonation AttackS (BIAS) at IEEE S&amp;P 2020</title>
