@@ -13,12 +13,23 @@
     
     
     <item>
-      <title>Example Talk</title>
-      <link>https://francozappa.github.io/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <title>From the Bluetooth Standard to Standard-Compliant 0-days</title>
+      <link>https://francozappa.github.io/talk/hwio20/talk/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://francozappa.github.io/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>https://francozappa.github.io/talk/hwio20/talk/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bluetooth blues: KNOB attack explained.</title>
+      <link>https://francozappa.github.io/talk/cyberwire-knob/talk/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/talk/cyberwire-knob/talk/</guid>
+      <description>&lt;p&gt;Listen to the podcast
+&lt;a href=&#34;https://thecyberwire.com/podcasts/research-saturday/102/notes&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
