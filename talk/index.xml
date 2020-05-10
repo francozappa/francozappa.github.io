@@ -18,7 +18,11 @@
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/talk/hwio20/talk/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ZVSbF11uxuk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -28,8 +32,12 @@
       <pubDate>Sat, 14 Sep 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/talk/cyberwire-knob/talk/</guid>
-      <description>&lt;p&gt;Listen to the podcast
-&lt;a href=&#34;https://thecyberwire.com/podcasts/research-saturday/102/notes&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/_XvjXZCc1DU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Alternative &lt;a href=&#34;https://thecyberwire.com/podcasts/research-saturday/102/notes&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
