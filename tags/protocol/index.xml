@@ -7,10 +7,31 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/tags/protocol/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BIAS</title>
+      <link>https://francozappa.github.io/project/bias/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/project/bias/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://francozappa.github.io/about-bias/&#34;&gt;Bluetooth Impersonation AttackS
+(BIAS)&lt;/a&gt; exploits standard-compliant
+vulnerabilities in the Bluetooth authentication procedures. The attacks allow
+an attacker to impersonate any Bluetooth master and slave device during secure
+session establishment without knowing the long term pairing key. The attacks
+work regardless of the Bluetooth security mode (legacy and secure
+authentication procedures), and hardware and software implementation details.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fASGU7Og5_4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>KNOB</title>
