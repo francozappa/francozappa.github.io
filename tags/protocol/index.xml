@@ -25,9 +25,16 @@ an attacker to impersonate any Bluetooth master and slave device during secure
 session establishment without knowing the long term pairing key. The attacks
 work regardless of the Bluetooth security mode (legacy and secure
 authentication procedures), and hardware and software implementation details.&lt;/p&gt;
+&lt;h2 id=&#34;teaser&#34;&gt;Teaser&lt;/h2&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/fASGU7Og5_4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;presentation-at-ieee-sp-2020&#34;&gt;Presentation at IEEE S&amp;amp;P 2020&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/bVbBDnruv7M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>
