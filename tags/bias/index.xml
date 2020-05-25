@@ -24,7 +24,8 @@ vulnerabilities in the Bluetooth authentication procedures. The attacks allow
 an attacker to impersonate any Bluetooth master and slave device during secure
 session establishment without knowing the long term pairing key. The attacks
 work regardless of the Bluetooth security mode (legacy and secure
-authentication procedures), and hardware and software implementation details.&lt;/p&gt;
+authentication procedures), and hardware and software implementation details.
+The BIAS attack is listed as &lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2020-10135&#34;&gt;CVE-2019-9506&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;teaser&#34;&gt;Teaser&lt;/h2&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;

@@ -182,6 +182,12 @@ manipulate the entropy negotiation to let any standard compliant Bluetooth
 device negotiate encryption keys with 1 byte of entropy, and then brute force
 the low entropy keys in real time. The KNOB attack is listed as
 &lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2019-9506&#34;&gt;CVE-2019-9506&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;presentation-at-usenix-security-2019&#34;&gt;Presentation at USENIX Security 2019&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/v9Xg9XcnNh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
