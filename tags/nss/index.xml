@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/tags/nss/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,12 +15,12 @@
     <item>
       <title>CFP: Conference on Network and System Security (NSS)</title>
       <link>https://francozappa.github.io/post/cfp-nss20/</link>
-      <pubDate>Sat, 06 Jun 2020 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/post/cfp-nss20/</guid>
       <description>&lt;p&gt;I&#39;m glad to serve as a TPC member and publicity co-chair for the &lt;em&gt;14th International Conference
 on Network and System Security (NSS)&lt;/em&gt;. The conference focuses on network and
-system security but welcomes paper from a broad range of topics including:&lt;/p&gt;
+system security and welcomes papers from a broad range of topics including:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Active Defense Systems&lt;/li&gt;
 &lt;li&gt;Analysis, Benchmark of Security Systems&lt;/li&gt;
@@ -36,7 +36,7 @@ system security but welcomes paper from a broad range of topics including:&lt;/p
 &lt;li&gt;Cyber Hacking and Protection&lt;/li&gt;
 &lt;li&gt;Hardware Security&lt;/li&gt;
 &lt;li&gt;Intrusion Detection and Prevention&lt;/li&gt;
-&lt;li&gt;Ai/Machine Learning Security&lt;/li&gt;
+&lt;li&gt;AI/Machine Learning Security&lt;/li&gt;
 &lt;li&gt;Software Security&lt;/li&gt;
 &lt;li&gt;Security Policy&lt;/li&gt;
 &lt;li&gt;Security and Privacy in Social Networks&lt;/li&gt;
@@ -44,7 +44,7 @@ system security but welcomes paper from a broad range of topics including:&lt;/p
 &lt;li&gt;Watermarking and Digital Rights Management&lt;/li&gt;
 &lt;li&gt;Location Privacy&lt;/li&gt;
 &lt;li&gt;Security For Critical Infrastructures&lt;/li&gt;
-&lt;li&gt;Rfid/Nfc Security&lt;/li&gt;
+&lt;li&gt;RFID/NFC Security&lt;/li&gt;
 &lt;li&gt;Security Infrastructure&lt;/li&gt;
 &lt;li&gt;Security and Privacy For Digital Health&lt;/li&gt;
 &lt;li&gt;Viruses and Malware&lt;/li&gt;
