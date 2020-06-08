@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://francozappa.github.io/tags/cfp/</loc>
+    <lastmod>2020-06-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/cfp-nss20/</loc>
+    <lastmod>2020-06-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/</loc>
+    <lastmod>2020-06-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/nss/</loc>
+    <lastmod>2020-06-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/</loc>
+    <lastmod>2020-06-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/</loc>
+    <lastmod>2020-06-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/tpc/</loc>
+    <lastmod>2020-06-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://francozappa.github.io/project/bias/</loc>
     <lastmod>2020-05-18T00:00:00+02:00</lastmod>
   </url>
@@ -18,11 +53,6 @@
   </url>
   
   <url>
-    <loc>https://francozappa.github.io/</loc>
-    <lastmod>2020-05-18T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://francozappa.github.io/project/</loc>
     <lastmod>2020-05-18T00:00:00+02:00</lastmod>
   </url>
@@ -33,22 +63,12 @@
   </url>
   
   <url>
-    <loc>https://francozappa.github.io/tags/</loc>
-    <lastmod>2020-05-18T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://francozappa.github.io/tags/knob/</loc>
     <lastmod>2020-05-10T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://francozappa.github.io/tags/news/</loc>
-    <lastmod>2020-05-10T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/post/</loc>
     <lastmod>2020-05-10T00:00:00+02:00</lastmod>
   </url>
   
@@ -193,13 +213,13 @@
   </url>
   
   <url>
-    <loc>https://francozappa.github.io/tags/phd/</loc>
+    <loc>https://francozappa.github.io/tags/phd-thesis-wireless-cyber-physical/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://francozappa.github.io/tags/phd-thesis-wireless-cyber-physical/</loc>
-    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+    <loc>https://francozappa.github.io/tags/phd/</loc>
+    <lastmod>2019-08-27T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -283,22 +303,12 @@
   </url>
   
   <url>
-    <loc>https://francozappa.github.io/tags/cfp/</loc>
-    <lastmod>2019-02-14T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://francozappa.github.io/post/cfp-cps-sec19/</loc>
     <lastmod>2019-02-14T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://francozappa.github.io/tags/cps-sec/</loc>
-    <lastmod>2019-02-14T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tags/tpc/</loc>
     <lastmod>2019-02-14T00:00:00+01:00</lastmod>
   </url>
   

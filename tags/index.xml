@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>cfp</title>
+      <link>https://francozappa.github.io/tags/cfp/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/cfp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nss</title>
+      <link>https://francozappa.github.io/tags/nss/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/nss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tpc</title>
+      <link>https://francozappa.github.io/tags/tpc/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/tpc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>bias</title>
@@ -103,20 +130,20 @@
     </item>
     
     <item>
-      <title>phd</title>
-      <link>https://francozappa.github.io/tags/phd/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>phd thesis wireless cyber-physical</title>
       <link>https://francozappa.github.io/tags/phd-thesis-wireless-cyber-physical/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://francozappa.github.io/tags/phd-thesis-wireless-cyber-physical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phd</title>
+      <link>https://francozappa.github.io/tags/phd/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/phd/</guid>
       <description></description>
     </item>
     
@@ -166,29 +193,11 @@
     </item>
     
     <item>
-      <title>cfp</title>
-      <link>https://francozappa.github.io/tags/cfp/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/cfp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cps-sec</title>
       <link>https://francozappa.github.io/tags/cps-sec/</link>
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>https://francozappa.github.io/tags/cps-sec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tpc</title>
-      <link>https://francozappa.github.io/tags/tpc/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/tpc/</guid>
       <description></description>
     </item>
     

@@ -18,7 +18,7 @@
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/post/knob-repo3/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve pushed the
+      <description>&lt;p&gt;I&#39;ve pushed the
 &lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34;&gt;code&lt;/a&gt;
 to perform the KNOB attack also when the Nexus 5 is the Bluetooth slave
 responding to the first LMP packet. To switch between different attack modes
@@ -73,7 +73,7 @@ is online, and it includes our
       
       <guid>https://francozappa.github.io/post/ndss19-cr/</guid>
       <description>&lt;p&gt;The camera-ready version of
-&lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;
+&lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&#39;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;
 is available
 &lt;a href=&#34;https://francozappa.github.io/publication/rearby/paper.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We also released a

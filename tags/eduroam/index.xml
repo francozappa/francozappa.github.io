@@ -19,8 +19,8 @@
       
       <guid>https://francozappa.github.io/post/sutd-eduroam/</guid>
       <description>&lt;p&gt;After the
-&lt;a href=&#34;https://francozappa.github.io/post/sutd-vpn-student/&#34;&gt;post about connecting to SUTD&amp;rsquo;s VPN&lt;/a&gt;
-is now time to connect eduroam! Again, SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of
+&lt;a href=&#34;https://francozappa.github.io/post/sutd-vpn-student/&#34;&gt;post about connecting to SUTD&#39;s VPN&lt;/a&gt;
+is now time to connect eduroam! Again, SUTD&#39;s IT support for (Arch) Linux at the time of
 writing is &lt;em&gt;none&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;SUTD runs a setup with only username-password (no certificates required) and
 the connection can be established using the GUI of NetworkManager. If your
@@ -28,8 +28,7 @@ WiFi card is on and eduroam is in your range you should see the &lt;code&gt;edur
 on the list of the available WiFi networks. If you attempt to connect then
 all you need to do is enter your &lt;code&gt;username&lt;/code&gt; and &lt;code&gt;password&lt;/code&gt;. As usual, PhD
 student and staff are separated into different namespaces. Use the username
-&lt;code&gt;name_surname@sutd.edu.sg&lt;/code&gt; if you are a staff member or &lt;code&gt;xxxxxxx@sutd.edu.sg&lt;/code&gt;
-if you are a student (&lt;code&gt;xxxxxxx&lt;/code&gt; is your 7-digits student id). The password
+&lt;code&gt;name_surname@sutd.edu.sg&lt;/code&gt; if you are a staff member or &lt;a href=&#34;mailto:%60xxxxxxx@sutd.edu.sg&#34;&gt;`xxxxxxx@sutd.edu.sg&lt;/a&gt;&lt;code&gt;if you are a student (&lt;/code&gt;xxxxxxx` is your 7-digits student id). The password
 should be the same as the one you are using to connect to the Internet from
 SUTD.&lt;/p&gt;
 &lt;p&gt;Your NetworkManager Wi-Fi Security screen should look like this (&lt;code&gt;username&lt;/code&gt; and
