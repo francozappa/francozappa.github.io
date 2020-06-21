@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>it</title>
+      <link>https://francozappa.github.io/tags/it/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>https://francozappa.github.io/tags/news/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutor-island</title>
+      <link>https://francozappa.github.io/tags/tutor-island/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/tags/tutor-island/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>cfp</title>
@@ -72,15 +99,6 @@
       <pubDate>Sun, 10 May 2020 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/tags/knob/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news</title>
-      <link>https://francozappa.github.io/tags/news/</link>
-      <pubDate>Sun, 10 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://francozappa.github.io/tags/news/</guid>
       <description></description>
     </item>
     
