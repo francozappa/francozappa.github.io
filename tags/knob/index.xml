@@ -169,25 +169,35 @@ have a look at the updated
     </item>
     
     <item>
-      <title>KNOB</title>
+      <title>KNOB Attacks</title>
       <link>https://francozappa.github.io/project/knob/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://francozappa.github.io/project/knob/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://knobattack.com&#34;&gt;Key Negotiation Of Bluetooth (KNOB) attack&lt;/a&gt; exploits
+      <description>&lt;h2 id=&#34;knob-attack-on-bluetooth-classic-bredr&#34;&gt;KNOB Attack on Bluetooth Classic (BR/EDR)&lt;/h2&gt;
+&lt;p&gt;The Key Negotiation Of Bluetooth (KNOB) attack on
+Bluetooth Classic (BR/EDR) is presented in our paper titled
+&lt;a href=&#34;https://www.usenix.org/system/files/sec19-antonioli.pdf&#34;&gt;The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation of Bluetooth BR/EDR&lt;/a&gt;.
+The KNOB attack is listed as
+&lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2019-9506&#34;&gt;CVE-2019-9506&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The KNOB attack exploits
 the fact that the specification of Bluetooth includes an encryption key negotiation protocol
 that allows to negotiate encryption keys with entropy as low as 1 Byte, without
 protecting the integrity of the negotiation process. A remote attacker can
 manipulate the entropy negotiation to let any standard compliant Bluetooth
 device negotiate encryption keys with 1 byte of entropy, and then brute force
-the low entropy keys in real time. The KNOB attack is listed as
-&lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2019-9506&#34;&gt;CVE-2019-9506&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;presentation-at-usenix-security-2019&#34;&gt;Presentation at USENIX Security 2019&lt;/h2&gt;
+the low entropy keys in real time.&lt;/p&gt;
+&lt;p&gt;Below my paper presentation at USENIX Security 2019:&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/v9Xg9XcnNh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+&lt;h2 id=&#34;knob-attack-on-bluetooth-low-energy-ble&#34;&gt;KNOB Attack on Bluetooth Low Energy (BLE)&lt;/h2&gt;
+&lt;p&gt;The Key Negotiation Of Bluetooth (KNOB) attack on
+Bluetooth Low Energy (BLE) is presented in our paper titled
+&lt;a href=&#34;https://francozappa.github.io/publication/knob-ble/paper.pdf&#34;&gt;Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low
+Energy&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
