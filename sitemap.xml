@@ -3,8 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://francozappa.github.io/tags/cfp/</loc>
+    <lastmod>2020-07-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://francozappa.github.io/</loc>
-    <lastmod>2020-06-20T00:00:00+02:00</lastmod>
+    <lastmod>2020-07-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/nss/</loc>
+    <lastmod>2020-07-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/2020/nss20-cfp-ext/</loc>
+    <lastmod>2020-07-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/</loc>
+    <lastmod>2020-07-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/</loc>
+    <lastmod>2020-07-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/tpc/</loc>
+    <lastmod>2020-07-06T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -14,16 +44,6 @@
   
   <url>
     <loc>https://francozappa.github.io/tags/news/</loc>
-    <lastmod>2020-06-20T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/post/</loc>
-    <lastmod>2020-06-20T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tags/</loc>
     <lastmod>2020-06-20T00:00:00+02:00</lastmod>
   </url>
   
@@ -38,22 +58,7 @@
   </url>
   
   <url>
-    <loc>https://francozappa.github.io/tags/cfp/</loc>
-    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://francozappa.github.io/post/cfp-nss20/</loc>
-    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tags/nss/</loc>
-    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tags/tpc/</loc>
     <lastmod>2020-06-08T00:00:00+02:00</lastmod>
   </url>
   
