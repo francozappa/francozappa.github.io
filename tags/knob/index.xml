@@ -7,10 +7,80 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://francozappa.github.io/tags/knob/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WAC3 Talk About KNOB and BIAS Attacks</title>
+      <link>https://francozappa.github.io/post/wac320-talk/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://francozappa.github.io/post/wac320-talk/</guid>
+      <description>&lt;p&gt;I&#39;m glad to give a talk about the
+&lt;a href=&#34;https://francozappa.github.io/project/knob/&#34;&gt;KNOB&lt;/a&gt; and
+&lt;a href=&#34;https://francozappa.github.io/project/bias/&#34;&gt;BIAS&lt;/a&gt; attacks
+on Bluetooth at the third
+&lt;a href=&#34;https://crypto.iacr.org/2020/wac.php&#34;&gt;Workshop on Attacks in Cryptography (WAC)&lt;/a&gt;
+co-located with&lt;br&gt;
+&lt;a href=&#34;https://crypto.iacr.org/2020/&#34;&gt;CRYPTO 2020&lt;/a&gt;.
+The Workshop will be held
+online on Zoom the 16th of August 2020, and my talk will
+be from 13:20 to 14:00 (EDT) in the Attacks on Standards session (session IV).&lt;/p&gt;
+&lt;p&gt;This is the talk abstract:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bluetooth is a ubiquitous technology for low power wireless
+communications. Bluetooth runs on billions of devices including
+mobile, wearables, home automation, smart speakers, headsets,
+industrial and medical appliances, and vehicles. As a result,
+Bluetooth&#39;s attack surface is huge and includes significant threats
+such as identity thefts, privacy violations, and malicious device
+control.&lt;/p&gt;
+&lt;p&gt;Bluetooth is a complex technology specified in an open standard. The
+standard defines two wireless stacks Bluetooth Classic for high
+throughput services (e.g., audio and voice) and Bluetooth Low Energy
+(BLE) for very low power services (e.g., localization, and
+monitoring). The standard defines security mechanisms to protect the
+confidentiality, integrity, and authenticity of Bluetooth
+communications. Those mechanisms include pairing to share a long term
+key among two devices, and secure session establishment to let two
+paired devices negotiate session keys to protect their communication.
+A single vulnerability in a standard-compliant security mechanism
+translates into billions of exploitable devices.&lt;/p&gt;
+&lt;p&gt;This talk reviews several standard-compliant vulnerabilities that we
+recently uncovered on the key negotiation and authentication
+mechanisms of Bluetooth Classic and BLE. We also describe how to
+exploit such vulnerabilities to perform key negotiation attacks on
+Bluetooth Classic and BLE (KNOB attacks, CVE-2019-9506) and
+impersonation attacks on Bluetooth Classic (BIAS attacks,
+CVE-2020-10135). The attacks are presented together with a detailed
+description of the Bluetooth treat model and the affected security
+mechanism. We also explain how we implemented such attacks using
+low-cost hardware and open-source software and how we evaluated them
+on actual devices from the major vendors including Apple, Broadcom,
+Cypress, CSR, Google, Intel, Microsoft, and Qualcomm. Finally, we
+describe how the Bluetooth standard was amended after the disclosure
+of our attacks, our proposed countermeasures, and why most of the
+Bluetooth devices are still vulnerable to our attacks.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;For more details about the KNOB and BIAS attacks have a look at the
+related research papers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The KNOB is Broken: Exploiting Low Entropy in the Encryption Key
+Negotiation of Bluetooth BR/EDR&lt;/em&gt;, USENIX Security 2019.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy&lt;/em&gt;,
+ACM TOPS 2020.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;BIAS: Bluetooth Impersonation AttackS&lt;/em&gt;, IEEE S&amp;amp;P 2020.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please join the virtual WAC, and
+thanks
+&lt;a href=&#34;https://eyalro.net/&#34;&gt;Eyal Ronen&lt;/a&gt;
+and
+&lt;a href=&#34;https://www.mathyvanhoef.com/&#34;&gt;Mathy Vanhoef&lt;/a&gt;
+for organizing it and for the invitation!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Slides and video from our hardwear.io 2020 talk</title>
