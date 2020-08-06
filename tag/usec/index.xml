@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>usec | Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tag/usec/</link>
+      <atom:link href="https://francozappa.github.io/tag/usec/index.xml" rel="self" type="application/rss+xml" />
+    <description>usec</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://francozappa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>usec</title>
+      <link>https://francozappa.github.io/tag/usec/</link>
+    </image>
+    
+    <item>
+      <title>Video of my KNOB Attack Presentation at USENIX Security 2019</title>
+      <link>https://francozappa.github.io/post/knob-usec-video/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/knob-usec-video/</guid>
+      <description>&lt;p&gt;Title of the paper:
+&lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
+in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/v9Xg9XcnNh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;More info at 
+&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

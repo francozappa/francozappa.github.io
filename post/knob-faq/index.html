@@ -1,13 +1,15 @@
-<!DOCTYPE html>
-<html lang="en-us">
+<!DOCTYPE html><html lang="en-us" >
 
 <head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.4.0">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
 
+  
+
+  
   
 
   
@@ -28,17 +30,15 @@
   
     
   
-  <meta name="description" content="In this post I&#39;m trying to address some discussion points and misconceptions about the KNOB attack.
+  <meta name="description" content="In this post I&rsquo;m trying to address some discussion points and misconceptions about the KNOB attack.
 Attribution  Researchers from CISPA discovered the KNOB attack
- Partially true. The KNOB attack was discovered by myself (Daniele Antonioli) from SUTD, Nils Ole Tippenhauer from CISPA, and Kasper Rasmussen from the University of Oxford. In particular, I&#39;ve identified the vulnerability back in May 2018 while I was working with Kasper on Nearby Connections at the University of Oxford, and I wrote the first exploit in October 2018 while I was visiting Nils (my former advisor at SUTD) at CISPA.">
+ Partially true. The KNOB attack was discovered by myself (Daniele Antonioli) from SUTD, Nils Ole Tippenhauer from CISPA, and Kasper Rasmussen from the University of Oxford.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/post/knob-faq/">
 
   
 
-
-  
 
   
   
@@ -48,12 +48,17 @@ Attribution  Researchers from CISPA discovered the KNOB attack
 
   
   
+
+  
+  
   
   
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -64,55 +69,209 @@ Attribution  Researchers from CISPA discovered the KNOB attack
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
 
-  
-
-  
-  
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
-  
-
-  
-  
-  
-  <link rel="stylesheet" href="/css/academic.min.f9fb2fab3fe71649e596cce2f10f8161.css">
-
-  
-
-  
-  
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', 'UA-109349396-1', 'auto');
+    
+    
       
-      ga('require', 'eventTracker');
-      ga('require', 'outboundLinkTracker');
-      ga('require', 'urlChangeTracker');
-      ga('send', 'pageview');
-    </script>
-    <script async src="https://www.google-analytics.com/analytics.js"></script>
+
+      
+      
+
+      
     
-    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
     
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109349396-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-109349396-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
   
   
 
   
 
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://francozappa.github.io/post/knob-faq/">
 
@@ -120,23 +279,81 @@ Attribution  Researchers from CISPA discovered the KNOB attack
   
   
   
+  
+  
+  
     
     
   
+  
   <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@francozappa">
+  <meta property="twitter:creator" content="@francozappa">
   
   <meta property="og:site_name" content="Daniele Antonioli">
   <meta property="og:url" content="https://francozappa.github.io/post/knob-faq/">
   <meta property="og:title" content="KNOB Attack FAQ | Daniele Antonioli">
-  <meta property="og:description" content="In this post I&#39;m trying to address some discussion points and misconceptions about the KNOB attack.
+  <meta property="og:description" content="In this post I&rsquo;m trying to address some discussion points and misconceptions about the KNOB attack.
 Attribution  Researchers from CISPA discovered the KNOB attack
- Partially true. The KNOB attack was discovered by myself (Daniele Antonioli) from SUTD, Nils Ole Tippenhauer from CISPA, and Kasper Rasmussen from the University of Oxford. In particular, I&#39;ve identified the vulnerability back in May 2018 while I was working with Kasper on Nearby Connections at the University of Oxford, and I wrote the first exploit in October 2018 while I was visiting Nils (my former advisor at SUTD) at CISPA."><meta property="og:image" content="https://francozappa.github.io/img/icon-192.png">
-  <meta property="twitter:image" content="https://francozappa.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
+ Partially true. The KNOB attack was discovered by myself (Daniele Antonioli) from SUTD, Nils Ole Tippenhauer from CISPA, and Kasper Rasmussen from the University of Oxford."><meta property="og:image" content="https://francozappa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://francozappa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-08-19T00:00:00&#43;02:00">
+    
+      <meta property="article:published_time" content="2019-08-19T00:00:00&#43;02:00">
+    
+    <meta property="article:modified_time" content="2019-08-19T00:00:00&#43;02:00">
   
-  <meta property="article:modified_time" content="2019-08-19T00:00:00&#43;02:00">
+
   
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://francozappa.github.io/post/knob-faq/"
+  },
+  "headline": "KNOB Attack FAQ",
+  
+  "datePublished": "2019-08-19T00:00:00+02:00",
+  "dateModified": "2019-08-19T00:00:00+02:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Daniele Antonioli"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Daniele Antonioli",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://francozappa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "In this post I\u0026rsquo;m trying to address some discussion points and misconceptions about the KNOB attack.\nAttribution  Researchers from CISPA discovered the KNOB attack\n Partially true. The KNOB attack was discovered by myself (Daniele Antonioli) from SUTD, Nils Ole Tippenhauer from CISPA, and Kasper Rasmussen from the University of Oxford."
+}
+</script>
+
+  
+
+  
+
 
   
 
@@ -151,7 +368,8 @@ Attribution  Researchers from CISPA discovered the KNOB attack
 
 </head>
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class=" ">
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -169,7 +387,7 @@ Attribution  Researchers from CISPA discovered the KNOB attack
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
         
       </div>
 
@@ -186,24 +404,46 @@ Attribution  Researchers from CISPA discovered the KNOB attack
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
+    <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="/">Daniele Antonioli</a>
-      
-      <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span><i class="fas fa-bars"></i></span>
-      </button>
-      
+    </div>
+    
 
     
-    <div class="collapse navbar-collapse" id="navbar">
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Daniele Antonioli</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
 
       
-      
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav d-md-inline-flex">
         
 
         
@@ -441,29 +681,45 @@ Attribution  Researchers from CISPA discovered the KNOB attack
       
 
         
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-        </li>
-        
-
-        
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-        </li>
-        
-
       </ul>
-
     </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
   </div>
 </nav>
 
 
-  <article class="article" itemscope itemtype="http://schema.org/Article">
+
+  <article class="article">
 
   
 
@@ -484,17 +740,13 @@ Attribution  Researchers from CISPA discovered the KNOB attack
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">KNOB Attack FAQ</h1>
+  <h1>KNOB Attack FAQ</h1>
 
   
 
   
     
 
-
-
-<meta content="2019-08-19 00:00:00 &#43;0200 CEST" itemprop="datePublished">
-<meta content="2019-08-19 00:00:00 &#43;0200 CEST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -507,7 +759,7 @@ Attribution  Researchers from CISPA discovered the KNOB attack
     
       
     
-    <time>Aug 19, 2019</time>
+    Aug 19, 2019
   </span>
   
 
@@ -522,6 +774,7 @@ Attribution  Researchers from CISPA discovered the KNOB attack
 
   
   
+  
   <span class="middot-divider"></span>
   <a href="/post/knob-faq/#disqus_thread"></a>
   
@@ -529,8 +782,147 @@ Attribution  Researchers from CISPA discovered the KNOB attack
   
   
 
-  
+</div>
+
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>In this post I&rsquo;m trying to address some discussion points and
+misconceptions about the KNOB attack.</p>
+<h2 id="attribution">Attribution</h2>
+<blockquote>
+<p>Researchers from CISPA discovered the KNOB attack</p>
+</blockquote>
+<p><strong>Partially true</strong>. The KNOB attack was discovered by myself (Daniele Antonioli) from SUTD,
+Nils Ole Tippenhauer from CISPA, and Kasper Rasmussen from the University of Oxford.
+In particular, I&rsquo;ve identified the vulnerability back in <em>May 2018</em> while I was
+working with Kasper on 
+<a href="https://francozappa.github.io/publication/rearby/" target="_blank" rel="noopener">Nearby Connections</a>
+at the University of Oxford, and I wrote
+the first exploit in <em>October 2018</em> while I was visiting Nils (my former
+advisor at SUTD) at CISPA. I&rsquo;d like to thank the researchers from CISPA
+who kindly lent me their Bluetooth devices.</p>
+<h2 id="attack">Attack</h2>
+<blockquote>
+<p>The KNOB attack is performed while two Bluetooth BR/EDR devices are pairing</p>
+</blockquote>
+<p><strong>False</strong>. The KNOB attack targets the connection phase and can be conducted
+between two devices are already paired. See also
+
+<a href="https://francozappa.github.io/publication/knob/slides.pdf" target="_blank" rel="noopener">slide 6</a></p>
+<blockquote>
+<p>The KNOB attack can only be used to spy Bluetooth communications</p>
+</blockquote>
+<p><strong>Partially true</strong>. The KNOB attack can also be used to inject valid
+ciphertext, e.g., to impersonate a legitimate Bluetooth device.</p>
+<blockquote>
+<p>The KNOB attack reduces the encryption key size to 1 byte</p>
+</blockquote>
+<p><strong>False</strong>. The encryption key size stays the same (16 bytes). The KNOB attack reduces
+the <em>entropy (randomness)</em> of the key to 1 byte. For example the key
+<code>0xa395a045bf2410983b4309214598beaf</code> (16 byte of entropy)
+is reduced to
+<code>0xa3000000000000000000000000000000</code> (1 byte of entropy) and not
+to <code>0xa3</code>.</p>
+<blockquote>
+<p>The KNOB attack is theoretical</p>
+</blockquote>
+<p><strong>False</strong>. The KNOB attack exploits an actual vulnerability in the key
+negotiation protocol of Bluetooth (BR/EDR). As it is an attack at the <em>architectural</em> level,
+all standard compliant devices are potentially vulnerable.
+Back in 2018 we performed the KNOB attack on more than 20 Bluetooth devices,
+and all of them were vulnerable. You can test if your device is vulnerable by
+using our
+
+<a href="https://github.com/francozappa/knob/tree/master/poc-internalblue" target="_blank" rel="noopener">PoC</a>.</p>
+<blockquote>
+<p>The attacker has to be &ldquo;local&rdquo; or in a &ldquo;privileged&rdquo; position</p>
+</blockquote>
+<p><strong>False</strong>. The KNOB attack can be conducted remotely. For obvious reasons the
+attacker has to be in Bluetooth range, but this does not imply a privileged
+position.</p>
+<blockquote>
+<p>Internalblue enabled the discovery of the KNOB attack</p>
+</blockquote>
+<p><strong>False</strong>. I&rsquo;ve discovered the vulnerability while I was analyzing
+
+<a href="https://francozappa.github.io/publication/rearby/" target="_blank" rel="noopener">Nearby Connections</a>
+and reading the Bluetooth specification in May 2018. Then, while I was looking
+at devices with an open source Bluetooth firmware,
+I&rsquo;ve stumbled upon the Internalblue v0.1. To implement the attack  I had
+to
+
+<a href="https://github.com/francozappa/knob/tree/master/poc-internalblue" target="_blank" rel="noopener">extend Internalblue</a>
+to support LMP packet injection, and develop some
+
+<a href="https://github.com/francozappa/knob/tree/master/e0" target="_blank" rel="noopener">extra code for E0</a>.
+Nevertheless,
+
+<a href="https://github.com/seemoo-lab/internalblue" target="_blank" rel="noopener">Internalblue</a>
+is an awesome project, I recommend it, and I thank
+
+<a href="http://tech.mantz-it.com/" target="_blank" rel="noopener">Dennis</a>
+and
+
+<a href="http://nerdine.org/" target="_blank" rel="noopener">Jiska</a>
+for releasing it to the public.</p>
+<h2 id="implementation">Implementation</h2>
+<blockquote>
+<p>The researchers did not implement the attack</p>
+</blockquote>
+<p><strong>False</strong>. We implemented the KNOB attack and our implementation generates
+the same effects of a remote KNOB attack conducted over the air. This is nice
+because we have a reliable and cheap attack setup that can be reproduced
+without the need of signal manipulation and jamming techniques, and SDR.
+If you want to reproduce the attack look at our
+
+<a href="https://github.com/francozappa/knob" target="_blank" rel="noopener">repo</a>.</p>
+<blockquote>
+<p>The researchers implemented only the firmware attack</p>
+</blockquote>
+<p><strong>False</strong>. We implement the remote attack by patching the firmware of one of
+the victim devices (Nexus 5). Our patches simulate the effect of a remote MitM
+attack and they do not change any firmware logic. This allows us to test the
+effect of a remote MitM attack on actual devices without having to perform the
+attack over the air.</p>
+
+    </div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/news/">news</a>
+  
+  <a class="badge badge-light" href="/tag/knob/">knob</a>
+  
+</div>
+
+
+
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     
@@ -556,7 +948,7 @@ Attribution  Researchers from CISPA discovered the KNOB attack
       
       <li>
         <a href="https://www.facebook.com/sharer.php?u=https://francozappa.github.io/post/knob-faq/&amp;t=KNOB%20Attack%20FAQ" target="_blank" rel="noopener" class="share-btn-facebook">
-          <i class="fab fa-facebook-f"></i>
+          <i class="fab fa-facebook"></i>
         </a>
       </li>
     
@@ -594,7 +986,7 @@ Attribution  Researchers from CISPA discovered the KNOB attack
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=KNOB%20Attack%20FAQ%20https://francozappa.github.io/post/knob-faq/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=KNOB%20Attack%20FAQ%20https://francozappa.github.io/post/knob-faq/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -616,366 +1008,273 @@ Attribution  Researchers from CISPA discovered the KNOB attack
 </div>
 
 
+
+
+
+
+
+
+
+
+
+
+  
   
 
-</div>
 
+
+
+
+  
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-</div>
-
-
-
-  <div class="article-container">
-
-    <div class="article-style" itemprop="articleBody">
-      <p>In this post I'm trying to address some discussion points and
-misconceptions about the KNOB attack.</p>
-<h2 id="attribution">Attribution</h2>
-<blockquote>
-<p>Researchers from CISPA discovered the KNOB attack</p>
-</blockquote>
-<p><strong>Partially true</strong>. The KNOB attack was discovered by myself (Daniele Antonioli) from SUTD,
-Nils Ole Tippenhauer from CISPA, and Kasper Rasmussen from the University of Oxford.
-In particular, I've identified the vulnerability back in <em>May 2018</em> while I was
-working with Kasper on <a href="https://francozappa.github.io/publication/rearby/">Nearby Connections</a>
-at the University of Oxford, and I wrote
-the first exploit in <em>October 2018</em> while I was visiting Nils (my former
-advisor at SUTD) at CISPA. I'd like to thank the researchers from CISPA
-who kindly lent me their Bluetooth devices.</p>
-<h2 id="attack">Attack</h2>
-<blockquote>
-<p>The KNOB attack is performed while two Bluetooth BR/EDR devices are pairing</p>
-</blockquote>
-<p><strong>False</strong>. The KNOB attack targets the connection phase and can be conducted
-between two devices are already paired. See also
-<a href="https://francozappa.github.io/publication/knob/slides.pdf">slide 6</a></p>
-<blockquote>
-<p>The KNOB attack can only be used to spy Bluetooth communications</p>
-</blockquote>
-<p><strong>Partially true</strong>. The KNOB attack can also be used to inject valid
-ciphertext, e.g., to impersonate a legitimate Bluetooth device.</p>
-<blockquote>
-<p>The KNOB attack reduces the encryption key size to 1 byte</p>
-</blockquote>
-<p><strong>False</strong>. The encryption key size stays the same (16 bytes). The KNOB attack reduces
-the <em>entropy (randomness)</em> of the key to 1 byte. For example the key
-<code>0xa395a045bf2410983b4309214598beaf</code> (16 byte of entropy)
-is reduced to
-<code>0xa3000000000000000000000000000000</code> (1 byte of entropy) and not
-to <code>0xa3</code>.</p>
-<blockquote>
-<p>The KNOB attack is theoretical</p>
-</blockquote>
-<p><strong>False</strong>. The KNOB attack exploits an actual vulnerability in the key
-negotiation protocol of Bluetooth (BR/EDR). As it is an attack at the <em>architectural</em> level,
-all standard compliant devices are potentially vulnerable.
-Back in 2018 we performed the KNOB attack on more than 20 Bluetooth devices,
-and all of them were vulnerable. You can test if your device is vulnerable by
-using our
-<a href="https://github.com/francozappa/knob/tree/master/poc-internalblue">PoC</a>.</p>
-<blockquote>
-<p>The attacker has to be &ldquo;local&rdquo; or in a &ldquo;privileged&rdquo; position</p>
-</blockquote>
-<p><strong>False</strong>. The KNOB attack can be conducted remotely. For obvious reasons the
-attacker has to be in Bluetooth range, but this does not imply a privileged
-position.</p>
-<blockquote>
-<p>Internalblue enabled the discovery of the KNOB attack</p>
-</blockquote>
-<p><strong>False</strong>. I've discovered the vulnerability while I was analyzing
-<a href="https://francozappa.github.io/publication/rearby/">Nearby Connections</a>
-and reading the Bluetooth specification in May 2018. Then, while I was looking
-at devices with an open source Bluetooth firmware,
-I've stumbled upon the Internalblue v0.1. To implement the attack  I had
-to
-<a href="https://github.com/francozappa/knob/tree/master/poc-internalblue">extend Internalblue</a>
-to support LMP packet injection, and develop some
-<a href="https://github.com/francozappa/knob/tree/master/e0">extra code for E0</a>.
-Nevertheless,
-<a href="https://github.com/seemoo-lab/internalblue">Internalblue</a>
-is an awesome project, I recommend it, and I thank
-<a href="http://tech.mantz-it.com/">Dennis</a>
-and
-<a href="http://nerdine.org/">Jiska</a>
-for releasing it to the public.</p>
-<h2 id="implementation">Implementation</h2>
-<blockquote>
-<p>The researchers did not implement the attack</p>
-</blockquote>
-<p><strong>False</strong>. We implemented the KNOB attack and our implementation generates
-the same effects of a remote KNOB attack conducted over the air. This is nice
-because we have a reliable and cheap attack setup that can be reproduced
-without the need of signal manipulation and jamming techniques, and SDR.
-If you want to reproduce the attack look at our
-<a href="https://github.com/francozappa/knob">repo</a>.</p>
-<blockquote>
-<p>The researchers implemented only the firmware attack</p>
-</blockquote>
-<p><strong>False</strong>. We implement the remote attack by patching the firmware of one of
-the victim devices (Nexus 5). Our patches simulate the effect of a remote MitM
-attack and they do not change any firmware logic. This allows us to test the
-effect of a remote MitM attack on actual devices without having to perform the
-attack over the air.</p>
-
-    </div>
-
     
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/news/">news</a>
-  
-  <a class="badge badge-light" href="/tags/knob/">knob</a>
-  
-</div>
-
-
-
     
       
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/author/daniele-antonioli/avatar_hu9888f8595596ca6347ea16fc06989ad4_334560_270x270_fill_lanczos_center_2.png" alt="Daniele Antonioli">
+      
 
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-  
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://francozappa.github.io/">Daniele Antonioli</a></h5>
+        <h6 class="card-subtitle">Postdoc at EPFL</h6>
+        <p class="card-text">I&rsquo;m interested in cyber-physical and wireless systems security.</p>
+        <ul class="network-icon" aria-hidden="true">
   
     
-  
-  
-  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+    
+    
+    
+    
     
       
-      <img class="portrait mr-3" src="/authors/admin/avatar_hu9888f8595596ca6347ea16fc06989ad4_334560_250x250_fill_lanczos_center_2.png" itemprop="image" alt="Avatar">
     
-
-    <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="https://francozappa.github.io/">Daniele Antonioli</a></h5>
-      <h6 class="card-subtitle">Postdoc at the EPFL</h6>
-      <p class="card-text" itemprop="description">I'm interested in cyber-physical and wireless systems security.</p>
-      <ul class="network-icon" aria-hidden="true">
-        
-          
-          
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="/files/cv.pdf" >
-              <i class="ai ai-cv"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="/#contact" >
-              <i class="fas fa-envelope"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://scholar.google.com/citations?user=RkX4eFsAAAAJ&amp;hl" target="_blank" rel="noopener">
-              <i class="ai ai-google-scholar"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://github.com/francozappa" target="_blank" rel="noopener">
-              <i class="fab fa-github"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://twitter.com/francozappa" target="_blank" rel="noopener">
-              <i class="fab fa-twitter"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://linkedin.com/in/antoniolidaniele" target="_blank" rel="noopener">
-              <i class="fab fa-linkedin"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://keybase.io/francozappa" target="_blank" rel="noopener">
-              <i class="fas fa-key"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://orcid.org/0000-0002-9342-3920" target="_blank" rel="noopener">
-              <i class="ai ai-orcid"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://lulu.com/shop/search.ep?contributorId=1182719" target="_blank" rel="noopener">
-              <i class="fab fa-leanpub"></i>
-            </a>
-          </li>
-        
-      </ul>
-    </div>
-  </div>
-
-
-
+    <li>
+      <a href="/files/cv.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+    
+    
+    
       
+    
+    
+    
+    
+    
       
-      <div class="article-widget">
-        <div class="hr-light"></div>
-        <h3>Related</h3>
-        <ul>
-          
-          <li><a href="/post/knob-repo2/">KNOB Attack Code for E0 and Slides from SEC19 are Online</a></li>
-          
-          <li><a href="/post/knob-repo/">KNOB Attack Repository is Online</a></li>
-          
-          <li><a href="/post/knob-announce/">Key Negotiation Of Bluetooth (KNOB) Attack</a></li>
-          
-        </ul>
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=RkX4eFsAAAAJ&amp;hl" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://dblp.org/pers/a/Antonioli:Daniele.html" target="_blank" rel="noopener">
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-9342-3920" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/francozappa" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/francozappa" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://linkedin.com/in/antoniolidaniele" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://keybase.io/francozappa" target="_blank" rel="noopener">
+        <i class="fas fa-key"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://lulu.com/shop/search.ep?contributorId=1182719" target="_blank" rel="noopener">
+        <i class="fab fa-leanpub"></i>
+      </a>
+    </li>
+  
+</ul>
+
       </div>
-      
-    
+    </div>
+  
 
-    
 
-    
+
+
+
+
+
 <section id="comments">
-  <div id="disqus_thread"></div>
-<script type="application/javascript">
-    var disqus_config = function () {
+  
+    
+<div id="disqus_thread"></div>
+<script>
+  let disqus_config = function () {
     
     
     
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
-        }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "francozappa-github-io" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
+  };
+  (function() {
+    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+      document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+      return;
+    }
+    var d = document, s = d.createElement('script'); s.async = true;
+    s.src = 'https://' + "francozappa-github-io" + '.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+  
 </section>
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/post/knob-hw20-material/">Slides and video from our hardwear.io 2020 talk</a></li>
+      
+      <li><a href="/post/knob-tops/">Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy</a></li>
+      
+      <li><a href="/post/knob-hw20/">KNOB Attacks Talk at Hardwear.io 2020</a></li>
+      
+      <li><a href="/post/knob-ir/">InspiredResearch Newsletter University of Oxford</a></li>
+      
+      <li><a href="/post/knob-sev3/">Security Engineering Third Edition (SEv3)</a></li>
+      
+    </ul>
+  </div>
+  
+
+
 
 
 
@@ -986,59 +1285,55 @@ attack over the air.</p>
 
     
     
-
     
-    
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
 
       
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/highlight.min.js" integrity="sha512-7t8APmYpzEsZP7CYoA7RfMPV9Bb+PJHa9x2WiUnDXZx3XHveuyWUtvNOexhkierl5flZ3tr92dP1mMS+SGlD+A==" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/languages/r.min.js"></script>
         
       
 
-      
-      
     
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
     
 
     
     
     
-    <script id="dsq-count-scr" src="https://francozappa-github-io.disqus.com/count.js" async></script>
     
-
-    
-    
-    <script>hljs.initHighlightingOnLoad();</script>
-    
-
     
     
     <script>
-      const search_index_filename = "/index.json";
-      const i18n = {
-        'placeholder': "Search...",
-        'results': "results found",
-        'no_results': "No results found"
-      };
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
         'project': "Projects",
         'publication' : "Publications",
-        'talk' : "Talks"
+        'talk' : "Talks",
+        'slides' : "Slides"
         };
     </script>
     
@@ -1072,6 +1367,14 @@ attack over the air.</p>
 
     
     
+
+    
+    
+    <script id="dsq-count-scr" src="https://francozappa-github-io.disqus.com/count.js" async></script>
+    
+
+    
+    
     
     
     
@@ -1084,7 +1387,7 @@ attack over the air.</p>
     
     
     
-    <script src="/js/academic.min.16bbb3750feb7244c9bc409a5a4fe678.js"></script>
+    <script src="/js/academic.min.66c553246b0f279a03be6e5597f72b52.js"></script>
 
     
 
@@ -1093,21 +1396,33 @@ attack over the air.</p>
 
 
 
+  
   
   <div class="container">
     <footer class="site-footer">
   
 
   <p class="powered-by">
-    © 2020 Daniele Antonioli &middot; 
+    © 2020 Daniele Antonioli
+  </p>
 
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    Published with
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic Website Builder</a>
+    
 
     
     <span class="float-right" aria-hidden="true">
-      <a href="#" id="back_to_top">
+      <a href="#" class="back-to-top">
         <span class="button_icon">
           <i class="fas fa-chevron-up fa-2x"></i>
         </span>

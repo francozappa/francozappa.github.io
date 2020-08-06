@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. R. Sadeghi | Daniele Antonioli</title>
+    <link>https://francozappa.github.io/author/a.-r.-sadeghi/</link>
+      <atom:link href="https://francozappa.github.io/author/a.-r.-sadeghi/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. R. Sadeghi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Mon, 05 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://francozappa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A. R. Sadeghi</title>
+      <link>https://francozappa.github.io/author/a.-r.-sadeghi/</link>
+    </image>
+    
+    <item>
+      <title>State-Aware Anomaly Detection for Industrial Control Systems</title>
+      <link>https://francozappa.github.io/publication/state-anomaly-detection/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/state-anomaly-detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

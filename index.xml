@@ -3,48 +3,1336 @@
   <channel>
     <title>Daniele Antonioli</title>
     <link>https://francozappa.github.io/</link>
-    <description>Recent content on Daniele Antonioli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0200</lastBuildDate>
-    
-	    <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniele Antonioli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://francozappa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Daniele Antonioli</title>
+      <link>https://francozappa.github.io/</link>
+    </image>
     
     <item>
-      <title>Posts</title>
-      <link>https://francozappa.github.io/post/</link>
+      <title>CFP: ACM AsiaCCS 2021</title>
+      <link>https://francozappa.github.io/post/cfp-asiaccs21/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://francozappa.github.io/post/</guid>
-      <description></description>
+      <guid>https://francozappa.github.io/post/cfp-asiaccs21/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m glad to serve as a TPC member for 
+&lt;a href=&#34;https://asiaccs2021.comp.polyu.edu.hk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM AsiaCCS 2021&lt;/a&gt;.
+The first round of submission deadline is approaching (21 August 2020), indeed
+submit your great research works!&lt;/p&gt;
+&lt;p&gt;Those are the important dates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1st round deadlines
+&lt;ul&gt;
+&lt;li&gt;Paper submission: 21 August 2020&lt;/li&gt;
+&lt;li&gt;Author notification: 24 October 2020&lt;/li&gt;
+&lt;li&gt;Camera ready due to: 25 November 2020&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2st round deadlines
+&lt;ul&gt;
+&lt;li&gt;Paper submission: 11 December 2020&lt;/li&gt;
+&lt;li&gt;Author notification: 15 February 2021&lt;/li&gt;
+&lt;li&gt;Camera ready due to: 15 March 2021&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Conference date: June 7-11, 2021&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://francozappa.github.io/project/</link>
+      <title>WAC3 Talk About KNOB and BIAS Attacks</title>
+      <link>https://francozappa.github.io/post/wac320-talk/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/wac320-talk/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m glad to give a talk about the
+
+&lt;a href=&#34;https://francozappa.github.io/project/knob/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB&lt;/a&gt; and
+
+&lt;a href=&#34;https://francozappa.github.io/project/bias/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIAS&lt;/a&gt; attacks
+on Bluetooth at the third
+
+&lt;a href=&#34;https://crypto.iacr.org/2020/wac.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop on Attacks in Cryptography (WAC)&lt;/a&gt;
+co-located with&lt;br&gt;
+
+&lt;a href=&#34;https://crypto.iacr.org/2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRYPTO 2020&lt;/a&gt;.
+The Workshop will be held
+online on Zoom the 16th of August 2020, and my talk will
+be from 13:20 to 14:00 (EDT) in the Attacks on Standards session (session IV).&lt;/p&gt;
+&lt;p&gt;This is the talk abstract:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bluetooth is a ubiquitous technology for low power wireless
+communications. Bluetooth runs on billions of devices including
+mobile, wearables, home automation, smart speakers, headsets,
+industrial and medical appliances, and vehicles. As a result,
+Bluetooth&amp;rsquo;s attack surface is huge and includes significant threats
+such as identity thefts, privacy violations, and malicious device
+control.&lt;/p&gt;
+&lt;p&gt;Bluetooth is a complex technology specified in an open standard. The
+standard defines two wireless stacks Bluetooth Classic for high
+throughput services (e.g., audio and voice) and Bluetooth Low Energy
+(BLE) for very low power services (e.g., localization, and
+monitoring). The standard defines security mechanisms to protect the
+confidentiality, integrity, and authenticity of Bluetooth
+communications. Those mechanisms include pairing to share a long term
+key among two devices, and secure session establishment to let two
+paired devices negotiate session keys to protect their communication.
+A single vulnerability in a standard-compliant security mechanism
+translates into billions of exploitable devices.&lt;/p&gt;
+&lt;p&gt;This talk reviews several standard-compliant vulnerabilities that we
+recently uncovered on the key negotiation and authentication
+mechanisms of Bluetooth Classic and BLE. We also describe how to
+exploit such vulnerabilities to perform key negotiation attacks on
+Bluetooth Classic and BLE (KNOB attacks, CVE-2019-9506) and
+impersonation attacks on Bluetooth Classic (BIAS attacks,
+CVE-2020-10135). The attacks are presented together with a detailed
+description of the Bluetooth treat model and the affected security
+mechanism. We also explain how we implemented such attacks using
+low-cost hardware and open-source software and how we evaluated them
+on actual devices from the major vendors including Apple, Broadcom,
+Cypress, CSR, Google, Intel, Microsoft, and Qualcomm. Finally, we
+describe how the Bluetooth standard was amended after the disclosure
+of our attacks, our proposed countermeasures, and why most of the
+Bluetooth devices are still vulnerable to our attacks.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;For more details about the KNOB and BIAS attacks have a look at the
+related research papers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The KNOB is Broken: Exploiting Low Entropy in the Encryption Key
+Negotiation of Bluetooth BR/EDR&lt;/em&gt;, USENIX Security 2019.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy&lt;/em&gt;,
+ACM TOPS 2020.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;BIAS: Bluetooth Impersonation AttackS&lt;/em&gt;, IEEE S&amp;amp;P 2020.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please join the virtual WAC, and
+thanks
+
+&lt;a href=&#34;https://eyalro.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eyal Ronen&lt;/a&gt;
+and
+
+&lt;a href=&#34;https://www.mathyvanhoef.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathy Vanhoef&lt;/a&gt;
+for organizing it and for the invitation!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSS 2020 Extended Call For Papers</title>
+      <link>https://francozappa.github.io/post/2020/nss20-cfp-ext/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/2020/nss20-cfp-ext/</guid>
+      <description>&lt;p&gt;The Network and System Security (NSS) 2020 conference
+paper submission deadline has been extended to
+&lt;strong&gt;15 September 2020 (Anywhere on Earth)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Please submit your research work!&lt;/p&gt;
+&lt;p&gt;You can find more information in the 
+&lt;a href=&#34;http://nsclab.org/nss2020/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSS
+website&lt;/a&gt; and specifically in the
+
+&lt;a href=&#34;http://nsclab.org/nss2020/cfp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CFP section&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tutor Island: Matematica &amp; Codice</title>
+      <link>https://francozappa.github.io/post/tutor-island/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/tutor-island/</guid>
+      <description>&lt;p&gt;Condivido con piacere 
+&lt;a href=&#34;https://www.youtube.com/channel/UCKkzN06obaHk8mt3iBTp6qw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tutor Island&lt;/a&gt;
+il nuovo canale YouTube del mio amico e collega
+Paolo. Su questo canale potrete trovare
+tutorial in Italiano (e prossimamente anche in Inglese) su argomenti matematici,
+informatici e ingegneristici. Per esempio linko qui sotto una playlist con un
+corso per ingegneri che vogliono programmare in MATLAB/Octave:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/2ro75VG9UWs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Paolo è un bravissimo insegnante e divulgatore scientifico con anni di
+esperienza alle spalle sia universitaria che professionale. Paolo ha anche
+esperienza in ambito informatico e dai sui video sicuramente imparerete molto
+di più che l&amp;rsquo;argomento centrale del video. Il canale di Paolo
+è anche molto curato dal punto di vista audio, video e grafico e questo non
+guasta mai 😄&lt;/p&gt;
+&lt;p&gt;Tutor Island  offre materiale esclusivo per studenti con una piccola donazione su
+
+&lt;a href=&#34;https://www.patreon.com/tutorisland&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Patreon&lt;/a&gt;.
+Potete seguire il feed del canale, oltre che su YouTube, su
+
+&lt;a href=&#34;https://twitter.com/tutor_island&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt; e
+
+&lt;a href=&#34;https://www.facebook.com/tutorislandfb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;🏖 ☀ 🏝&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CFP: Conference on Network and System Security (NSS)</title>
+      <link>https://francozappa.github.io/post/cfp-nss20/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/cfp-nss20/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m glad to serve as a TPC member and publicity co-chair for the &lt;em&gt;14th International Conference
+on Network and System Security (NSS)&lt;/em&gt;. The conference focuses on network and
+system security and welcomes papers from a broad range of topics including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Active Defense Systems&lt;/li&gt;
+&lt;li&gt;Analysis, Benchmark of Security Systems&lt;/li&gt;
+&lt;li&gt;Applied Cryptography&lt;/li&gt;
+&lt;li&gt;Authentication&lt;/li&gt;
+&lt;li&gt;Privacy and Anonymity Technologies&lt;/li&gt;
+&lt;li&gt;Secure Cryptographic Protocols and Applications&lt;/li&gt;
+&lt;li&gt;Security Notions, Approaches, and Paradigms&lt;/li&gt;
+&lt;li&gt;Steganography and Steganalysis&lt;/li&gt;
+&lt;li&gt;Blockchain and Cryptocurrency&lt;/li&gt;
+&lt;li&gt;Smart Contract&lt;/li&gt;
+&lt;li&gt;Digital Forensics&lt;/li&gt;
+&lt;li&gt;Cyber Hacking and Protection&lt;/li&gt;
+&lt;li&gt;Hardware Security&lt;/li&gt;
+&lt;li&gt;Intrusion Detection and Prevention&lt;/li&gt;
+&lt;li&gt;AI/Machine Learning Security&lt;/li&gt;
+&lt;li&gt;Software Security&lt;/li&gt;
+&lt;li&gt;Security Policy&lt;/li&gt;
+&lt;li&gt;Security and Privacy in Social Networks&lt;/li&gt;
+&lt;li&gt;Trusted Computing&lt;/li&gt;
+&lt;li&gt;Watermarking and Digital Rights Management&lt;/li&gt;
+&lt;li&gt;Location Privacy&lt;/li&gt;
+&lt;li&gt;Security For Critical Infrastructures&lt;/li&gt;
+&lt;li&gt;RFID/NFC Security&lt;/li&gt;
+&lt;li&gt;Security Infrastructure&lt;/li&gt;
+&lt;li&gt;Security and Privacy For Digital Health&lt;/li&gt;
+&lt;li&gt;Viruses and Malware&lt;/li&gt;
+&lt;li&gt;Intellectual Property Rights Protection&lt;/li&gt;
+&lt;li&gt;Cyber-Physical Security&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can find more information in the 
+&lt;a href=&#34;http://nsclab.org/nss2020/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference
+website&lt;/a&gt; and specifically in the
+
+&lt;a href=&#34;http://nsclab.org/nss2020/cfp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CFP section&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;NSS 2020 deadlines:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Paper submission &lt;strong&gt;15 July 2020 (Anywhere on Earth)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Notification of acceptance &lt;strong&gt;15 August 2020&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Camera-ready paper submission &lt;strong&gt;20 October 2020&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Conference location and date &lt;strong&gt;Melbourne Australia, 24–27 November 2020&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BIAS Attacks</title>
+      <link>https://francozappa.github.io/project/bias/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://francozappa.github.io/project/</guid>
+      <guid>https://francozappa.github.io/project/bias/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;https://francozappa.github.io/about-bias/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bluetooth Impersonation AttackS
+(BIAS)&lt;/a&gt; exploits standard-compliant
+vulnerabilities in the Bluetooth authentication procedures. The attacks allow
+an attacker to impersonate any Bluetooth master and slave device during secure
+session establishment without knowing the long term pairing key. The attacks
+work regardless of the Bluetooth security mode (legacy and secure
+authentication procedures), and hardware and software implementation details.
+The BIAS attack is listed as 
+&lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2020-10135&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2019-9506&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;teaser&#34;&gt;Teaser&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fASGU7Og5_4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;presentation-at-ieee-sp-2020&#34;&gt;Presentation at IEEE S&amp;amp;P 2020&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/bVbBDnruv7M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Slides and video from our hardwear.io 2020 talk</title>
+      <link>https://francozappa.github.io/post/knob-hw20-material/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/knob-hw20-material/</guid>
+      <description>&lt;p&gt;Here are the 
+&lt;a href=&#34;https://francozappa.github.io/talk/hwio20/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;
+and the recording of our hardwear.io talk titled &lt;em&gt;From Bluetooth Standard to
+Standard-Compliant 0-days&lt;/em&gt;:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ZVSbF11uxuk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>From the Bluetooth Standard to Standard-Compliant 0-days</title>
+      <link>https://francozappa.github.io/talk/hwio20/talk/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/talk/hwio20/talk/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ZVSbF11uxuk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy</title>
+      <link>https://francozappa.github.io/publication/knob-ble/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/knob-ble/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://francozappa.github.io/publication/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://francozappa.github.io/publication/</guid>
+      <title>Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy</title>
+      <link>https://francozappa.github.io/post/knob-tops/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/knob-tops/</guid>
+      <description>&lt;p&gt;Our new paper
+
+&lt;a href=&#34;https://francozappa.github.io/publication/knob-ble/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy&lt;/a&gt;
+will appear in the 
+&lt;a href=&#34;https://dl.acm.org/journal/tops&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Transactions on Privacy and Security&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our paper extends our previous work on the
+
+&lt;a href=&#34;https://knobattack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB attack on Bluetooth BR/EDR&lt;/a&gt;
+to Bluetooth Low Energy (BLE), presents an updated evaluation of the KNOB attack for
+Bluetooth BR/EDR and discusses some of the countermeasures put in place by
+vendors such as Google and Apple after the disclosure of the KNOB attack and
+the amendment of the Bluetooth standard.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bluetooth Impersonation AttackS (BIAS) at IEEE S&amp;P 2020</title>
+      <link>https://francozappa.github.io/post/bias-announce/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/bias-announce/</guid>
+      <description>&lt;p&gt;Our paper
+
+&lt;a href=&#34;https://francozappa.github.io/publication/bias/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bluetooth Impersonation AttackS (BIAS)&lt;/a&gt;
+will be presented at the
+
+&lt;a href=&#34;https://www.ieee-security.org/TC/SP2020//index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Symposium on Security and Privacy (IEEE S&amp;amp;P) 2020&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fASGU7Og5_4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;More information are available in the 
+&lt;a href=&#34;https://francozappa.github.io/about-bias&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIAS website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The BIAS code will be also uploaded soon! Stay tuned and unbiased 😄&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KNOB Attacks Talk at Hardwear.io 2020</title>
+      <link>https://francozappa.github.io/post/knob-hw20/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/knob-hw20/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m glad to give a talk titled
+
+&lt;a href=&#34;https://hardwear.io/virtual-con-2020/speakers/from-the-bluetooth-standard-to-standard-compliant-0-days.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;From the Bluetooth Standard to Standard Compliant 0-days&lt;/a&gt;
+together with 
+&lt;a href=&#34;https://nebelwelt.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathias Payer&lt;/a&gt; at the virtual edition of
+
+&lt;a href=&#34;https://hardwear.io/virtual-con-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hardwear.io 2020&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our talk covers, among others, the technical details behind the
+
+&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Key Negotiation Of Bluetooth (KNOB) attack on Bluetooth BR/EDR&lt;/a&gt;,
+its extension to BLE, and the countermeasures adopted by vendors, such as Google and Apple, to
+mitigate the KNOB attacks.&lt;/p&gt;
+&lt;p&gt;Please join us at the virtual conference! 😄&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BIAS: Bluetooth Impersonation AttackS</title>
+      <link>https://francozappa.github.io/publication/bias/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/bias/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://francozappa.github.io/talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://francozappa.github.io/talk/</guid>
+      <title>InspiredResearch Newsletter University of Oxford</title>
+      <link>https://francozappa.github.io/post/knob-ir/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://francozappa.github.io/post/knob-ir/</guid>
+      <description>&lt;p&gt;The
+
+&lt;a href=&#34;https://www.cs.ox.ac.uk/innovation/inspiredresearch/InspiredResearch-winter2019.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In&lt;em&gt;spired&lt;/em&gt;Research (Winter 2019 Issue 15)&lt;/a&gt;
+twice-yearly newsletter from the Computer Science Department of the University of
+Oxford features a nice article about the KNOB attack by
+
+&lt;a href=&#34;https://www.cs.ox.ac.uk/people/kasper.rasmussen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Kasper Rasmussen&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Security Engineering Third Edition (SEv3)</title>
+      <link>https://francozappa.github.io/post/knob-sev3/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0100</pubDate>
+      <guid>https://francozappa.github.io/post/knob-sev3/</guid>
+      <description>&lt;p&gt;Recently, I&amp;rsquo;ve stumbled upon the webpage about
+
+&lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/book.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Security Engineering &amp;ndash; Third Edition (SEv3)&lt;/a&gt;
+by 
+&lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ross Anderson&lt;/a&gt;.
+I&amp;rsquo;m particularly attached to this book,
+as it is the &lt;em&gt;first&lt;/em&gt; book about information security that I bought
+(I bought SEv2 in 2012), and it was very helpful to introduce
+me to security engineering (coming from an EE background) and to tackle my
+
+&lt;a href=&#34;https://francozappa.github.io/publication/master-thesis/thesis.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;master thesis about Random Number Generators&lt;/a&gt;.
+Actually, I have to thank
+
+&lt;a href=&#34;https://ece.umass.edu/faculty/wayne-burleson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Wayne Burleson&lt;/a&gt;
+for the book recommendation!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m very proud that the
+
+&lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch5-oct12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cryptography Chapter of SEv3&lt;/a&gt;
+(so far 😄) includes a discussion about the
+
+&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB attack&lt;/a&gt; in the subsection about
+Diffie-Hellman key establishment (5.7.2.2). I look forward to read SEv3
+once is ready!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Postdoc with Mathias Payer&#39;s HexHive group at EPFL</title>
+      <link>https://francozappa.github.io/post/epfl-postdoc/</link>
+      <pubDate>Fri, 29 Nov 2019 14:28:36 +0800</pubDate>
+      <guid>https://francozappa.github.io/post/epfl-postdoc/</guid>
+      <description>&lt;p&gt;Next January I will join as a postdoc 
+&lt;a href=&#34;https://nebelwelt.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathias Payer&lt;/a&gt;&amp;rsquo;s
+
+&lt;a href=&#34;https://hexhive.epfl.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HexHive&lt;/a&gt; group at 
+&lt;a href=&#34;https://www.epfl.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EPFL&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Looking forward to start a new adventure, and meet old and new friends.&lt;/p&gt;
+&lt;p&gt;😆&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KNOB Attack References and Advisories</title>
+      <link>https://francozappa.github.io/post/knob-references/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/knob-references/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve collected a list of references and advisories about the KNOB attack from
+several hardware and software providers and organizations. You can find it in
+the last paragraph of
+the 
+&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Are my Devices Vulnerable?&amp;rdquo; section of knobattack.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please let me know if any link in the list is wrong and/or broken, and if you
+find other relevant links!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Video of my KNOB Attack Presentation at USENIX Security 2019</title>
+      <link>https://francozappa.github.io/post/knob-usec-video/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/knob-usec-video/</guid>
+      <description>&lt;p&gt;Title of the paper:
+&lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
+in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/v9Xg9XcnNh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;More info at 
+&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bluetooth blues: KNOB Attack Explained</title>
+      <link>https://francozappa.github.io/talk/cyberwire-knob/talk/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/talk/cyberwire-knob/talk/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/_XvjXZCc1DU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Alternative 
+&lt;a href=&#34;https://thecyberwire.com/podcasts/research-saturday/102/notes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KNOB Attack Interview with Dave Bittner (CyberWire)</title>
+      <link>https://francozappa.github.io/post/knob-cyberwire/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/knob-cyberwire/</guid>
+      <description>&lt;p&gt;Today CyberWire aired my
+
+&lt;a href=&#34;https://thecyberwire.com/podcasts/cw-podcasts-rs-2019-09-14.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;interview&lt;/a&gt;
+about the
+
+&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB attack&lt;/a&gt;
+with 
+&lt;a href=&#34;https://twitter.com/bittner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dave Bittner&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless Systems</title>
+      <link>https://francozappa.github.io/publication/phd-thesis/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD at SUTD Completed!</title>
+      <link>https://francozappa.github.io/post/phd-completed/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/phd-completed/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m glad to announce that I&amp;rsquo;ve completed my PhD in Computer Science at SUTD
+about &lt;em&gt;Design, Implementation, and Evaluation of Secure Cyber-Physical and
+Wireless Systems&lt;/em&gt;. I&amp;rsquo;ve uploaded my
+
+&lt;a href=&#34;https://francozappa.github.io/publication/phd-thesis/thesis.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;thesis&lt;/a&gt;
+and the
+
+&lt;a href=&#34;https://francozappa.github.io/publication/phd-thesis/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;
+of my final presentation.
+For more information have a look
+
+&lt;a href=&#34;https://francozappa.github.io/publication/phd-thesis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;🎶 😆 🎶&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/kHx5hCVN26E&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;🎶 😆 🎶&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KNOB Attack Add Slave Patch for poc-internalblue</title>
+      <link>https://francozappa.github.io/post/knob-repo3/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/knob-repo3/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve pushed the
+
+&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;
+to perform the KNOB attack also when the Nexus 5 is the Bluetooth slave
+responding to the first LMP packet. To switch between different attack modes
+have a look at the updated
+
+&lt;a href=&#34;https://github.com/francozappa/knob/blob/master/poc-internalblue/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;README&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more information visit 
+&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KNOB Attacks</title>
+      <link>https://francozappa.github.io/project/knob/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/project/knob/</guid>
+      <description>&lt;h2 id=&#34;knob-attack-on-bluetooth-classic-bredr&#34;&gt;KNOB Attack on Bluetooth Classic (BR/EDR)&lt;/h2&gt;
+&lt;p&gt;The Key Negotiation Of Bluetooth (KNOB) attack on
+Bluetooth Classic (BR/EDR) is presented in our paper titled
+
+&lt;a href=&#34;https://www.usenix.org/system/files/sec19-antonioli.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation of Bluetooth BR/EDR&lt;/a&gt;.
+The KNOB attack is listed as
+
+&lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2019-9506&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2019-9506&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The KNOB attack exploits
+the fact that the specification of Bluetooth includes an encryption key negotiation protocol
+that allows to negotiate encryption keys with entropy as low as 1 Byte, without
+protecting the integrity of the negotiation process. A remote attacker can
+manipulate the entropy negotiation to let any standard compliant Bluetooth
+device negotiate encryption keys with 1 byte of entropy, and then brute force
+the low entropy keys in real time.&lt;/p&gt;
+&lt;p&gt;Below my paper presentation at USENIX Security 2019:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/v9Xg9XcnNh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;knob-attack-on-bluetooth-low-energy-ble&#34;&gt;KNOB Attack on Bluetooth Low Energy (BLE)&lt;/h2&gt;
+&lt;p&gt;The Key Negotiation Of Bluetooth (KNOB) attack on
+Bluetooth Low Energy (BLE) is presented in our paper titled
+
+&lt;a href=&#34;https://francozappa.github.io/publication/knob-ble/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low
+Energy&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KNOB Attack FAQ</title>
+      <link>https://francozappa.github.io/post/knob-faq/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/knob-faq/</guid>
+      <description>&lt;p&gt;In this post I&amp;rsquo;m trying to address some discussion points and
+misconceptions about the KNOB attack.&lt;/p&gt;
+&lt;h2 id=&#34;attribution&#34;&gt;Attribution&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Researchers from CISPA discovered the KNOB attack&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Partially true&lt;/strong&gt;. The KNOB attack was discovered by myself (Daniele Antonioli) from SUTD,
+Nils Ole Tippenhauer from CISPA, and Kasper Rasmussen from the University of Oxford.
+In particular, I&amp;rsquo;ve identified the vulnerability back in &lt;em&gt;May 2018&lt;/em&gt; while I was
+working with Kasper on 
+&lt;a href=&#34;https://francozappa.github.io/publication/rearby/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearby Connections&lt;/a&gt;
+at the University of Oxford, and I wrote
+the first exploit in &lt;em&gt;October 2018&lt;/em&gt; while I was visiting Nils (my former
+advisor at SUTD) at CISPA. I&amp;rsquo;d like to thank the researchers from CISPA
+who kindly lent me their Bluetooth devices.&lt;/p&gt;
+&lt;h2 id=&#34;attack&#34;&gt;Attack&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The KNOB attack is performed while two Bluetooth BR/EDR devices are pairing&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. The KNOB attack targets the connection phase and can be conducted
+between two devices are already paired. See also
+
+&lt;a href=&#34;https://francozappa.github.io/publication/knob/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide 6&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The KNOB attack can only be used to spy Bluetooth communications&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Partially true&lt;/strong&gt;. The KNOB attack can also be used to inject valid
+ciphertext, e.g., to impersonate a legitimate Bluetooth device.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The KNOB attack reduces the encryption key size to 1 byte&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. The encryption key size stays the same (16 bytes). The KNOB attack reduces
+the &lt;em&gt;entropy (randomness)&lt;/em&gt; of the key to 1 byte. For example the key
+&lt;code&gt;0xa395a045bf2410983b4309214598beaf&lt;/code&gt; (16 byte of entropy)
+is reduced to
+&lt;code&gt;0xa3000000000000000000000000000000&lt;/code&gt; (1 byte of entropy) and not
+to &lt;code&gt;0xa3&lt;/code&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The KNOB attack is theoretical&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. The KNOB attack exploits an actual vulnerability in the key
+negotiation protocol of Bluetooth (BR/EDR). As it is an attack at the &lt;em&gt;architectural&lt;/em&gt; level,
+all standard compliant devices are potentially vulnerable.
+Back in 2018 we performed the KNOB attack on more than 20 Bluetooth devices,
+and all of them were vulnerable. You can test if your device is vulnerable by
+using our
+
+&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PoC&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The attacker has to be &amp;ldquo;local&amp;rdquo; or in a &amp;ldquo;privileged&amp;rdquo; position&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. The KNOB attack can be conducted remotely. For obvious reasons the
+attacker has to be in Bluetooth range, but this does not imply a privileged
+position.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Internalblue enabled the discovery of the KNOB attack&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. I&amp;rsquo;ve discovered the vulnerability while I was analyzing
+
+&lt;a href=&#34;https://francozappa.github.io/publication/rearby/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearby Connections&lt;/a&gt;
+and reading the Bluetooth specification in May 2018. Then, while I was looking
+at devices with an open source Bluetooth firmware,
+I&amp;rsquo;ve stumbled upon the Internalblue v0.1. To implement the attack  I had
+to
+
+&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;extend Internalblue&lt;/a&gt;
+to support LMP packet injection, and develop some
+
+&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/e0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;extra code for E0&lt;/a&gt;.
+Nevertheless,
+
+&lt;a href=&#34;https://github.com/seemoo-lab/internalblue&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Internalblue&lt;/a&gt;
+is an awesome project, I recommend it, and I thank
+
+&lt;a href=&#34;http://tech.mantz-it.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dennis&lt;/a&gt;
+and
+
+&lt;a href=&#34;http://nerdine.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiska&lt;/a&gt;
+for releasing it to the public.&lt;/p&gt;
+&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The researchers did not implement the attack&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. We implemented the KNOB attack and our implementation generates
+the same effects of a remote KNOB attack conducted over the air. This is nice
+because we have a reliable and cheap attack setup that can be reproduced
+without the need of signal manipulation and jamming techniques, and SDR.
+If you want to reproduce the attack look at our
+
+&lt;a href=&#34;https://github.com/francozappa/knob&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repo&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The researchers implemented only the firmware attack&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. We implement the remote attack by patching the firmware of one of
+the victim devices (Nexus 5). Our patches simulate the effect of a remote MitM
+attack and they do not change any firmware logic. This allows us to test the
+effect of a remote MitM attack on actual devices without having to perform the
+attack over the air.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KNOB Attack Code for E0 and Slides from SEC19 are Online</title>
+      <link>https://francozappa.github.io/post/knob-repo2/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/knob-repo2/</guid>
+      <description>&lt;p&gt;The
+
+&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/e0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;
+that we developed to validate and brute force
+
+&lt;a href=&#34;https://en.wikipedia.org/wiki/E0_%28cipher%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E0&lt;/a&gt;
+encryption keys is online.&lt;/p&gt;
+&lt;p&gt;The
+
+&lt;a href=&#34;https://francozappa.github.io/publication/knob/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;
+of my KNOB attack SEC19 talk are also online.
+As we can see from the slides, the KNOB attack is &lt;em&gt;not&lt;/em&gt;
+conducted while two Bluetooth devices are pairing, but when two devices are
+connecting (establishing a new encrypted session).
+Bluetooth (BR/EDR) is a technology with a &lt;em&gt;pair-once&lt;/em&gt;
+&lt;em&gt;connect-multiple-times&lt;/em&gt; paradigm. For example, you pair your smartphone
+with your car once, and then every day you connect the two and the devices
+negotiate a new (fresh) encryption key.&lt;/p&gt;
+&lt;p&gt;For more information visit 
+&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KNOB Attack Repository is Online</title>
+      <link>https://francozappa.github.io/post/knob-repo/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/knob-repo/</guid>
+      <description>&lt;p&gt;Our 
+&lt;a href=&#34;https://github.com/francozappa/knob&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB repository&lt;/a&gt;
+is online, and it includes our
+
+&lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PoC&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more information visit 
+&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Key Negotiation Of Bluetooth (KNOB) Attack</title>
+      <link>https://francozappa.github.io/post/knob-announce/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/knob-announce/</guid>
+      <description>&lt;p&gt;The embargo is over! The information about &lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
+in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;, including our research
+paper, CVE details, and media coverage, are publicly available at
+
+&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My PhD Defense at SUTD</title>
+      <link>https://francozappa.github.io/post/phd-defense/</link>
+      <pubDate>Mon, 10 Jun 2019 11:28:36 +0800</pubDate>
+      <guid>https://francozappa.github.io/post/phd-defense/</guid>
+      <description>&lt;p&gt;Soon I&amp;rsquo;m going to defend my PhD thesis at SUTD. Feel free to join!&lt;/p&gt;
+&lt;p&gt;Date and time:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Friday, 5 July 2019, 10:00 - 11:00 (AM)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Venue:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Think Tank 20 (2.305)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Title of the talk:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless System&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the first part of the presentation we will talk about our recent
+contributions in the area of wireless systems security.
+Wireless systems are used to transmit (sensitive) information and to manage
+and monitor systems remotely. In our recent works we focus on three problems
+to advance the security of wireless systems:
+effectiveness of deployed physical layer features as defense mechanisms,
+complexity and accessibility of wireless technologies, and security
+evaluations of wireless protocols. Firstly, we present a theoretical and
+empirical comparisons between b/n/ac amendments of IEEE 802.11 (WLAN).
+Our goal is to estimate and measure whether or not modern physical layer
+features, such as MIMO and beamforming, could be used to as defense mechanism.
+Afterwards, we will talk about our security analysis of Nearby Connections, a
+proprietary API for proximity-based services developed by Google. This API
+uses a combination of Bluetooth and Wi-Fi, and it is included in all Android
+devices since version 4.0 and all Android Things devices. Our analysis
+uncovers the proprietary (security) mechanisms of Nearby Connections and it is
+based on our reverse-engineering of its implementation. We demonstrate that
+Nearby Connections is vulnerable to critical threats by implementing  attacks
+where we maliciously manipulate Nearby Connections and we extend the
+connection range to devices that are not nearby. Prior to publication we
+disclosed our findings to Google and we suggested them effective
+countermeasures. In the last part of the presentation we will summarize our
+contributions in the area of cyber-physical systems (CPS). In particular we
+will introduce MiniCPS, a toolkit for real-time CPS simulation and emulation
+and its related projects and use cases.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NDSS 2019 YouTube video of the presentation</title>
+      <link>https://francozappa.github.io/post/ndss19-video/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/ndss19-video/</guid>
+      <description>&lt;p&gt;My NDSS 2019 presentation of
+&lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/h5geJLoQIsU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation of Bluetooth BR/EDR</title>
+      <link>https://francozappa.github.io/publication/knob/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/knob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NDSS 2019 in San Diego</title>
+      <link>https://francozappa.github.io/post/ndss19-conf/</link>
+      <pubDate>Tue, 26 Feb 2019 11:28:36 +0800</pubDate>
+      <guid>https://francozappa.github.io/post/ndss19-conf/</guid>
+      <description>&lt;p&gt;This week I&amp;rsquo;ve been in San Diego CA for the
+
+&lt;a href=&#34;https://www.ndss-symposium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Network and Distributed System Security Symposium (NDSS)
+2019&lt;/a&gt; conference.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve presented our paper about
+
+&lt;a href=&#34;https://francozappa.github.io/publication/rearby/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby
+Connections’ on Android&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please have a look at the
+
+&lt;a href=&#34;https://francozappa.github.io/publication/rearby/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;,
+at the,
+
+&lt;a href=&#34;https://github.com/francozappa/REarby/tree/master/poc-hostapd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Soft AP manipulation PoC&lt;/a&gt;
+and the
+
+&lt;a href=&#34;https://www.reddit.com/r/netsec/comments/aye2q9/nearby_threats_reversing_analyzing_and_attacking/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;reddit thread&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CFP: Cyber-Physical System SECurity (CPS-SEC) Workshop 2019</title>
+      <link>https://francozappa.github.io/post/cfp-cps-sec19/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0100</pubDate>
+      <guid>https://francozappa.github.io/post/cfp-cps-sec19/</guid>
+      <description>&lt;p&gt;Recently, I&amp;rsquo;ve accepted the invitation to join the
+
+&lt;a href=&#34;https://cns2019.ieee-cns.org/workshop/cps-sec-international-workshop-cyber-physical-systems-security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE CPS-SEC workshop&lt;/a&gt;
+TPC. CPS-SEC is co-located with the
+
+&lt;a href=&#34;https://cns2019.ieee-cns.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE CNS conference&lt;/a&gt; .
+From the official website:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The IEEE International Workshop on Cyber-Physical Systems Security (CPS-Sec)
+will be held in conjunction with the IEEE Conference on Communications and
+Network Security (CNS) 2019 in Washington, D.C., USA, on 10-12 June, 2019.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nowadays, the correct functioning of information systems represents a
+fundamental milestone for the well-being of modern economies and societies.
+The scientific evolution of digital, analog, and physical components with the
+interactions between networks created the Cyber-Physical Systems (CPS). Even
+though the benefits of the cyber and physical world interactions are
+noticeable, new security challenges have arisen: typical vulnerabilities from
+the cyber domain emerged in CPS. Cyber-attacks over CPS pose different
+security challenges. In particular, classic Information Technology (IT) cyber
+security tools are considered partially or totally ineffective in CPS
+scenarios because complex cyber-physical attacks could avoid security
+detection methodologies developed specifically for the IT world. The
+prevention, detection, and mitigation of cyber-attacks encompass both the
+physical and the cyber layers of a system: to this end, approaches to securing
+CPS consider techniques adopted in the physical domain and in the cyber space.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Following the success of the previous editions, the IEEE International
+Workshop on Cyber-Physical Systems Security 2019 (CPS-Sec 2019) aims to
+represent a forum for researchers and practitioners from industry and academia
+interested in the areas of CPS security. CPS-Sec 2019 seeks novel submissions
+describing practical and theoretical solutions to the cyber-physical security
+challenges. A submission may represent any CPS domain, including embedded
+systems, Internet of Things (IoT), Industrial Internet of Things (IIoT), SCADA
+Systems, Smart-Grid Systems, Critical Infrastructure, Automotive and
+Transportation Systems, Medical applications.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Important dates:
+&lt;ul&gt;
+&lt;li&gt;Submission Deadline: 15 March, 2019 (extended)&lt;/li&gt;
+&lt;li&gt;Notification of Acceptance: 26 March, 2019&lt;/li&gt;
+&lt;li&gt;Camera-Ready: 2 April, 2019&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>REarby</title>
+      <link>https://francozappa.github.io/project/rearby/</link>
+      <pubDate>Sat, 02 Feb 2019 17:46:49 +0800</pubDate>
+      <guid>https://francozappa.github.io/project/rearby/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://github.com/francozappa/REarby&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;REarby&lt;/a&gt; is a toolkit that I developed to reverse engineer and attack
+
+&lt;a href=&#34;https://developers.google.com/nearby/connections/overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google&amp;rsquo;s Nearby Connections&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;presentation-at-ndss-2019&#34;&gt;Presentation at NDSS 2019&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/h5geJLoQIsU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby Connections’ on Android</title>
+      <link>https://francozappa.github.io/publication/rearby/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0100</pubDate>
+      <guid>https://francozappa.github.io/publication/rearby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NDSS 2019 camera-ready and PoC attack code</title>
+      <link>https://francozappa.github.io/post/ndss19-cr/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>https://francozappa.github.io/post/ndss19-cr/</guid>
+      <description>&lt;p&gt;The camera-ready version of
+&lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;
+is available
+
+&lt;a href=&#34;https://francozappa.github.io/publication/rearby/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We also released a
+
+&lt;a href=&#34;https://github.com/francozappa/REarby/tree/master/poc-hostapd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;proof of concept code&lt;/a&gt;
+to perform the &lt;em&gt;Soft AP manipulation attack&lt;/em&gt;. The code was previously
+disclosed to Google. In summary, the attack allows a malicious Nearby
+Connections server (advertiser) to redirect a client to a malicious Internet
+connected access point. As a result the attacker can reconfigure the wireless
+network interface of the victim via DHCP and gets access to all the Wi-Fi
+traffic (even traffic from non Nearby Connections applications).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic day_night and search</title>
+      <link>https://francozappa.github.io/post/theme-daynight-search/</link>
+      <pubDate>Sun, 02 Dec 2018 11:28:36 +0800</pubDate>
+      <guid>https://francozappa.github.io/post/theme-daynight-search/</guid>
+      <description>&lt;p&gt;Recently 
+&lt;a href=&#34;https://github.com/gcushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gcushen&lt;/a&gt; updated
+
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; (the theme that I&amp;rsquo;m using
+to build this website with &lt;code&gt;hugo&lt;/code&gt;)
+with two useful features that I recommend to use: &lt;code&gt;day_night&lt;/code&gt; and &lt;code&gt;search&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;day_night&lt;/code&gt; allows the reader to toggle light and dark color themes for the website.
+If you look at the top navigation bar on the right you should spot an icon
+with either a moon (to switch to a dark theme) or a sun (to switch to a light
+theme).&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;search&lt;/code&gt; allows to search the website using keywords such as minicps or
+rearby. This functionality is accessed by clicking the magnifying glass icon
+close to the theme switch icon or by using &lt;code&gt;vim&lt;/code&gt;-like shortcuts: &lt;code&gt;/&lt;/code&gt; enables
+search and &lt;code&gt;Esc&lt;/code&gt; disables it. Currently, this functionality can be supported
+using built-in Fuse (client-side) or Agolia (server-side). I&amp;rsquo;m using the first
+option.&lt;/p&gt;
+&lt;p&gt;If you are browsing from a mobile device the icons can be found by tapping the
+global menu icon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our Paper is Accepted for NDSS 2019</title>
+      <link>https://francozappa.github.io/post/ndss19/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://francozappa.github.io/post/ndss19/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m very happy to announce that our paper titled
+&lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby
+Connections&amp;rdquo; on Android&lt;/em&gt; has been accepted for the
+
+&lt;a href=&#34;https://www.ndss-symposium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Network and Distributed System Security Symposium (NDSS)&lt;/a&gt;. Here you can download a
+
+&lt;a href=&#34;http://www.cs.ox.ac.uk/files/10367/ndss19-paper367.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-print&lt;/a&gt;.
+Here is the list of
+
+&lt;a href=&#34;https://www.ndss-symposium.org/ndss2019/accepted-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;accepted papers for NDSS 2019&lt;/a&gt;
+Soon I&amp;rsquo;ll update more material such an exploit PoC code.&lt;/p&gt;
+&lt;p&gt;Congratulations to
+
+&lt;a href=&#34;https://www.cs.ox.ac.uk/people/kasper.rasmussen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kasper&lt;/a&gt;
+and
+
+&lt;a href=&#34;https://tippenhauer.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nils&lt;/a&gt; and thank you for the help.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visiting Researcher at CISPA, University of Saarbrücken</title>
+      <link>https://francozappa.github.io/post/cispa-visiting/</link>
+      <pubDate>Thu, 23 Aug 2018 11:28:36 +0800</pubDate>
+      <guid>https://francozappa.github.io/post/cispa-visiting/</guid>
+      <description>&lt;p&gt;As part of my PhD I&amp;rsquo;ve recently joined as a visiting researcher the
+
+&lt;a href=&#34;https://cispa.saarland/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CISPA – Helmholtz-Zentrum, Saarbruecken&lt;/a&gt;
+🇩🇪.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m going to spend six months there, supervised by
+
+&lt;a href=&#34;https://cispa.saarland/people/nils.tippenhauer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. N.O. Tippenhauer&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>State-Aware Anomaly Detection for Industrial Control Systems</title>
+      <link>https://francozappa.github.io/publication/state-anomaly-detection/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/state-anomaly-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HowTo: Connect to the SUTD&#39;s eduroam using (Arch) Linux</title>
+      <link>https://francozappa.github.io/post/sutd-eduroam/</link>
+      <pubDate>Sat, 27 Jan 2018 11:28:36 +0800</pubDate>
+      <guid>https://francozappa.github.io/post/sutd-eduroam/</guid>
+      <description>&lt;p&gt;After the
+
+&lt;a href=&#34;https://francozappa.github.io/post/sutd-vpn-student/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post about connecting to SUTD&amp;rsquo;s VPN&lt;/a&gt;
+is now time to connect eduroam! Again, SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of
+writing is &lt;em&gt;none&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;SUTD runs a setup with only username-password (no certificates required) and
+the connection can be established using the GUI of NetworkManager. If your
+WiFi card is on and eduroam is in your range you should see the &lt;code&gt;eduroam&lt;/code&gt; SSID
+on the list of the available WiFi networks. If you attempt to connect then
+all you need to do is enter your &lt;code&gt;username&lt;/code&gt; and &lt;code&gt;password&lt;/code&gt;. As usual, PhD
+student and staff are separated into different namespaces. Use the username
+&lt;code&gt;name_surname@sutd.edu.sg&lt;/code&gt; if you are a staff member or &lt;code&gt;xxxxxxx@sutd.edu.sg&lt;/code&gt;
+if you are a student (&lt;code&gt;xxxxxxx&lt;/code&gt; is your 7-digits student id). The password
+should be the same as the one you are using to connect to the Internet from
+SUTD.&lt;/p&gt;
+&lt;p&gt;Your NetworkManager Wi-Fi Security screen should look like this (&lt;code&gt;username&lt;/code&gt; and
+&lt;code&gt;password&lt;/code&gt; are obscured):&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/sutd-eduroam.png&#34; alt=&#34;SUTD eduroam&#34;&gt;&lt;/p&gt;
+&lt;p&gt;🐧&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HowTo: Connect to the SUTD&#39;s VPN using (Arch) Linux as a Student</title>
+      <link>https://francozappa.github.io/post/sutd-vpn/</link>
+      <pubDate>Sat, 20 Jan 2018 11:28:36 +0800</pubDate>
+      <guid>https://francozappa.github.io/post/sutd-vpn/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently came across the problem of connecting to the SUTD VPN server
+from overseas. SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of writing
+is &lt;em&gt;none&lt;/em&gt;, and after a bit of research I&amp;rsquo;ve found a quick and easy solution.&lt;/p&gt;
+&lt;p&gt;SUTD runs &lt;em&gt;Pulse Connect Secure (PCS)&lt;/em&gt; server, a commercial solution known as
+&lt;em&gt;Juniper SSL VPN&lt;/em&gt;. Luckily there is an open-source client that supports PCS
+named &lt;em&gt;OpenConnect&lt;/em&gt;. Arch has an &lt;code&gt;openconnect&lt;/code&gt; package and a NetworkManager
+plugin called &lt;code&gt;networkmanager-openconnect&lt;/code&gt;. Install both packages trough your
+package manager.&lt;/p&gt;
+&lt;p&gt;Then you can use the (user-friendly?) NetworkManager GUI to add the new VPN setup.
+Use the openconnect profile and all the default options (eg: no need of Realm, and Certificates).
+Point your &lt;code&gt;Gateway&lt;/code&gt; to &lt;code&gt;https://sutdvpn.sutd.edu.sg/dana-na/auth/url_0/welcome.cgi&lt;/code&gt; and
+your GUI screen should look like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/sutd-vpn-student.png&#34; alt=&#34;SUTD VPN Student&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Then save it and you will be prompted to accept a certificate. Once you accept
+it you can enter your username (student_id eg: &lt;code&gt;1001234&lt;/code&gt;) and passwords (same
+as the &lt;code&gt;SUTD_Student&lt;/code&gt; network&amp;rsquo;s one). Once you are connected your GUI should
+present you a message to confirm that. You can manually check it using
+&lt;code&gt;ifconfig&lt;/code&gt; and &lt;code&gt;route&lt;/code&gt; commands.
+If you encounter problems try to have a look
+
+&lt;a href=&#34;https://wiki.archlinux.org/index.php?title=Pulse_Connect_Secure&amp;amp;mobileaction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+or post a comment below.&lt;/p&gt;
+&lt;p&gt;P.S. Thanks to
+
+&lt;a href=&#34;http://people.sutd.edu.sg/~nils_tippenhauer/connecting-to-sutd-vpn-from-linux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nils&amp;rsquo;s post&lt;/a&gt;
+from which I&amp;rsquo;ve started my research,
+this post should update it with an easier setup!&lt;/p&gt;
+&lt;p&gt;🐧&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visiting Researcher at the University of Oxford</title>
+      <link>https://francozappa.github.io/post/oxford-visiting/</link>
+      <pubDate>Sun, 14 Jan 2018 11:28:36 +0800</pubDate>
+      <guid>https://francozappa.github.io/post/oxford-visiting/</guid>
+      <description>&lt;p&gt;As part of my PhD I&amp;rsquo;ve recently joined as a visiting researcher the
+
+&lt;a href=&#34;https://www.cs.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Computer Science, University of Oxford&lt;/a&gt;
+🇬🇧.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m going to spend around six months there, supervised by
+
+&lt;a href=&#34;https://www.cs.ox.ac.uk/people/kasper.rasmussen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Kasper Rasmussen&lt;/a&gt;
+and co-supervised by
+
+&lt;a href=&#34;https://www.cs.ox.ac.uk/people/ivan.martinovic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ivan Martinovic&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m very excited!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SAC 2018</title>
+      <link>https://francozappa.github.io/post/sac18/</link>
+      <pubDate>Thu, 21 Dec 2017 11:28:36 +0800</pubDate>
+      <guid>https://francozappa.github.io/post/sac18/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m happy to announce that our paper titled
+&lt;em&gt;State-Aware Anomaly Detection for Industrial Control Systems&lt;/em&gt;
+has been accepted for the
+
+&lt;a href=&#34;https://www.sigapp.org/sac/sac2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Symposium On Applied Computing (SAC) 2018&lt;/a&gt; conference.&lt;/p&gt;
+&lt;p&gt;Congratulations to 
+&lt;a href=&#34;http://people.sutd.edu.sg/~1001407/?page_id=10&amp;amp;lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hamid&lt;/a&gt;,
+and the co-authors!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CANS 2017</title>
+      <link>https://francozappa.github.io/post/cans17/</link>
+      <pubDate>Sat, 02 Dec 2017 11:28:36 +0800</pubDate>
+      <guid>https://francozappa.github.io/post/cans17/</guid>
+      <description>&lt;p&gt;This week I&amp;rsquo;ve been in Hong Kong for the
+
+&lt;a href=&#34;http://crypto.ie.cuhk.edu.hk/cans17/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cryptology And Network Security Conference (CANS) 2017&lt;/a&gt; conference.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve presented our paper about:
+
+&lt;a href=&#34;https://francozappa.github.io/publication/antonioli17eavesdropping/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Practical Evaluation of Passive COTS Eavesdropping in 802.11b/n/ac WLAN&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here I&amp;rsquo;m sharing some pictures with some new friends:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/cans17-ferry.jpg&#34; alt=&#34;CANS17 Ferry&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/cans17-dinner.jpg&#34; alt=&#34;CANS17 Dinner&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Institutional Email Issue</title>
+      <link>https://francozappa.github.io/post/email-issues/</link>
+      <pubDate>Sun, 26 Nov 2017 11:28:36 +0800</pubDate>
+      <guid>https://francozappa.github.io/post/email-issues/</guid>
+      <description>&lt;p&gt;For some &lt;!-- STUpiD --&gt; reasons my &lt;code&gt;name_surname@sutd.edu.sg&lt;/code&gt; email address was
+deactivated &lt;em&gt;without notice&lt;/em&gt; sometime at the end of October 2017. Unfortunately
+I&amp;rsquo;ve discovered it only this week and I&amp;rsquo;m still trying to reactivate it. I
+apologize if you recently got an error message while trying to send me an
+email to that address.&lt;/p&gt;
+&lt;p&gt;Please use the &lt;code&gt;surname.name@gmail.com&lt;/code&gt;
+address instead. I ❤️ ✉️&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>S317: MiniCPS Challenges</title>
+      <link>https://francozappa.github.io/post/minicps-s3-code/</link>
+      <pubDate>Tue, 21 Nov 2017 14:28:36 +0800</pubDate>
+      <guid>https://francozappa.github.io/post/minicps-s3-code/</guid>
+      <description>&lt;p&gt;I recently open-sourced the code that I developed for the MiniCPS challenges
+for the SWaT Security Showdown (S3) event in 2017.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/scy-phy/minicps/tree/master/examples/s3-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt; is the code.&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;init.sh&lt;/code&gt; contains the list of commands that I run on a local testing
+machine and on the remote AWS instances that we used during the event.
+The attackers were provided with the VPN credentials to
+access two different subnetworks in a &lt;em&gt;mixed&lt;/em&gt; MiniCPS simulation eg:
+water treatment (SWaT) and water distribution (WaDI).&lt;/p&gt;
+&lt;p&gt;The code is expecting to find the four files (flags) in the &lt;code&gt;/root/flags&lt;/code&gt;
+folder named &lt;code&gt;wadi1&lt;/code&gt;, &lt;code&gt;wadi2&lt;/code&gt;, &lt;code&gt;flag2&lt;/code&gt;, and &lt;code&gt;flag3&lt;/code&gt;. Indeed you have to create
+those files and write the string flags.&lt;/p&gt;
+&lt;p&gt;The relevant information to start and stop the challenges are in the
+&lt;code&gt;README.md&lt;/code&gt;. In general, I like to use a &lt;code&gt;Makefile&lt;/code&gt; as a launcher for the various
+commands. If you open the file, you will find several targets. To test the
+challenges locally use:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;make local
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Please let me know if you find any bugs or missing files.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MiniCPS</title>
+      <link>https://francozappa.github.io/project/minicps/</link>
+      <pubDate>Tue, 07 Nov 2017 17:46:49 +0800</pubDate>
+      <guid>https://francozappa.github.io/project/minicps/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://github.com/scy-phy/minicps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MiniCPS&lt;/a&gt; is a framework that I developed for Cyber-Physical Systems
+real-time simulation, built on top of 
+&lt;a href=&#34;http://mininet.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mininet&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gamifying ICS Security Training and Research: Design, Implementation, and Results of S3</title>
+      <link>https://francozappa.github.io/publication/s3/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/s3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Evaluation of Passive COTS Eavesdropping in 802.11b/n/ac WLAN</title>
+      <link>https://francozappa.github.io/publication/wifi-mimo/</link>
+      <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/wifi-mimo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ST Engineering Poster Award at FIRST Industry Workshop 2017</title>
+      <link>https://francozappa.github.io/post/first17/</link>
+      <pubDate>Wed, 26 Jul 2017 11:28:36 +0800</pubDate>
+      <guid>https://francozappa.github.io/post/first17/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m happy to announce that my poster titled
+
+&lt;a href=&#34;files/posters/cps-spc16.pdf&#34;&gt;Towards high-interaction virtual ICS honeypots-in-a-box&lt;/a&gt;
+won the
+
+&lt;a href=&#34;https://www.stengg.com/en/electronics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ST Engineering&lt;/a&gt;
+Poster Award at the
+
+&lt;a href=&#34;https://gradevents.sutd.edu.sg/first/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FIRST industry workshop&lt;/a&gt;, held at
+SUTD. This is a special gift one day before my 30th birthday!
+Here I&amp;rsquo;m sharing a picture from the award ceremony:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/first17-award.jpg&#34; alt=&#34;FIRST17 Award Ceremony&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Congratulations also to 
+&lt;a href=&#34;http://people.sutd.edu.sg/~1001407/?page_id=10&amp;amp;lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hamid&lt;/a&gt; who won
+one award:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/first17-hamid.jpg&#34; alt=&#34;FIRST17 Hamid and Me&#34;&gt;&lt;/p&gt;
+&lt;p&gt;and 
+&lt;a href=&#34;http://people.sutd.edu.sg/~eyasugetahun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eyasu&lt;/a&gt; who managed to win two awards:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/first17-eyasu.jpg&#34; alt=&#34;FIRST17 Eyasu and Me&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Future of Science, Technology and Policy Workshop</title>
+      <link>https://francozappa.github.io/post/smart17/</link>
+      <pubDate>Mon, 17 Jul 2017 11:28:36 +0800</pubDate>
+      <guid>https://francozappa.github.io/post/smart17/</guid>
+      <description>&lt;p&gt;Recently I was selected as a &lt;em&gt;mentor&lt;/em&gt; for the cybersecurity track of the
+&lt;em&gt;Future of Science, Technology and Policy&lt;/em&gt; Workshop, organized by
+
+&lt;a href=&#34;https://smart.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SMART&lt;/a&gt;. I had the privilege to supervision
+six graduate and post-graduate colleagues with different backgrounds:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Jukka Isohätälä from NUS (Physics and CS)&lt;/li&gt;
+&lt;li&gt;Nikhil Mallareddy from MIT (Environmental Engineering)&lt;/li&gt;
+&lt;li&gt;Ioannis Fousekis from ETH (EECS and Economics)&lt;/li&gt;
+&lt;li&gt;Michael Wicki from ETH (Political sciences and Economics)&lt;/li&gt;
+&lt;li&gt;Fabian Willibaldf rom ETH (Environmental Engineering)&lt;/li&gt;
+&lt;li&gt;Jay Prakash from SUTD (EECS)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I&amp;rsquo;m presenting the summary of our activities of day 2 related to
+cybersecurity organized at my institution 
+&lt;a href=&#34;https://www.sutd.edu.sg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SUTD&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;We started knowing about Singapore&amp;rsquo;s Cyber-Security Agency (CSA). In
+particular, we were introduced to Singapore cybersecurity strategies and
+long-term plans.Then we heard the personal story of a cybersecurity
+startup founder and we discovered common and effective threats in the
+cybersecurity landscape. Finally, we heard two presentations from two
+SUTD cybersecurity professors about novel cybersecurity problems and
+solutions, such as cyber-physical systems, IoT and adversarial machine
+learning. We understood the importance of education and awareness when
+talking about cybersecurity.&lt;/p&gt;
+&lt;p&gt;After lunch we visited SUTD&amp;rsquo;s world-class cybersecurity facilites. We started
+from 
+&lt;a href=&#34;https://itrust.sutd.edu.sg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iTrust&lt;/a&gt;, SUTD&amp;rsquo;s cybersecurity research
+centre. iTrust covers a broad range of topics spanning from theoretical
+to applied cybersecurity. The range of research area covered spans from
+traditional computer security to domain-specific areas such as: industrial
+control systems, Internet of Things, and autonomous vehicles.&lt;/p&gt;
+&lt;p&gt;iTrust in collaboration with the Singapore government and private
+industries has developed four state-of-the-art testbeds. Those testbed
+allow researchers to apply and evaluate their ideas in realistic and
+safe environment. We now briefly comment of each of the testbed. The
+Secure Water Treatment testbed is the oldest and it includes advanced
+sub-processes such as Ultrafiltration and Reverse Osmosis. The water
+treated by SWaT is one of the sources of the second oldest testbed: the
+Water Distribution (WaDi) testbed. WaDi is a miniaturized reproduction
+of a water distribution facility with six consumers tanks with
+independent demands patters. WaDi can be used to simulated water
+leakages, water-hammer attacks and water contamination. Both SWaT and
+WaDi can be powered by EPIC the smart grid testbed. EPIC is the newest
+and less-know testbed at SUTD and several researchers are actively
+working to evaluate it.  Finally, we visited the Internet-of-Things
+testbed that includes an anechoic chamber to perform radio tests and
+several Commercial-Off-The-Shelf devices (such as IP camera, smart
+thermostats and smart lamps) to recreate a smart home environment.&lt;/p&gt;
+&lt;p&gt;Overall it was a very rich experience. We understand that coming up with
+a cybersecurity policy is a hard problem for several independent reasons
+such as cross-disciplinary knowledge, funding, awareness, and education.&lt;/p&gt;
+&lt;p&gt;Here I&amp;rsquo;m sharing a picture with all the participants from SUTD:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/smart17-sutd.jpg&#34; alt=&#34;SMART SUTD&#34;&gt;&lt;/p&gt;
+&lt;p&gt;More pictures 
+&lt;a href=&#34;https://www.instagram.com/explore/tags/fstp2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Legacy-Compliant Data Authentication for Industrial Control System Traffic</title>
+      <link>https://francozappa.github.io/publication/legacy-authentication/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/legacy-authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards high-interaction virtual ICS honeypots-in-a-box</title>
+      <link>https://francozappa.github.io/publication/honeypot/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/honeypot/</guid>
+      <description>&lt;p&gt;This paper won the &lt;strong&gt;Research excellence award by ST Engineering during the FIRST workshop in 2017&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MiniCPS: A toolkit for security research on CPS networks</title>
+      <link>https://francozappa.github.io/publication/minicps/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>https://francozappa.github.io/publication/minicps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Testing of RNG</title>
+      <link>https://francozappa.github.io/publication/master-thesis/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/master-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-chip lightweight implementation of reduced NIST randomness test suite</title>
+      <link>https://francozappa.github.io/publication/nist-randomness/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/nist-randomness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Optical Radiation Management, Risk and Safety in the Hospital Environment</title>
+      <link>https://francozappa.github.io/publication/laser-safety/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/laser-safety/</guid>
       <description></description>
     </item>
     

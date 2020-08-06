@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Daniele Antonioli</title>
+    <title>Recent &amp; Upcoming Talks | Daniele Antonioli</title>
     <link>https://francozappa.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Daniele Antonioli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Daniele Antonioli</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://francozappa.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://francozappa.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://francozappa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://francozappa.github.io/talk/</link>
+    </image>
     
     <item>
       <title>From the Bluetooth Standard to Standard-Compliant 0-days</title>
       <link>https://francozappa.github.io/talk/hwio20/talk/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://francozappa.github.io/talk/hwio20/talk/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -30,14 +29,14 @@
       <title>Bluetooth blues: KNOB Attack Explained</title>
       <link>https://francozappa.github.io/talk/cyberwire-knob/talk/</link>
       <pubDate>Sat, 14 Sep 2019 00:00:00 +0200</pubDate>
-      
       <guid>https://francozappa.github.io/talk/cyberwire-knob/talk/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/_XvjXZCc1DU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Alternative &lt;a href=&#34;https://thecyberwire.com/podcasts/research-saturday/102/notes&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Alternative 
+&lt;a href=&#34;https://thecyberwire.com/podcasts/research-saturday/102/notes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

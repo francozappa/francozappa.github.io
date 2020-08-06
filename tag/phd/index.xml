@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phd | Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tag/phd/</link>
+      <atom:link href="https://francozappa.github.io/tag/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>phd</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://francozappa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>phd</title>
+      <link>https://francozappa.github.io/tag/phd/</link>
+    </image>
+    
+    <item>
+      <title>PhD at SUTD Completed!</title>
+      <link>https://francozappa.github.io/post/phd-completed/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/phd-completed/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m glad to announce that I&amp;rsquo;ve completed my PhD in Computer Science at SUTD
+about &lt;em&gt;Design, Implementation, and Evaluation of Secure Cyber-Physical and
+Wireless Systems&lt;/em&gt;. I&amp;rsquo;ve uploaded my
+
+&lt;a href=&#34;https://francozappa.github.io/publication/phd-thesis/thesis.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;thesis&lt;/a&gt;
+and the
+
+&lt;a href=&#34;https://francozappa.github.io/publication/phd-thesis/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;
+of my final presentation.
+For more information have a look
+
+&lt;a href=&#34;https://francozappa.github.io/publication/phd-thesis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;🎶 😆 🎶&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/kHx5hCVN26E&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;🎶 😆 🎶&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My PhD Defense at SUTD</title>
+      <link>https://francozappa.github.io/post/phd-defense/</link>
+      <pubDate>Mon, 10 Jun 2019 11:28:36 +0800</pubDate>
+      <guid>https://francozappa.github.io/post/phd-defense/</guid>
+      <description>&lt;p&gt;Soon I&amp;rsquo;m going to defend my PhD thesis at SUTD. Feel free to join!&lt;/p&gt;
+&lt;p&gt;Date and time:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Friday, 5 July 2019, 10:00 - 11:00 (AM)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Venue:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Think Tank 20 (2.305)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Title of the talk:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless System&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the first part of the presentation we will talk about our recent
+contributions in the area of wireless systems security.
+Wireless systems are used to transmit (sensitive) information and to manage
+and monitor systems remotely. In our recent works we focus on three problems
+to advance the security of wireless systems:
+effectiveness of deployed physical layer features as defense mechanisms,
+complexity and accessibility of wireless technologies, and security
+evaluations of wireless protocols. Firstly, we present a theoretical and
+empirical comparisons between b/n/ac amendments of IEEE 802.11 (WLAN).
+Our goal is to estimate and measure whether or not modern physical layer
+features, such as MIMO and beamforming, could be used to as defense mechanism.
+Afterwards, we will talk about our security analysis of Nearby Connections, a
+proprietary API for proximity-based services developed by Google. This API
+uses a combination of Bluetooth and Wi-Fi, and it is included in all Android
+devices since version 4.0 and all Android Things devices. Our analysis
+uncovers the proprietary (security) mechanisms of Nearby Connections and it is
+based on our reverse-engineering of its implementation. We demonstrate that
+Nearby Connections is vulnerable to critical threats by implementing  attacks
+where we maliciously manipulate Nearby Connections and we extend the
+connection range to devices that are not nearby. Prior to publication we
+disclosed our findings to Google and we suggested them effective
+countermeasures. In the last part of the presentation we will summarize our
+contributions in the area of cyber-physical systems (CPS). In particular we
+will introduce MiniCPS, a toolkit for real-time CPS simulation and emulation
+and its related projects and use cases.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
