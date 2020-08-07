@@ -5,12 +5,53 @@
     <link>https://francozappa.github.io/</link>
       <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniele Antonioli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
       <title>Daniele Antonioli</title>
       <link>https://francozappa.github.io/</link>
     </image>
+    
+    <item>
+      <title>DP3T for COVID-19</title>
+      <link>https://francozappa.github.io/project/dp3t/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/project/dp3t/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;The Decentralized Privacy-Preserving Proximity Tracing (DP3T) is a system
+for secure and privacy-preserving proximity tracing at large scale. DP3T
+provides a technological foundation to help slow the spread of SARS-CoV-2 by
+simplifying and accelerating the process of notifying people who might have
+been exposed to the virus so that they can take appropriate measures to break
+its transmission chain.&lt;/p&gt;
+&lt;p&gt;The system aims to minimise privacy and security risks for individuals and
+communities and guarantee the highest level of data protection. The goal of
+our proximity tracing system is to determine who has been in close physical
+proximity to a COVID-19 positive person and thus exposed to the virus,
+without revealing the contact’s identity or where the contact occurred. To
+achieve this goal, users run a smartphone app that continually broadcasts an
+ephemeral, pseudo-random ID representing the user’s phone and also records the
+pseudo-random IDs observed from smartphones in close proximity.&lt;/p&gt;
+&lt;p&gt;When a patient is diagnosed with COVID-19, she can upload pseudo-random IDs
+previously broadcast from her phone to a central server. Prior to the upload,
+all data remains exclusively on the user’s phone. Other users’ apps can use
+data from the server to locally estimate whether the device’s owner was
+exposed to the virus through close-range physical proximity to a COVID-19
+positive person who has uploaded their data. In case the app detects a high
+risk, it will inform the user.&lt;/p&gt;
+&lt;p&gt;You can find more information about DP3T following the links posted below.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/DP-3T/documents/blob/master/DP3T%20White%20Paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Whitepaper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/DP-3T/documents&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/DP-3T&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--- * [Wikipedia](https://en.wikipedia.org/wiki/Decentralized_Privacy-Preserving_Proximity_Tracing) --&gt;
+</description>
+    </item>
     
     <item>
       <title>CFP: ACM AsiaCCS 2021</title>
