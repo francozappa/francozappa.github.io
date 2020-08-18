@@ -5,12 +5,26 @@
     <link>https://francozappa.github.io/</link>
       <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniele Antonioli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
       <title>Daniele Antonioli</title>
       <link>https://francozappa.github.io/</link>
     </image>
+    
+    <item>
+      <title>BIAS and KNOB attacks against Bluetooth BR/EDR/LE</title>
+      <link>https://francozappa.github.io/talk/wac20/talk/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/talk/wac20/talk/</guid>
+      <description>&lt;p&gt;BIAS + KNOB attack against Bluetooth:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>WAC3 Presentation is Online</title>

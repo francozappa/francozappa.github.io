@@ -13,6 +13,20 @@
     </image>
     
     <item>
+      <title>BIAS and KNOB attacks against Bluetooth BR/EDR/LE</title>
+      <link>https://francozappa.github.io/talk/wac20/talk/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/talk/wac20/talk/</guid>
+      <description>&lt;p&gt;BIAS + KNOB attack against Bluetooth:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>From the Bluetooth Standard to Standard-Compliant 0-days</title>
       <link>https://francozappa.github.io/talk/hwio20/talk/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0200</pubDate>
