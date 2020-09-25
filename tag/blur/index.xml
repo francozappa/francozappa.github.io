@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blur | Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tag/blur/</link>
+      <atom:link href="https://francozappa.github.io/tag/blur/index.xml" rel="self" type="application/rss+xml" />
+    <description>blur</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
+      <title>blur</title>
+      <link>https://francozappa.github.io/tag/blur/</link>
+    </image>
+    
+    <item>
+      <title>BLURtooth (BLUR Attacks) Disclosure</title>
+      <link>https://francozappa.github.io/post/blur-announce/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/blur-announce/</guid>
+      <description>&lt;p&gt;Since January 2020 we&amp;rsquo;ve been working on a security analysis of Bluetooth
+cross-transport key-derivation (CTKD). In May 2020 we reported to the
+Bluetooth SIG a set of CTKD vulnerabilities and related attacks (i.e., the
+BLURtooth report about the BLUR attacks) and kept our findings private.&lt;/p&gt;
+&lt;p&gt;The 10th of September 2020 the Bluetooth SIG posted the following security note without letting us know:
+
+&lt;a href=&#34;https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/blurtooth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bluetooth SIG Statement Regarding the Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low
+Energy Vulnerability (BLURtooth)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To clarify our position with respect to such security note we release
+
+&lt;a href=&#34;https://hexhive.epfl.ch/BLURtooth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a public disclosure statement&lt;/a&gt; and an updated version
+of the 
+&lt;a href=&#34;https://arxiv.org/abs/2009.11776&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BLURtooth technical report&lt;/a&gt;. Enjoy!&lt;/p&gt;
+&lt;p&gt;Bonus track:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/LJzCYSdrHMI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

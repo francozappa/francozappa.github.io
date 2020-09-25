@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://francozappa.github.io/talk/wac20/talk/</loc>
-    <lastmod>2020-08-18T00:00:00+02:00</lastmod>
+    <loc>https://francozappa.github.io/tag/blur/</loc>
+    <lastmod>2020-09-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/blur-announce/</loc>
+    <lastmod>2020-09-25T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://francozappa.github.io/</loc>
+    <lastmod>2020-09-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tag/news/</loc>
+    <lastmod>2020-09-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/</loc>
+    <lastmod>2020-09-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/</loc>
+    <lastmod>2020-09-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/talk/wac20/talk/</loc>
     <lastmod>2020-08-18T00:00:00+02:00</lastmod>
   </url>
   
@@ -19,16 +44,6 @@
   
   <url>
     <loc>https://francozappa.github.io/tag/knob/</loc>
-    <lastmod>2020-08-12T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/post/</loc>
-    <lastmod>2020-08-12T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tags/</loc>
     <lastmod>2020-08-12T00:00:00+02:00</lastmod>
   </url>
   
@@ -109,11 +124,6 @@
   
   <url>
     <loc>https://francozappa.github.io/tag/it/</loc>
-    <lastmod>2020-06-20T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tag/news/</loc>
     <lastmod>2020-06-20T00:00:00+02:00</lastmod>
   </url>
   
