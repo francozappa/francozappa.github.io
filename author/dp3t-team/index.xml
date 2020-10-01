@@ -5,12 +5,20 @@
     <link>https://francozappa.github.io/author/dp3t-team/</link>
       <atom:link href="https://francozappa.github.io/author/dp3t-team/index.xml" rel="self" type="application/rss+xml" />
     <description>DP3T Team</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
       <title>DP3T Team</title>
       <link>https://francozappa.github.io/author/dp3t-team/</link>
     </image>
+    
+    <item>
+      <title>Early Evidence of Effectiveness of Digital Contact Tracing for SARS-CoV-2 in Switzerland</title>
+      <link>https://francozappa.github.io/publication/cte-preprint/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/cte-preprint/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Decentralized Privacy-Preserving Proximity Tracing</title>

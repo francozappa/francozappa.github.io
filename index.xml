@@ -5,12 +5,28 @@
     <link>https://francozappa.github.io/</link>
       <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniele Antonioli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
       <title>Daniele Antonioli</title>
       <link>https://francozappa.github.io/</link>
     </image>
+    
+    <item>
+      <title>BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy</title>
+      <link>https://francozappa.github.io/publication/blur-preprint/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/blur-preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Evidence of Effectiveness of Digital Contact Tracing for SARS-CoV-2 in Switzerland</title>
+      <link>https://francozappa.github.io/publication/cte-preprint/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/cte-preprint/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BLURtooth (BLUR Attacks) Disclosure</title>

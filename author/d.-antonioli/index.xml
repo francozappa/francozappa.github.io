@@ -5,12 +5,20 @@
     <link>https://francozappa.github.io/author/d.-antonioli/</link>
       <atom:link href="https://francozappa.github.io/author/d.-antonioli/index.xml" rel="self" type="application/rss+xml" />
     <description>D. Antonioli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
       <title>D. Antonioli</title>
       <link>https://francozappa.github.io/author/d.-antonioli/</link>
     </image>
+    
+    <item>
+      <title>BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy</title>
+      <link>https://francozappa.github.io/publication/blur-preprint/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/blur-preprint/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy</title>
