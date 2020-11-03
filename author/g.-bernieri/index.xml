@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Bernieri | Daniele Antonioli</title>
+    <link>https://francozappa.github.io/author/g.-bernieri/</link>
+      <atom:link href="https://francozappa.github.io/author/g.-bernieri/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Bernieri</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Bernieri</title>
+      <link>https://francozappa.github.io/author/g.-bernieri/</link>
+    </image>
+    
+    <item>
+      <title>Taking Control: Design and Implementation of Botnets for Cyber-Physical Attacks with CPSBot</title>
+      <link>https://francozappa.github.io/publication/cpsbot-preprint/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/cpsbot-preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
