@@ -5,12 +5,31 @@
     <link>https://francozappa.github.io/post/</link>
       <atom:link href="https://francozappa.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://francozappa.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Joining WOOT and SEC TPCs</title>
+      <link>https://francozappa.github.io/post/cfp-woot21-sec21/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0100</pubDate>
+      <guid>https://francozappa.github.io/post/cfp-woot21-sec21/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m thrilled to join the technical program committees of the
+
+&lt;a href=&#34;https://www.ieee-security.org/TC/SP2021/SPW2021/WOOT21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop on Offensive Technologies (WOOT)&lt;/a&gt;
+and the
+
+&lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity21&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USENIX Security Symposium (SEC)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Lots of good papers ahead 😄&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+&lt;iframe src=&#34;https://giphy.com/embed/13bUdxDy4jJUR2&#34; width=&#34;480&#34; height=&#34;270&#34;
+frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a
+href=&#34;https://giphy.com/gifs/care-paperwork-13bUdxDy4jJUR2&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BLURtooth (BLUR Attacks) Disclosure</title>

@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://francozappa.github.io/</loc>
+    <lastmod>2020-11-22T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/cfp-woot21-sec21/</loc>
+    <lastmod>2020-11-22T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/</loc>
+    <lastmod>2020-11-22T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tag/sec/</loc>
+    <lastmod>2020-11-22T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/</loc>
+    <lastmod>2020-11-22T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tag/tpc/</loc>
+    <lastmod>2020-11-22T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tag/woot/</loc>
+    <lastmod>2020-11-22T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://francozappa.github.io/publication-type/3/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -19,11 +54,6 @@
   
   <url>
     <loc>https://francozappa.github.io/author/d.-antonioli/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -69,16 +99,6 @@
   
   <url>
     <loc>https://francozappa.github.io/tag/news/</loc>
-    <lastmod>2020-09-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/post/</loc>
-    <lastmod>2020-09-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tags/</loc>
     <lastmod>2020-09-25T00:00:00+02:00</lastmod>
   </url>
   
@@ -144,11 +164,6 @@
   
   <url>
     <loc>https://francozappa.github.io/post/cfp-asiaccs21/</loc>
-    <lastmod>2020-08-05T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tag/tpc/</loc>
     <lastmod>2020-08-05T00:00:00+02:00</lastmod>
   </url>
   
