@@ -5,12 +5,50 @@
     <link>https://francozappa.github.io/tag/woot/</link>
       <atom:link href="https://francozappa.github.io/tag/woot/index.xml" rel="self" type="application/rss+xml" />
     <description>woot</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
       <title>woot</title>
       <link>https://francozappa.github.io/tag/woot/</link>
     </image>
+    
+    <item>
+      <title>CFP: 2021 IEEE Workshop on Offensive Technologies (WOOT)</title>
+      <link>https://francozappa.github.io/post/cfp-woot21/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0100</pubDate>
+      <guid>https://francozappa.github.io/post/cfp-woot21/</guid>
+      <description>&lt;p&gt;The call for papers for the 2021 IEEE Workshop on Offensive Technologies (WOOT)
+is open. Please submit your great research work and spread the word among
+attackers 🔥 😄 🔥&lt;/p&gt;
+&lt;p&gt;Here are the deadlines:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Abstract registration deadline: Wednesday, January 27, 2021, 11:59 AoE (Anywhere on Earth)&lt;/li&gt;
+&lt;li&gt;Paper submission deadline: Friday, January 29, 2021, 11:59 AoE (Anywhere on Earth)&lt;/li&gt;
+&lt;li&gt;Notification date: Monday, March 01, 2021&lt;/li&gt;
+&lt;li&gt;Workshop date: Thursday, May 27, 2021&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Submission topics include, but are not limited to, attacks on and offensive research into:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hardware, including software-based exploitation of hardware vulnerabilities&lt;/li&gt;
+&lt;li&gt;Virtualization and the cloud&lt;/li&gt;
+&lt;li&gt;Network and distributed systems&lt;/li&gt;
+&lt;li&gt;Operating systems&lt;/li&gt;
+&lt;li&gt;Browser and general client-side security (runtimes, JITs, sandboxing)&lt;/li&gt;
+&lt;li&gt;Application security&lt;/li&gt;
+&lt;li&gt;Analysis of mitigations and automating how they can be bypassed&lt;/li&gt;
+&lt;li&gt;Automating software testing such as fuzzing for novel targets&lt;/li&gt;
+&lt;li&gt;Internet of Things&lt;/li&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
+&lt;li&gt;Cyber-physical systems&lt;/li&gt;
+&lt;li&gt;Privacy&lt;/li&gt;
+&lt;li&gt;Cryptographic systems (practical attacks on deployed systems)&lt;/li&gt;
+&lt;li&gt;Malware design, implementation and analysis&lt;/li&gt;
+&lt;li&gt;Offensive applications of formal methods (solvers, symbolic execution)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more information about the CFP look 
+&lt;a href=&#34;https://www.ieee-security.org/TC/SP2021/SPW2021/WOOT21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Joining WOOT and SEC TPCs</title>
