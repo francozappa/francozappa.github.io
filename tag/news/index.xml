@@ -5,12 +5,39 @@
     <link>https://francozappa.github.io/tag/news/</link>
       <atom:link href="https://francozappa.github.io/tag/news/index.xml" rel="self" type="application/rss+xml" />
     <description>news</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniele Antonioli</copyright><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
       <title>news</title>
       <link>https://francozappa.github.io/tag/news/</link>
     </image>
+    
+    <item>
+      <title>Joining EURECOM S3 as an Assistant Professor in June 2021</title>
+      <link>https://francozappa.github.io/post/eurecom-asstprof/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>https://francozappa.github.io/post/eurecom-asstprof/</guid>
+      <description>&lt;p&gt;Starting from June 2021, I will join 
+&lt;a href=&#34;http://s3.eurecom.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EURECOM System Security Group
+(S3)&lt;/a&gt; as an Assistant Professor. I will keep
+doing research on the security of wireless systems, mobile/embedded systems,
+and (industrial) internet of things. I will also teach the fabulous
+
+&lt;a href=&#34;https://mobisec.reyammer.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mobile Systems and Smartphone Security (MOBISEC)&lt;/a&gt;
+course, created by Yanick Fratantonio, starting from Sept 2021.&lt;/p&gt;
+&lt;p&gt;I thank EURECOM faculty members for considering my candidature and
+eventually selecting me from a pool of talented applicants. Related to that,
+I give credit to Marc Dacier, Aurelien Francillon, Yanick Fratantonio, Davide
+Balzarotti, and Massimiliano Todisco for answering my questions
+and providing useful feedback and support during the interview process.&lt;/p&gt;
+&lt;p&gt;I also acknowledge Mathias Payer, Kasper Rasmussen, Nils Tippenhauer, and
+Mauro Conti for supporting my candidature. Their support was instrumental
+and I will be pleased to keep collaborating with them in the future.&lt;/p&gt;
+&lt;p&gt;I look forward to join EURECOM and the sunny French riviera and in the
+meantime I&amp;rsquo;m ramping up my French knowledge.
+🇫🇷 🏖 ⛰️&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BLURtooth (BLUR Attacks) Disclosure</title>

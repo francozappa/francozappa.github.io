@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://francozappa.github.io/</loc>
+    <lastmod>2020-12-02T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tag/eurecom/</loc>
+    <lastmod>2020-12-02T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/eurecom-asstprof/</loc>
+    <lastmod>2020-12-02T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tag/news/</loc>
+    <lastmod>2020-12-02T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/</loc>
+    <lastmod>2020-12-02T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/</loc>
+    <lastmod>2020-12-02T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://francozappa.github.io/tag/cfp/</loc>
     <lastmod>2020-11-27T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://francozappa.github.io/post/cfp-woot21/</loc>
-    <lastmod>2020-11-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/</loc>
-    <lastmod>2020-11-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/post/</loc>
-    <lastmod>2020-11-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tags/</loc>
     <lastmod>2020-11-27T00:00:00+01:00</lastmod>
   </url>
   
@@ -104,11 +119,6 @@
   
   <url>
     <loc>https://francozappa.github.io/post/blur-announce/</loc>
-    <lastmod>2020-09-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tag/news/</loc>
     <lastmod>2020-09-25T00:00:00+02:00</lastmod>
   </url>
   
