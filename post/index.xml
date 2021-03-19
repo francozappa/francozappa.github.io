@@ -5,12 +5,72 @@
     <link>https://francozappa.github.io/post/</link>
       <atom:link href="https://francozappa.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://francozappa.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>CFP for Hardwear.io USA 2021 is Open (Tips and Tricks)</title>
+      <link>https://francozappa.github.io/post/hw21-suggestions/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0100</pubDate>
+      <guid>https://francozappa.github.io/post/hw21-suggestions/</guid>
+      <description>&lt;p&gt;Last year I had the pleasure to give a talk about
+
+&lt;a href=&#34;https://hardwear.io/virtual-con-2020/speakers/from-the-bluetooth-standard-to-standard-compliant-0-days.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;critical and standard-compliant Bluetooth flaws&lt;/a&gt;
+at the virtual edition of
+
+&lt;a href=&#34;https://hardwear.io/virtual-con-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hardwear.io 2020&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The organizers recently opened the
+
+&lt;a href=&#34;https://hardwear.io/usa-2021/cfp.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;call-for-papers (CFP) for Hardwear.io USA 2021&lt;/a&gt; and asked me
+to share my take on why you would want to submit
+your work to Hardwear.io and few tips and tricks to improve the quality of your presentation.
+What follow are some random and personal thoughts that might be useful for
+somebody and might overlap with what is already suggested in the CFP
+😄&lt;/p&gt;
+&lt;h2 id=&#34;why-one-should-submit&#34;&gt;Why one should submit?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Hardwear.io is (still) a &amp;ldquo;nichy&amp;rdquo; venue where you present
+to a relatively small but relevant audience of experts.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hardwear.io&amp;rsquo;s audience is a mix of folks
+from academia and industry. This is very helpful as it allows to get feedback
+from different angles and hear more voices.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hardwear.io enables to push the boundaries of interesting (yet less-mainstream)
+security topics such as embedded, industrial, hardware, and wireless systems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hardwear.io is not only about talks and conferences, there is whole community surrounding
+it that is active every day and from which you can get advice.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you are a fan of merchandise (i.e., shirts, pins, magnets, &amp;hellip;) then Hardwear.io
+is not going to disappoint you 🎉&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;tips-and-tricks-to-strengthen-your-submission&#34;&gt;Tips and Tricks to strengthen your submission&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Clearly scope you work to one (or more) submission topic(s)&lt;/li&gt;
+&lt;li&gt;Keep a mix of technical and non-technical content&lt;/li&gt;
+&lt;li&gt;The non-technical content is useful to let non-expert reviewers
+appreciate your work (i.e., what you did)&lt;/li&gt;
+&lt;li&gt;The technical part is needed to convince the expert reviewers that you
+actually did what you are presenting (i.e., how you did it)&lt;/li&gt;
+&lt;li&gt;Make sure that other than explaining &amp;ldquo;what&amp;rdquo; you did
+and &amp;ldquo;how&amp;rdquo; you did it, you are also showing &amp;ldquo;why&amp;rdquo; your submission
+is important, needed, novel, and interesting.&lt;/li&gt;
+&lt;li&gt;Look at the 
+&lt;a href=&#34;https://hardwear.io/usa-2021/cfp.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TIPS FOR SUBMITTING on the CFP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Joining EURECOM S3 as an Assistant Professor in June 2021</title>
