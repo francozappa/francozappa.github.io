@@ -5,12 +5,29 @@
     <link>https://francozappa.github.io/tag/news/</link>
       <atom:link href="https://francozappa.github.io/tag/news/index.xml" rel="self" type="application/rss+xml" />
     <description>news</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
       <title>news</title>
       <link>https://francozappa.github.io/tag/news/</link>
     </image>
+    
+    <item>
+      <title>Starting at EURECOM</title>
+      <link>https://francozappa.github.io/post/eurecom-start/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/eurecom-start/</guid>
+      <description>&lt;p&gt;It is my pleasure to announce that since 1st of June I&amp;rsquo;ve started my new
+adventure with 
+&lt;a href=&#34;https://www.eurecom.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EURECOM&lt;/a&gt;  and the
+
+&lt;a href=&#34;http://s3.eurecom.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;System Security Group (S3)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m thrilled and honored to have joined a team of talented and diverse people,
+and I&amp;rsquo;m looking forward give my contribution!&lt;/p&gt;
+&lt;p&gt;The location is also pretty amusing, and I feel closer to  Italy than
+usual 😄&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CFP for Hardwear.io USA 2021 is Open (Tips and Tricks)</title>

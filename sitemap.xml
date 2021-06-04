@@ -3,32 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://francozappa.github.io/</loc>
+    <lastmod>2021-06-04T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tag/eurecom/</loc>
+    <lastmod>2021-06-04T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tag/news/</loc>
+    <lastmod>2021-06-04T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/</loc>
+    <lastmod>2021-06-04T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/post/eurecom-start/</loc>
+    <lastmod>2021-06-04T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francozappa.github.io/tags/</loc>
+    <lastmod>2021-06-04T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://francozappa.github.io/post/hw21-suggestions/</loc>
     <lastmod>2021-03-19T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://francozappa.github.io/</loc>
-    <lastmod>2021-03-19T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://francozappa.github.io/tag/hwio/</loc>
-    <lastmod>2021-03-19T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tag/news/</loc>
-    <lastmod>2021-03-19T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/post/</loc>
-    <lastmod>2021-03-19T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tags/</loc>
     <lastmod>2021-03-19T00:00:00+01:00</lastmod>
   </url>
   
@@ -90,11 +100,6 @@
   <url>
     <loc>https://francozappa.github.io/author/r.-wu/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francozappa.github.io/tag/eurecom/</loc>
-    <lastmod>2020-12-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
