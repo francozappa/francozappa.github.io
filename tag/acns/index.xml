@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>acns | Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tag/acns/</link>
+      <atom:link href="https://francozappa.github.io/tag/acns/index.xml" rel="self" type="application/rss+xml" />
+    <description>acns</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
+      <title>acns</title>
+      <link>https://francozappa.github.io/tag/acns/</link>
+    </image>
+    
+    <item>
+      <title>SecMT&#39;21 Talk About Security of Proximity Services</title>
+      <link>https://francozappa.github.io/post/secmt21-talk/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/post/secmt21-talk/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m glad to give a talk at the
+
+&lt;a href=&#34;https://spritz.math.unipd.it/events/2021/ACNS_Workshop/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SecMT&#39;21&lt;/a&gt;
+workshop on mobile system security
+co-located with the 
+&lt;a href=&#34;https://sulab-sever.u-aizu.ac.jp/ACNS2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACNS&#39;21&lt;/a&gt;
+conference.
+Students can register to SecMT for &lt;em&gt;free&lt;/em&gt; by filling this
+
+&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfwNOLR8AJmbJo5F954hTXvhsTfKXE3FvTVFr-OLmLcbWmTyg/viewform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google form&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Talk title&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Why is Hard to Secure Mobile Proximity Services&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Talk abstract&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Mobile devices such as phones, tablets, and wearables enable proximity
+services on a large scale. These services use wireless technologies (such as
+Wi-Fi and Bluetooth) to connect users within a specific range and exchange
+information. Proximity information ranges from general-purpose files and
+contacts to privacy-preserving COVID-19 proximity identifiers. Since these
+services affect millions of mobile users worldwide, their security against
+cyber threats is paramount. It is not pleasant if an attacker in proximity (or
+even remotely) can eavesdrop on private communication or tamper with personal
+data. However, adopting (even essential) security mechanisms for proximity
+services is easy in theory but pretty hard in practice. For example, it is
+challenging to provide confidentiality and authenticity while at the same time
+provide energy-efficient and accurate proximity tracing. On top of that, a
+usable proximity service has to scale well with the number of users and
+provide the same quality of services across different software and hardware
+ecosystems (e.g., Android and iOS) and usage condition (e.g., indoor and
+outdoor). In this talk, we look at two commercial proximity services. First,
+Google&amp;rsquo;s Nearby Connections (NC) is an API to connect Android devices using a
+combination of Wi-Fi and Bluetooth and without requiring an Internet
+connection. Second, Google/Apple&amp;rsquo;s Exposure Notification (EN) framework. EN
+powers most COVID-19 contact-tracing mobile applications in Europe, including
+the ones used in Italy, Germany, and Switzerland. Throughout the talk, the
+audience will learn, among others, real-world proximity services&#39;
+architectures, pitfalls, vulnerabilities, attacks, countermeasures, and
+related research trends.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
