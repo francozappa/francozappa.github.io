@@ -5,12 +5,20 @@
     <link>https://francozappa.github.io/</link>
       <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniele Antonioli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
       <title>Daniele Antonioli</title>
       <link>https://francozappa.github.io/</link>
     </image>
+    
+    <item>
+      <title>Why is Hard to Secure Mobile Proximity Services</title>
+      <link>https://francozappa.github.io/talk/secmt21/talk/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0200</pubDate>
+      <guid>https://francozappa.github.io/talk/secmt21/talk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SecMT&#39;21 Talk About Security of Proximity Services</title>
