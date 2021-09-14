@@ -5,9 +5,9 @@
     <link>https://francozappa.github.io/project/</link>
       <atom:link href="https://francozappa.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
+      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://francozappa.github.io/project/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>DP3T for COVID-19</title>
       <link>https://francozappa.github.io/project/dp3t/</link>
-      <pubDate>Fri, 07 Aug 2020 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/project/dp3t/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;The Decentralized Privacy-Preserving Proximity Tracing (DP3T) is a system
@@ -56,7 +56,7 @@ risk, it will inform the user.&lt;/p&gt;
     <item>
       <title>BIAS Attacks</title>
       <link>https://francozappa.github.io/project/bias/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/project/bias/</guid>
       <description>&lt;p&gt;The 
 &lt;a href=&#34;https://francozappa.github.io/about-bias/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bluetooth Impersonation AttackS
@@ -86,7 +86,7 @@ The BIAS attack is listed as
     <item>
       <title>KNOB Attacks</title>
       <link>https://francozappa.github.io/project/knob/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/project/knob/</guid>
       <description>&lt;h2 id=&#34;knob-attack-on-bluetooth-classic-bredr&#34;&gt;KNOB Attack on Bluetooth Classic (BR/EDR)&lt;/h2&gt;
 &lt;p&gt;The Key Negotiation Of Bluetooth (KNOB) attack on

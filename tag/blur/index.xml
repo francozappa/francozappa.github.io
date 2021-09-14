@@ -5,9 +5,9 @@
     <link>https://francozappa.github.io/tag/blur/</link>
       <atom:link href="https://francozappa.github.io/tag/blur/index.xml" rel="self" type="application/rss+xml" />
     <description>blur</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
+      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>blur</title>
       <link>https://francozappa.github.io/tag/blur/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>BLURtooth (BLUR Attacks) Disclosure</title>
       <link>https://francozappa.github.io/post/blur-announce/</link>
-      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/blur-announce/</guid>
       <description>&lt;p&gt;Since January 2020 we&amp;rsquo;ve been working on a security analysis of Bluetooth
 cross-transport key-derivation (CTKD). In May 2020 we reported to the

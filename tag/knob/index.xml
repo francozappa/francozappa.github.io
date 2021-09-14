@@ -5,9 +5,9 @@
     <link>https://francozappa.github.io/tag/knob/</link>
       <atom:link href="https://francozappa.github.io/tag/knob/index.xml" rel="self" type="application/rss+xml" />
     <description>knob</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
+      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>knob</title>
       <link>https://francozappa.github.io/tag/knob/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>WAC3 Presentation is Online</title>
       <link>https://francozappa.github.io/post/wac320-video/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/wac320-video/</guid>
       <description>&lt;p&gt;BIAS + KNOB attack against Bluetooth:&lt;/p&gt;
 
@@ -31,7 +31,7 @@
     <item>
       <title>WAC3 Talk About KNOB and BIAS Attacks</title>
       <link>https://francozappa.github.io/post/wac320-talk/</link>
-      <pubDate>Tue, 21 Jul 2020 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/wac320-talk/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m glad to give a talk about the
 
@@ -106,7 +106,7 @@ for organizing it and for the invitation!&lt;/p&gt;
     <item>
       <title>Slides and video from our hardwear.io 2020 talk</title>
       <link>https://francozappa.github.io/post/knob-hw20-material/</link>
-      <pubDate>Sun, 10 May 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/knob-hw20-material/</guid>
       <description>&lt;p&gt;Here are the 
 &lt;a href=&#34;https://francozappa.github.io/talk/hwio20/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;
@@ -123,7 +123,7 @@ Standard-Compliant 0-days&lt;/em&gt;:&lt;/p&gt;
     <item>
       <title>Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy</title>
       <link>https://francozappa.github.io/post/knob-tops/</link>
-      <pubDate>Sun, 26 Apr 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/knob-tops/</guid>
       <description>&lt;p&gt;Our new paper
 
@@ -143,7 +143,7 @@ the amendment of the Bluetooth standard.&lt;/p&gt;
     <item>
       <title>KNOB Attacks Talk at Hardwear.io 2020</title>
       <link>https://francozappa.github.io/post/knob-hw20/</link>
-      <pubDate>Sun, 05 Apr 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/knob-hw20/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m glad to give a talk titled
 
@@ -164,7 +164,7 @@ mitigate the KNOB attacks.&lt;/p&gt;
     <item>
       <title>InspiredResearch Newsletter University of Oxford</title>
       <link>https://francozappa.github.io/post/knob-ir/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/knob-ir/</guid>
       <description>&lt;p&gt;The
 
@@ -179,7 +179,7 @@ Oxford features a nice article about the KNOB attack by
     <item>
       <title>Security Engineering Third Edition (SEv3)</title>
       <link>https://francozappa.github.io/post/knob-sev3/</link>
-      <pubDate>Sat, 07 Dec 2019 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/knob-sev3/</guid>
       <description>&lt;p&gt;Recently, I&amp;rsquo;ve stumbled upon the webpage about
 
@@ -210,7 +210,7 @@ once is ready!&lt;/p&gt;
     <item>
       <title>KNOB Attack References and Advisories</title>
       <link>https://francozappa.github.io/post/knob-references/</link>
-      <pubDate>Thu, 17 Oct 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/knob-references/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve collected a list of references and advisories about the KNOB attack from
 several hardware and software providers and organizations. You can find it in
@@ -225,7 +225,7 @@ find other relevant links!&lt;/p&gt;
     <item>
       <title>Video of my KNOB Attack Presentation at USENIX Security 2019</title>
       <link>https://francozappa.github.io/post/knob-usec-video/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/knob-usec-video/</guid>
       <description>&lt;p&gt;Title of the paper:
 &lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
@@ -243,7 +243,7 @@ in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;:&lt;/p&gt;
     <item>
       <title>KNOB Attack Interview with Dave Bittner (CyberWire)</title>
       <link>https://francozappa.github.io/post/knob-cyberwire/</link>
-      <pubDate>Sat, 14 Sep 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/knob-cyberwire/</guid>
       <description>&lt;p&gt;Today CyberWire aired my
 
@@ -259,7 +259,7 @@ with
     <item>
       <title>KNOB Attack Add Slave Patch for poc-internalblue</title>
       <link>https://francozappa.github.io/post/knob-repo3/</link>
-      <pubDate>Mon, 26 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/knob-repo3/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve pushed the
 
@@ -277,7 +277,7 @@ have a look at the updated
     <item>
       <title>KNOB Attacks</title>
       <link>https://francozappa.github.io/project/knob/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/project/knob/</guid>
       <description>&lt;h2 id=&#34;knob-attack-on-bluetooth-classic-bredr&#34;&gt;KNOB Attack on Bluetooth Classic (BR/EDR)&lt;/h2&gt;
 &lt;p&gt;The Key Negotiation Of Bluetooth (KNOB) attack on
@@ -312,7 +312,7 @@ Energy&lt;/a&gt;.&lt;/p&gt;
     <item>
       <title>KNOB Attack FAQ</title>
       <link>https://francozappa.github.io/post/knob-faq/</link>
-      <pubDate>Mon, 19 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/knob-faq/</guid>
       <description>&lt;p&gt;In this post I&amp;rsquo;m trying to address some discussion points and
 misconceptions about the KNOB attack.&lt;/p&gt;
@@ -418,7 +418,7 @@ attack over the air.&lt;/p&gt;
     <item>
       <title>KNOB Attack Code for E0 and Slides from SEC19 are Online</title>
       <link>https://francozappa.github.io/post/knob-repo2/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/knob-repo2/</guid>
       <description>&lt;p&gt;The
 
@@ -446,7 +446,7 @@ negotiate a new (fresh) encryption key.&lt;/p&gt;
     <item>
       <title>KNOB Attack Repository is Online</title>
       <link>https://francozappa.github.io/post/knob-repo/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/knob-repo/</guid>
       <description>&lt;p&gt;Our 
 &lt;a href=&#34;https://github.com/francozappa/knob&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB repository&lt;/a&gt;
@@ -461,7 +461,7 @@ is online, and it includes our
     <item>
       <title>Key Negotiation Of Bluetooth (KNOB) Attack</title>
       <link>https://francozappa.github.io/post/knob-announce/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/knob-announce/</guid>
       <description>&lt;p&gt;The embargo is over! The information about &lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
 in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;, including our research

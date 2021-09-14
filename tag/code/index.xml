@@ -5,9 +5,9 @@
     <link>https://francozappa.github.io/tag/code/</link>
       <atom:link href="https://francozappa.github.io/tag/code/index.xml" rel="self" type="application/rss+xml" />
     <description>code</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
+      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>code</title>
       <link>https://francozappa.github.io/tag/code/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>KNOB Attack Add Slave Patch for poc-internalblue</title>
       <link>https://francozappa.github.io/post/knob-repo3/</link>
-      <pubDate>Mon, 26 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/knob-repo3/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve pushed the
 
@@ -33,7 +33,7 @@ have a look at the updated
     <item>
       <title>KNOB Attack Code for E0 and Slides from SEC19 are Online</title>
       <link>https://francozappa.github.io/post/knob-repo2/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/knob-repo2/</guid>
       <description>&lt;p&gt;The
 
@@ -61,7 +61,7 @@ negotiate a new (fresh) encryption key.&lt;/p&gt;
     <item>
       <title>KNOB Attack Repository is Online</title>
       <link>https://francozappa.github.io/post/knob-repo/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/knob-repo/</guid>
       <description>&lt;p&gt;Our 
 &lt;a href=&#34;https://github.com/francozappa/knob&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB repository&lt;/a&gt;
@@ -76,7 +76,7 @@ is online, and it includes our
     <item>
       <title>NDSS 2019 camera-ready and PoC attack code</title>
       <link>https://francozappa.github.io/post/ndss19-cr/</link>
-      <pubDate>Wed, 23 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/ndss19-cr/</guid>
       <description>&lt;p&gt;The camera-ready version of
 &lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;

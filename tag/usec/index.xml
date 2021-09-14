@@ -5,9 +5,9 @@
     <link>https://francozappa.github.io/tag/usec/</link>
       <atom:link href="https://francozappa.github.io/tag/usec/index.xml" rel="self" type="application/rss+xml" />
     <description>usec</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_2.png</url>
+      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>usec</title>
       <link>https://francozappa.github.io/tag/usec/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Video of my KNOB Attack Presentation at USENIX Security 2019</title>
       <link>https://francozappa.github.io/post/knob-usec-video/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/knob-usec-video/</guid>
       <description>&lt;p&gt;Title of the paper:
 &lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
