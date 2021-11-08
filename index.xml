@@ -5,12 +5,28 @@
     <link>https://francozappa.github.io/</link>
       <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniele Antonioli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Daniele Antonioli</title>
       <link>https://francozappa.github.io/</link>
     </image>
+    
+    <item>
+      <title>CFP: ACM CPSS 2022</title>
+      <link>https://francozappa.github.io/post/cfp-cpss22/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/cfp-cpss22/</guid>
+      <description>&lt;p&gt;The call for papers for 8th ACM Cyber-Physical System Security Workshop
+(CPSS 2022) held in conjunction with ACM AsiaCCS&#39;22 is closing in 1 month
+(December 3, 2021).&lt;/p&gt;
+&lt;p&gt;Make sure to submit your awesome CPS security papers :D&lt;/p&gt;
+&lt;p&gt;For more information see the CPSS 
+&lt;a href=&#34;https://illinois.adsc.com.sg/CPSS2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; and
+its 
+&lt;a href=&#34;https://illinois.adsc.com.sg/CPSS2022/CPSS%20CFP2022.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;call for papers&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>EURECOM Digital Security opening for an Asst. Prof.</title>
