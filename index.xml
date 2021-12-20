@@ -29,6 +29,76 @@ its
     </item>
     
     <item>
+      <title>Exploiting and Fixing the Bluetooth Standard</title>
+      <link>https://francozappa.github.io/talk/logitech21/talk/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/logitech21/talk/</guid>
+      <description>&lt;h2 id=&#34;talk-abstract&#34;&gt;Talk Abstract&lt;/h2&gt;
+&lt;p&gt;Bluetooth is a ubiquitous technology for low-power wireless
+communications. It is employed by billions of devices, including
+smartphones, laptops, wearables, and cars. As a technology, Bluetooth is
+specified in an open and quite complex standard. The standard defines
+two Bluetooth flavors; &lt;em&gt;Bluetooth Classic (BC)&lt;/em&gt; for high
+throughput services and &lt;em&gt;Bluetooth Low Energy (BLE)&lt;/em&gt; for low power
+ones. In addition, it specifies pairing (i.e., bootstrapping) and
+session establishment security mechanisms to protect the
+confidentiality, integrity, and authenticity of Bluetooth communication.
+One vulnerability in these mechanisms can be exploited on &lt;em&gt;all&lt;/em&gt;
+Bluetooth devices as they must be compliant with the Bluetooth standard.&lt;/p&gt;
+&lt;p&gt;This talk revisits our recent work about uncovering,
+exploiting, and fixing three critical vulnerabilities in the Bluetooth
+standard affecting BT and BLE. The vulns are KNOB (CVE-2019-9506), BIAS
+(CVE-2020-10135), and BLUR (CVE-2020-15802). KNOB affects both BT and
+BLE and enables to weaken and brute force Bluetooth&amp;rsquo;s cryptographic
+keys. BIAS affects BT and allows to bypass Bluetooth&amp;rsquo;s authentication.
+BLUR exploits the boundary between BT and BLE and results in
+cross-transport exploitation of BT and BLE. Despite our reports to the
+Bluetooth consortium (SIG), the presented vulnerabilities are either not
+patched or partially fixed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breaking and Fixing the Bluetooth Standard</title>
+      <link>https://francozappa.github.io/talk/baidu21/talk/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/baidu21/talk/</guid>
+      <description>&lt;h2 id=&#34;talk-abstract&#34;&gt;Talk Abstract&lt;/h2&gt;
+&lt;p&gt;Bluetooth is a ubiquitous technology for low-power wireless
+communications employed by billions of devices, including mobiles,
+wearables, and cars. Bluetooth is specified in a complex yet open
+standard that defines two transports: &lt;em&gt;Bluetooth Classic (BC)&lt;/em&gt; for high
+throughput services and &lt;em&gt;Bluetooth Low Energy (BLE)&lt;/em&gt; for very low power
+services. Being a pervasive technology, Bluetooth exposes a broad attack
+surface. Moreover, successful attacks on Bluetooth can achieve
+high-impact goals, such as identity thefts, privacy violations, and
+malicious device control.
+The security of Bluetooth communication heavily depends on the
+&lt;em&gt;Bluetooth standard&lt;/em&gt;, which defines &amp;ldquo;standard-compliant&amp;rdquo; security
+mechanisms to protect the confidentiality, integrity, and availability
+of Bluetooth communications.
+Those mechanisms include &lt;em&gt;pairing&lt;/em&gt; and &lt;em&gt;secure session establishment&lt;/em&gt;
+protocols used to establish keys and protect the communication.&lt;/p&gt;
+&lt;p&gt;This talk revisits our recent work about uncovering,
+exploring, and fixing three critical vulnerabilities in the Bluetooth
+standard. The vulnerabilities affect both BC and BLE, and we named them.
+KNOB (CVE-2019-9506), BIAS (CVE-2020-10135) and BLUR (CVE-2020-15802).
+As these vulnerabilities are &lt;em&gt;standard-compliant&lt;/em&gt; (i.e., exploit
+specification flaws in the Bluetooth standard), they are effective on
+any Bluetooth device regardless of its hardware and software details.
+For example, in our experiments, we successfully exploited KNOB, BIAS,
+and BLUR on a broad set of devices, including Apple, Broadcom, Cypress,
+CSR, Google, Intel, Microsoft,
+and Qualcomm. Additionally, we successfully targeted all the major
+Bluetooth versions currently in the market (e.g., 4.0, 4.1, 4.2, 5.0, 5.1,
+and 5.2).&lt;/p&gt;
+&lt;p&gt;Despite our reports to the Bluetooth consortium, the presented vulnerabilities
+are either not patched or partially fixed. Indeed, more work has to be done to
+secure the Bluetooth standard from its foundations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>EURECOM Digital Security opening for an Asst. Prof.</title>
       <link>https://francozappa.github.io/post/eurecom-hiring-prof/</link>
       <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
