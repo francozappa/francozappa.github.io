@@ -5,12 +5,97 @@
     <link>https://francozappa.github.io/tag/cfp/</link>
       <atom:link href="https://francozappa.github.io/tag/cfp/index.xml" rel="self" type="application/rss+xml" />
     <description>cfp</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Daniele Antonioli</copyright><lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>cfp</title>
       <link>https://francozappa.github.io/tag/cfp/</link>
     </image>
+    
+    <item>
+      <title>CFP Workshop on Offensive Technologies (WOOT) 2022</title>
+      <link>https://francozappa.github.io/post/cfp-woot22/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/cfp-woot22/</guid>
+      <description>&lt;p&gt;The WOOT&#39;22 CFP is open. Please submit and spread the word.&lt;/p&gt;
+&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+&lt;p&gt;URL: 
+&lt;a href=&#34;https://www.ieee-security.org/TC/SP2022/WOOT22/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ieee-security.org/TC/SP2022/WOOT22/index.html&lt;/a&gt;
+Submission: 
+&lt;a href=&#34;https://woot22.secpriv.tuwien.ac.at/woot22/paper/new&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://woot22.secpriv.tuwien.ac.at/woot22/paper/new&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;The Workshop on Offensive Technologies (WOOT) aims to present a broad picture of offense and its contributions, bringing together researchers and practitioners across all areas of computer security. Offensive security has changed from a hobby to an industry. No longer an exercise for isolated enthusiasts, offensive security is today a large-scale operation managed by organized, capitalized actors. Meanwhile, the landscape has shifted: software used by millions is built by startups less than a year old, delivered on mobile phones and surveilled by national signals intelligence agencies. In the field&amp;rsquo;s infancy, offensive security research was conducted separately by industry, independent hackers, or in academia. Collaboration between these groups was difficult. Since 2007, the Workshop on Offensive Technologies (WOOT) has been bringing those communities together.&lt;/p&gt;
+&lt;h3 id=&#34;symposium-topics&#34;&gt;Symposium Topics&lt;/h3&gt;
+&lt;p&gt;Computer security exposes the differences between the actual mechanisms of
+everyday trusted technologies and their models used by developers, architects,
+academic researchers, owners, operators, and end users. While being inherently
+focused on practice, security also poses questions such as &amp;ldquo;what kind of
+computations are and aren&amp;rsquo;t trusted systems capable of?&amp;rdquo; which harken back
+to fundamentals of computability. State-of-the-art offense explores these
+questions pragmatically, gathering material for generalizations that lead to
+better models and more trustworthy systems.&lt;/p&gt;
+&lt;p&gt;WOOT provides a forum for high-quality, peer-reviewed work discussing tools
+and techniques for attacks. Submissions should reflect the state of the art in
+offensive computer security technology, exposing poorly understood mechanisms,
+presenting novel attacks, highlighting the limitations of published attacks
+and defenses, or surveying the state of offensive operations at scale. WOOT
+&amp;lsquo;22 accepts papers in both an academic security context and more applied work
+that informs the field about the state of security practice in offensive
+techniques. The goal for these submissions is to produce published works that
+will guide future work in the field. Submissions will be peer reviewed and
+shepherded as appropriate. Submission topics include, but are not limited to,
+attacks on and offensive research into:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hardware, including software-based exploitation of hardware vulnerabilities&lt;/li&gt;
+&lt;li&gt;Virtualization and the cloud&lt;/li&gt;
+&lt;li&gt;Network and distributed systems&lt;/li&gt;
+&lt;li&gt;Operating systems&lt;/li&gt;
+&lt;li&gt;Browser and general client-side security (runtimes, JITs, sandboxing)&lt;/li&gt;
+&lt;li&gt;Application security&lt;/li&gt;
+&lt;li&gt;Analysis of mitigations and automating how they can be bypassed&lt;/li&gt;
+&lt;li&gt;Automating software testing such as fuzzing for novel targets&lt;/li&gt;
+&lt;li&gt;Internet of Things&lt;/li&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
+&lt;li&gt;Cyber-physical systems&lt;/li&gt;
+&lt;li&gt;Privacy&lt;/li&gt;
+&lt;li&gt;Cryptographic systems (practical attacks on deployed systems)&lt;/li&gt;
+&lt;li&gt;Malware design, implementation and analysis&lt;/li&gt;
+&lt;li&gt;Offensive applications of formal methods (solvers, symbolic execution)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;workshop-format&#34;&gt;Workshop Format&lt;/h3&gt;
+&lt;p&gt;The presenters will be authors of accepted papers. There will also be a keynote speaker and a selection of invited speakers. WOOT &amp;lsquo;22 will feature a Best Paper Award and a Best Student Paper Award.&lt;/p&gt;
+&lt;p&gt;Note that WOOT&#39;22 and other IEEE S&amp;amp;P workshops are planned to be held in person, see the IEEE S&amp;amp;P website for details and updates.&lt;/p&gt;
+&lt;h3 id=&#34;regular-submission&#34;&gt;Regular Submission&lt;/h3&gt;
+&lt;p&gt;WOOT &amp;lsquo;22 welcomes submissions without restrictions of origin. Submissions from academia, independent researchers, students, hackers, and industry are welcome. Are you planning to give a cool talk at Black Hat in August? Got something interesting planned for other non-academic venues later this year? This is exactly the type of work we&amp;rsquo;d like to see at WOOT &amp;lsquo;22. Please submit &amp;ndash; it will also give you a chance to have your work reviewed and to receive suggestions and comments from some of the best researchers in the world. More formal academic offensive security papers are also very welcome.&lt;/p&gt;
+&lt;h3 id=&#34;systematization-of-knowledge&#34;&gt;Systematization of Knowledge&lt;/h3&gt;
+&lt;p&gt;Continuing the tradition of past years, WOOT &amp;lsquo;22 will be accepting &amp;ldquo;Systematization of Knowledge&amp;rdquo; (SoK) papers. The goal of an SoK paper is to encourage work that evaluates, systematizes, and contextualizes existing knowledge. These papers will prove highly valuable to our community but would not be accepted as refereed papers because they lack novel research contributions. Suitable papers include survey papers that provide useful perspectives on major research areas, papers that support or challenge long-held beliefs with compelling evidence, or papers that provide an extensive and realistic evaluation of competing approaches to solving specific problems. Be sure to select &amp;ldquo;Systematization of Knowledge paper&amp;rdquo; in the submissions system to distinguish it from other paper submissions.&lt;/p&gt;
+&lt;h3 id=&#34;submission-requirements&#34;&gt;Submission Requirements&lt;/h3&gt;
+&lt;p&gt;Paper submission deadline: Thursday, January 27, 2022, 11:59 AoE (Anywhere on Earth)
+Notification date: Thursday, February 27, 2022
+Camera-ready paper deadline: Tuesday, March 8, 2022
+Workshop date: Thursday, May 26, 2022&lt;/p&gt;
+&lt;p&gt;Please submit your paper at 
+&lt;a href=&#34;https://woot22.secpriv.tuwien.ac.at/woot22/paper/new&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://woot22.secpriv.tuwien.ac.at/woot22/paper/new&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;what-to-submit&#34;&gt;What to Submit&lt;/h3&gt;
+&lt;p&gt;Submissions must be in PDF format. Papers should be succinct but thorough in presenting the work. The contribution needs to be well motivated, clearly exposed, and compared to the state of the art. Typical research papers are at least 4 pages, and maximum 10 pages long (not counting bibliography and appendix). Yet, papers whose lengths are incommensurate with their contributions will be rejected.&lt;/p&gt;
+&lt;p&gt;The submission should be formatted in 2-columns, using 10-point Times Roman type on 12-point leading, in a text block of 6.5” x 9”. Please number the pages. Authors must use the IEEE templates, for LaTeX papers this is IEEETran.cls version 1.8b.&lt;/p&gt;
+&lt;p&gt;Submissions are double blind: submissions should be anonymized and avoid obvious self-references (authors are allowed to release technical reports and present their work elsewhere such as at DefCon or BlackHat). Submit papers using the submission form.&lt;/p&gt;
+&lt;p&gt;Authors of accepted papers will have to provide a paper for the proceedings following the above guidelines. A shepherd may be assigned to ensure the quality of the proceedings version of the paper.&lt;/p&gt;
+&lt;p&gt;If your paper should not be published prior to the event, please notify the chairs. Submissions accompanied by non-disclosure agreement forms will not be considered. Accepted submissions will be treated as confidential prior to publication on the WOOT &amp;lsquo;22 website; rejected submissions will be permanently treated as confidential.&lt;/p&gt;
+&lt;h3 id=&#34;policies-and-contact-information&#34;&gt;Policies and Contact Information&lt;/h3&gt;
+&lt;p&gt;Simultaneous submission of the same work to multiple competing academic venues, submission of previously published work without substantial novel contributions, or plagiarism constitutes dishonesty or fraud may lead to instant or later rejecion.
+Note: Work presented by the authors at industry conferences, such as Black Hat, is not considered to have been &amp;ldquo;previously published&amp;rdquo; for the purposes of WOOT &amp;lsquo;22. We strongly encourage the submission of such work to WOOT &amp;lsquo;22, particularly work that is well suited to a more formal and complete treatment in a published, peer-reviewed setting. In your submission, please do note any previous presentations of the work.&lt;/p&gt;
+&lt;h3 id=&#34;vulnerability-disclosure&#34;&gt;Vulnerability Disclosure&lt;/h3&gt;
+&lt;p&gt;If the submission describes, or otherwise takes advantage of, newly identified vulnerabilities (e.g., software vulnerabilities in a given program or design weaknesses in a hardware system) the authors should disclose these vulnerabilities to the vendors/maintainers of affected software or hardware systems prior to the CFP deadline. When disclosure is necessary, authors should include a statement within their submission and/or final paper about steps taken to fulfill the goal of disclosure.&lt;/p&gt;
+&lt;h3 id=&#34;ethical-considerations&#34;&gt;Ethical Considerations&lt;/h3&gt;
+&lt;p&gt;Submissions that describe experiments on human subjects, that analyze data derived from human subjects (even anonymized data), or that otherwise may put humans at risk should:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Disclose whether the research received an approval or waiver from each of the authors’ institutional ethics review boards (e.g., an IRB).&lt;/li&gt;
+&lt;li&gt;Discuss steps taken to ensure that participants and others who might have been affected by an experiment were treated ethically and with respect.&lt;/li&gt;
+&lt;li&gt;If a paper raises significant ethical or legal concerns, including in its handling of personally identifiable information (PII) or other kinds of sensitive data, it might be rejected based on these concerns.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>CFP: ACM CPSS 2022</title>
