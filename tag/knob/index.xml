@@ -5,44 +5,39 @@
     <link>https://francozappa.github.io/tag/knob/</link>
       <atom:link href="https://francozappa.github.io/tag/knob/index.xml" rel="self" type="application/rss+xml" />
     <description>knob</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>knob</title>
       <link>https://francozappa.github.io/tag/knob/</link>
     </image>
     
     <item>
       <title>WAC3 Presentation is Online</title>
-      <link>https://francozappa.github.io/post/wac320-video/</link>
+      <link>https://francozappa.github.io/post/2020/wac320-video/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/wac320-video/</guid>
+      <guid>https://francozappa.github.io/post/2020/wac320-video/</guid>
       <description>&lt;p&gt;BIAS + KNOB attack against Bluetooth:&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;All the WAC talks are available on 
-&lt;a href=&#34;https://www.youtube.com/watch?v=XS_DZ5F-y3k&amp;amp;list=PLeeS-3Ml-rppRzqiDB7l-TIyE-YSqXGR3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;All the WAC talks are available on &lt;a href=&#34;https://www.youtube.com/watch?v=XS_DZ5F-y3k&amp;amp;list=PLeeS-3Ml-rppRzqiDB7l-TIyE-YSqXGR3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>WAC3 Talk About KNOB and BIAS Attacks</title>
-      <link>https://francozappa.github.io/post/wac320-talk/</link>
+      <link>https://francozappa.github.io/post/2020/wac320-talk/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/wac320-talk/</guid>
+      <guid>https://francozappa.github.io/post/2020/wac320-talk/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m glad to give a talk about the
-
 &lt;a href=&#34;https://francozappa.github.io/project/knob/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB&lt;/a&gt; and
-
 &lt;a href=&#34;https://francozappa.github.io/project/bias/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIAS&lt;/a&gt; attacks
 on Bluetooth at the third
-
 &lt;a href=&#34;https://crypto.iacr.org/2020/wac.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop on Attacks in Cryptography (WAC)&lt;/a&gt;
 co-located with&lt;br&gt;
-
 &lt;a href=&#34;https://crypto.iacr.org/2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRYPTO 2020&lt;/a&gt;.
 The Workshop will be held
 online on Zoom the 16th of August 2020, and my talk will
@@ -94,10 +89,8 @@ ACM TOPS 2020.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Please join the virtual WAC, and
 thanks
-
 &lt;a href=&#34;https://eyalro.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eyal Ronen&lt;/a&gt;
 and
-
 &lt;a href=&#34;https://www.mathyvanhoef.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathy Vanhoef&lt;/a&gt;
 for organizing it and for the invitation!&lt;/p&gt;
 </description>
@@ -105,11 +98,10 @@ for organizing it and for the invitation!&lt;/p&gt;
     
     <item>
       <title>Slides and video from our hardwear.io 2020 talk</title>
-      <link>https://francozappa.github.io/post/knob-hw20-material/</link>
+      <link>https://francozappa.github.io/post/2020/knob-hw20-material/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-hw20-material/</guid>
-      <description>&lt;p&gt;Here are the 
-&lt;a href=&#34;https://francozappa.github.io/talk/hwio20/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;
+      <guid>https://francozappa.github.io/post/2020/knob-hw20-material/</guid>
+      <description>&lt;p&gt;Here are the &lt;a href=&#34;https://francozappa.github.io/talk/hwio20/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;
 and the recording of our hardwear.io talk titled &lt;em&gt;From Bluetooth Standard to
 Standard-Compliant 0-days&lt;/em&gt;:&lt;/p&gt;
 
@@ -122,16 +114,13 @@ Standard-Compliant 0-days&lt;/em&gt;:&lt;/p&gt;
     
     <item>
       <title>Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy</title>
-      <link>https://francozappa.github.io/post/knob-tops/</link>
+      <link>https://francozappa.github.io/post/2020/knob-tops/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-tops/</guid>
+      <guid>https://francozappa.github.io/post/2020/knob-tops/</guid>
       <description>&lt;p&gt;Our new paper
-
 &lt;a href=&#34;https://francozappa.github.io/publication/knob-ble/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy&lt;/a&gt;
-will appear in the 
-&lt;a href=&#34;https://dl.acm.org/journal/tops&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Transactions on Privacy and Security&lt;/a&gt;.&lt;/p&gt;
+will appear in the &lt;a href=&#34;https://dl.acm.org/journal/tops&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Transactions on Privacy and Security&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Our paper extends our previous work on the
-
 &lt;a href=&#34;https://knobattack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB attack on Bluetooth BR/EDR&lt;/a&gt;
 to Bluetooth Low Energy (BLE), presents an updated evaluation of the KNOB attack for
 Bluetooth BR/EDR and discusses some of the countermeasures put in place by
@@ -142,18 +131,14 @@ the amendment of the Bluetooth standard.&lt;/p&gt;
     
     <item>
       <title>KNOB Attacks Talk at Hardwear.io 2020</title>
-      <link>https://francozappa.github.io/post/knob-hw20/</link>
+      <link>https://francozappa.github.io/post/2020/knob-hw20/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-hw20/</guid>
+      <guid>https://francozappa.github.io/post/2020/knob-hw20/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m glad to give a talk titled
-
 &lt;a href=&#34;https://hardwear.io/virtual-con-2020/speakers/from-the-bluetooth-standard-to-standard-compliant-0-days.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;From the Bluetooth Standard to Standard Compliant 0-days&lt;/a&gt;
-together with 
-&lt;a href=&#34;https://nebelwelt.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathias Payer&lt;/a&gt; at the virtual edition of
-
+together with &lt;a href=&#34;https://nebelwelt.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathias Payer&lt;/a&gt; at the virtual edition of
 &lt;a href=&#34;https://hardwear.io/virtual-con-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hardwear.io 2020&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Our talk covers, among others, the technical details behind the
-
 &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Key Negotiation Of Bluetooth (KNOB) attack on Bluetooth BR/EDR&lt;/a&gt;,
 its extension to BLE, and the countermeasures adopted by vendors, such as Google and Apple, to
 mitigate the KNOB attacks.&lt;/p&gt;
@@ -163,44 +148,36 @@ mitigate the KNOB attacks.&lt;/p&gt;
     
     <item>
       <title>InspiredResearch Newsletter University of Oxford</title>
-      <link>https://francozappa.github.io/post/knob-ir/</link>
+      <link>https://francozappa.github.io/post/2020/knob-ir/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-ir/</guid>
+      <guid>https://francozappa.github.io/post/2020/knob-ir/</guid>
       <description>&lt;p&gt;The
-
 &lt;a href=&#34;https://www.cs.ox.ac.uk/innovation/inspiredresearch/InspiredResearch-winter2019.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In&lt;em&gt;spired&lt;/em&gt;Research (Winter 2019 Issue 15)&lt;/a&gt;
 twice-yearly newsletter from the Computer Science Department of the University of
 Oxford features a nice article about the KNOB attack by
-
 &lt;a href=&#34;https://www.cs.ox.ac.uk/people/kasper.rasmussen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Kasper Rasmussen&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Security Engineering Third Edition (SEv3)</title>
-      <link>https://francozappa.github.io/post/knob-sev3/</link>
+      <link>https://francozappa.github.io/post/2019/knob-sev3/</link>
       <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-sev3/</guid>
+      <guid>https://francozappa.github.io/post/2019/knob-sev3/</guid>
       <description>&lt;p&gt;Recently, I&amp;rsquo;ve stumbled upon the webpage about
-
 &lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/book.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Security Engineering &amp;ndash; Third Edition (SEv3)&lt;/a&gt;
-by 
-&lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ross Anderson&lt;/a&gt;.
+by &lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ross Anderson&lt;/a&gt;.
 I&amp;rsquo;m particularly attached to this book,
 as it is the &lt;em&gt;first&lt;/em&gt; book about information security that I bought
 (I bought SEv2 in 2012), and it was very helpful to introduce
 me to security engineering (coming from an EE background) and to tackle my
-
 &lt;a href=&#34;https://francozappa.github.io/publication/master-thesis/thesis.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;master thesis about Random Number Generators&lt;/a&gt;.
 Actually, I have to thank
-
 &lt;a href=&#34;https://ece.umass.edu/faculty/wayne-burleson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Wayne Burleson&lt;/a&gt;
 for the book recommendation!&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m very proud that the
-
 &lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch5-oct12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cryptography Chapter of SEv3&lt;/a&gt;
 (so far 😄) includes a discussion about the
-
 &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB attack&lt;/a&gt; in the subsection about
 Diffie-Hellman key establishment (5.7.2.2). I look forward to read SEv3
 once is ready!&lt;/p&gt;
@@ -209,14 +186,13 @@ once is ready!&lt;/p&gt;
     
     <item>
       <title>KNOB Attack References and Advisories</title>
-      <link>https://francozappa.github.io/post/knob-references/</link>
+      <link>https://francozappa.github.io/post/2019/knob-references/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-references/</guid>
+      <guid>https://francozappa.github.io/post/2019/knob-references/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve collected a list of references and advisories about the KNOB attack from
 several hardware and software providers and organizations. You can find it in
 the last paragraph of
-the 
-&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Are my Devices Vulnerable?&amp;rdquo; section of knobattack.com&lt;/a&gt;.&lt;/p&gt;
+the &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Are my Devices Vulnerable?&amp;rdquo; section of knobattack.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Please let me know if any link in the list is wrong and/or broken, and if you
 find other relevant links!&lt;/p&gt;
 </description>
@@ -224,9 +200,9 @@ find other relevant links!&lt;/p&gt;
     
     <item>
       <title>Video of my KNOB Attack Presentation at USENIX Security 2019</title>
-      <link>https://francozappa.github.io/post/knob-usec-video/</link>
+      <link>https://francozappa.github.io/post/2019/knob-sec-video/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-usec-video/</guid>
+      <guid>https://francozappa.github.io/post/2019/knob-sec-video/</guid>
       <description>&lt;p&gt;Title of the paper:
 &lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
 in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;:&lt;/p&gt;
@@ -235,85 +211,43 @@ in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;:&lt;/p&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/v9Xg9XcnNh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;More info at 
-&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More info at &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>KNOB Attack Interview with Dave Bittner (CyberWire)</title>
-      <link>https://francozappa.github.io/post/knob-cyberwire/</link>
+      <link>https://francozappa.github.io/post/2019/knob-cyberwire/</link>
       <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-cyberwire/</guid>
+      <guid>https://francozappa.github.io/post/2019/knob-cyberwire/</guid>
       <description>&lt;p&gt;Today CyberWire aired my
-
 &lt;a href=&#34;https://thecyberwire.com/podcasts/cw-podcasts-rs-2019-09-14.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;interview&lt;/a&gt;
 about the
-
 &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB attack&lt;/a&gt;
-with 
-&lt;a href=&#34;https://twitter.com/bittner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dave Bittner&lt;/a&gt;.&lt;/p&gt;
+with &lt;a href=&#34;https://twitter.com/bittner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dave Bittner&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>KNOB Attack Add Slave Patch for poc-internalblue</title>
-      <link>https://francozappa.github.io/post/knob-repo3/</link>
+      <link>https://francozappa.github.io/post/2019/knob-repo3/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-repo3/</guid>
+      <guid>https://francozappa.github.io/post/2019/knob-repo3/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve pushed the
-
 &lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;
 to perform the KNOB attack also when the Nexus 5 is the Bluetooth slave
 responding to the first LMP packet. To switch between different attack modes
 have a look at the updated
-
 &lt;a href=&#34;https://github.com/francozappa/knob/blob/master/poc-internalblue/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;README&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;For more information visit 
-&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>KNOB Attacks</title>
-      <link>https://francozappa.github.io/project/knob/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/project/knob/</guid>
-      <description>&lt;h2 id=&#34;knob-attack-on-bluetooth-classic-bredr&#34;&gt;KNOB Attack on Bluetooth Classic (BR/EDR)&lt;/h2&gt;
-&lt;p&gt;The Key Negotiation Of Bluetooth (KNOB) attack on
-Bluetooth Classic (BR/EDR) is presented in our paper titled
-
-&lt;a href=&#34;https://www.usenix.org/system/files/sec19-antonioli.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation of Bluetooth BR/EDR&lt;/a&gt;.
-The KNOB attack is listed as
-
-&lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2019-9506&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2019-9506&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The KNOB attack exploits
-the fact that the specification of Bluetooth includes an encryption key negotiation protocol
-that allows to negotiate encryption keys with entropy as low as 1 Byte, without
-protecting the integrity of the negotiation process. A remote attacker can
-manipulate the entropy negotiation to let any standard compliant Bluetooth
-device negotiate encryption keys with 1 byte of entropy, and then brute force
-the low entropy keys in real time.&lt;/p&gt;
-&lt;p&gt;Below my paper presentation at USENIX Security 2019:&lt;/p&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/v9Xg9XcnNh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;knob-attack-on-bluetooth-low-energy-ble&#34;&gt;KNOB Attack on Bluetooth Low Energy (BLE)&lt;/h2&gt;
-&lt;p&gt;The Key Negotiation Of Bluetooth (KNOB) attack on
-Bluetooth Low Energy (BLE) is presented in our paper titled
-
-&lt;a href=&#34;https://francozappa.github.io/publication/knob-ble/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low
-Energy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more information visit &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>KNOB Attack FAQ</title>
-      <link>https://francozappa.github.io/post/knob-faq/</link>
+      <link>https://francozappa.github.io/post/2019/knob-faq/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-faq/</guid>
+      <guid>https://francozappa.github.io/post/2019/knob-faq/</guid>
       <description>&lt;p&gt;In this post I&amp;rsquo;m trying to address some discussion points and
 misconceptions about the KNOB attack.&lt;/p&gt;
 &lt;h2 id=&#34;attribution&#34;&gt;Attribution&lt;/h2&gt;
@@ -323,8 +257,7 @@ misconceptions about the KNOB attack.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Partially true&lt;/strong&gt;. The KNOB attack was discovered by myself (Daniele Antonioli) from SUTD,
 Nils Ole Tippenhauer from CISPA, and Kasper Rasmussen from the University of Oxford.
 In particular, I&amp;rsquo;ve identified the vulnerability back in &lt;em&gt;May 2018&lt;/em&gt; while I was
-working with Kasper on 
-&lt;a href=&#34;https://francozappa.github.io/publication/rearby/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearby Connections&lt;/a&gt;
+working with Kasper on &lt;a href=&#34;https://francozappa.github.io/publication/rearby/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearby Connections&lt;/a&gt;
 at the University of Oxford, and I wrote
 the first exploit in &lt;em&gt;October 2018&lt;/em&gt; while I was visiting Nils (my former
 advisor at SUTD) at CISPA. I&amp;rsquo;d like to thank the researchers from CISPA
@@ -335,7 +268,6 @@ who kindly lent me their Bluetooth devices.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. The KNOB attack targets the connection phase and can be conducted
 between two devices are already paired. See also
-
 &lt;a href=&#34;https://francozappa.github.io/publication/knob/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide 6&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The KNOB attack can only be used to spy Bluetooth communications&lt;/p&gt;
@@ -360,7 +292,6 @@ all standard compliant devices are potentially vulnerable.
 Back in 2018 we performed the KNOB attack on more than 20 Bluetooth devices,
 and all of them were vulnerable. You can test if your device is vulnerable by
 using our
-
 &lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PoC&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The attacker has to be &amp;ldquo;local&amp;rdquo; or in a &amp;ldquo;privileged&amp;rdquo; position&lt;/p&gt;
@@ -372,25 +303,19 @@ position.&lt;/p&gt;
 &lt;p&gt;Internalblue enabled the discovery of the KNOB attack&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. I&amp;rsquo;ve discovered the vulnerability while I was analyzing
-
 &lt;a href=&#34;https://francozappa.github.io/publication/rearby/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearby Connections&lt;/a&gt;
 and reading the Bluetooth specification in May 2018. Then, while I was looking
 at devices with an open source Bluetooth firmware,
 I&amp;rsquo;ve stumbled upon the Internalblue v0.1. To implement the attack  I had
 to
-
 &lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;extend Internalblue&lt;/a&gt;
 to support LMP packet injection, and develop some
-
 &lt;a href=&#34;https://github.com/francozappa/knob/tree/master/e0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;extra code for E0&lt;/a&gt;.
 Nevertheless,
-
 &lt;a href=&#34;https://github.com/seemoo-lab/internalblue&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Internalblue&lt;/a&gt;
 is an awesome project, I recommend it, and I thank
-
 &lt;a href=&#34;http://tech.mantz-it.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dennis&lt;/a&gt;
 and
-
 &lt;a href=&#34;http://nerdine.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiska&lt;/a&gt;
 for releasing it to the public.&lt;/p&gt;
 &lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
@@ -402,7 +327,6 @@ the same effects of a remote KNOB attack conducted over the air. This is nice
 because we have a reliable and cheap attack setup that can be reproduced
 without the need of signal manipulation and jamming techniques, and SDR.
 If you want to reproduce the attack look at our
-
 &lt;a href=&#34;https://github.com/francozappa/knob&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repo&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The researchers implemented only the firmware attack&lt;/p&gt;
@@ -417,18 +341,15 @@ attack over the air.&lt;/p&gt;
     
     <item>
       <title>KNOB Attack Code for E0 and Slides from SEC19 are Online</title>
-      <link>https://francozappa.github.io/post/knob-repo2/</link>
+      <link>https://francozappa.github.io/post/2019/knob-repo2/</link>
       <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-repo2/</guid>
+      <guid>https://francozappa.github.io/post/2019/knob-repo2/</guid>
       <description>&lt;p&gt;The
-
 &lt;a href=&#34;https://github.com/francozappa/knob/tree/master/e0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;
 that we developed to validate and brute force
-
 &lt;a href=&#34;https://en.wikipedia.org/wiki/E0_%28cipher%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E0&lt;/a&gt;
 encryption keys is online.&lt;/p&gt;
 &lt;p&gt;The
-
 &lt;a href=&#34;https://francozappa.github.io/publication/knob/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;
 of my KNOB attack SEC19 talk are also online.
 As we can see from the slides, the KNOB attack is &lt;em&gt;not&lt;/em&gt;
@@ -438,35 +359,30 @@ Bluetooth (BR/EDR) is a technology with a &lt;em&gt;pair-once&lt;/em&gt;
 &lt;em&gt;connect-multiple-times&lt;/em&gt; paradigm. For example, you pair your smartphone
 with your car once, and then every day you connect the two and the devices
 negotiate a new (fresh) encryption key.&lt;/p&gt;
-&lt;p&gt;For more information visit 
-&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For more information visit &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>KNOB Attack Repository is Online</title>
-      <link>https://francozappa.github.io/post/knob-repo/</link>
+      <link>https://francozappa.github.io/post/2019/knob-repo/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-repo/</guid>
-      <description>&lt;p&gt;Our 
-&lt;a href=&#34;https://github.com/francozappa/knob&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB repository&lt;/a&gt;
+      <guid>https://francozappa.github.io/post/2019/knob-repo/</guid>
+      <description>&lt;p&gt;Our &lt;a href=&#34;https://github.com/francozappa/knob&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB repository&lt;/a&gt;
 is online, and it includes our
-
 &lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PoC&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;For more information visit 
-&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For more information visit &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Key Negotiation Of Bluetooth (KNOB) Attack</title>
-      <link>https://francozappa.github.io/post/knob-announce/</link>
+      <link>https://francozappa.github.io/post/2019/knob-announce/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-announce/</guid>
+      <guid>https://francozappa.github.io/post/2019/knob-announce/</guid>
       <description>&lt;p&gt;The embargo is over! The information about &lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
 in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;, including our research
 paper, CVE details, and media coverage, are publicly available at
-
 &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

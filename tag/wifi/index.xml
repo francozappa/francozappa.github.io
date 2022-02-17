@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wifi | Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tag/wifi/</link>
+      <atom:link href="https://francozappa.github.io/tag/wifi/index.xml" rel="self" type="application/rss+xml" />
+    <description>wifi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Sat, 02 Feb 2019 17:46:49 +0800</lastBuildDate>
+    <image>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <title>wifi</title>
+      <link>https://francozappa.github.io/tag/wifi/</link>
+    </image>
+    
+    <item>
+      <title>Reversing and Attacking Google Nearby</title>
+      <link>https://francozappa.github.io/project/rearby/</link>
+      <pubDate>Sat, 02 Feb 2019 17:46:49 +0800</pubDate>
+      <guid>https://francozappa.github.io/project/rearby/</guid>
+      <description>&lt;p&gt;In 2019 in a paper titled
+&lt;a href=&#34;https://francozappa.github.io/publication/rearby/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby
+Connections’ on Android&lt;/a&gt;
+we uncovered issues on Nearby Connections, an proprietary Google API
+included in all Android devices. The API is used to provide proximity-based
+services using a combination of Bluetooth and Wi-Fi wireless technologies.&lt;/p&gt;
+&lt;p&gt;We developed an open-sourced &lt;a href=&#34;https://github.com/francozappa/REarby&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;REarby&lt;/a&gt;,
+a toolkit to automate reverse engineering and attacking Nearby Connections.&lt;/p&gt;
+&lt;h2 id=&#34;ndss-2019-paper-presentation&#34;&gt;NDSS 2019 Paper Presentation&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/h5geJLoQIsU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

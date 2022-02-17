@@ -5,44 +5,39 @@
     <link>https://francozappa.github.io/tag/bias/</link>
       <atom:link href="https://francozappa.github.io/tag/bias/index.xml" rel="self" type="application/rss+xml" />
     <description>bias</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>bias</title>
       <link>https://francozappa.github.io/tag/bias/</link>
     </image>
     
     <item>
       <title>WAC3 Presentation is Online</title>
-      <link>https://francozappa.github.io/post/wac320-video/</link>
+      <link>https://francozappa.github.io/post/2020/wac320-video/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/wac320-video/</guid>
+      <guid>https://francozappa.github.io/post/2020/wac320-video/</guid>
       <description>&lt;p&gt;BIAS + KNOB attack against Bluetooth:&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;All the WAC talks are available on 
-&lt;a href=&#34;https://www.youtube.com/watch?v=XS_DZ5F-y3k&amp;amp;list=PLeeS-3Ml-rppRzqiDB7l-TIyE-YSqXGR3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;All the WAC talks are available on &lt;a href=&#34;https://www.youtube.com/watch?v=XS_DZ5F-y3k&amp;amp;list=PLeeS-3Ml-rppRzqiDB7l-TIyE-YSqXGR3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>WAC3 Talk About KNOB and BIAS Attacks</title>
-      <link>https://francozappa.github.io/post/wac320-talk/</link>
+      <link>https://francozappa.github.io/post/2020/wac320-talk/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/wac320-talk/</guid>
+      <guid>https://francozappa.github.io/post/2020/wac320-talk/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m glad to give a talk about the
-
 &lt;a href=&#34;https://francozappa.github.io/project/knob/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB&lt;/a&gt; and
-
 &lt;a href=&#34;https://francozappa.github.io/project/bias/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIAS&lt;/a&gt; attacks
 on Bluetooth at the third
-
 &lt;a href=&#34;https://crypto.iacr.org/2020/wac.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop on Attacks in Cryptography (WAC)&lt;/a&gt;
 co-located with&lt;br&gt;
-
 &lt;a href=&#34;https://crypto.iacr.org/2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRYPTO 2020&lt;/a&gt;.
 The Workshop will be held
 online on Zoom the 16th of August 2020, and my talk will
@@ -94,63 +89,28 @@ ACM TOPS 2020.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Please join the virtual WAC, and
 thanks
-
 &lt;a href=&#34;https://eyalro.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eyal Ronen&lt;/a&gt;
 and
-
 &lt;a href=&#34;https://www.mathyvanhoef.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathy Vanhoef&lt;/a&gt;
 for organizing it and for the invitation!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>BIAS Attacks</title>
-      <link>https://francozappa.github.io/project/bias/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/project/bias/</guid>
-      <description>&lt;p&gt;The 
-&lt;a href=&#34;https://francozappa.github.io/about-bias/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bluetooth Impersonation AttackS
-(BIAS)&lt;/a&gt; exploits standard-compliant
-vulnerabilities in the Bluetooth authentication procedures. The attacks allow
-an attacker to impersonate any Bluetooth master and slave device during secure
-session establishment without knowing the long term pairing key. The attacks
-work regardless of the Bluetooth security mode (legacy and secure
-authentication procedures), and hardware and software implementation details.
-The BIAS attack is listed as 
-&lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2020-10135&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2019-9506&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;teaser&#34;&gt;Teaser&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/fASGU7Og5_4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;presentation-at-ieee-sp-2020&#34;&gt;Presentation at IEEE S&amp;amp;P 2020&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/bVbBDnruv7M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
       <title>Bluetooth Impersonation AttackS (BIAS) at IEEE S&amp;P 2020</title>
-      <link>https://francozappa.github.io/post/bias-announce/</link>
+      <link>https://francozappa.github.io/post/2020/bias-announce/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/bias-announce/</guid>
+      <guid>https://francozappa.github.io/post/2020/bias-announce/</guid>
       <description>&lt;p&gt;Our paper
-
 &lt;a href=&#34;https://francozappa.github.io/publication/bias/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bluetooth Impersonation AttackS (BIAS)&lt;/a&gt;
 will be presented at the
-
 &lt;a href=&#34;https://www.ieee-security.org/TC/SP2020//index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Symposium on Security and Privacy (IEEE S&amp;amp;P) 2020&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/fASGU7Og5_4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;More information are available in the 
-&lt;a href=&#34;https://francozappa.github.io/about-bias&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIAS website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More information are available in the &lt;a href=&#34;https://francozappa.github.io/about-bias&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIAS website&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The BIAS code will be also uploaded soon! Stay tuned and unbiased 😄&lt;/p&gt;
 </description>
     </item>

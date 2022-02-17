@@ -5,129 +5,135 @@
     <link>https://francozappa.github.io/tag/protocol/</link>
       <atom:link href="https://francozappa.github.io/tag/protocol/index.xml" rel="self" type="application/rss+xml" />
     <description>protocol</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>protocol</title>
       <link>https://francozappa.github.io/tag/protocol/</link>
     </image>
     
     <item>
-      <title>DP3T for COVID-19</title>
-      <link>https://francozappa.github.io/project/dp3t/</link>
+      <title>DP3T/GAEN for COVID-19</title>
+      <link>https://francozappa.github.io/project/gaen/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/project/dp3t/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;The Decentralized Privacy-Preserving Proximity Tracing (DP3T) is a system
+      <guid>https://francozappa.github.io/project/gaen/</guid>
+      <description>&lt;p&gt;The
+&lt;a href=&#34;https://francozappa.github.io/publication/dp3t-preprint/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decentralized Privacy-Preserving Proximity Tracing
+(DP3T)&lt;/a&gt;
+is a system that we developed
 for secure and privacy-preserving proximity tracing at large scale. DP3T
 provides a technological foundation to help slow the spread of SARS-CoV-2 by
 simplifying and accelerating the process of notifying people who might have
 been exposed to the virus so that they can take appropriate measures to break
-its transmission chain.&lt;/p&gt;
-&lt;p&gt;The system aims to minimise privacy and security risks for individuals and
-communities and guarantee the highest level of data protection. The goal of
-our proximity tracing system is to determine who has been in close physical
-proximity to a COVID-19 positive person and thus exposed to the virus,
-without revealing the contact’s identity or where the contact occurred. To
-achieve this goal, users run a smartphone app that continually broadcasts an
-ephemeral, pseudo-random ID representing the user’s phone and also records the
-pseudo-random IDs observed from smartphones in close proximity.&lt;/p&gt;
-&lt;p&gt;When a patient is diagnosed with COVID-19, she can upload pseudo-random IDs
-previously broadcast from her phone to a central server. Prior to the upload,
-all data remains exclusively on the user’s phone. Other users’ apps can use
-data from the server to locally estimate whether the device’s owner was
-exposed to the virus through close-range physical proximity to a COVID-19
-positive person who has uploaded their data. In case the app detects a high
-risk, it will inform the user.&lt;/p&gt;
-&lt;p&gt;You can find more information about DP3T following the links posted below.&lt;/p&gt;
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://github.com/DP-3T/documents/blob/master/DP3T%20White%20Paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Whitepaper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://github.com/DP-3T/documents&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documents&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://github.com/DP-3T&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repos&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!--- * [Wikipedia](https://en.wikipedia.org/wiki/Decentralized_Privacy-Preserving_Proximity_Tracing) --&gt;
+its transmission chain. DP3T is open-source and its
+&lt;a href=&#34;https://github.com/DP-3T&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repos&lt;/a&gt; and
+&lt;a href=&#34;https://github.com/DP-3T/documents&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documents&lt;/a&gt;
+are on GitHub.&lt;/p&gt;
+&lt;p&gt;We also published a work titled
+&lt;a href=&#34;https://www.medrxiv.org/content/medrxiv/early/2020/09/19/2020.09.07.20189274.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Early Evidence of Effectiveness of Digital Contact Tracing for SARS-CoV-2 in
+Switzerland&lt;/a&gt; to show early findings about the effectiveness of digital contact tracing in Switzerland.&lt;/p&gt;
+&lt;p&gt;Google and Apple developed the
+&lt;a href=&#34;https://blog.google/inside-google/company-announcements/apple-google-exposure-notification-api-launches/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GAEN (Google/Apple Exposure
+Notifications)&lt;/a&gt;
+framework based on DP3T.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>BIAS Attacks</title>
+      <title>Bluetooth BIAS Attacks</title>
       <link>https://francozappa.github.io/project/bias/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/project/bias/</guid>
-      <description>&lt;p&gt;The 
-&lt;a href=&#34;https://francozappa.github.io/about-bias/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bluetooth Impersonation AttackS
-(BIAS)&lt;/a&gt; exploits standard-compliant
-vulnerabilities in the Bluetooth authentication procedures. The attacks allow
-an attacker to impersonate any Bluetooth master and slave device during secure
-session establishment without knowing the long term pairing key. The attacks
-work regardless of the Bluetooth security mode (legacy and secure
-authentication procedures), and hardware and software implementation details.
-The BIAS attack is listed as 
-&lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2020-10135&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2019-9506&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;teaser&#34;&gt;Teaser&lt;/h2&gt;
+      <description>&lt;p&gt;In 2020 we disclosed the &lt;a href=&#34;https://francozappa.github.io/about-bias/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bluetooth Impersonation AttackS
+(BIAS)&lt;/a&gt;,
+a family of high impact attacks affecting Bluetooth&amp;rsquo;s
+authentication protocols. The attacks allow
+impersonating any Bluetooth device during secure
+session establishment without knowing the long term pairing key.
+The BIAS attacks are tracked with &lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2020-10135&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2019-9506&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ieee-sp-oakland-2020-paper-teaser&#34;&gt;IEEE S&amp;amp;P (Oakland) 2020 Paper Teaser&lt;/h2&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/fASGU7Og5_4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&#34;presentation-at-ieee-sp-2020&#34;&gt;Presentation at IEEE S&amp;amp;P 2020&lt;/h2&gt;
+&lt;h2 id=&#34;ieee-sp-oakland-2020-paper-presentation&#34;&gt;IEEE S&amp;amp;P (Oakland) 2020 Paper Presentation&lt;/h2&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/bVbBDnruv7M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+&lt;h2 id=&#34;bias--knob-attack-against-bluetooth-iacr-attacks-in-crypto&#34;&gt;BIAS + KNOB attack against Bluetooth IACR Attacks in Crypto&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;from-bluetooth-standard-to-standard-compliant-0-days-hardweario&#34;&gt;From Bluetooth Standard to Standard Compliant 0-days Hardwear.io&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ZVSbF11uxuk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
     <item>
-      <title>KNOB Attacks</title>
+      <title>Bluetooth KNOB Attacks</title>
       <link>https://francozappa.github.io/project/knob/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/project/knob/</guid>
-      <description>&lt;h2 id=&#34;knob-attack-on-bluetooth-classic-bredr&#34;&gt;KNOB Attack on Bluetooth Classic (BR/EDR)&lt;/h2&gt;
-&lt;p&gt;The Key Negotiation Of Bluetooth (KNOB) attack on
-Bluetooth Classic (BR/EDR) is presented in our paper titled
-
-&lt;a href=&#34;https://www.usenix.org/system/files/sec19-antonioli.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation of Bluetooth BR/EDR&lt;/a&gt;.
-The KNOB attack is listed as
-
-&lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2019-9506&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2019-9506&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The KNOB attack exploits
-the fact that the specification of Bluetooth includes an encryption key negotiation protocol
-that allows to negotiate encryption keys with entropy as low as 1 Byte, without
-protecting the integrity of the negotiation process. A remote attacker can
-manipulate the entropy negotiation to let any standard compliant Bluetooth
-device negotiate encryption keys with 1 byte of entropy, and then brute force
-the low entropy keys in real time.&lt;/p&gt;
-&lt;p&gt;Below my paper presentation at USENIX Security 2019:&lt;/p&gt;
+      <description>&lt;p&gt;In 2019 we disclosed two families of high impact attacks affecting the entropy
+negotiation protocols of Bluetooth Classic (BC) and Bluetooth Low Energy
+(BLE). We named the attacks Key Negotiation of Bluetooth (KNOB) attacks. They
+are tracked as &lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2019-9506&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2019-9506&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our first work titled &lt;a href=&#34;https://www.usenix.org/system/files/sec19-antonioli.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation of Bluetooth BR/EDR&lt;/a&gt; explains how to exploit BC&amp;rsquo;s entropy negotiation to downgrade the entropy of a Bluetooth security key to 1 byte and then brute-force it.&lt;/p&gt;
+&lt;p&gt;In a follow-up work  titled
+&lt;a href=&#34;https://francozappa.github.io/publication/knob-ble/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy&lt;/a&gt;
+we analyzed also BLE and found that it is vulnerable as
+well to the KNOB attacks. In this case the attacker can downgrade the entropy
+of BLE security key to 7 bytes and then brute-force it.&lt;/p&gt;
+&lt;h2 id=&#34;usenix-security-2019-paper-presentation&#34;&gt;USENIX Security 2019 Paper Presentation&lt;/h2&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/v9Xg9XcnNh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&#34;knob-attack-on-bluetooth-low-energy-ble&#34;&gt;KNOB Attack on Bluetooth Low Energy (BLE)&lt;/h2&gt;
-&lt;p&gt;The Key Negotiation Of Bluetooth (KNOB) attack on
-Bluetooth Low Energy (BLE) is presented in our paper titled
+&lt;h2 id=&#34;bluetooth-blues-knob-attack-explained--research-saturday&#34;&gt;Bluetooth blues: KNOB attack explained. — Research Saturday&lt;/h2&gt;
 
-&lt;a href=&#34;https://francozappa.github.io/publication/knob-ble/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low
-Energy&lt;/a&gt;.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/_XvjXZCc1DU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;bias--knob-attack-against-bluetooth-iacr-attacks-in-crypto&#34;&gt;BIAS + KNOB attack against Bluetooth IACR Attacks in Crypto&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;from-bluetooth-standard-to-standard-compliant-0-days-hardweario&#34;&gt;From Bluetooth Standard to Standard Compliant 0-days Hardwear.io&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ZVSbF11uxuk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
     <item>
-      <title>REarby</title>
+      <title>Reversing and Attacking Google Nearby</title>
       <link>https://francozappa.github.io/project/rearby/</link>
       <pubDate>Sat, 02 Feb 2019 17:46:49 +0800</pubDate>
       <guid>https://francozappa.github.io/project/rearby/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;https://github.com/francozappa/REarby&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;REarby&lt;/a&gt; is a toolkit that I developed to reverse engineer and attack
-
-&lt;a href=&#34;https://developers.google.com/nearby/connections/overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google&amp;rsquo;s Nearby Connections&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;presentation-at-ndss-2019&#34;&gt;Presentation at NDSS 2019&lt;/h2&gt;
+      <description>&lt;p&gt;In 2019 in a paper titled
+&lt;a href=&#34;https://francozappa.github.io/publication/rearby/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby
+Connections’ on Android&lt;/a&gt;
+we uncovered issues on Nearby Connections, an proprietary Google API
+included in all Android devices. The API is used to provide proximity-based
+services using a combination of Bluetooth and Wi-Fi wireless technologies.&lt;/p&gt;
+&lt;p&gt;We developed an open-sourced &lt;a href=&#34;https://github.com/francozappa/REarby&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;REarby&lt;/a&gt;,
+a toolkit to automate reverse engineering and attacking Nearby Connections.&lt;/p&gt;
+&lt;h2 id=&#34;ndss-2019-paper-presentation&#34;&gt;NDSS 2019 Paper Presentation&lt;/h2&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/h5geJLoQIsU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;

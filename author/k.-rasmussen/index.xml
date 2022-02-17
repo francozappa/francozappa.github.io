@@ -5,50 +5,50 @@
     <link>https://francozappa.github.io/author/k.-rasmussen/</link>
       <atom:link href="https://francozappa.github.io/author/k.-rasmussen/index.xml" rel="self" type="application/rss+xml" />
     <description>K. Rasmussen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>K. Rasmussen</title>
       <link>https://francozappa.github.io/author/k.-rasmussen/</link>
     </image>
     
     <item>
       <title>BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy</title>
-      <link>https://francozappa.github.io/publication/blur-preprint/</link>
+      <link>https://francozappa.github.io/publication/2020/blur-preprint/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/blur-preprint/</guid>
+      <guid>https://francozappa.github.io/publication/2020/blur-preprint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy</title>
-      <link>https://francozappa.github.io/publication/knob-ble/</link>
+      <link>https://francozappa.github.io/publication/2020/knob-ble/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/knob-ble/</guid>
+      <guid>https://francozappa.github.io/publication/2020/knob-ble/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BIAS: Bluetooth Impersonation AttackS</title>
-      <link>https://francozappa.github.io/publication/bias/</link>
+      <link>https://francozappa.github.io/publication/2020/bias/</link>
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/bias/</guid>
+      <guid>https://francozappa.github.io/publication/2020/bias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation of Bluetooth BR/EDR</title>
-      <link>https://francozappa.github.io/publication/knob/</link>
+      <link>https://francozappa.github.io/publication/2019/knob/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/knob/</guid>
+      <guid>https://francozappa.github.io/publication/2019/knob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby Connections’ on Android</title>
-      <link>https://francozappa.github.io/publication/rearby/</link>
+      <link>https://francozappa.github.io/publication/2019/rearby/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/rearby/</guid>
+      <guid>https://francozappa.github.io/publication/2019/rearby/</guid>
       <description></description>
     </item>
     

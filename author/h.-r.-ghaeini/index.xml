@@ -5,26 +5,26 @@
     <link>https://francozappa.github.io/author/h.-r.-ghaeini/</link>
       <atom:link href="https://francozappa.github.io/author/h.-r.-ghaeini/index.xml" rel="self" type="application/rss+xml" />
     <description>H. R. Ghaeini</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Mon, 05 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Mon, 05 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>H. R. Ghaeini</title>
       <link>https://francozappa.github.io/author/h.-r.-ghaeini/</link>
     </image>
     
     <item>
       <title>State-Aware Anomaly Detection for Industrial Control Systems</title>
-      <link>https://francozappa.github.io/publication/state-anomaly-detection/</link>
+      <link>https://francozappa.github.io/publication/2018/state-anomaly-detection/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/state-anomaly-detection/</guid>
+      <guid>https://francozappa.github.io/publication/2018/state-anomaly-detection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gamifying ICS Security Training and Research: Design, Implementation, and Results of S3</title>
-      <link>https://francozappa.github.io/publication/s3/</link>
+      <link>https://francozappa.github.io/publication/2017/s3/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/s3/</guid>
+      <guid>https://francozappa.github.io/publication/2017/s3/</guid>
       <description></description>
     </item>
     

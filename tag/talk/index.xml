@@ -5,27 +5,24 @@
     <link>https://francozappa.github.io/tag/talk/</link>
       <atom:link href="https://francozappa.github.io/tag/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>talk</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>talk</title>
       <link>https://francozappa.github.io/tag/talk/</link>
     </image>
     
     <item>
       <title>SecMT&#39;21 Talk About Security of Proximity Services</title>
-      <link>https://francozappa.github.io/post/secmt21-talk/</link>
+      <link>https://francozappa.github.io/post/2021/secmt21-talk/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/secmt21-talk/</guid>
+      <guid>https://francozappa.github.io/post/2021/secmt21-talk/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m glad to give a talk at the
-
 &lt;a href=&#34;https://spritz.math.unipd.it/events/2021/ACNS_Workshop/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SecMT&#39;21&lt;/a&gt;
 workshop on mobile system security
-co-located with the 
-&lt;a href=&#34;https://sulab-sever.u-aizu.ac.jp/ACNS2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACNS&#39;21&lt;/a&gt;
+co-located with the &lt;a href=&#34;https://sulab-sever.u-aizu.ac.jp/ACNS2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACNS&#39;21&lt;/a&gt;
 conference.
 Students can register to SecMT for &lt;em&gt;free&lt;/em&gt; by filling this
-
 &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfwNOLR8AJmbJo5F954hTXvhsTfKXE3FvTVFr-OLmLcbWmTyg/viewform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google form&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Talk title&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;Why is Hard to Secure Mobile Proximity Services&lt;/p&gt;
@@ -59,19 +56,15 @@ related research trends.&lt;/p&gt;
     
     <item>
       <title>WAC3 Talk About KNOB and BIAS Attacks</title>
-      <link>https://francozappa.github.io/post/wac320-talk/</link>
+      <link>https://francozappa.github.io/post/2020/wac320-talk/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/wac320-talk/</guid>
+      <guid>https://francozappa.github.io/post/2020/wac320-talk/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m glad to give a talk about the
-
 &lt;a href=&#34;https://francozappa.github.io/project/knob/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB&lt;/a&gt; and
-
 &lt;a href=&#34;https://francozappa.github.io/project/bias/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIAS&lt;/a&gt; attacks
 on Bluetooth at the third
-
 &lt;a href=&#34;https://crypto.iacr.org/2020/wac.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop on Attacks in Cryptography (WAC)&lt;/a&gt;
 co-located with&lt;br&gt;
-
 &lt;a href=&#34;https://crypto.iacr.org/2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRYPTO 2020&lt;/a&gt;.
 The Workshop will be held
 online on Zoom the 16th of August 2020, and my talk will
@@ -123,10 +116,8 @@ ACM TOPS 2020.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Please join the virtual WAC, and
 thanks
-
 &lt;a href=&#34;https://eyalro.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eyal Ronen&lt;/a&gt;
 and
-
 &lt;a href=&#34;https://www.mathyvanhoef.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathy Vanhoef&lt;/a&gt;
 for organizing it and for the invitation!&lt;/p&gt;
 </description>
@@ -134,9 +125,9 @@ for organizing it and for the invitation!&lt;/p&gt;
     
     <item>
       <title>My PhD Defense at SUTD</title>
-      <link>https://francozappa.github.io/post/phd-defense/</link>
+      <link>https://francozappa.github.io/post/2019/phd-defense/</link>
       <pubDate>Mon, 10 Jun 2019 11:28:36 +0800</pubDate>
-      <guid>https://francozappa.github.io/post/phd-defense/</guid>
+      <guid>https://francozappa.github.io/post/2019/phd-defense/</guid>
       <description>&lt;p&gt;Soon I&amp;rsquo;m going to defend my PhD thesis at SUTD. Feel free to join!&lt;/p&gt;
 &lt;p&gt;Date and time:&lt;/p&gt;
 &lt;blockquote&gt;

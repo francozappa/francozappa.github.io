@@ -5,26 +5,23 @@
     <link>https://francozappa.github.io/tag/hwio/</link>
       <atom:link href="https://francozappa.github.io/tag/hwio/index.xml" rel="self" type="application/rss+xml" />
     <description>hwio</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>hwio</title>
       <link>https://francozappa.github.io/tag/hwio/</link>
     </image>
     
     <item>
       <title>CFP for Hardwear.io USA 2021 is Open (Tips and Tricks)</title>
-      <link>https://francozappa.github.io/post/hw21-suggestions/</link>
+      <link>https://francozappa.github.io/post/2021/hw21-suggestions/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/hw21-suggestions/</guid>
+      <guid>https://francozappa.github.io/post/2021/hw21-suggestions/</guid>
       <description>&lt;p&gt;Last year I had the pleasure to give a talk about
-
 &lt;a href=&#34;https://hardwear.io/virtual-con-2020/speakers/from-the-bluetooth-standard-to-standard-compliant-0-days.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;critical and standard-compliant Bluetooth flaws&lt;/a&gt;
 at the virtual edition of
-
 &lt;a href=&#34;https://hardwear.io/virtual-con-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hardwear.io 2020&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The organizers recently opened the
-
 &lt;a href=&#34;https://hardwear.io/usa-2021/cfp.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;call-for-papers (CFP) for Hardwear.io USA 2021&lt;/a&gt; and asked me
 to share my take on why you would want to submit
 your work to Hardwear.io and few tips and tricks to improve the quality of your presentation.
@@ -66,8 +63,7 @@ actually did what you are presenting (i.e., how you did it)&lt;/li&gt;
 &lt;li&gt;Make sure that other than explaining &amp;ldquo;what&amp;rdquo; you did
 and &amp;ldquo;how&amp;rdquo; you did it, you are also showing &amp;ldquo;why&amp;rdquo; your submission
 is important, needed, novel, and interesting.&lt;/li&gt;
-&lt;li&gt;Look at the 
-&lt;a href=&#34;https://hardwear.io/usa-2021/cfp.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TIPS FOR SUBMITTING on the CFP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Look at the &lt;a href=&#34;https://hardwear.io/usa-2021/cfp.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TIPS FOR SUBMITTING on the CFP&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

@@ -5,24 +5,22 @@
     <link>https://francozappa.github.io/tag/woot/</link>
       <atom:link href="https://francozappa.github.io/tag/woot/index.xml" rel="self" type="application/rss+xml" />
     <description>woot</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>woot</title>
       <link>https://francozappa.github.io/tag/woot/</link>
     </image>
     
     <item>
       <title>CFP Workshop on Offensive Technologies (WOOT) 2022</title>
-      <link>https://francozappa.github.io/post/cfp-woot22/</link>
+      <link>https://francozappa.github.io/post/2022/cfp-woot22/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/cfp-woot22/</guid>
+      <guid>https://francozappa.github.io/post/2022/cfp-woot22/</guid>
       <description>&lt;p&gt;The WOOT&#39;22 CFP is open. Please submit and spread the word.&lt;/p&gt;
 &lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
-&lt;p&gt;URL: 
-&lt;a href=&#34;https://www.ieee-security.org/TC/SP2022/WOOT22/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ieee-security.org/TC/SP2022/WOOT22/index.html&lt;/a&gt;
-Submission: 
-&lt;a href=&#34;https://woot22.secpriv.tuwien.ac.at/woot22/paper/new&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://woot22.secpriv.tuwien.ac.at/woot22/paper/new&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;URL: &lt;a href=&#34;https://www.ieee-security.org/TC/SP2022/WOOT22/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ieee-security.org/TC/SP2022/WOOT22/index.html&lt;/a&gt;
+Submission: &lt;a href=&#34;https://woot22.secpriv.tuwien.ac.at/woot22/paper/new&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://woot22.secpriv.tuwien.ac.at/woot22/paper/new&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;The Workshop on Offensive Technologies (WOOT) aims to present a broad picture of offense and its contributions, bringing together researchers and practitioners across all areas of computer security. Offensive security has changed from a hobby to an industry. No longer an exercise for isolated enthusiasts, offensive security is today a large-scale operation managed by organized, capitalized actors. Meanwhile, the landscape has shifted: software used by millions is built by startups less than a year old, delivered on mobile phones and surveilled by national signals intelligence agencies. In the field&amp;rsquo;s infancy, offensive security research was conducted separately by industry, independent hackers, or in academia. Collaboration between these groups was difficult. Since 2007, the Workshop on Offensive Technologies (WOOT) has been bringing those communities together.&lt;/p&gt;
 &lt;h3 id=&#34;symposium-topics&#34;&gt;Symposium Topics&lt;/h3&gt;
@@ -74,8 +72,7 @@ attacks on and offensive research into:&lt;/p&gt;
 Notification date: Thursday, February 27, 2022
 Camera-ready paper deadline: Tuesday, March 8, 2022
 Workshop date: Thursday, May 26, 2022&lt;/p&gt;
-&lt;p&gt;Please submit your paper at 
-&lt;a href=&#34;https://woot22.secpriv.tuwien.ac.at/woot22/paper/new&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://woot22.secpriv.tuwien.ac.at/woot22/paper/new&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please submit your paper at &lt;a href=&#34;https://woot22.secpriv.tuwien.ac.at/woot22/paper/new&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://woot22.secpriv.tuwien.ac.at/woot22/paper/new&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;what-to-submit&#34;&gt;What to Submit&lt;/h3&gt;
 &lt;p&gt;Submissions must be in PDF format. Papers should be succinct but thorough in presenting the work. The contribution needs to be well motivated, clearly exposed, and compared to the state of the art. Typical research papers are at least 4 pages, and maximum 10 pages long (not counting bibliography and appendix). Yet, papers whose lengths are incommensurate with their contributions will be rejected.&lt;/p&gt;
 &lt;p&gt;The submission should be formatted in 2-columns, using 10-point Times Roman type on 12-point leading, in a text block of 6.5” x 9”. Please number the pages. Authors must use the IEEE templates, for LaTeX papers this is IEEETran.cls version 1.8b.&lt;/p&gt;
@@ -99,9 +96,9 @@ Note: Work presented by the authors at industry conferences, such as Black Hat, 
     
     <item>
       <title>CFP: 2021 IEEE Workshop on Offensive Technologies (WOOT)</title>
-      <link>https://francozappa.github.io/post/cfp-woot21/</link>
+      <link>https://francozappa.github.io/post/2021/cfp-woot21/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/cfp-woot21/</guid>
+      <guid>https://francozappa.github.io/post/2021/cfp-woot21/</guid>
       <description>&lt;p&gt;The call for papers for the 2021 IEEE Workshop on Offensive Technologies (WOOT)
 is open. Please submit your great research work and spread the word among
 attackers 🔥 😄 🔥&lt;/p&gt;
@@ -130,21 +127,18 @@ attackers 🔥 😄 🔥&lt;/p&gt;
 &lt;li&gt;Malware design, implementation and analysis&lt;/li&gt;
 &lt;li&gt;Offensive applications of formal methods (solvers, symbolic execution)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;For more information about the CFP look 
-&lt;a href=&#34;https://www.ieee-security.org/TC/SP2021/SPW2021/WOOT21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more information about the CFP look &lt;a href=&#34;https://www.ieee-security.org/TC/SP2021/SPW2021/WOOT21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Joining WOOT and SEC TPCs</title>
-      <link>https://francozappa.github.io/post/cfp-woot21-sec21/</link>
+      <link>https://francozappa.github.io/post/2021/cfp-woot21-sec21/</link>
       <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/cfp-woot21-sec21/</guid>
+      <guid>https://francozappa.github.io/post/2021/cfp-woot21-sec21/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m thrilled to join the technical program committees of the
-
 &lt;a href=&#34;https://www.ieee-security.org/TC/SP2021/SPW2021/WOOT21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop on Offensive Technologies (WOOT)&lt;/a&gt;
 and the
-
 &lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity21&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USENIX Security Symposium (SEC)&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Lots of good papers ahead 😄&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;

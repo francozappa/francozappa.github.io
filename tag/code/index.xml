@@ -5,45 +5,39 @@
     <link>https://francozappa.github.io/tag/code/</link>
       <atom:link href="https://francozappa.github.io/tag/code/index.xml" rel="self" type="application/rss+xml" />
     <description>code</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>code</title>
       <link>https://francozappa.github.io/tag/code/</link>
     </image>
     
     <item>
       <title>KNOB Attack Add Slave Patch for poc-internalblue</title>
-      <link>https://francozappa.github.io/post/knob-repo3/</link>
+      <link>https://francozappa.github.io/post/2019/knob-repo3/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-repo3/</guid>
+      <guid>https://francozappa.github.io/post/2019/knob-repo3/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve pushed the
-
 &lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;
 to perform the KNOB attack also when the Nexus 5 is the Bluetooth slave
 responding to the first LMP packet. To switch between different attack modes
 have a look at the updated
-
 &lt;a href=&#34;https://github.com/francozappa/knob/blob/master/poc-internalblue/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;README&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;For more information visit 
-&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For more information visit &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>KNOB Attack Code for E0 and Slides from SEC19 are Online</title>
-      <link>https://francozappa.github.io/post/knob-repo2/</link>
+      <link>https://francozappa.github.io/post/2019/knob-repo2/</link>
       <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-repo2/</guid>
+      <guid>https://francozappa.github.io/post/2019/knob-repo2/</guid>
       <description>&lt;p&gt;The
-
 &lt;a href=&#34;https://github.com/francozappa/knob/tree/master/e0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;
 that we developed to validate and brute force
-
 &lt;a href=&#34;https://en.wikipedia.org/wiki/E0_%28cipher%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E0&lt;/a&gt;
 encryption keys is online.&lt;/p&gt;
 &lt;p&gt;The
-
 &lt;a href=&#34;https://francozappa.github.io/publication/knob/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;
 of my KNOB attack SEC19 talk are also online.
 As we can see from the slides, the KNOB attack is &lt;em&gt;not&lt;/em&gt;
@@ -53,38 +47,32 @@ Bluetooth (BR/EDR) is a technology with a &lt;em&gt;pair-once&lt;/em&gt;
 &lt;em&gt;connect-multiple-times&lt;/em&gt; paradigm. For example, you pair your smartphone
 with your car once, and then every day you connect the two and the devices
 negotiate a new (fresh) encryption key.&lt;/p&gt;
-&lt;p&gt;For more information visit 
-&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For more information visit &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>KNOB Attack Repository is Online</title>
-      <link>https://francozappa.github.io/post/knob-repo/</link>
+      <link>https://francozappa.github.io/post/2019/knob-repo/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-repo/</guid>
-      <description>&lt;p&gt;Our 
-&lt;a href=&#34;https://github.com/francozappa/knob&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB repository&lt;/a&gt;
+      <guid>https://francozappa.github.io/post/2019/knob-repo/</guid>
+      <description>&lt;p&gt;Our &lt;a href=&#34;https://github.com/francozappa/knob&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB repository&lt;/a&gt;
 is online, and it includes our
-
 &lt;a href=&#34;https://github.com/francozappa/knob/tree/master/poc-internalblue&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PoC&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;For more information visit 
-&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For more information visit &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NDSS 2019 camera-ready and PoC attack code</title>
-      <link>https://francozappa.github.io/post/ndss19-cr/</link>
+      <link>https://francozappa.github.io/post/2019/ndss19-cr/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/ndss19-cr/</guid>
+      <guid>https://francozappa.github.io/post/2019/ndss19-cr/</guid>
       <description>&lt;p&gt;The camera-ready version of
 &lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;
 is available
-
 &lt;a href=&#34;https://francozappa.github.io/publication/rearby/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We also released a
-
 &lt;a href=&#34;https://github.com/francozappa/REarby/tree/master/poc-hostapd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;proof of concept code&lt;/a&gt;
 to perform the &lt;em&gt;Soft AP manipulation attack&lt;/em&gt;. The code was previously
 disclosed to Google. In summary, the attack allows a malicious Nearby
@@ -97,13 +85,12 @@ traffic (even traffic from non Nearby Connections applications).&lt;/p&gt;
     
     <item>
       <title>S317: MiniCPS Challenges</title>
-      <link>https://francozappa.github.io/post/minicps-s3-code/</link>
+      <link>https://francozappa.github.io/post/2017/minicps-s3-code/</link>
       <pubDate>Tue, 21 Nov 2017 14:28:36 +0800</pubDate>
-      <guid>https://francozappa.github.io/post/minicps-s3-code/</guid>
+      <guid>https://francozappa.github.io/post/2017/minicps-s3-code/</guid>
       <description>&lt;p&gt;I recently open-sourced the code that I developed for the MiniCPS challenges
 for the SWaT Security Showdown (S3) event in 2017.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/scy-phy/minicps/tree/master/examples/s3-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt; is the code.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/scy-phy/minicps/tree/master/examples/s3-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt; is the code.&lt;/p&gt;
 &lt;p&gt;The &lt;code&gt;init.sh&lt;/code&gt; contains the list of commands that I run on a local testing
 machine and on the remote AWS instances that we used during the event.
 The attackers were provided with the VPN credentials to

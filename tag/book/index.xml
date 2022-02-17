@@ -5,38 +5,32 @@
     <link>https://francozappa.github.io/tag/book/</link>
       <atom:link href="https://francozappa.github.io/tag/book/index.xml" rel="self" type="application/rss+xml" />
     <description>book</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Sat, 07 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Sat, 07 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>book</title>
       <link>https://francozappa.github.io/tag/book/</link>
     </image>
     
     <item>
       <title>Security Engineering Third Edition (SEv3)</title>
-      <link>https://francozappa.github.io/post/knob-sev3/</link>
+      <link>https://francozappa.github.io/post/2019/knob-sev3/</link>
       <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-sev3/</guid>
+      <guid>https://francozappa.github.io/post/2019/knob-sev3/</guid>
       <description>&lt;p&gt;Recently, I&amp;rsquo;ve stumbled upon the webpage about
-
 &lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/book.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Security Engineering &amp;ndash; Third Edition (SEv3)&lt;/a&gt;
-by 
-&lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ross Anderson&lt;/a&gt;.
+by &lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ross Anderson&lt;/a&gt;.
 I&amp;rsquo;m particularly attached to this book,
 as it is the &lt;em&gt;first&lt;/em&gt; book about information security that I bought
 (I bought SEv2 in 2012), and it was very helpful to introduce
 me to security engineering (coming from an EE background) and to tackle my
-
 &lt;a href=&#34;https://francozappa.github.io/publication/master-thesis/thesis.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;master thesis about Random Number Generators&lt;/a&gt;.
 Actually, I have to thank
-
 &lt;a href=&#34;https://ece.umass.edu/faculty/wayne-burleson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Wayne Burleson&lt;/a&gt;
 for the book recommendation!&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m very proud that the
-
 &lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch5-oct12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cryptography Chapter of SEv3&lt;/a&gt;
 (so far 😄) includes a discussion about the
-
 &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB attack&lt;/a&gt; in the subsection about
 Diffie-Hellman key establishment (5.7.2.2). I look forward to read SEv3
 once is ready!&lt;/p&gt;

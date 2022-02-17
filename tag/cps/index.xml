@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cps | Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tag/cps/</link>
+      <atom:link href="https://francozappa.github.io/tag/cps/index.xml" rel="self" type="application/rss+xml" />
+    <description>cps</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Tue, 07 Nov 2017 17:46:49 +0800</lastBuildDate>
+    <image>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <title>cps</title>
+      <link>https://francozappa.github.io/tag/cps/</link>
+    </image>
+    
+    <item>
+      <title>MiniCPS Framework</title>
+      <link>https://francozappa.github.io/project/minicps/</link>
+      <pubDate>Tue, 07 Nov 2017 17:46:49 +0800</pubDate>
+      <guid>https://francozappa.github.io/project/minicps/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/citation.cfm?id=2808715&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MiniCPS&lt;/a&gt; is a framework that we developed to
+simulate/emulate
+Cyber-Physical Systems, including Industrial Control System. MiniCPS is open
+source and available on &lt;a href=&#34;https://github.com/scy-phy/minicps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;. The framework is
+build on top of &lt;a href=&#34;http://mininet.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mininet&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We used the framework in
+several other projects such as the development of
+novel attacks (e.g., &lt;a href=&#34;https://arxiv.org/pdf/1802.00152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICS botnets&lt;/a&gt;), countermeasures
+(e.g., &lt;a href=&#34;https://dl.acm.org/citation.cfm?id=2994493&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;high-interaction ICS honeypots&lt;/a&gt;),
+and gamified ICS security competitions (e.g.,
+&lt;a href=&#34;https://dl.acm.org/citation.cfm?id=3140253&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;S3 ICS CTF&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

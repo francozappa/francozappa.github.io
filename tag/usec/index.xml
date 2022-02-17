@@ -5,18 +5,18 @@
     <link>https://francozappa.github.io/tag/usec/</link>
       <atom:link href="https://francozappa.github.io/tag/usec/index.xml" rel="self" type="application/rss+xml" />
     <description>usec</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>usec</title>
       <link>https://francozappa.github.io/tag/usec/</link>
     </image>
     
     <item>
       <title>Video of my KNOB Attack Presentation at USENIX Security 2019</title>
-      <link>https://francozappa.github.io/post/knob-usec-video/</link>
+      <link>https://francozappa.github.io/post/2019/knob-sec-video/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-usec-video/</guid>
+      <guid>https://francozappa.github.io/post/2019/knob-sec-video/</guid>
       <description>&lt;p&gt;Title of the paper:
 &lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
 in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;:&lt;/p&gt;
@@ -25,8 +25,7 @@ in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;:&lt;/p&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/v9Xg9XcnNh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;More info at 
-&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More info at &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

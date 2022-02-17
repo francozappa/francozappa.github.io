@@ -5,27 +5,24 @@
     <link>https://francozappa.github.io/tag/secmt/</link>
       <atom:link href="https://francozappa.github.io/tag/secmt/index.xml" rel="self" type="application/rss+xml" />
     <description>secmt</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>secmt</title>
       <link>https://francozappa.github.io/tag/secmt/</link>
     </image>
     
     <item>
       <title>SecMT&#39;21 Talk About Security of Proximity Services</title>
-      <link>https://francozappa.github.io/post/secmt21-talk/</link>
+      <link>https://francozappa.github.io/post/2021/secmt21-talk/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/secmt21-talk/</guid>
+      <guid>https://francozappa.github.io/post/2021/secmt21-talk/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m glad to give a talk at the
-
 &lt;a href=&#34;https://spritz.math.unipd.it/events/2021/ACNS_Workshop/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SecMT&#39;21&lt;/a&gt;
 workshop on mobile system security
-co-located with the 
-&lt;a href=&#34;https://sulab-sever.u-aizu.ac.jp/ACNS2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACNS&#39;21&lt;/a&gt;
+co-located with the &lt;a href=&#34;https://sulab-sever.u-aizu.ac.jp/ACNS2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACNS&#39;21&lt;/a&gt;
 conference.
 Students can register to SecMT for &lt;em&gt;free&lt;/em&gt; by filling this
-
 &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfwNOLR8AJmbJo5F954hTXvhsTfKXE3FvTVFr-OLmLcbWmTyg/viewform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google form&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Talk title&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;Why is Hard to Secure Mobile Proximity Services&lt;/p&gt;

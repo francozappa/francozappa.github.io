@@ -5,115 +5,115 @@
     <link>https://francozappa.github.io/author/n.-o.-tippenhauer/</link>
       <atom:link href="https://francozappa.github.io/author/n.-o.-tippenhauer/index.xml" rel="self" type="application/rss+xml" />
     <description>N. O. Tippenhauer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>N. O. Tippenhauer</title>
       <link>https://francozappa.github.io/author/n.-o.-tippenhauer/</link>
     </image>
     
     <item>
       <title>LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks</title>
-      <link>https://francozappa.github.io/publication/lightblue/</link>
+      <link>https://francozappa.github.io/publication/2021/lightblue/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/lightblue/</guid>
+      <guid>https://francozappa.github.io/publication/2021/lightblue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy</title>
-      <link>https://francozappa.github.io/publication/blur-preprint/</link>
+      <link>https://francozappa.github.io/publication/2020/blur-preprint/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/blur-preprint/</guid>
+      <guid>https://francozappa.github.io/publication/2020/blur-preprint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy</title>
-      <link>https://francozappa.github.io/publication/knob-ble/</link>
+      <link>https://francozappa.github.io/publication/2020/knob-ble/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/knob-ble/</guid>
+      <guid>https://francozappa.github.io/publication/2020/knob-ble/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BIAS: Bluetooth Impersonation AttackS</title>
-      <link>https://francozappa.github.io/publication/bias/</link>
+      <link>https://francozappa.github.io/publication/2020/bias/</link>
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/bias/</guid>
+      <guid>https://francozappa.github.io/publication/2020/bias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation of Bluetooth BR/EDR</title>
-      <link>https://francozappa.github.io/publication/knob/</link>
+      <link>https://francozappa.github.io/publication/2019/knob/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/knob/</guid>
+      <guid>https://francozappa.github.io/publication/2019/knob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby Connections’ on Android</title>
-      <link>https://francozappa.github.io/publication/rearby/</link>
+      <link>https://francozappa.github.io/publication/2019/rearby/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/rearby/</guid>
+      <guid>https://francozappa.github.io/publication/2019/rearby/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Taking Control: Design and Implementation of Botnets for Cyber-Physical Attacks with CPSBot</title>
-      <link>https://francozappa.github.io/publication/cpsbot-preprint/</link>
+      <link>https://francozappa.github.io/publication/2018/cpsbot-preprint/</link>
       <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/cpsbot-preprint/</guid>
+      <guid>https://francozappa.github.io/publication/2018/cpsbot-preprint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>State-Aware Anomaly Detection for Industrial Control Systems</title>
-      <link>https://francozappa.github.io/publication/state-anomaly-detection/</link>
+      <link>https://francozappa.github.io/publication/2018/state-anomaly-detection/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/state-anomaly-detection/</guid>
+      <guid>https://francozappa.github.io/publication/2018/state-anomaly-detection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gamifying ICS Security Training and Research: Design, Implementation, and Results of S3</title>
-      <link>https://francozappa.github.io/publication/s3/</link>
+      <link>https://francozappa.github.io/publication/2017/s3/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/s3/</guid>
+      <guid>https://francozappa.github.io/publication/2017/s3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical Evaluation of Passive COTS Eavesdropping in 802.11b/n/ac WLAN</title>
-      <link>https://francozappa.github.io/publication/wifi-mimo/</link>
+      <link>https://francozappa.github.io/publication/2017/wifi-mimo/</link>
       <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/wifi-mimo/</guid>
+      <guid>https://francozappa.github.io/publication/2017/wifi-mimo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Legacy-Compliant Data Authentication for Industrial Control System Traffic</title>
-      <link>https://francozappa.github.io/publication/legacy-authentication/</link>
+      <link>https://francozappa.github.io/publication/2017/legacy-authentication/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/legacy-authentication/</guid>
+      <guid>https://francozappa.github.io/publication/2017/legacy-authentication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards high-interaction virtual ICS honeypots-in-a-box</title>
-      <link>https://francozappa.github.io/publication/honeypot/</link>
+      <link>https://francozappa.github.io/publication/2016/honeypot/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/honeypot/</guid>
+      <guid>https://francozappa.github.io/publication/2016/honeypot/</guid>
       <description>&lt;p&gt;This paper won the &lt;strong&gt;Research excellence award by ST Engineering during the FIRST workshop in 2017&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MiniCPS: A toolkit for security research on CPS networks</title>
-      <link>https://francozappa.github.io/publication/minicps/</link>
+      <link>https://francozappa.github.io/publication/2015/minicps/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/minicps/</guid>
+      <guid>https://francozappa.github.io/publication/2015/minicps/</guid>
       <description></description>
     </item>
     

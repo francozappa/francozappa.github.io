@@ -5,36 +5,34 @@
     <link>https://francozappa.github.io/tag/video/</link>
       <atom:link href="https://francozappa.github.io/tag/video/index.xml" rel="self" type="application/rss+xml" />
     <description>video</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/images/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>video</title>
       <link>https://francozappa.github.io/tag/video/</link>
     </image>
     
     <item>
       <title>WAC3 Presentation is Online</title>
-      <link>https://francozappa.github.io/post/wac320-video/</link>
+      <link>https://francozappa.github.io/post/2020/wac320-video/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/wac320-video/</guid>
+      <guid>https://francozappa.github.io/post/2020/wac320-video/</guid>
       <description>&lt;p&gt;BIAS + KNOB attack against Bluetooth:&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;All the WAC talks are available on 
-&lt;a href=&#34;https://www.youtube.com/watch?v=XS_DZ5F-y3k&amp;amp;list=PLeeS-3Ml-rppRzqiDB7l-TIyE-YSqXGR3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;All the WAC talks are available on &lt;a href=&#34;https://www.youtube.com/watch?v=XS_DZ5F-y3k&amp;amp;list=PLeeS-3Ml-rppRzqiDB7l-TIyE-YSqXGR3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides and video from our hardwear.io 2020 talk</title>
-      <link>https://francozappa.github.io/post/knob-hw20-material/</link>
+      <link>https://francozappa.github.io/post/2020/knob-hw20-material/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-hw20-material/</guid>
-      <description>&lt;p&gt;Here are the 
-&lt;a href=&#34;https://francozappa.github.io/talk/hwio20/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;
+      <guid>https://francozappa.github.io/post/2020/knob-hw20-material/</guid>
+      <description>&lt;p&gt;Here are the &lt;a href=&#34;https://francozappa.github.io/talk/hwio20/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;
 and the recording of our hardwear.io talk titled &lt;em&gt;From Bluetooth Standard to
 Standard-Compliant 0-days&lt;/em&gt;:&lt;/p&gt;
 
@@ -47,31 +45,28 @@ Standard-Compliant 0-days&lt;/em&gt;:&lt;/p&gt;
     
     <item>
       <title>Bluetooth Impersonation AttackS (BIAS) at IEEE S&amp;P 2020</title>
-      <link>https://francozappa.github.io/post/bias-announce/</link>
+      <link>https://francozappa.github.io/post/2020/bias-announce/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/bias-announce/</guid>
+      <guid>https://francozappa.github.io/post/2020/bias-announce/</guid>
       <description>&lt;p&gt;Our paper
-
 &lt;a href=&#34;https://francozappa.github.io/publication/bias/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bluetooth Impersonation AttackS (BIAS)&lt;/a&gt;
 will be presented at the
-
 &lt;a href=&#34;https://www.ieee-security.org/TC/SP2020//index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Symposium on Security and Privacy (IEEE S&amp;amp;P) 2020&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/fASGU7Og5_4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;More information are available in the 
-&lt;a href=&#34;https://francozappa.github.io/about-bias&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIAS website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More information are available in the &lt;a href=&#34;https://francozappa.github.io/about-bias&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIAS website&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The BIAS code will be also uploaded soon! Stay tuned and unbiased 😄&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Video of my KNOB Attack Presentation at USENIX Security 2019</title>
-      <link>https://francozappa.github.io/post/knob-usec-video/</link>
+      <link>https://francozappa.github.io/post/2019/knob-sec-video/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/knob-usec-video/</guid>
+      <guid>https://francozappa.github.io/post/2019/knob-sec-video/</guid>
       <description>&lt;p&gt;Title of the paper:
 &lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
 in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;:&lt;/p&gt;
@@ -80,16 +75,15 @@ in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;:&lt;/p&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/v9Xg9XcnNh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;More info at 
-&lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More info at &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NDSS 2019 YouTube video of the presentation</title>
-      <link>https://francozappa.github.io/post/ndss19-video/</link>
+      <link>https://francozappa.github.io/post/2019/ndss19-video/</link>
       <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/post/ndss19-video/</guid>
+      <guid>https://francozappa.github.io/post/2019/ndss19-video/</guid>
       <description>&lt;p&gt;My NDSS 2019 presentation of
 &lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;&lt;/p&gt;
 
