@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jsys | Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tag/jsys/</link>
+      <atom:link href="https://francozappa.github.io/tag/jsys/index.xml" rel="self" type="application/rss+xml" />
+    <description>jsys</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <title>jsys</title>
+      <link>https://francozappa.github.io/tag/jsys/</link>
+    </image>
+    
+    <item>
+      <title>CFP: JSys System Security</title>
+      <link>https://francozappa.github.io/post/2022/cfp-jsys/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2022/cfp-jsys/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.jsys.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Systems Research (JSys)&lt;/a&gt;
+is a new journal with diamond-access
+publication model; that is, papers are free to read, submit, review, and
+publish. Its design borrows heavily from similar journals recently created in
+the databases, security, and crypto communities.&lt;/p&gt;
+&lt;p&gt;Recently JSys added a &lt;a href=&#34;https://www.jsys.org/cfp_security/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;system security track&lt;/a&gt; and the first CfP
+is open until the 22nd of May.&lt;/p&gt;
+&lt;h3 id=&#34;call-for-papers-system-security&#34;&gt;Call for Papers: System Security&lt;/h3&gt;
+&lt;p&gt;System security covers the intersection between systems research and security
+research in particular around the topics of software security, web security,
+mobile security, network security, operating system security, and hardware
+security. These topics inherently involve systems topics as part of their
+mechanisms, policies, or attacks. While attacks are in scope, the focus of
+this track is on constructive security, i.e., mitigating and avoiding attacks
+along with systematizing knowledge.&lt;/p&gt;
+&lt;p&gt;Topic of interests:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analysis of network and security protocols&lt;/li&gt;
+&lt;li&gt;Attacks with novel insights, techniques, or results&lt;/li&gt;
+&lt;li&gt;Automated security analysis of source code and binaries&lt;/li&gt;
+&lt;li&gt;Embedded systems security&lt;/li&gt;
+&lt;li&gt;Language-based security&lt;/li&gt;
+&lt;li&gt;Machine learning security&lt;/li&gt;
+&lt;li&gt;Mobile systems security&lt;/li&gt;
+&lt;li&gt;Network security&lt;/li&gt;
+&lt;li&gt;Operating system security&lt;/li&gt;
+&lt;li&gt;Program analysis for security&lt;/li&gt;
+&lt;li&gt;Web security&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
