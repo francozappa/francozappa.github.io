@@ -10,7 +10,35 @@
   <url>
     <loc>https://francozappa.github.io/courses/example/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://francozappa.github.io/</loc><lastmod>2022-02-24T00:00:00+00:00</lastmod></url>
+    <loc>https://francozappa.github.io/</loc><lastmod>2022-03-06T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/publication-type/1/</loc><lastmod>2022-03-06T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/authors/</loc><lastmod>2022-03-06T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/publication/2022/blur/</loc><lastmod>2022-03-06T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/author/d.-antonioli/</loc><lastmod>2022-03-06T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/author/k.-rasmussen/</loc><lastmod>2022-03-06T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/author/m.-payer/</loc><lastmod>2022-03-06T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/author/n.-o.-tippenhauer/</loc><lastmod>2022-03-06T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/publication_types/</loc><lastmod>2022-03-06T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/publication/</loc><lastmod>2022-03-06T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/tag/bluetooth/</loc><lastmod>2022-03-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/project/blur/</loc><lastmod>2022-03-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/project/</loc><lastmod>2022-03-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/tag/protocol/</loc><lastmod>2022-03-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/tags/</loc><lastmod>2022-03-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/tag/cfp/</loc><lastmod>2022-02-24T00:00:00+00:00</lastmod></url>
   <url>
@@ -19,8 +47,6 @@
     <loc>https://francozappa.github.io/tag/jsys/</loc><lastmod>2022-02-24T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/post/</loc><lastmod>2022-02-24T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://francozappa.github.io/tags/</loc><lastmod>2022-02-24T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/tag/tpc/</loc><lastmod>2022-02-24T00:00:00+00:00</lastmod></url>
   <url>
@@ -60,13 +86,7 @@
   <url>
     <loc>https://francozappa.github.io/tag/hwio/</loc><lastmod>2021-03-19T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://francozappa.github.io/publication-type/1/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://francozappa.github.io/author/a.-bianchi/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://francozappa.github.io/authors/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://francozappa.github.io/author/d.-antonioli/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/author/d.-j.-tian/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
   <url>
@@ -75,14 +95,6 @@
     <loc>https://francozappa.github.io/author/j.-wu/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/publication/2021/lightblue/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://francozappa.github.io/author/m.-payer/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://francozappa.github.io/author/n.-o.-tippenhauer/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://francozappa.github.io/publication_types/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://francozappa.github.io/publication/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/author/r.-wu/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
   <url>
@@ -98,15 +110,15 @@
   <url>
     <loc>https://francozappa.github.io/tag/sec/</loc><lastmod>2020-11-22T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>https://francozappa.github.io/publication-type/2/</loc><lastmod>2020-10-01T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>https://francozappa.github.io/publication-type/3/</loc><lastmod>2020-10-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/publication/2020/blur-preprint/</loc><lastmod>2020-10-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/author/dp3t-team/</loc><lastmod>2020-10-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://francozappa.github.io/publication/2020/cte-preprint/</loc><lastmod>2020-10-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://francozappa.github.io/author/k.-rasmussen/</loc><lastmod>2020-10-01T00:00:00+00:00</lastmod></url>
+    <loc>https://francozappa.github.io/publication/2020/cte-journal/</loc><lastmod>2020-10-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/tag/blur/</loc><lastmod>2020-09-25T00:00:00+00:00</lastmod></url>
   <url>
@@ -124,13 +136,7 @@
   <url>
     <loc>https://francozappa.github.io/post/2020/wac320-video/</loc><lastmod>2020-08-12T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://francozappa.github.io/tag/bluetooth/</loc><lastmod>2020-08-07T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://francozappa.github.io/project/gaen/</loc><lastmod>2020-08-07T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://francozappa.github.io/project/</loc><lastmod>2020-08-07T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://francozappa.github.io/tag/protocol/</loc><lastmod>2020-08-07T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/tag/asiaccs/</loc><lastmod>2020-08-05T00:00:00+00:00</lastmod></url>
   <url>
@@ -155,8 +161,6 @@
     <loc>https://francozappa.github.io/post/2020/knob-hw20-material/</loc><lastmod>2020-05-10T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/talk/from-the-bluetooth-standard-to-standard-compliant-0-days/</loc><lastmod>2020-04-30T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://francozappa.github.io/publication-type/2/</loc><lastmod>2020-04-26T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/publication/2020/dp3t-preprint/</loc><lastmod>2020-04-26T00:00:00+00:00</lastmod></url>
   <url>

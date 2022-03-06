@@ -5,7 +5,7 @@
     <link>https://francozappa.github.io/</link>
       <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniele Antonioli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Daniele Antonioli</title>
@@ -105,6 +105,29 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy</title>
+      <link>https://francozappa.github.io/publication/2022/blur/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2022/blur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bluetooth BLUR Attacks</title>
+      <link>https://francozappa.github.io/project/blur/</link>
+      <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/project/blur/</guid>
+      <description>&lt;p&gt;In 2020 we disclosed the
+&lt;a href=&#34;https://hexhive.epfl.ch/BLURtooth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BLUR attacks&lt;/a&gt;,
+a family of high impact threats affecting Bluetooth&amp;rsquo;s cross-transport key derivation (CTKD).
+The BLUR attacks are the first sample of cross-transport attacks for Bluetooth
+as they allow to exploit Bluetooth Classic and Bluetooth Low Energy jut by
+targeting one of the two.&lt;/p&gt;
+&lt;p&gt;The BLUR attacks are tracked with &lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2020-15802&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2020-15802&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -562,9 +585,9 @@ href=&#34;https://giphy.com/gifs/care-paperwork-13bUdxDy4jJUR2&#34;&gt;&lt;/a&gt
     
     <item>
       <title>Early Evidence of Effectiveness of Digital Contact Tracing for SARS-CoV-2 in Switzerland</title>
-      <link>https://francozappa.github.io/publication/2020/cte-preprint/</link>
+      <link>https://francozappa.github.io/publication/2020/cte-journal/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/2020/cte-preprint/</guid>
+      <guid>https://francozappa.github.io/publication/2020/cte-journal/</guid>
       <description></description>
     </item>
     
@@ -2170,7 +2193,7 @@ such as cross-disciplinary knowledge, funding, awareness, and education.&lt;/p&g
     </item>
     
     <item>
-      <title>Design and Testing of RNG</title>
+      <title>Design and Testing of Random Number Generators (RNG)</title>
       <link>https://francozappa.github.io/publication/2013/master-thesis/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/publication/2013/master-thesis/</guid>

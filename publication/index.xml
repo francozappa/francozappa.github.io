@@ -5,12 +5,20 @@
     <link>https://francozappa.github.io/publication/</link>
       <atom:link href="https://francozappa.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://francozappa.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy</title>
+      <link>https://francozappa.github.io/publication/2022/blur/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2022/blur/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks</title>
@@ -30,9 +38,9 @@
     
     <item>
       <title>Early Evidence of Effectiveness of Digital Contact Tracing for SARS-CoV-2 in Switzerland</title>
-      <link>https://francozappa.github.io/publication/2020/cte-preprint/</link>
+      <link>https://francozappa.github.io/publication/2020/cte-journal/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/2020/cte-preprint/</guid>
+      <guid>https://francozappa.github.io/publication/2020/cte-journal/</guid>
       <description></description>
     </item>
     
@@ -142,7 +150,7 @@
     </item>
     
     <item>
-      <title>Design and Testing of RNG</title>
+      <title>Design and Testing of Random Number Generators (RNG)</title>
       <link>https://francozappa.github.io/publication/2013/master-thesis/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/publication/2013/master-thesis/</guid>
