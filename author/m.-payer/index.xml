@@ -5,12 +5,20 @@
     <link>https://francozappa.github.io/author/m.-payer/</link>
       <atom:link href="https://francozappa.github.io/author/m.-payer/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Payer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>M. Payer</title>
       <link>https://francozappa.github.io/author/m.-payer/</link>
     </image>
+    
+    <item>
+      <title>On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats</title>
+      <link>https://francozappa.github.io/publication/2022/btcar/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2022/btcar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy</title>
