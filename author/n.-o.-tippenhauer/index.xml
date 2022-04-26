@@ -29,14 +29,6 @@
     </item>
     
     <item>
-      <title>BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy</title>
-      <link>https://francozappa.github.io/publication/2020/blur-preprint/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/2020/blur-preprint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy</title>
       <link>https://francozappa.github.io/publication/2020/knob-ble/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
