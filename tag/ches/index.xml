@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ches | Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tag/ches/</link>
+      <atom:link href="https://francozappa.github.io/tag/ches/index.xml" rel="self" type="application/rss+xml" />
+    <description>ches</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <title>ches</title>
+      <link>https://francozappa.github.io/tag/ches/</link>
+    </image>
+    
+    <item>
+      <title>BreakMI Paper and Repo</title>
+      <link>https://francozappa.github.io/post/2022/breakmi-announce/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2022/breakmi-announce/</guid>
+      <description>&lt;p&gt;I am glad to share that our paper titled &lt;em&gt;BreakMi: Reversing, Exploiting
+and Fixing Xiaomi Fitness Tracking Ecosystem&lt;/em&gt; is publicly available
+&lt;a href=&#34;https://tches.iacr.org/index.php/TCHES/article/download/9704/9234&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.
+In this work, we reverse-engineer, exploit, and fix the proprietary security
+protocols used by Xiaomi to secure the Bluetooth Low Energy communication
+between its trackers and smartphone applications. We also release
+&lt;a href=&#34;https://github.com/Skiti/BreakMi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BreakMi&lt;/a&gt;, a tool to reproduce
+our findings and perform further analyses on Xiaomi&amp;rsquo;s Fitness tracking
+ecosystem. We also evaluated BreakMi on the Fitbit ecosystem and found that
+most of the vulnerabilities and attacks presented for Xiaomi are portable with
+minor adjustments to the Fitbit ecosystem.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m particularly proud of this paper as its main author is Marco Casagrande, my
+first PhD student. Congratulations, Marco, for the hard/novel/relevant work and
+thanks to the co-authors Eleonora Losiouk, Mauro Conti, and Mathias Payer!&lt;/p&gt;
+&lt;p&gt;We will present the paper in September at &lt;a href=&#34;https://ches.iacr.org/2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CHES 2022&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
