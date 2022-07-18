@@ -5,7 +5,7 @@
     <link>https://francozappa.github.io/</link>
       <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniele Antonioli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Daniele Antonioli</title>
@@ -105,6 +105,58 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats</title>
+      <link>https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/</guid>
+      <description>&lt;p&gt;In this webinar we talk about, Protocol-Level Bluetooth Threats (PLBT), a novel
+and relevant class of threats for automotive security. Specifically, we
+explain what they are, why they are relevant, and how they can be evaluated on
+modern cars. We also report our PLBT evaluation results on five popular
+In-Vehicle Infotainment (IVI) units used by KIA, Toyota, Suzuki, and Skoda on
+cars manufactured between 2014 and 2021. For example, we show that is trivial
+to impersonate a trusted smartphone to commercial IVIs using an attack chain
+that we developed in recent years (KNOB+BIAS attacks). As a result of a
+successful impersonation, an attacker can exfiltrate sensitive data stored on
+the IVI and send malicious commands to the IVI without being detected.&lt;/p&gt;
+&lt;p&gt;We note that PLBTs are effective on any Bluetooth-enabled IVI as they exploit
+protocol flaws in the Bluetooth standard itself. Hence, we expect that the
+vast majority of the IVIs in the market is vulnerable to the KNOB+BIAS attack
+chain and other PLBTs. This fact should clearly motivate why it is important
+to investigate and fix PLBTs in the automotive industry.&lt;/p&gt;
+&lt;p&gt;For more information please refer to our research paper presented this year at
+the IEEE &lt;em&gt;Workshop On Offensive Technologies (WOOT)&lt;/em&gt; titled &lt;strong&gt;On the Insecurity
+of Vehicles Against Protocol-Level Bluetooth Threats&lt;/strong&gt; available
+&lt;a href=&#34;https://hexhive.epfl.ch/publications/files/22WOOT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/tqln99BHUzU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats Video</title>
+      <link>https://francozappa.github.io/post/2022/btcar-video/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2022/btcar-video/</guid>
+      <description>&lt;p&gt;Below you can find a webinar that I&amp;rsquo;ve recorded for the
+&lt;a href=&#34;https://asrg.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automotive Security Research Group (ASRG)&lt;/a&gt; talking about
+our recent paper titled
+&lt;a href=&#34;https://hexhive.epfl.ch/publications/files/22WOOT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;On the Insecurity of Vehicles Against Protocol-Level Bluetooth
+Threats&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The webinar will also be linked for &lt;a href=&#34;https://www.ieee-security.org/TC/SP2022/WOOT22/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WOOT&#39;22&lt;/a&gt;
+as the talk I gave at the workshop was not recorded because of some issues.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/tqln99BHUzU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
     </item>
     
     <item>

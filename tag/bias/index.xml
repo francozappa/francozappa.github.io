@@ -5,12 +5,32 @@
     <link>https://francozappa.github.io/tag/bias/</link>
       <atom:link href="https://francozappa.github.io/tag/bias/index.xml" rel="self" type="application/rss+xml" />
     <description>bias</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>bias</title>
       <link>https://francozappa.github.io/tag/bias/</link>
     </image>
+    
+    <item>
+      <title>On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats Video</title>
+      <link>https://francozappa.github.io/post/2022/btcar-video/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2022/btcar-video/</guid>
+      <description>&lt;p&gt;Below you can find a webinar that I&amp;rsquo;ve recorded for the
+&lt;a href=&#34;https://asrg.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automotive Security Research Group (ASRG)&lt;/a&gt; talking about
+our recent paper titled
+&lt;a href=&#34;https://hexhive.epfl.ch/publications/files/22WOOT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;On the Insecurity of Vehicles Against Protocol-Level Bluetooth
+Threats&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The webinar will also be linked for &lt;a href=&#34;https://www.ieee-security.org/TC/SP2022/WOOT22/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WOOT&#39;22&lt;/a&gt;
+as the talk I gave at the workshop was not recorded because of some issues.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/tqln99BHUzU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>WAC3 Presentation is Online</title>
