@@ -60,10 +60,11 @@
   
     
   
-  <meta name="description" content="" />
+  <meta name="description" content="I&rsquo;m glad to share three updates about the BLURtooth paper.
+We successfully tested the BLUR attacks on a Google Pixel 6 (Bluetooth 5.2) and submitted our findings to Google. They classified the report with high severity, assigned CVE-2022-20361, and shipped fixes as part of August&rsquo;s Android Security bulletin." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/publication/2022/blur/" />
+  <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/post/2022/blur-updates/" />
 
   
   
@@ -72,9 +73,6 @@
   
 
   
-  
-    
-    <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -225,9 +223,9 @@
 
       
       
-
+        
       
-        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+
       
     
       
@@ -320,7 +318,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://francozappa.github.io/publication/2022/blur/" />
+  <link rel="canonical" href="https://francozappa.github.io/post/2022/blur-updates/" />
 
   
   
@@ -343,18 +341,19 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Daniele Antonioli" />
-  <meta property="og:url" content="https://francozappa.github.io/publication/2022/blur/" />
-  <meta property="og:title" content="BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy | Daniele Antonioli" />
-  <meta property="og:description" content="" /><meta property="og:image" content="https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="https://francozappa.github.io/post/2022/blur-updates/" />
+  <meta property="og:title" content="BLURtooth video, new CVE, and GH repo | Daniele Antonioli" />
+  <meta property="og:description" content="I&rsquo;m glad to share three updates about the BLURtooth paper.
+We successfully tested the BLUR attacks on a Google Pixel 6 (Bluetooth 5.2) and submitted our findings to Google. They classified the report with high severity, assigned CVE-2022-20361, and shipped fixes as part of August&rsquo;s Android Security bulletin." /><meta property="og:image" content="https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2022-03-06T00:00:00&#43;00:00"
+        content="2022-08-17T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2022-03-06T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-08-17T00:00:00&#43;00:00">
   
 
   
@@ -366,6 +365,8 @@
 
 
 
+
+  
 
 
 
@@ -373,19 +374,19 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://francozappa.github.io/publication/2022/blur/"
+    "@id": "https://francozappa.github.io/post/2022/blur-updates/"
   },
-  "headline": "BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy",
+  "headline": "BLURtooth video, new CVE, and GH repo",
   
-  "datePublished": "2022-03-06T00:00:00Z",
-  "dateModified": "2022-03-06T00:00:00Z",
+  "datePublished": "2022-08-17T00:00:00Z",
+  "dateModified": "2022-08-17T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "D. Antonioli"
+    "name": "Daniele Antonioli"
   },
   
   "publisher": {
@@ -396,7 +397,7 @@
       "url": "https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": ""
+  "description": "I\u0026rsquo;m glad to share three updates about the BLURtooth paper.\nWe successfully tested the BLUR attacks on a Google Pixel 6 (Bluetooth 5.2) and submitted our findings to Google. They classified the report with high severity, assigned CVE-2022-20361, and shipped fixes as part of August\u0026rsquo;s Android Security bulletin."
 }
 </script>
 
@@ -412,11 +413,11 @@
 
 
 
-  <title>BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy | Daniele Antonioli</title>
+  <title>BLURtooth video, new CVE, and GH repo | Daniele Antonioli</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="1745ce725b94bebdc40889dc5bb2c6e1" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="d328b546eb643b1d4adbbbaab2733f14" >
 
   
   
@@ -902,16 +903,7 @@
   </div>
 
   <div class="page-body">
-    
-
-
-
-
-
-
-
-
-<div class="pub">
+    <article class="article">
 
   
 
@@ -932,7 +924,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy</h1>
+  <h1>BLURtooth video, new CVE, and GH repo</h1>
 
   
 
@@ -944,19 +936,6 @@
 
   
   
-  
-  
-  <div>
-    
-
-  <span >
-      <a href="/author/d.-antonioli/">D. Antonioli</a></span>, <span >
-      <a href="/author/n.-o.-tippenhauer/">N. O. Tippenhauer</a></span>, <span >
-      <a href="/author/k.-rasmussen/">K. Rasmussen</a></span>, <span >
-      <a href="/author/m.-payer/">M. Payer</a></span>
-  </div>
-  
-  
 
   
   <span class="article-date">
@@ -964,12 +943,17 @@
     
       
     
-    March 2022
+    Aug 17, 2022
   </span>
   
 
   
 
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
   
 
   
@@ -979,7 +963,7 @@
   
   
     <span class="middot-divider"></span>
-    <a href="/publication/2022/blur/#disqus_thread"></a>
+    <a href="/post/2022/blur-updates/#disqus_thread"></a>
   
 
   
@@ -991,122 +975,6 @@
 
 
 
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header" href="https://nebelwelt.net/files/22AsiaCCS.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/2022/blur/cite.bib">
-  Cite
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://github.com/francozappa/blur" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header" href="/project/blur/">
-    Project
-  </a>
-  
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="/publication/2022/blur/slides.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=FzFQD3XTLlA" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header" href="https://hexhive.epfl.ch/BLURtooth/" target="_blank" rel="noopener">
-    Website</a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header" href="https://nvd.nist.gov/vuln/detail/CVE-2020-15802" target="_blank" rel="noopener">
-    CVE-2020-15802</a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header" href="https://nvd.nist.gov/vuln/detail/CVE-2022-20361" target="_blank" rel="noopener">
-    CVE-2022-20361</a>
-
-
-</div>
 
 
   
@@ -1116,44 +984,31 @@
 
   <div class="article-container">
 
-    
+    <div class="article-style">
+      <p>I&rsquo;m glad to share three updates about the <a href="https://nebelwelt.net/files/22AsiaCCS.pdf" target="_blank" rel="noopener">BLURtooth paper</a>.</p>
+<p>We successfully tested the BLUR attacks on a
+Google Pixel 6 (Bluetooth 5.2) and submitted our findings to
+Google. They classified the report with high severity, assigned
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2022-20361" target="_blank" rel="noopener">CVE-2022-20361</a>,
+and shipped fixes as part of
+<a href="https://source.android.com/docs/security/bulletin/2022-08-01" target="_blank" rel="noopener">August&rsquo;s Android Security bulletin</a>.
+More details about the fixes can be found
+<a href="https://android.googlesource.com/platform/system/bt/&#43;/6ad3f69b2199d953647e1053e8de2a8c26f1b8d6" target="_blank" rel="noopener">here</a>.
+This is yet another finding demonstrating that the attacks are effective
+on all Bluetooth versions supporting CTKD unlike stated
+<a href="https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/blurtooth/" target="_blank" rel="noopener">in this note from the Bluetooth SIG</a>
+.</p>
+<p>After following responsible disclosure we also
+publish the instructions to reproduce the BLUR attacks
+in a <a href="https://github.com/francozappa/blur" target="_blank" rel="noopener">GitHub repository</a>.</p>
+<p>Below you can find the paper presentation streamed at AsiaCCS'22:</p>
 
-    
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
-          <div class="col-12 col-md-9">
-            <a href="/publication/#1">
-              Conference paper
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/FzFQD3XTLlA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
     </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Asia conference on Computer and Communications Security</div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    <div class="space-below"></div>
-
-    <div class="article-style"></div>
 
     
 
@@ -1161,6 +1016,12 @@
 
 
 
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/blur/">blur</a>
+  
+</div>
 
 
 
@@ -1175,7 +1036,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://francozappa.github.io/publication/2022/blur/&amp;text=BLURtooth:%20Exploiting%20Cross-Transport%20Key%20Derivation%20in%20Bluetooth%20Classic%20and%20Bluetooth%20Low%20Energy" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://francozappa.github.io/post/2022/blur-updates/&amp;text=BLURtooth%20video,%20new%20CVE,%20and%20GH%20repo" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1188,7 +1049,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://francozappa.github.io/publication/2022/blur/&amp;t=BLURtooth:%20Exploiting%20Cross-Transport%20Key%20Derivation%20in%20Bluetooth%20Classic%20and%20Bluetooth%20Low%20Energy" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://francozappa.github.io/post/2022/blur-updates/&amp;t=BLURtooth%20video,%20new%20CVE,%20and%20GH%20repo" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1201,7 +1062,7 @@
       
       
       <li>
-        <a href="mailto:?subject=BLURtooth:%20Exploiting%20Cross-Transport%20Key%20Derivation%20in%20Bluetooth%20Classic%20and%20Bluetooth%20Low%20Energy&amp;body=https://francozappa.github.io/publication/2022/blur/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=BLURtooth%20video,%20new%20CVE,%20and%20GH%20repo&amp;body=https://francozappa.github.io/post/2022/blur-updates/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1214,7 +1075,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://francozappa.github.io/publication/2022/blur/&amp;title=BLURtooth:%20Exploiting%20Cross-Transport%20Key%20Derivation%20in%20Bluetooth%20Classic%20and%20Bluetooth%20Low%20Energy" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://francozappa.github.io/post/2022/blur-updates/&amp;title=BLURtooth%20video,%20new%20CVE,%20and%20GH%20repo" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1227,7 +1088,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=BLURtooth:%20Exploiting%20Cross-Transport%20Key%20Derivation%20in%20Bluetooth%20Classic%20and%20Bluetooth%20Low%20Energy%20https://francozappa.github.io/publication/2022/blur/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=BLURtooth%20video,%20new%20CVE,%20and%20GH%20repo%20https://francozappa.github.io/post/2022/blur-updates/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1240,7 +1101,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://francozappa.github.io/publication/2022/blur/&amp;title=BLURtooth:%20Exploiting%20Cross-Transport%20Key%20Derivation%20in%20Bluetooth%20Classic%20and%20Bluetooth%20Low%20Energy" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://francozappa.github.io/post/2022/blur-updates/&amp;title=BLURtooth%20video,%20new%20CVE,%20and%20GH%20repo" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1260,30 +1121,213 @@
 
   
   
-    
-
-
-
-
-  
-    
-
 
 
 
   
-    
-
-
-
-
+  
   
     
-
-
-
-
   
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://francozappa.github.io/"><img class="avatar mr-3 avatar-circle" src="/author/daniele-antonioli/avatar_hufd6449924b8771808a89b636be1cd7b0_295644_270x270_fill_lanczos_center_3.png" alt="Daniele Antonioli"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://francozappa.github.io/">Daniele Antonioli</a></h5>
+      <h6 class="card-subtitle">Assistant Professor</h6>
+      <p class="card-text">Research in cyber-physical and wireless system security</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/uploads/cv.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=RkX4eFsAAAAJ&amp;hl" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/francozappa" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/francozappa" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://linkedin.com/in/antoniolidaniele" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://keybase.io/francozappa" target="_blank" rel="noopener">
+        <i class="fas fa-key"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://lulu.com/shop/search.ep?contributorId=1182719" target="_blank" rel="noopener">
+        <i class="fab fa-leanpub"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://dblp.org/pers/a/Antonioli:Daniele.html" target="_blank" rel="noopener">
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-9342-3920" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://thispersondoesnotexist.com/image" target="_blank" rel="noopener">
+        <i class="fab fa-instagram"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
 
 
 
@@ -1336,13 +1380,22 @@
 
   
   
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/post/2020/blur-announce/">BLURtooth (BLUR Attacks) Disclosure</a></li>
+      
+    </ul>
+  </div>
+  
 
 
 
 
 
   </div>
-</div>
+</article>
   </div>
 
   <div class="page-footer">
