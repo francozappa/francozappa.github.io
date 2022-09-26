@@ -117,10 +117,13 @@ and Fixing Xiaomi Fitness Tracking Ecosystem&lt;/em&gt; at  &lt;a href=&#34;http
 in the hardware security track.&lt;/p&gt;
 &lt;p&gt;Here is the excellent
 &lt;a href=&#34;https://www.youtube.com/watch?v=zD5EdvGs98U&amp;amp;t=3412s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;presentation&lt;/a&gt;
-given by Marco Casagrande. You can also find the
-&lt;a href=&#34;https://francozappa.github.io/publication/2022/breakmi/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt; and check out the
-&lt;a href=&#34;https://tches.iacr.org/index.php/TCHES/article/download/9704/9234&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; for
-more information, such our analysis and exploitation of &lt;em&gt;Fitbit&lt;/em&gt; trackers and &lt;em&gt;countermeasures&lt;/em&gt;.&lt;/p&gt;
+given by Marco Casagrande. You can also check out the presentation
+&lt;a href=&#34;https://francozappa.github.io/publication/2022/breakmi/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt; and the
+&lt;a href=&#34;https://github.com/Skiti/BreakMi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BreakMi repository&lt;/a&gt;
+to reproduce our findings (with the help of video tutorials nicely prepared by
+Marco).&lt;/p&gt;
+&lt;p&gt;For more information, such our reverse engineering methodology, analysis and exploitation of &lt;em&gt;Fitbit&lt;/em&gt; trackers,
+and &lt;em&gt;countermeasures&lt;/em&gt;, have a look at the &lt;a href=&#34;https://tches.iacr.org/index.php/TCHES/article/download/9704/9234&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
