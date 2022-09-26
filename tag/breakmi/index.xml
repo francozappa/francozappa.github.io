@@ -5,12 +5,29 @@
     <link>https://francozappa.github.io/tag/breakmi/</link>
       <atom:link href="https://francozappa.github.io/tag/breakmi/index.xml" rel="self" type="application/rss+xml" />
     <description>breakmi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>breakmi</title>
       <link>https://francozappa.github.io/tag/breakmi/</link>
     </image>
+    
+    <item>
+      <title>BreakMi paper presented at IACR CHES&#39;22</title>
+      <link>https://francozappa.github.io/post/2022/breakmi-ches/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2022/breakmi-ches/</guid>
+      <description>&lt;p&gt;We presented our paper titled  &lt;em&gt;BreakMi: Reversing, Exploiting
+and Fixing Xiaomi Fitness Tracking Ecosystem&lt;/em&gt; at  &lt;a href=&#34;https://ches.iacr.org/2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CHES 2022&lt;/a&gt;
+in the hardware security track.&lt;/p&gt;
+&lt;p&gt;Here is the excellent
+&lt;a href=&#34;https://www.youtube.com/watch?v=zD5EdvGs98U&amp;amp;t=3412s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;presentation&lt;/a&gt;
+given by Marco Casagrande. You can also find the
+&lt;a href=&#34;https://francozappa.github.io/publication/2022/breakmi/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt; and check out the
+&lt;a href=&#34;https://tches.iacr.org/index.php/TCHES/article/download/9704/9234&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; for
+more information, such our analysis and exploitation of &lt;em&gt;Fitbit&lt;/em&gt; trackers and &lt;em&gt;countermeasures&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BreakMI Paper and Repo</title>
