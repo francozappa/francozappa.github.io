@@ -5,12 +5,71 @@
     <link>https://francozappa.github.io/tag/cfp/</link>
       <atom:link href="https://francozappa.github.io/tag/cfp/index.xml" rel="self" type="application/rss+xml" />
     <description>cfp</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>cfp</title>
       <link>https://francozappa.github.io/tag/cfp/</link>
     </image>
+    
+    <item>
+      <title>ACM CPSS&#39;23 CFP is Open!</title>
+      <link>https://francozappa.github.io/post/2022/cfp-cpss23/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2022/cfp-cpss23/</guid>
+      <description>&lt;p&gt;The call for papers for 2023 ACM &lt;em&gt;Cyber-Physical System Security Workshop
+(CPSS)&lt;/em&gt; is open. The workshop is held in conjunction with ACM AsiaCCS&#39;23
+in Melbourne, Australia.
+For more information see the CPSS &lt;a href=&#34;https://www.nics.uma.es/CPSS2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; and
+its &lt;a href=&#34;https://www.nics.uma.es/CPSS2023/#CFP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;call for papers&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;deadlines&#34;&gt;Deadlines&lt;/h2&gt;
+&lt;p&gt;All deadlines are at 11.59PM / 23:59 American Samoa Time&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Submission: January 30, 2023&lt;/li&gt;
+&lt;li&gt;Notification: March 15, 2023&lt;/li&gt;
+&lt;li&gt;Camera-ready: March 30, 2023&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;scope&#34;&gt;Scope&lt;/h2&gt;
+&lt;p&gt;Cyber-Physical Systems (CPS) of interest to this workshop consist of
+large-scale interconnected systems of heterogeneous components interacting
+with their physical environments. There exist a multitude of CPS devices and
+applications deployed to serve critical functions in our lives thus making
+security an important non-functional attribute of such systems. This workshop
+will provide a platform for professionals from academia, government, and
+industry to discuss novel ways to address the ever-present security challenges
+facing CPS. We seek submissions describing theoretical and practical solutions
+to security challenges in CPS. Submissions pertinent to the security of
+embedded systems, IoT, SCADA, smart grid, and other critical infrastructure
+are welcome.&lt;/p&gt;
+&lt;h2 id=&#34;topic-of-interest&#34;&gt;Topic of interest&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Attack detection for CPS&lt;/li&gt;
+&lt;li&gt;Authentication and access control for CPS&lt;/li&gt;
+&lt;li&gt;Autonomous vehicle security&lt;/li&gt;
+&lt;li&gt;Availability and auditing for CPS&lt;/li&gt;
+&lt;li&gt;Blockchain for CPS security&lt;/li&gt;
+&lt;li&gt;Data security and privacy for CPS&lt;/li&gt;
+&lt;li&gt;Deception Technologies for CPS&lt;/li&gt;
+&lt;li&gt;Digital twins/Cyber range for CPS security&lt;/li&gt;
+&lt;li&gt;Embedded systems security&lt;/li&gt;
+&lt;li&gt;Formal methods in CPS&lt;/li&gt;
+&lt;li&gt;Industrial control system security&lt;/li&gt;
+&lt;li&gt;IoT security&lt;/li&gt;
+&lt;li&gt;Legacy CPS system protection&lt;/li&gt;
+&lt;li&gt;Lightweight crypto and security&lt;/li&gt;
+&lt;li&gt;Maritime cyber security&lt;/li&gt;
+&lt;li&gt;Recovery from cyber attacks&lt;/li&gt;
+&lt;li&gt;Security and risk assessment for CPS&lt;/li&gt;
+&lt;li&gt;Security architectures for CPS&lt;/li&gt;
+&lt;li&gt;Security by design for CPS&lt;/li&gt;
+&lt;li&gt;Smart grid security&lt;/li&gt;
+&lt;li&gt;Threat modeling for CPS&lt;/li&gt;
+&lt;li&gt;Transportation system security&lt;/li&gt;
+&lt;li&gt;Vulnerability analysis for CPS&lt;/li&gt;
+&lt;li&gt;Wireless sensor network security&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>CFP: JSys System Security</title>
