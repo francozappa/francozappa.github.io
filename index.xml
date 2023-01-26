@@ -5,7 +5,7 @@
     <link>https://francozappa.github.io/</link>
       <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniele Antonioli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Daniele Antonioli</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Daniele Antonioli</title>
@@ -105,6 +105,64 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Open-source ReSilient Hardware and software for Internet of thiNgs (ORSHIN)</title>
+      <link>https://francozappa.github.io/project/orshin/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/project/orshin/</guid>
+      <description>&lt;h2 id=&#34;contacts&#34;&gt;Contacts&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://horizon-orshin.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;,
+&lt;a href=&#34;https://twitter.com/ORSHIN_HE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt;,
+&lt;a href=&#34;https://www.linkedin.com/company/orshin-horizon-europe-project-101070008/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt;,
+&lt;a href=&#34;https://vimeo.com/technikon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vimeo&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;It is common wisdom that cyber security is only as strong as the weakest link
+in a chain. Therefore, the main challenge is to identify the critical points
+of IoT infrastructure. To address this issue, ORSHIN is creating the first
+generic and integrated methodology, called trusted lifecycle, to develop
+secure network devices based on open-source components while managing their
+entire lifecycle. ORSHIN&amp;rsquo;s trustworthy lifecycle consists of different phases
+(design, implementation, evaluation, installation, maintenance and retirement)
+that form a chain of trust. This lifecycle defines how the safety objectives
+are translated into policies for defined phases. Using this holistic view,
+ORSHIN will address critical links, reduce threats and improve security of
+open-source devices.&lt;/p&gt;
+&lt;h2 id=&#34;vision&#34;&gt;Vision&lt;/h2&gt;
+&lt;p&gt;The open-source initiative represents a significant shift in the industry,
+providing the opportunity to share knowledge between industry and research and
+enabling rapid time-to-market for solutions, but there is still much room for
+improvement - particularly with a view to cyber security. Therefore, the
+ORSHIN project team will step together and develop a new approach that will
+improve cyber security, manage the entire lifecycle of trustworthy network and
+create a secure infrastructure for connected devices. To meet this challenge
+ORSHIN will work on building a trusted open-source hardware and software that
+will significantly reduce the risks associated with IoT devices - from design
+to its retirement, as a chain of trust called the trusted lifecycle.&lt;/p&gt;
+&lt;h2 id=&#34;consortium&#34;&gt;Consortium&lt;/h2&gt;
+&lt;p&gt;The ORSHIN consortium consists of seven partners from six European countries.
+It consists of a well-balanced mixture between academic and industrial players, from large
+semiconductor to small SMEs.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Technikon (Austria)&lt;/li&gt;
+&lt;li&gt;KU Leuven (Belgium)&lt;/li&gt;
+&lt;li&gt;EURECOM (France)&lt;/li&gt;
+&lt;li&gt;NXP (Germany)&lt;/li&gt;
+&lt;li&gt;Security Pattern (Italy)&lt;/li&gt;
+&lt;li&gt;Texplained (France)&lt;/li&gt;
+&lt;li&gt;Tropic square (Czech Republic)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Horizon Europe: HORIZON-CL3-2021-CS-01-02&lt;/li&gt;
+&lt;li&gt;Reference number: 101070008&lt;/li&gt;
+&lt;li&gt;Project start: 01.10.2022&lt;/li&gt;
+&lt;li&gt;Project duration: 36 months&lt;/li&gt;
+&lt;li&gt;Costs: € 3.814.500,00&lt;/li&gt;
+&lt;li&gt;Funding: 100,00% EU-funded&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
