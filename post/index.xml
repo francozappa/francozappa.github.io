@@ -5,12 +5,58 @@
     <link>https://francozappa.github.io/post/</link>
       <atom:link href="https://francozappa.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://francozappa.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>BreakMI Poster Presentation at EURECOM SC</title>
+      <link>https://francozappa.github.io/post/2023/breakmi-poster/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2023/breakmi-poster/</guid>
+      <description>&lt;p&gt;Marco Casagrande presented his excellent
+&lt;a href=&#34;https://francozappa.github.io/publication/2022/breakmi/poster.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt;
+about &lt;a href=&#34;https://tches.iacr.org/index.php/TCHES/article/download/9704/9234&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BreakMi: Reversing, Exploiting and Fixing Xiaomi Fitness Tracking Ecosystem&lt;/a&gt;
+during EURECOM&amp;rsquo;s Scientific Council (SC).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image alt&#34; srcset=&#34;
+               /post/2023/breakmi-poster/images/poster_hu71f71713b931b7aeee0ba9752f154afd_934076_d9f19a8ccdd4fc3f9d33b4dcdc0af9cc.webp 400w,
+               /post/2023/breakmi-poster/images/poster_hu71f71713b931b7aeee0ba9752f154afd_934076_28579351d3ce547cbebdd64164fdbc1a.webp 760w,
+               /post/2023/breakmi-poster/images/poster_hu71f71713b931b7aeee0ba9752f154afd_934076_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://francozappa.github.io/post/2023/breakmi-poster/images/poster_hu71f71713b931b7aeee0ba9752f154afd_934076_d9f19a8ccdd4fc3f9d33b4dcdc0af9cc.webp&#34;
+               width=&#34;534&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;For more info see at the paper&amp;rsquo;s presentation starting around min 56:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/zD5EdvGs98U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>ACM CPSS&#39;23 CFP is Open!</title>
