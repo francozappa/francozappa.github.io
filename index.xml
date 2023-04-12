@@ -5,7 +5,7 @@
     <link>https://francozappa.github.io/</link>
       <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniele Antonioli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Wed, 12 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Daniele Antonioli</title>
@@ -105,6 +105,36 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>BreakMi talk at Hardwear.io USA 2023 🐞</title>
+      <link>https://francozappa.github.io/post/2023/breakmi-hwio/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2023/breakmi-hwio/</guid>
+      <description>&lt;p&gt;Our talk titled &lt;strong&gt;BreakMi: Reversing, Exploiting and Fixing Xiaomi (and Fitbit) Fitness Tracking Ecosystems&lt;/strong&gt; has been accepted at
+Hardwear.io USA&#39;23. The talk extends and complements our paper titled
+&lt;a href=&#34;https://tches.iacr.org/index.php/TCHES/article/download/9704/9234&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;BreakMi: Reversing, Exploiting and Fixing Xiaomi Fitness Tracking Ecosystem&lt;/em&gt;&lt;/a&gt;.
+The talk covers new relevant and educational aspect about our study that we
+did not have time to talk about during the
+&lt;a href=&#34;https://www.youtube.com/watch?t=3412&amp;amp;v=zD5EdvGs98U&amp;amp;feature=youtu.be&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper presentation at CHES&#39;22&lt;/a&gt;.
+For instance we will cover in detail:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Our reverse engineering methodology that the community can adopt to
+tackle similar problems.&lt;/li&gt;
+&lt;li&gt;BreakMi’s implementation details and attack demos from the &lt;a href=&#34;https://github.com/Skiti/BreakMi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BreakMi repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The Fitbit fitness tracker ecosystem (owned by Google) and how BreakMi can be
+used to evaluate and exploit Fitbit fitness trackers&lt;/li&gt;
+&lt;li&gt;Responsible disclosure insights with Google and Xiaomi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Shout-out to our collaborators
+&lt;a href=&#34;https://www.math.unipd.it/~elosiouk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eleonora Losiouk&lt;/a&gt;,
+&lt;a href=&#34;https://www.math.unipd.it/~conti/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mauro Conti&lt;/a&gt;, and
+&lt;a href=&#34;https://nebelwelt.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathias Payer&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Other relevant links: &lt;a href=&#34;https://hardwear.io/usa-2023/speakers/marco-and-daniele.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hardwear.io&lt;/a&gt;,
+&lt;a href=&#34;https://twitter.com/hardwear_io/status/1645486885219827714&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt;,
+&lt;a href=&#34;https://www.linkedin.com/feed/update/urn:li:activity:7051287921869385728/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
