@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M. Casagrande | Daniele Antonioli</title>
-    <link>https://francozappa.github.io/author/m.-casagrande/</link>
-      <atom:link href="https://francozappa.github.io/author/m.-casagrande/index.xml" rel="self" type="application/rss+xml" />
-    <description>M. Casagrande</description>
+    <title>R. Cestaro | Daniele Antonioli</title>
+    <link>https://francozappa.github.io/author/r.-cestaro/</link>
+      <atom:link href="https://francozappa.github.io/author/r.-cestaro/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Cestaro</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
-      <title>M. Casagrande</title>
-      <link>https://francozappa.github.io/author/m.-casagrande/</link>
+      <title>R. Cestaro</title>
+      <link>https://francozappa.github.io/author/r.-cestaro/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://francozappa.github.io/publication/2023/espoofer/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/publication/2023/espoofer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BreakMi: Reversing, Exploiting and Fixing Xiaomi Fitness Tracking Ecosystem</title>
-      <link>https://francozappa.github.io/publication/2022/breakmi/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/2022/breakmi/</guid>
       <description></description>
     </item>
     

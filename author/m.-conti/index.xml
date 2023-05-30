@@ -5,12 +5,20 @@
     <link>https://francozappa.github.io/author/m.-conti/</link>
       <atom:link href="https://francozappa.github.io/author/m.-conti/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Conti</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>M. Conti</title>
       <link>https://francozappa.github.io/author/m.-conti/</link>
     </image>
+    
+    <item>
+      <title>E-Spoofer: Attacking and Defending Xiaomi Electric Scooter Ecosystem</title>
+      <link>https://francozappa.github.io/publication/2023/espoofer/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2023/espoofer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BreakMi: Reversing, Exploiting and Fixing Xiaomi Fitness Tracking Ecosystem</title>
