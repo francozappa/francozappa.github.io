@@ -5,12 +5,47 @@
     <link>https://francozappa.github.io/post/</link>
       <atom:link href="https://francozappa.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://francozappa.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>E-Spoofer paper at WiSec&#39;23</title>
+      <link>https://francozappa.github.io/post/2023/espoofer-wisec/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2023/espoofer-wisec/</guid>
+      <description>&lt;p&gt;Marco Casagrande presented at
+&lt;a href=&#34;https://wisec2023.surrey.ac.uk/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WiSec&#39;23&lt;/a&gt;
+our paper titled: &lt;strong&gt;E-Spoofer: Attacking and Defending Xiaomi Electric Scooter
+Ecosystem&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In a nutshell, we reverse-engineered the proprietary wireless protocols used
+by Xiaomi e-scooters and companions applications (i.e., Mi Home) over BLE,
+found critical vulnerabilities, exploited them to get arbitrary read and
+write capabilities on an e-scooter both in proximity and remotely (via a
+malicious Android app), developed concrete countermeasures, released a toolkit
+to reproduce our findings and tamper with the protocols, and responsibly
+disclosed our results to Xiaomi.&lt;/p&gt;
+&lt;p&gt;Useful links:
+&lt;a href=&#34;https://francozappa.github.io/publication/2023/espoofer/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;,
+&lt;a href=&#34;https://francozappa.github.io/publication/2023/espoofer/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/Skiti/ESpoofer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/@ESpoofer-yv9li&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demos&lt;/a&gt;,
+&lt;a href=&#34;https://twitter.com/acm_wisec/status/1663184140248797184&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WiSec tweet&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This work continues our exploration of obscure proprietary protocols used in
+popular and high risk setups, including our research on
+&lt;a href=&#34;https://francozappa.github.io/publication/2022/breakmi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xiaomi and Fitbit fitness trackers&lt;/a&gt;
+presented last year at CHES.&lt;/p&gt;
+&lt;p&gt;Shout-out to the paper&amp;rsquo;s co-authors:
+Marco Casagrande, Riccardo Cestaro,
+&lt;a href=&#34;https://www.math.unipd.it/~elosiouk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eleonora Losiouk&lt;/a&gt;, and
+&lt;a href=&#34;https://www.math.unipd.it/~conti/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mauro Conti&lt;/a&gt;. And the funding
+partners: &lt;a href=&#34;https://horizon-orshin.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORSHIN (EU)&lt;/a&gt; and the
+Air Force Office of Scientific Research.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>EURECOM Digital Security opening for an Asst. Prof.</title>
