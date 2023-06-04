@@ -5,7 +5,7 @@
     <link>https://francozappa.github.io/</link>
       <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniele Antonioli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Sat, 03 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Daniele Antonioli</title>
@@ -105,6 +105,62 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>BreakMi: Reversing, Exploiting and Fixing Xiaomi (and Fitbit) Fitness Tracking Ecosystems</title>
+      <link>https://francozappa.github.io/talk/breakmi-reversing-exploiting-and-fixing-xiaomi-and-fitbit-fitness-tracking-ecosystems/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/breakmi-reversing-exploiting-and-fixing-xiaomi-and-fitbit-fitness-tracking-ecosystems/</guid>
+      <description>&lt;p&gt;Xiaomi is the leading company in the fitness tracking industry. Successful
+attacks on its fitness tracking ecosystem would result in severe consequences,
+including the loss of sensitive health and personal data. Despite these
+relevant risks, we know very little about the security mechanisms adopted by
+Xiaomi. In this work, we uncover them and show that they are insecure. In
+particular, Xiaomi protects its fitness tracking ecosystem with custom
+application-layer protocols spoken over insecure Bluetooth Low-Energy (BLE)
+connections (ignoring standard BLE security mechanisms already supported by
+their devices) and TLS connections. We identify severe vulnerabilities
+affecting such proprietary protocols, including unilateral and replayable
+authentication.&lt;/p&gt;
+&lt;p&gt;Those issues are critical as they affect all Xiaomi trackers released since
+2016 and up-to-date Xiaomi companion apps for Android and iOS. We show in
+practice how to exploit the identified vulnerabilities by presenting six
+impactful attacks. Four attacks enable to wirelessly impersonate any Xiaomi
+fitness tracker and companion app, man-in-the-middle (MitM) them, and
+eavesdrop on their communication. The other two attacks leverage a malicious
+Android application to remotely eavesdrop on data from a tracker and
+impersonate a Xiaomi fitness app.&lt;/p&gt;
+&lt;p&gt;Overall, the attacks have a high impact as they can be used to exfiltrate and
+inject sensitive data from any Xiaomi tracker and compatible app. We propose
+five practical and low-overhead countermeasures to mitigate the presented
+vulnerabilities. Moreover, we present BreakMi, a modular toolkit that we
+developed to automate our reverse-engineering process and attacks. breakmi
+understands Xiaomi application-layer proprietary protocols, reimplements
+Xiaomi security mechanisms, and automatically performs our attacks. We
+demonstrate that our toolkit can be generalized by extending it to be
+compatible with the Fitbit ecosystem. We will open-source BreakMi.&lt;/p&gt;
+&lt;p&gt;More &lt;a href=&#34;https://hardwear.io/usa-2023/speakers/marco-and-daniele.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the (In)securities of Popular Standard and Proprietary Wireless Protocols</title>
+      <link>https://francozappa.github.io/talk/on-the-insecurities-of-popular-standard-and-proprietary-wireless-protocols/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/on-the-insecurities-of-popular-standard-and-proprietary-wireless-protocols/</guid>
+      <description>&lt;p&gt;This talk covers our recent research on the (in)securities of
+proprietary and standard wireless security protocols used daily by
+millions of devices and users. In particular, I will cover the BLUR
+attacks on Bluetooth, a novel class of threats capable of exploiting
+Bluetooth Classic from Bluetooth Low Energy and vice versa. Then, I
+will report on our security evaluation of protocol-level Bluetooth
+threats on vehicles (i.e., cars), a currently unexplored by impactful
+attack surface. Next, I will shift to proprietary wireless protocols
+and describe our security assessments of Xiaomi and Fitbit fitness
+trackers&amp;rsquo; proprietary protocols. Finally, I will conclude by covering
+our latest work on custom Xiaomi e-scooters&amp;rsquo; wireless protocols.&lt;/p&gt;
+</description>
     </item>
     
     <item>
