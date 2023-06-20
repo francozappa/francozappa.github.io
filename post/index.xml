@@ -5,12 +5,40 @@
     <link>https://francozappa.github.io/post/</link>
       <atom:link href="https://francozappa.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Tue, 20 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://francozappa.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Hiring a postdoc interested in IIoT network security</title>
+      <link>https://francozappa.github.io/post/2023/hiring-postdoc-pepr5g/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2023/hiring-postdoc-pepr5g/</guid>
+      <description>&lt;p&gt;I am looking for a postdoc interested in
+&lt;strong&gt;Industrial Internet-of-Thing (IIoT) network security and privacy&lt;/strong&gt;. The
+postdoc will be funded by the PEPR5g ANR project, work under my supervision at
+and join &lt;a href=&#34;https://www.s3.eurecom.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EURECOM&amp;rsquo;s S3 group&lt;/a&gt;.
+I can start hiring from the beginning of this summer.&lt;/p&gt;
+&lt;p&gt;My research revolves around &lt;em&gt;applied&lt;/em&gt; system security and privacy (e.g.,
+security assessment, vulnerability analysis and exploitation of deployed
+systems). To get a feeling, please see my
+&lt;a href=&#34;https://francozappa.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; and
+&lt;a href=&#34;https://francozappa.github.io/publication/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publications&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you are interested please send me (&lt;a href=&#34;mailto:daniele.antonioli@eurecom.fr&#34;&gt;daniele.antonioli@eurecom.fr&lt;/a&gt;) an &lt;em&gt;HTML-less&lt;/em&gt; email containing:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[PEPR5G] in the email subject&lt;/li&gt;
+&lt;li&gt;The names and email addresses of two referrer (e.g., PhD advisors) in the email body&lt;/li&gt;
+&lt;li&gt;A CV with a list to publications in PDF&lt;/li&gt;
+&lt;li&gt;A short research statement in PDF (max 2 pages) explaining why you are interested in IIoT network security and
+privacy, what you did so far and are what you planning to do in this research area&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Elseif you know someone that might be interested, please spread the word.&lt;/p&gt;
+&lt;p&gt;Grazie!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>E-Spoofer paper at WiSec&#39;23</title>
