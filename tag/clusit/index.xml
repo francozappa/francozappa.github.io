@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clusit | Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tag/clusit/</link>
+      <atom:link href="https://francozappa.github.io/tag/clusit/index.xml" rel="self" type="application/rss+xml" />
+    <description>clusit</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <title>clusit</title>
+      <link>https://francozappa.github.io/tag/clusit/</link>
+    </image>
+    
+    <item>
+      <title>E-Spoofer master&#39;s thesis ranked 2nd for Italian CLUSIT Award</title>
+      <link>https://francozappa.github.io/post/2023/espoofer-clusit/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2023/espoofer-clusit/</guid>
+      <description>&lt;p&gt;Riccardo Cestaro&amp;rsquo;s master thesis, done at EURECOM in my group as a visiting student from UniPD,
+won the &lt;em&gt;second prize&lt;/em&gt; in the CLUSIT (Italian Association for Information Security) thesis
+contest. CLUSIT yearly awards some of the best Information security theses in Italy.
+The list of winners is available
+&lt;a href=&#34;https://tesi.clusit.it/vincitori.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Riccardo&amp;rsquo;s thesis contributed to the
+&lt;a href=&#34;https://francozappa.github.io/publication/2023/espoofer/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E-Spoofer paper&lt;/a&gt;
+that we recently presented at WiSec&#39;23.&lt;/p&gt;
+&lt;p&gt;Bravo Riccardo, and kudos to the co-supervisors.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
