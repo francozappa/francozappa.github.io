@@ -5,12 +5,27 @@
     <link>https://francozappa.github.io/tag/orshin/</link>
       <atom:link href="https://francozappa.github.io/tag/orshin/index.xml" rel="self" type="application/rss+xml" />
     <description>orshin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>orshin</title>
       <link>https://francozappa.github.io/tag/orshin/</link>
     </image>
+    
+    <item>
+      <title>E-Spoofer paper presentation at WiSec&#39;23</title>
+      <link>https://francozappa.github.io/post/2023/espoofer-wisec-video/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2023/espoofer-wisec-video/</guid>
+      <description>&lt;p&gt;Marco Casagrande&amp;rsquo;s presentation of our &lt;a href=&#34;https://francozappa.github.io/publication/2023/espoofer/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E-Spoofer paper&lt;/a&gt; about Xiaomi e-scooters&#39;
+security and privacy recorded at ACM WiSec&#39;23&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/yQvsoKBc304&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>E-Spoofer master&#39;s thesis ranked 2nd for Italian CLUSIT Award</title>
