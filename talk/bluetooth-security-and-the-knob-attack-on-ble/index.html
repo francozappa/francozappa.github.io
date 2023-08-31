@@ -60,10 +60,10 @@
   
     
   
-  <meta name="description" content="Standard-compliant attacks to the Key Negotiation Of Bluetooth (KNOB)" />
+  <meta name="description" content="In this lecture we cover an Introduction about Bluetooth security, its main transports (BC, BLE), procedures (discovery, connect) and logical entities (Host, Controller, HCI). Then we look at Bluetooth security architecture and the specific BC/BLE algorithms and protocols." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/project/knob/" />
+  <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/talk/bluetooth-security-and-the-knob-attack-on-ble/" />
 
   
   
@@ -72,6 +72,9 @@
   
 
   
+  
+    
+    <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -222,9 +225,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -317,7 +320,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://francozappa.github.io/project/knob/" />
+  <link rel="canonical" href="https://francozappa.github.io/talk/bluetooth-security-and-the-knob-attack-on-ble/" />
 
   
   
@@ -339,29 +342,26 @@
   <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Daniele Antonioli" />
-  <meta property="og:url" content="https://francozappa.github.io/project/knob/" />
-  <meta property="og:title" content="Bluetooth KNOB Attacks | Daniele Antonioli" />
-  <meta property="og:description" content="Standard-compliant attacks to the Key Negotiation Of Bluetooth (KNOB)" /><meta property="og:image" content="https://francozappa.github.io/project/knob/featured.png" />
-    <meta property="twitter:image" content="https://francozappa.github.io/project/knob/featured.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="https://francozappa.github.io/talk/bluetooth-security-and-the-knob-attack-on-ble/" />
+  <meta property="og:title" content="Bluetooth Security and the KNOB Attack on BLE | Daniele Antonioli" />
+  <meta property="og:description" content="In this lecture we cover an Introduction about Bluetooth security, its main transports (BC, BLE), procedures (discovery, connect) and logical entities (Host, Controller, HCI). Then we look at Bluetooth security architecture and the specific BC/BLE algorithms and protocols." /><meta property="og:image" content="https://francozappa.github.io/talk/bluetooth-security-and-the-knob-attack-on-ble/featured.png" />
+    <meta property="twitter:image" content="https://francozappa.github.io/talk/bluetooth-security-and-the-knob-attack-on-ble/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2019-08-20T00:00:00&#43;00:00"
+        content="2023-07-04T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2019-08-20T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-07-04T00:00:00&#43;00:00">
   
 
   
 
 
+
+  
     
-
-
-
-
-
 
 
 
@@ -369,34 +369,32 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://francozappa.github.io/project/knob/"
+    "@id": "https://francozappa.github.io/talk/bluetooth-security-and-the-knob-attack-on-ble/"
   },
-  "headline": "Bluetooth KNOB Attacks",
+  "name": "Bluetooth Security and the KNOB Attack on BLE",
+  
+  "location": {
+    "@type": "Place",
+    "name": "Cyber in Sophia, Valbonne"
+  },
+  
   
   "image": [
-    "https://francozappa.github.io/project/knob/featured.png"
+    "https://francozappa.github.io/talk/bluetooth-security-and-the-knob-attack-on-ble/featured.png"
   ],
   
-  "datePublished": "2019-08-20T00:00:00Z",
-  "dateModified": "2019-08-20T00:00:00Z",
+  "startDate": "2023-07-04T00:00:00Z",
   
-  "author": {
+  
+  "performer": {
     "@type": "Person",
     "name": "Daniele Antonioli"
   },
   
-  "publisher": {
-    "@type": "Organization",
-    "name": "Daniele Antonioli",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_192x192_fill_lanczos_center_3.png"
-    }
-  },
-  "description": "Standard-compliant attacks to the Key Negotiation Of Bluetooth (KNOB)"
+  "description": "In this lecture we cover an Introduction about Bluetooth security, its main transports (BC, BLE), procedures (discovery, connect) and logical entities (Host, Controller, HCI). Then we look at Bluetooth security architecture and the specific BC/BLE algorithms and protocols."
 }
 </script>
 
@@ -406,17 +404,15 @@
 
   
 
-  
 
 
 
 
-
-  <title>Bluetooth KNOB Attacks | Daniele Antonioli</title>
+  <title>Bluetooth Security and the KNOB Attack on BLE | Daniele Antonioli</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="842738d29027ad81ea0bbaf91c0a18a3" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="10a5e958b8fdb0aa12d9d21007ca5395" >
 
   
   
@@ -902,7 +898,7 @@
   </div>
 
   <div class="page-body">
-    <article class="article article-project">
+    <div class="pub">
 
   
 
@@ -931,7 +927,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Bluetooth KNOB Attacks</h1>
+  <h1>Bluetooth Security and the KNOB Attack on BLE</h1>
 
   
 
@@ -943,14 +939,6 @@
   
   
 
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Aug 20, 2019
-  </span>
   
 
   
@@ -964,7 +952,7 @@
   
   
     <span class="middot-divider"></span>
-    <a href="/project/knob/#disqus_thread"></a>
+    <a href="/talk/bluetooth-security-and-the-knob-attack-on-ble/#disqus_thread"></a>
   
 
   
@@ -977,13 +965,68 @@
 
 
 
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header" href="/project/knob/">
+    Project
+  </a>
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://docs.google.com/presentation/d/1h7V1XDc2wHppkn_6z8kpnIMfAgEveTE4NxO0plxYyNc/" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
 
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 601px;">
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 680px;">
   <div style="position: relative">
-    <img src="/project/knob/featured_hu2c421acf65fa0fe9632cb665b3583990_118160_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="601" alt="" class="featured-image">
+    <img src="/talk/bluetooth-security-and-the-knob-attack-on-ble/featured_hu6b45a80ec9de389f1ad58db90fd0d4d3_41777_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="680" alt="" class="featured-image">
     
   </div>
 </div>
@@ -992,41 +1035,74 @@
 
   <div class="article-container">
 
+    
+      <br>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            Jul 4, 2023 00:00
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            
+            Summer school
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Cyber in Sophia, Valbonne</div>
+          
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
     <div class="article-style">
-      <p>In 2019 we disclosed two families of high impact attacks affecting the entropy
-negotiation protocols of Bluetooth Classic (BC) and Bluetooth Low Energy
-(BLE). We named the attacks Key Negotiation of Bluetooth (KNOB) attacks. They
-are tracked as <a href="https://nvd.nist.gov/vuln/detail/CVE-2019-9506" target="_blank" rel="noopener">CVE-2019-9506</a>.</p>
-<p>Our first work titled <a href="https://www.usenix.org/system/files/sec19-antonioli.pdf" target="_blank" rel="noopener">The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation of Bluetooth BR/EDR</a> explains how to exploit BC&rsquo;s entropy negotiation to downgrade the entropy of a Bluetooth security key to 1 byte and then brute-force it.</p>
-<p>In a follow-up work  titled
-<a href="https://francozappa.github.io/publication/knob-ble/paper.pdf" target="_blank" rel="noopener">Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy</a>
-we analyzed also BLE and found that it is vulnerable as
-well to the KNOB attacks. In this case the attacker can downgrade the entropy
-of BLE security key to 7 bytes and then brute-force it.</p>
-<h2 id="usenix-security-2019-paper-presentation">USENIX Security 2019 Paper Presentation</h2>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/v9Xg9XcnNh0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<h2 id="bluetooth-blues-knob-attack-explained--research-saturday">Bluetooth blues: KNOB attack explained. — Research Saturday</h2>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/_XvjXZCc1DU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<h2 id="bias--knob-attack-against-bluetooth-iacr-attacks-in-crypto">BIAS + KNOB attack against Bluetooth IACR Attacks in Crypto</h2>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/2Sx-81wz9LA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<h2 id="from-bluetooth-standard-to-standard-compliant-0-days-hardweario">From Bluetooth Standard to Standard Compliant 0-days Hardwear.io</h2>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/ZVSbF11uxuk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
+      <p>In this lecture we cover an Introduction about Bluetooth security, its main
+transports (BC, BLE), procedures (discovery, connect) and logical entities
+(Host, Controller, HCI). Then we look at Bluetooth security architecture and
+the specific BC/BLE algorithms and protocols. We conclude by talking about
+state of the art attacks that we developed against this protocols including
+KNOB, BIAS, and BLUR.</p>
+<p>In this lab we cover an Introduction about Bluetooth security, its main
+transports (BC, BLE), procedures (discovery, connect) and logical entities
+(Host, Controller, HCI). Then we look at Bluetooth security architecture and
+the specific BC/BLE algorithms and protocols. We conclude by talking about
+state of the art attacks that we developed against this protocols including
+KNOB, BIAS, and BLUR</p>
+<p>Summer school program
+<a href="https://www.s3.eurecom.fr/~aurel/summer-school-2023/program/" target="_blank" rel="noopener">here</a>.</p>
 
     </div>
 
@@ -1036,14 +1112,6 @@ of BLE security key to 7 bytes and then brute-force it.</p>
 
 
 
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tag/bluetooth/">bluetooth</a>
-  
-  <a class="badge badge-light" href="/tag/protocol/">protocol</a>
-  
-</div>
 
 
 
@@ -1058,7 +1126,7 @@ of BLE security key to 7 bytes and then brute-force it.</p>
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://francozappa.github.io/project/knob/&amp;text=Bluetooth%20KNOB%20Attacks" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://francozappa.github.io/talk/bluetooth-security-and-the-knob-attack-on-ble/&amp;text=Bluetooth%20Security%20and%20the%20KNOB%20Attack%20on%20BLE" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1071,7 +1139,7 @@ of BLE security key to 7 bytes and then brute-force it.</p>
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://francozappa.github.io/project/knob/&amp;t=Bluetooth%20KNOB%20Attacks" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://francozappa.github.io/talk/bluetooth-security-and-the-knob-attack-on-ble/&amp;t=Bluetooth%20Security%20and%20the%20KNOB%20Attack%20on%20BLE" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1084,7 +1152,7 @@ of BLE security key to 7 bytes and then brute-force it.</p>
       
       
       <li>
-        <a href="mailto:?subject=Bluetooth%20KNOB%20Attacks&amp;body=https://francozappa.github.io/project/knob/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Bluetooth%20Security%20and%20the%20KNOB%20Attack%20on%20BLE&amp;body=https://francozappa.github.io/talk/bluetooth-security-and-the-knob-attack-on-ble/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1097,7 +1165,7 @@ of BLE security key to 7 bytes and then brute-force it.</p>
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://francozappa.github.io/project/knob/&amp;title=Bluetooth%20KNOB%20Attacks" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://francozappa.github.io/talk/bluetooth-security-and-the-knob-attack-on-ble/&amp;title=Bluetooth%20Security%20and%20the%20KNOB%20Attack%20on%20BLE" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1110,7 +1178,7 @@ of BLE security key to 7 bytes and then brute-force it.</p>
       
       
       <li>
-        <a href="whatsapp://send?text=Bluetooth%20KNOB%20Attacks%20https://francozappa.github.io/project/knob/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Bluetooth%20Security%20and%20the%20KNOB%20Attack%20on%20BLE%20https://francozappa.github.io/talk/bluetooth-security-and-the-knob-attack-on-ble/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1123,7 +1191,7 @@ of BLE security key to 7 bytes and then brute-force it.</p>
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://francozappa.github.io/project/knob/&amp;title=Bluetooth%20KNOB%20Attacks" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://francozappa.github.io/talk/bluetooth-security-and-the-knob-attack-on-ble/&amp;title=Bluetooth%20Security%20and%20the%20KNOB%20Attack%20on%20BLE" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1385,643 +1453,13 @@ of BLE security key to 7 bytes and then brute-force it.</p>
 
   
   
-  <div class="article-widget content-widget-hr">
-    <h3>Related</h3>
-    <ul>
-      
-      <li><a href="/project/blur/">Bluetooth BLUR Attacks (BLURtooth)</a></li>
-      
-      <li><a href="/project/gaen/">DP3T/GAEN for COVID-19</a></li>
-      
-      <li><a href="/project/bias/">Bluetooth BIAS Attacks</a></li>
-      
-      <li><a href="/project/rearby/">Reversing and Attacking Google Nearby</a></li>
-      
-    </ul>
-  </div>
-  
 
 
 
 
 
-    <div class="project-related-pages content-widget-hr">
-      
-      
-
-      
-      
-      
-
-      
-      
-      
-        <h2>Publications</h2>
-        
-          
-
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  <span >
-      <a href="/author/d.-antonioli/">D. Antonioli</a></span>, <span >
-      <a href="/author/m.-payer/">M. Payer</a></span>
-  </span>
-  (2022).
-  <a href="/publication/2022/btcar/">On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats</a>.
-  <em>IEEE WOOT</em>.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://hexhive.epfl.ch/publications/files/22WOOT.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/2022/btcar/cite.bib">
-  Cite
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/francozappa/bias" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/knob/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/bias/">
-    Project
-  </a>
-  
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/2022/btcar/slides.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=tqln99BHUzU" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://nvd.nist.gov/vuln/detail/CVE-2019-9506" target="_blank" rel="noopener">
-    CVE-2019-9506</a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://nvd.nist.gov/vuln/detail/CVE-2020-10135" target="_blank" rel="noopener">
-    CVE-2020-10135</a>
-
-</p>
-
-  
-  
-</div>
-
-        
-          
-
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  <span >
-      <a href="/author/d.-antonioli/">D. Antonioli</a></span>, <span >
-      <a href="/author/n.-o.-tippenhauer/">N. O. Tippenhauer</a></span>, <span >
-      <a href="/author/k.-rasmussen/">K. Rasmussen</a></span>
-  </span>
-  (2020).
-  <a href="/publication/2020/knob-ble/">Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy</a>.
-  <em>ACM TOPS</em>.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/2020/knob-ble/paper.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/2020/knob-ble/cite.bib">
-  Cite
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/francozappa/knob" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/knob/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://knobattack.com" target="_blank" rel="noopener">
-    knobattack.com</a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://nvd.nist.gov/vuln/detail/CVE-2019-9506" target="_blank" rel="noopener">
-    CVE-2019-9506</a>
-
-</p>
-
-  
-  
-</div>
-
-        
-          
-
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  <span >
-      <a href="/author/d.-antonioli/">D. Antonioli</a></span>, <span >
-      <a href="/author/n.-o.-tippenhauer/">N. O. Tippenhauer</a></span>, <span >
-      <a href="/author/k.-rasmussen/">K. Rasmussen</a></span>
-  </span>
-  (2019).
-  <a href="/publication/2019/knob/">The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation of Bluetooth BR/EDR</a>.
-  <em>USENIX Security</em>.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.usenix.org/system/files/sec19-antonioli.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/2019/knob/cite.bib">
-  Cite
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/francozappa/knob" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/knob/">
-    Project
-  </a>
-  
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/2019/knob/slides.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=v9Xg9XcnNh0" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://knobattack.com/" target="_blank" rel="noopener">
-    Website</a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://nvd.nist.gov/vuln/detail/CVE-2019-9506" target="_blank" rel="noopener">
-    CVE-2019-9506</a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://thecyberwire.com/podcasts/research-saturday/102/notes" target="_blank" rel="noopener">
-    CyberWire</a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.cs.ox.ac.uk/innovation/inspiredresearch/InspiredResearch-winter2019.pdf" target="_blank" rel="noopener">
-    Oxford IR1915</a>
-
-</p>
-
-  
-  
-</div>
-
-        
-      
-
-      
-      
-      
-        <h2>Events</h2>
-        
-          
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/talk/bluetooth-security-and-the-knob-attack-on-ble/" >Bluetooth Security and the KNOB Attack on BLE</a>
-    </div>
-
-    
-    <a href="/talk/bluetooth-security-and-the-knob-attack-on-ble/"  class="summary-link">
-      <div class="article-style">
-        In this lecture we cover an Introduction about Bluetooth security, its main transports (BC, BLE), procedures (discovery, connect) and logical entities (Host, Controller, HCI). Then we look at Bluetooth security architecture and the specific BC/BLE algorithms and protocols.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span>
-          Jul 4, 2023 00:00
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span>Cyber in Sophia, Valbonne</span>
-        
-      </div>
-      
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/talk/bluetooth-security-and-the-knob-attack-on-ble/" >
-      <img src="/talk/bluetooth-security-and-the-knob-attack-on-ble/featured_hu6b45a80ec9de389f1ad58db90fd0d4d3_41777_150x0_resize_q75_h2_lanczos_3.webp" height="142" width="150"
-           alt="Bluetooth Security and the KNOB Attack on BLE" loading="lazy">
-    </a>
-    
   </div>
 </div>
-
-        
-          
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/talk/on-the-insecurities-of-popular-standard-and-proprietary-wireless-protocols/" >On the (In)securities of Popular Standard and Proprietary Wireless Protocols</a>
-    </div>
-
-    
-    <a href="/talk/on-the-insecurities-of-popular-standard-and-proprietary-wireless-protocols/"  class="summary-link">
-      <div class="article-style">
-        This talk covers our recent research on the (in)securities of proprietary and standard wireless security protocols used daily by millions of devices and users. In particular, I will cover the BLUR attacks on Bluetooth, a novel class of threats capable of exploiting Bluetooth Classic from Bluetooth Low Energy and vice versa.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span>
-          Jun 1, 2023 00:00
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span>Oxford University, CS Dept</span>
-        
-      </div>
-      
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/talk/on-the-insecurities-of-popular-standard-and-proprietary-wireless-protocols/" >
-      <img src="/talk/on-the-insecurities-of-popular-standard-and-proprietary-wireless-protocols/featured_hu586db742fb5c2b539fde25fe08d3567a_16094_150x0_resize_q75_h2_lanczos_3.webp" height="150" width="150"
-           alt="On the (In)securities of Popular Standard and Proprietary Wireless Protocols" loading="lazy">
-    </a>
-    
-  </div>
-</div>
-
-        
-          
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/talk/bias-and-knob-attacks-against-bluetooth-br/edr/le/" >BIAS and KNOB attacks against Bluetooth BR/EDR/LE</a>
-    </div>
-
-    
-    <a href="/talk/bias-and-knob-attacks-against-bluetooth-br/edr/le/"  class="summary-link">
-      <div class="article-style">
-        Bluetooth is a ubiquitous technology for low power wireless communications. Bluetooth runs on billions of devices including mobile, wearables, home automation, smart speakers, headsets, industrial and medical appliances, and vehicles. As a result, Bluetooth&rsquo;s attack surface is huge and includes significant threats such as identity thefts, privacy violations, and malicious device control.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span>
-          Aug 18, 2020 00:00
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span>IACR WAC workshop co-located with CRYPTO 2020</span>
-        
-      </div>
-      
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/talk/bias-and-knob-attacks-against-bluetooth-br/edr/le/" >
-      <img src="/talk/bias-and-knob-attacks-against-bluetooth-br/edr/le/featured_hu37529fc6b53dc48b96976632965d2c19_9927_150x0_resize_q75_h2_lanczos.webp" height="150" width="150"
-           alt="BIAS and KNOB attacks against Bluetooth BR/EDR/LE" loading="lazy">
-    </a>
-    
-  </div>
-</div>
-
-        
-      
-    </div>
-  </div>
-</article>
   </div>
 
   <div class="page-footer">
