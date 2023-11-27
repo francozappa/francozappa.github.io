@@ -13,16 +13,38 @@
     </image>
     
     <item>
-      <title>BLUFFS Paper presneted at CCS&#39;23</title>
+      <title>BLUFFS: Bluetooth Forward and Future Secrecy Attacks and Defenses</title>
       <link>https://francozappa.github.io/post/2023/bluffs-ccs23/</link>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/2023/bluffs-ccs23/</guid>
-      <description>&lt;p&gt;Useful links:&lt;/p&gt;
+      <description>&lt;p&gt;Breaking and fixing the Bluetooth standard. One More Time.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3576915.3623066&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;,&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://francozappa.github.io/publication/2023/bluffs/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/francozappa/bluffs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;toolkit&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3576915.3623066&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://francozappa.github.io/publication/2023/bluffs/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/francozappa/bluffs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Toolkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2023-24023&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://francozappa.github.io/images/omt.gif&#34; alt=&#34;One More Time&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
