@@ -5,12 +5,43 @@
     <link>https://francozappa.github.io/tag/bluffs/</link>
       <atom:link href="https://francozappa.github.io/tag/bluffs/index.xml" rel="self" type="application/rss+xml" />
     <description>bluffs</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Mon, 27 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>bluffs</title>
       <link>https://francozappa.github.io/tag/bluffs/</link>
     </image>
+    
+    <item>
+      <title>BLUFFS Talk at 37c3</title>
+      <link>https://francozappa.github.io/post/2023/bluffs-37c3/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2023/bluffs-37c3/</guid>
+      <description>&lt;p&gt;See you in Hamburg &amp;#x1f1e9;&amp;#x1f1ea; at
+&lt;a href=&#34;https://events.ccc.de/congress/2023/infos/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37c3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://francozappa.github.io/images/37c3.png&#34; alt=&#34;Schedule&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BLUFFS: Bluetooth Forward and Future Secrecy Attacks and Defenses</title>
