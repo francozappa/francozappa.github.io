@@ -108,12 +108,14 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>BLUFFS 37c3 Talk Link</title>
+      <title>Recorded BLUFFS Talk at 37c3</title>
       <link>https://francozappa.github.io/post/2023/bluffs-37c3-video/</link>
       <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/2023/bluffs-37c3-video/</guid>
-      <description>&lt;p&gt;You can watch the talk
-&lt;a href=&#34;https://media.ccc.de/v/37c3-12342-bluffs_bluetooth_forward_and_future_secrecy_attacks_and_defenses&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;iframe width=&#34;512&#34; height=&#34;288&#34;
+src=&#34;https://media.ccc.de/v/37c3-12342-bluffs_bluetooth_forward_and_future_secrecy_attacks_and_defenses/oembed&#34;
+frameborder=&#34;0&#34; title=&#34;BLUFFS&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;More &lt;a href=&#34;https://media.ccc.de/v/37c3-12342-bluffs_bluetooth_forward_and_future_secrecy_attacks_and_defenses&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
