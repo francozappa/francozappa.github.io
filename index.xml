@@ -5,7 +5,7 @@
     <link>https://francozappa.github.io/</link>
       <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniele Antonioli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Sat, 30 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Daniele Antonioli</title>
@@ -105,6 +105,16 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>BLUFFS 37c3 Talk Link</title>
+      <link>https://francozappa.github.io/post/2023/bluffs-37c3-video/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2023/bluffs-37c3-video/</guid>
+      <description>&lt;p&gt;You can watch the talk
+&lt;a href=&#34;https://media.ccc.de/v/37c3-12342-bluffs_bluetooth_forward_and_future_secrecy_attacks_and_defenses&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -439,10 +449,10 @@ during EURECOM&amp;rsquo;s Scientific Council (SC).&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image alt&#34; srcset=&#34;
-               /post/2023/breakmi-poster/images/poster_hu71f71713b931b7aeee0ba9752f154afd_934076_01817ee9fb998aafc4cf36812366c465.webp 400w,
+               /post/2023/breakmi-poster/images/poster_hu71f71713b931b7aeee0ba9752f154afd_934076_d9f19a8ccdd4fc3f9d33b4dcdc0af9cc.webp 400w,
                /post/2023/breakmi-poster/images/poster_hu71f71713b931b7aeee0ba9752f154afd_934076_28579351d3ce547cbebdd64164fdbc1a.webp 760w,
                /post/2023/breakmi-poster/images/poster_hu71f71713b931b7aeee0ba9752f154afd_934076_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://francozappa.github.io/post/2023/breakmi-poster/images/poster_hu71f71713b931b7aeee0ba9752f154afd_934076_01817ee9fb998aafc4cf36812366c465.webp&#34;
+               src=&#34;https://francozappa.github.io/post/2023/breakmi-poster/images/poster_hu71f71713b931b7aeee0ba9752f154afd_934076_d9f19a8ccdd4fc3f9d33b4dcdc0af9cc.webp&#34;
                width=&#34;534&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

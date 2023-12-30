@@ -5,12 +5,22 @@
     <link>https://francozappa.github.io/tag/ccc/</link>
       <atom:link href="https://francozappa.github.io/tag/ccc/index.xml" rel="self" type="application/rss+xml" />
     <description>ccc</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniele Antonioli</copyright><lastBuildDate>Sat, 30 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>ccc</title>
       <link>https://francozappa.github.io/tag/ccc/</link>
     </image>
+    
+    <item>
+      <title>BLUFFS 37c3 Talk Link</title>
+      <link>https://francozappa.github.io/post/2023/bluffs-37c3-video/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2023/bluffs-37c3-video/</guid>
+      <description>&lt;p&gt;You can watch the talk
+&lt;a href=&#34;https://media.ccc.de/v/37c3-12342-bluffs_bluetooth_forward_and_future_secrecy_attacks_and_defenses&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BLUFFS Talk at 37c3</title>
