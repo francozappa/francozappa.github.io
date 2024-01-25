@@ -5,12 +5,82 @@
     <link>https://francozappa.github.io/event/</link>
       <atom:link href="https://francozappa.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Daniele Antonioli</copyright><lastBuildDate>Tue, 04 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Daniele Antonioli</copyright><lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://francozappa.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Bluetooth Security at NECS Winter School</title>
+      <link>https://francozappa.github.io/talk/bluetooth-security-at-necs-winter-school/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/bluetooth-security-at-necs-winter-school/</guid>
+      <description>&lt;p&gt;This lecture overviews recent and impactful research on Bluetooth
+security and privacy. We will cover protocol-level vulnerabilities in
+the Bluetooth specification affecting billions of devices, such as KNOB,
+BIAS, BLUR, and BLUFFS.&lt;/p&gt;
+&lt;p&gt;Moreover, we will explore works about insecure
+and proprietary protocols built on Bluetooth, including BreakMi
+exploiting Xiaomi and Fitbit fitness tracker protocols and E-Spoofer
+compromising  Xiaomi&amp;rsquo;s electric scooter protocols.&lt;/p&gt;
+&lt;p&gt;While presenting our research works, we will also teach basic and
+advanced concepts about the security and privacy of IoT protocols.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BLUFFS: Breaking and fixing the Bluetooth standard. One More Time.</title>
+      <link>https://francozappa.github.io/talk/bluffs-breaking-and-fixing-the-bluetooth-standard.-one-more-time./</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/bluffs-breaking-and-fixing-the-bluetooth-standard.-one-more-time./</guid>
+      <description>&lt;iframe width=&#34;512&#34; height=&#34;288&#34;
+src=&#34;https://media.ccc.de/v/37c3-12342-bluffs_bluetooth_forward_and_future_secrecy_attacks_and_defenses/oembed&#34;
+frameborder=&#34;0&#34; title=&#34;BLUFFS&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Ciao! We present the BLUFFS attacks (CVE-2023-24023), six novel attacks
+breaking Bluetooth&amp;rsquo;s forward and future secrecy. Our attacks enable device
+impersonation and machine-in-the-middle across sessions by compromising and
+re-using one session key. We discuss the four vulnerabilities in the Bluetooth
+specification enabling the attacks, two of which are new and related to
+unilateral and repeatable session key derivation. We describe the toolkit we
+developed and open-sourced to test our attacks via firmware binary patching,
+our experiments where we exploited 18 heterogeneous Bluetooth devices, and the
+practical and backward-compliant session key derivation protocol we built to
+fix the attacks by design. We also cover related work like KNOB, BIAS, and
+BLUR, and educational Bluetooth security tips and tricks.&lt;/p&gt;
+&lt;p&gt;Bluetooth is a pervasive technology for wireless communication.
+Billions of devices use it in sensitive applications and to exchange
+private data. The security of Bluetooth depends on the Bluetooth
+standard and its two security mechanisms: pairing and session establishment.
+No prior work, including the standard itself, analyzed the future and forward
+secrecy guarantees of these mechanisms, e.g., if Bluetooth pairing and session
+establishment defend past
+and future sessions when the adversary compromises the current.
+To address this gap, we present six novel attacks, defined as the
+BLUFFS attacks, breaking Bluetooth sessions’ forward and future
+secrecy. Our attacks enable device impersonation and machine-in-the-middle
+across sessions by only compromising one session key. The attacks exploit two
+novel vulnerabilities that we uncover in the Bluetooth standard related to
+unilateral and repeatable session key derivation. As the attacks affect
+Bluetooth at the architectural level, they are effective regardless of the
+victim’s hardware and software details (e.g., chip, stack, version, and
+security mode).&lt;/p&gt;
+&lt;p&gt;We also release BLUFFS, a low-cost toolkit to perform and automatically check
+the effectiveness of our attacks. The toolkit employs seven original patches
+to manipulate and monitor Bluetooth session key derivation by dynamically
+patching a closed-source Bluetooth firmware that we reverse-engineered. We
+show that our attacks have a critical and large-scale impact on the Bluetooth
+ecosystem, by evaluating them on seventeen diverse Bluetooth chips (eighteen
+devices) from popular hardware and software vendors and supporting the most
+popular Bluetooth versions. Motivated by our empirical findings, we develop
+and successfully test an enhanced key derivation function for Bluetooth that
+stops by-design our six attacks and their four root causes. We show how to
+effectively integrate our fix into the Bluetooth standard and discuss
+alternative implementation-level mitigations. We responsibly disclosed our
+contributions to the Bluetooth SIG.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bluetooth Security and the KNOB Attack on BLE</title>
