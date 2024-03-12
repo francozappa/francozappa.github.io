@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fr | Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tag/fr/</link>
+      <atom:link href="https://francozappa.github.io/tag/fr/index.xml" rel="self" type="application/rss+xml" />
+    <description>fr</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Daniele Antonioli</copyright><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <title>fr</title>
+      <link>https://francozappa.github.io/tag/fr/</link>
+    </image>
+    
+    <item>
+      <title>ENCOPIA</title>
+      <link>https://francozappa.github.io/project/encopia/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/project/encopia/</guid>
+      <description>&lt;h2 id=&#34;contacts&#34;&gt;Contacts&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://encopia.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;core-concept-and-innovation&#34;&gt;Core Concept and Innovation&lt;/h2&gt;
+&lt;p&gt;Today’s IoT devices collect huge amounts of data and share them with cloud
+services. In turn, Big Data analytics are used to analyze this data to provide
+new services such as predictive maintenance, more efficient routing and
+targeted advertisement. As the world becomes pervasively sentient with sensors
+placed in all kinds of daily devices, opting out is no longer possible.
+Devices like autonomous cars, smart screens and smart glasses will record
+personal information of all passersby, resulting in a conflict between
+individual privacy rights and the interest of making the benefits of big data
+analytics available to society as a whole.&lt;/p&gt;
+&lt;p&gt;To ensure both goals are achievable, great care in the design and development
+of the complete IoT system from the device to the cloud service is necessary.
+This project aims at automating the verification of privacy goals of IoT
+services, from sensor devices all the way into the cloud services — during
+development and after deployment.&lt;/p&gt;
+&lt;h2 id=&#34;scientific-and-technological-goals&#34;&gt;Scientific and Technological Goals&lt;/h2&gt;
+&lt;p&gt;We propose to use binary analysis methods to make privacy goals testable in an
+automated fashion for the complete life cycle of sensitive information. Tools
+developed in this project will ensure that sensitive data can be tracked
+through programs and services by analyzing the software used and tracking data
+flows within them. Automated privacy analysis tools do not exist today. Yet
+binary analysis has made great strides in the last years. With a combination
+of binary-level function detection and information flow tracking, data can be
+traced through applications along its life cycle, tracking its usage and
+detecting potential privacy breaches when they occur. By combining
+state-of-the-art binary analysis with dynamic data flow tracking in the cloud
+through JIT compiler instrumentation, we achieve an end-to-end privacy
+tracking of sensitive data.&lt;/p&gt;
+&lt;h2 id=&#34;future-outlook&#34;&gt;Future Outlook&lt;/h2&gt;
+&lt;p&gt;The wide availability and sharing of vast amounts of data is necessary to
+drive digital innovation and leverage the powerful tools of big data and
+machine learning for the future knowledge society. The proposed tools will
+enable developers, third-party providers and users to ensure that data is used
+as intended and that protective mechanisms such as pseudonymization,
+encryption or differential privacy are applied. The researched methods can
+also be applied in certification schemes, which are currently under
+development under the European Cybersecurity Act.&lt;/p&gt;
+&lt;h2 id=&#34;consortium&#34;&gt;Consortium&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Langlauf Security Automation GmbH&lt;/li&gt;
+&lt;li&gt;Siemens AG&lt;/li&gt;
+&lt;li&gt;SAP Labs France&lt;/li&gt;
+&lt;li&gt;EURECOM, Software and System Security Group&lt;/li&gt;
+&lt;li&gt;University of Lübeck, Institute for IT Security&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
