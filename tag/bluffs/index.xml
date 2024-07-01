@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bluffs | Daniele Antonioli</title>
+    <title>Bluffs | Daniele Antonioli</title>
     <link>https://francozappa.github.io/tag/bluffs/</link>
       <atom:link href="https://francozappa.github.io/tag/bluffs/index.xml" rel="self" type="application/rss+xml" />
-    <description>bluffs</description>
+    <description>Bluffs</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Daniele Antonioli</copyright><lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
-      <title>bluffs</title>
+      <title>Bluffs</title>
       <link>https://francozappa.github.io/tag/bluffs/</link>
     </image>
     
@@ -40,9 +40,12 @@ funded by the &lt;a href=&#34;https://horizon-orshin.eu/&#34; target=&#34;_blank
       <guid>https://francozappa.github.io/post/2023/bluffs-37c3-video/</guid>
       <description>&lt;h2 id=&#34;youtube&#34;&gt;YouTube&lt;/h2&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/2HstGZPZpZY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2HstGZPZpZY?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;h2 id=&#34;media-ccc&#34;&gt;Media CCC&lt;/h2&gt;
 &lt;iframe width=&#34;512&#34; height=&#34;288&#34;

@@ -5,7 +5,7 @@
     <link>https://francozappa.github.io/</link>
       <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniele Antonioli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Daniele Antonioli</copyright><lastBuildDate>Fri, 17 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Daniele Antonioli</copyright><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Daniele Antonioli</title>
@@ -22,9 +22,12 @@
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
 &lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/rfscVS0vtbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/rfscVS0vtbw?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
@@ -59,9 +62,12 @@
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
 &lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/hSPmj7mK6ng&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/hSPmj7mK6ng?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
@@ -108,6 +114,29 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>FP-tracer PETS&#39;24 Paper and Artifact</title>
+      <link>https://francozappa.github.io/post/2024/fptracer-pets/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2024/fptracer-pets/</guid>
+      <description>&lt;p&gt;Modern websites use &lt;em&gt;attribute-based browser fingerprinting&lt;/em&gt; to track us(ers) using
+our browser&amp;rsquo;s JavaScript API. They can track us without cookies, and
+regardless of what we click on websites&amp;rsquo; consent banners.&lt;/p&gt;
+&lt;p&gt;With &lt;a href=&#34;https://www.petsymposium.org/popets/2024/popets-2024-0092.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FP-tracer&lt;/a&gt;,
+we present a new and effective method to detect attribute-based browser fingerprinting using
+a taint tracking aware browser, and joint entropy thresholds. With FP-tracer, we see not
+only the trackers but also how much they track us. FP-tracer is available as
+an &lt;a href=&#34;https://github.com/soumboussaha/FP-tracer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open-source artifact&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Through FP-tracer, we assessed 80K domains. Our study found that 8% of the
+domains collected enough attributes to track a browser uniquely. Sometimes, a
+browser can be tracked with only two attributes, i.e., userAgent and storageEstimate.
+Read the paper for more insights!&lt;/p&gt;
+&lt;p&gt;Soumaya Boussaha will present FP-tracer at &lt;a href=&#34;https://www.petsymposium.org/2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PETS&#39;24&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;FP-tracer contributes to &lt;a href=&#34;https://encopia.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ENCOPIA&lt;/a&gt;, where we are
+ENabling COnnected PrIvacy Assurance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Quest to Secure Proprietary and Standard Wireless Protocols</title>
       <link>https://francozappa.github.io/talk/a-quest-to-secure-proprietary-and-standard-wireless-protocols/</link>
       <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
@@ -140,9 +169,12 @@ covering, among others,
       <guid>https://francozappa.github.io/talk/bluffs-breaking-and-fixing-the-bluetooth-standard.-one-more-time./</guid>
       <description>&lt;h2 id=&#34;youtube-37c3&#34;&gt;YouTube (37c3)&lt;/h2&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/2HstGZPZpZY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2HstGZPZpZY?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
     </item>
@@ -154,9 +186,12 @@ covering, among others,
       <guid>https://francozappa.github.io/talk/e-spoofer-attacking-and-defending-xiaomi-electric-scooter-ecosystem/</guid>
       <description>&lt;h2 id=&#34;youtube-wisec23&#34;&gt;YouTube (WiSec&#39;23)&lt;/h2&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/yQvsoKBc304&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/yQvsoKBc304?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
     </item>
@@ -257,9 +292,12 @@ alternative implementation-level mitigations. We responsibly disclosed our
 contributions to the Bluetooth SIG.&lt;/p&gt;
 &lt;h2 id=&#34;youtube&#34;&gt;YouTube&lt;/h2&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/2HstGZPZpZY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2HstGZPZpZY?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;h2 id=&#34;media-ccc&#34;&gt;Media CCC&lt;/h2&gt;
 &lt;iframe width=&#34;512&#34; height=&#34;288&#34;
@@ -275,9 +313,12 @@ frameborder=&#34;0&#34; title=&#34;BLUFFS&#34; allowfullscreen&gt;&lt;/iframe&gt
       <guid>https://francozappa.github.io/post/2023/bluffs-37c3-video/</guid>
       <description>&lt;h2 id=&#34;youtube&#34;&gt;YouTube&lt;/h2&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/2HstGZPZpZY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2HstGZPZpZY?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;h2 id=&#34;media-ccc&#34;&gt;Media CCC&lt;/h2&gt;
 &lt;iframe width=&#34;512&#34; height=&#34;288&#34;
@@ -372,9 +413,12 @@ frameborder=&#34;0&#34; title=&#34;BLUFFS&#34; allowfullscreen&gt;&lt;/iframe&gt
       <description>&lt;p&gt;Marco Casagrande&amp;rsquo;s presentation of our &lt;a href=&#34;https://francozappa.github.io/publication/2023/espoofer/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E-Spoofer paper&lt;/a&gt; about Xiaomi e-scooters&#39;
 security and privacy recorded at ACM WiSec&#39;23&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/yQvsoKBc304&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/yQvsoKBc304?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
     </item>
@@ -452,9 +496,12 @@ privacy, what you did so far and are what you planning to do in this research ar
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/talk/breakmi-reversing-exploiting-and-fixing-xiaomi-and-fitbit-fitness-tracking-ecosystems/</guid>
       <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/MeLeg1sVmss&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/MeLeg1sVmss?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Xiaomi is the leading company in the fitness tracking industry. Successful
 attacks on its fitness tracking ecosystem would result in severe consequences,
@@ -631,9 +678,12 @@ during EURECOM&amp;rsquo;s Scientific Council (SC).&lt;/p&gt;
 &lt;/p&gt;
 &lt;p&gt;For more info see at the paper&amp;rsquo;s presentation starting around min 56:&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/zD5EdvGs98U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/zD5EdvGs98U?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
     </item>
@@ -853,9 +903,12 @@ publish the instructions to reproduce the BLUR attacks
 in a &lt;a href=&#34;https://github.com/francozappa/blur&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Below you can find the paper presentation streamed at AsiaCCS&#39;22:&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/FzFQD3XTLlA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/FzFQD3XTLlA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
     </item>
@@ -885,9 +938,12 @@ the IEEE &lt;em&gt;Workshop On Offensive Technologies (WOOT)&lt;/em&gt; titled &
 of Vehicles Against Protocol-Level Bluetooth Threats&lt;/strong&gt; available
 &lt;a href=&#34;https://hexhive.epfl.ch/publications/files/22WOOT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/tqln99BHUzU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/tqln99BHUzU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
     </item>
@@ -905,9 +961,12 @@ Threats&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The webinar will also be linked for &lt;a href=&#34;https://www.ieee-security.org/TC/SP2022/WOOT22/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WOOT&#39;22&lt;/a&gt;
 as the talk I gave at the workshop was not recorded because of some issues.&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/tqln99BHUzU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/tqln99BHUzU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
     </item>
@@ -1456,9 +1515,12 @@ Energy Vulnerability (BLURtooth)&lt;/a&gt;.&lt;/p&gt;
 of the &lt;a href=&#34;https://arxiv.org/abs/2009.11776&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BLURtooth technical report&lt;/a&gt;. Enjoy!&lt;/p&gt;
 &lt;p&gt;Bonus track:&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/LJzCYSdrHMI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/LJzCYSdrHMI?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
     </item>
@@ -1470,9 +1532,12 @@ of the &lt;a href=&#34;https://arxiv.org/abs/2009.11776&#34; target=&#34;_blank&
       <guid>https://francozappa.github.io/talk/bias-and-knob-attacks-against-bluetooth-br/edr/le/</guid>
       <description>&lt;p&gt;Bluetooth is a ubiquitous technology for low power wireless communications.  Bluetooth runs on billions of devices including mobile, wearables, home automation, smart speakers, headsets, industrial and medical appliances, and vehicles. As a result, Bluetooth&amp;rsquo;s attack surface is huge and includes significant threats such as identity thefts, privacy violations, and malicious device control. Bluetooth is a complex technology specified in an open standard. The standard defines two wireless stacks Bluetooth Classic for high throughput services (e.g., audio and voice) and Bluetooth Low Energy (BLE) for very low power services (e.g., localization, and monitoring). The standard defines security mechanisms to protect the confidentiality, integrity, and authenticity of Bluetooth communications. Those mechanisms include pairing to share a long term key among two devices, and secure session establishment to let two paired devices negotiate session keys to protect their communication. A single vulnerability in a standard-compliant security mechanism translates into billions of exploitable devices. This talk reviews several standard-compliant vulnerabilities that we recently uncovered on the key negotiation and authentication mechanisms of Bluetooth Classic and BLE. We also describe how to exploit such vulnerabilities to perform key negotiation attacks on Bluetooth Classic and BLE (KNOB attacks, CVE-2019-9506) and impersonation attacks on Bluetooth Classic (BIAS attacks, CVE-2020-10135). The attacks are presented together with a detailed description of the Bluetooth treat model and the affected security mechanism.  We also explain how we implemented such attacks using low-cost hardware and open-source software and how we evaluated them on actual devices from the major vendors including Apple, Broadcom, Cypress, CSR, Google, Intel, Microsoft, and Qualcomm. Finally, we describe how the Bluetooth standard was amended after the disclosure of our attacks, our proposed countermeasures, and why most of the Bluetooth devices are still vulnerable to our attacks.&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
     </item>
@@ -1484,9 +1549,12 @@ of the &lt;a href=&#34;https://arxiv.org/abs/2009.11776&#34; target=&#34;_blank&
       <guid>https://francozappa.github.io/post/2020/wac320-video/</guid>
       <description>&lt;p&gt;BIAS + KNOB attack against Bluetooth:&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;All the WAC talks are available on &lt;a href=&#34;https://www.youtube.com/watch?v=XS_DZ5F-y3k&amp;amp;list=PLeeS-3Ml-rppRzqiDB7l-TIyE-YSqXGR3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -1644,9 +1712,12 @@ tutorial in Italiano (e prossimamente anche in Inglese) su argomenti matematici,
 informatici e ingegneristici. Per esempio linko qui sotto una playlist con un
 corso per ingegneri che vogliono programmare in MATLAB/Octave:&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/2ro75VG9UWs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2ro75VG9UWs?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Paolo è un bravissimo insegnante e divulgatore scientifico con anni di
 esperienza alle spalle sia universitaria che professionale. Paolo ha anche
@@ -1728,27 +1799,39 @@ session establishment without knowing the long term pairing key.
 The BIAS attacks are tracked with &lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2020-10135&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2019-9506&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ieee-sp-oakland-2020-paper-teaser&#34;&gt;IEEE S&amp;amp;P (Oakland) 2020 Paper Teaser&lt;/h2&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/fASGU7Og5_4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/fASGU7Og5_4?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;h2 id=&#34;ieee-sp-oakland-2020-paper-presentation&#34;&gt;IEEE S&amp;amp;P (Oakland) 2020 Paper Presentation&lt;/h2&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/bVbBDnruv7M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/bVbBDnruv7M?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;h2 id=&#34;bias--knob-attack-against-bluetooth-iacr-attacks-in-crypto&#34;&gt;BIAS + KNOB attack against Bluetooth IACR Attacks in Crypto&lt;/h2&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;h2 id=&#34;from-bluetooth-standard-to-standard-compliant-0-days-hardweario&#34;&gt;From Bluetooth Standard to Standard Compliant 0-days Hardwear.io&lt;/h2&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/ZVSbF11uxuk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZVSbF11uxuk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
     </item>
@@ -1762,9 +1845,12 @@ The BIAS attacks are tracked with &lt;a href=&#34;https://nvd.nist.gov/vuln/deta
 and the recording of our hardwear.io talk titled &lt;em&gt;From Bluetooth Standard to
 Standard-Compliant 0-days&lt;/em&gt;:&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/ZVSbF11uxuk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZVSbF11uxuk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
     </item>
@@ -1822,9 +1908,12 @@ compliant 0 days.&lt;/p&gt;
 Antonioli, Nils Tippenhauer, and Kasper Rasmussen, more information at
 &lt;a href=&#34;https://knobattack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://knobattack.com&lt;/a&gt;.&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/ZVSbF11uxuk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZVSbF11uxuk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
     </item>
@@ -1872,9 +1961,12 @@ the amendment of the Bluetooth standard.&lt;/p&gt;
 will be presented at the
 &lt;a href=&#34;https://www.ieee-security.org/TC/SP2020//index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Symposium on Security and Privacy (IEEE S&amp;amp;P) 2020&lt;/a&gt;.&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/fASGU7Og5_4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/fASGU7Og5_4?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;More information are available in the &lt;a href=&#34;https://francozappa.github.io/about-bias&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIAS website&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The BIAS code will be also uploaded soon! Stay tuned and unbiased &amp;#x1f604;&lt;/p&gt;
@@ -1979,9 +2071,12 @@ find other relevant links!&lt;/p&gt;
 &lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
 in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;:&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/v9Xg9XcnNh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/v9Xg9XcnNh0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;More info at &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -1995,9 +2090,12 @@ in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;:&lt;/p&gt;
       <description>&lt;p&gt;In this interview we present the KNOB attack as part of the
 CyberWire&amp;rsquo;s Research Saturday session.&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/_XvjXZCc1DU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/_XvjXZCc1DU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Alternative &lt;a href=&#34;https://thecyberwire.com/podcasts/research-saturday/102/notes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -2040,9 +2138,12 @@ For more information have a look
 &lt;a href=&#34;https://francozappa.github.io/publication/phd-thesis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&amp;#x1f3b6; &amp;#x1f606; &amp;#x1f3b6;&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/kHx5hCVN26E&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/kHx5hCVN26E?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;&amp;#x1f3b6; &amp;#x1f606; &amp;#x1f3b6;&lt;/p&gt;
 </description>
@@ -2080,27 +2181,39 @@ well to the KNOB attacks. In this case the attacker can downgrade the entropy
 of BLE security key to 7 bytes and then brute-force it.&lt;/p&gt;
 &lt;h2 id=&#34;usenix-security-2019-paper-presentation&#34;&gt;USENIX Security 2019 Paper Presentation&lt;/h2&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/v9Xg9XcnNh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/v9Xg9XcnNh0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;h2 id=&#34;bluetooth-blues-knob-attack-explained--research-saturday&#34;&gt;Bluetooth blues: KNOB attack explained. — Research Saturday&lt;/h2&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/_XvjXZCc1DU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/_XvjXZCc1DU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;h2 id=&#34;bias--knob-attack-against-bluetooth-iacr-attacks-in-crypto&#34;&gt;BIAS + KNOB attack against Bluetooth IACR Attacks in Crypto&lt;/h2&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;h2 id=&#34;from-bluetooth-standard-to-standard-compliant-0-days-hardweario&#34;&gt;From Bluetooth Standard to Standard Compliant 0-days Hardwear.io&lt;/h2&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/ZVSbF11uxuk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZVSbF11uxuk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
     </item>
@@ -2306,9 +2419,12 @@ and its related projects and use cases.&lt;/p&gt;
       <description>&lt;p&gt;My NDSS 2019 presentation of
 &lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/h5geJLoQIsU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/h5geJLoQIsU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
     </item>
@@ -2539,9 +2655,12 @@ services using a combination of Bluetooth and Wi-Fi wireless technologies.&lt;/p
 a toolkit to automate reverse engineering and attacking Nearby Connections.&lt;/p&gt;
 &lt;h2 id=&#34;ndss-2019-paper-presentation&#34;&gt;NDSS 2019 Paper Presentation&lt;/h2&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/h5geJLoQIsU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/h5geJLoQIsU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
     </item>

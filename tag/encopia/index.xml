@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Encopia | Daniele Antonioli</title>
+    <link>https://francozappa.github.io/tag/encopia/</link>
+      <atom:link href="https://francozappa.github.io/tag/encopia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Encopia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Daniele Antonioli</copyright><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <title>Encopia</title>
+      <link>https://francozappa.github.io/tag/encopia/</link>
+    </image>
+    
+    <item>
+      <title>FP-tracer PETS&#39;24 Paper and Artifact</title>
+      <link>https://francozappa.github.io/post/2024/fptracer-pets/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2024/fptracer-pets/</guid>
+      <description>&lt;p&gt;Modern websites use &lt;em&gt;attribute-based browser fingerprinting&lt;/em&gt; to track us(ers) using
+our browser&amp;rsquo;s JavaScript API. They can track us without cookies, and
+regardless of what we click on websites&amp;rsquo; consent banners.&lt;/p&gt;
+&lt;p&gt;With &lt;a href=&#34;https://www.petsymposium.org/popets/2024/popets-2024-0092.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FP-tracer&lt;/a&gt;,
+we present a new and effective method to detect attribute-based browser fingerprinting using
+a taint tracking aware browser, and joint entropy thresholds. With FP-tracer, we see not
+only the trackers but also how much they track us. FP-tracer is available as
+an &lt;a href=&#34;https://github.com/soumboussaha/FP-tracer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open-source artifact&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Through FP-tracer, we assessed 80K domains. Our study found that 8% of the
+domains collected enough attributes to track a browser uniquely. Sometimes, a
+browser can be tracked with only two attributes, i.e., userAgent and storageEstimate.
+Read the paper for more insights!&lt;/p&gt;
+&lt;p&gt;Soumaya Boussaha will present FP-tracer at &lt;a href=&#34;https://www.petsymposium.org/2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PETS&#39;24&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;FP-tracer contributes to &lt;a href=&#34;https://encopia.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ENCOPIA&lt;/a&gt;, where we are
+ENabling COnnected PrIvacy Assurance.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
