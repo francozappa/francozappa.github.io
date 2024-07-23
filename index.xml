@@ -5,7 +5,7 @@
     <link>https://francozappa.github.io/</link>
       <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniele Antonioli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Daniele Antonioli</copyright><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Daniele Antonioli</copyright><lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Daniele Antonioli</title>
@@ -111,6 +111,19 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Quest to Secure Standard and Proprietary Wireless Systems</title>
+      <link>https://francozappa.github.io/talk/a-quest-to-secure-standard-and-proprietary-wireless-systems/</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/a-quest-to-secure-standard-and-proprietary-wireless-systems/</guid>
+      <description>&lt;p&gt;In this talk we will explore recent research on real world wireless security
+protocols. We will cover standard protocols such as Bluetooth pairing and
+session establishment and proprietary ones such as IoT application layer
+protocols used to secure traffic between companion mobile applications and
+electric scooters and fitness trackers.&lt;/p&gt;
+</description>
     </item>
     
     <item>
