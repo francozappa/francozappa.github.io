@@ -316,8 +316,8 @@
     <link rel="manifest" href="/manifest.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu5386275752558131281.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu9858370098768856769.png" />
 
   <link rel="canonical" href="https://francozappa.github.io/tag/knob/" />
 
@@ -344,8 +344,8 @@
   <meta property="og:site_name" content="Daniele Antonioli" />
   <meta property="og:url" content="https://francozappa.github.io/tag/knob/" />
   <meta property="og:title" content="Knob | Daniele Antonioli" />
-  <meta property="og:description" content="Assistant Professor" /><meta property="og:image" content="https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Assistant Professor" /><meta property="og:image" content="https://francozappa.github.io/media/icon_hu4924214685936227247.png" />
+    <meta property="twitter:image" content="https://francozappa.github.io/media/icon_hu4924214685936227247.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2022-07-01T00:00:00&#43;00:00" />
@@ -916,7 +916,11 @@
     
     <a href="/post/2019/knob-cyberwire/"  class="summary-link">
       <div class="article-style">
-        Today CyberWire aired my interview about the KNOB attack with Dave Bittner.
+        <p>Today CyberWire aired my
+<a href="https://thecyberwire.com/podcasts/cw-podcasts-rs-2019-09-14.html" target="_blank" rel="noopener">interview</a>
+about the
+<a href="https://knobattack.com/" target="_blank" rel="noopener">KNOB attack</a>
+with <a href="https://twitter.com/bittner" target="_blank" rel="noopener">Dave Bittner</a>.</p>
       </div>
     </a>
     
@@ -1008,7 +1012,12 @@
     
     <a href="/post/2019/knob-repo3/"  class="summary-link">
       <div class="article-style">
-        I&rsquo;ve pushed the code to perform the KNOB attack also when the Nexus 5 is the Bluetooth slave responding to the first LMP packet. To switch between different attack modes have a look at the updated README.
+        <p>I&rsquo;ve pushed the
+<a href="https://github.com/francozappa/knob/tree/master/poc-internalblue" target="_blank" rel="noopener">code</a>
+to perform the KNOB attack also when the Nexus 5 is the Bluetooth slave
+responding to the first LMP packet. To switch between different attack modes
+have a look at the updated
+<a href="https://github.com/francozappa/knob/blob/master/poc-internalblue/README.md" target="_blank" rel="noopener">README</a>.</p>
       </div>
     </a>
     
@@ -1100,9 +1109,20 @@
     
     <a href="/post/2019/knob-faq/"  class="summary-link">
       <div class="article-style">
-        In this post I&rsquo;m trying to address some discussion points and misconceptions about the KNOB attack.
-Attribution Researchers from CISPA discovered the KNOB attack
-Partially true. The KNOB attack was discovered by myself (Daniele Antonioli) from SUTD, Nils Ole Tippenhauer from CISPA, and Kasper Rasmussen from the University of Oxford.
+        <p>In this post I&rsquo;m trying to address some discussion points and
+misconceptions about the KNOB attack.</p>
+<h2 id="attribution">Attribution</h2>
+<blockquote>
+<p>Researchers from CISPA discovered the KNOB attack</p>
+</blockquote>
+<p><strong>Partially true</strong>. The KNOB attack was discovered by myself (Daniele Antonioli) from SUTD,
+Nils Ole Tippenhauer from CISPA, and Kasper Rasmussen from the University of Oxford.
+In particular, I&rsquo;ve identified the vulnerability back in <em>May 2018</em> while I was
+working with Kasper on <a href="https://francozappa.github.io/publication/rearby/" target="_blank" rel="noopener">Nearby Connections</a>
+at the University of Oxford, and I wrote
+the first exploit in <em>October 2018</em> while I was visiting Nils (my former
+advisor at SUTD) at CISPA. I&rsquo;d like to thank the researchers from CISPA
+who kindly lent me their Bluetooth devices.</p>
       </div>
     </a>
     
@@ -1194,8 +1214,21 @@ Partially true. The KNOB attack was discovered by myself (Daniele Antonioli) fro
     
     <a href="/post/2019/knob-repo2/"  class="summary-link">
       <div class="article-style">
-        The code that we developed to validate and brute force E0 encryption keys is online.
-The slides of my KNOB attack SEC19 talk are also online. As we can see from the slides, the KNOB attack is not conducted while two Bluetooth devices are pairing, but when two devices are connecting (establishing a new encrypted session).
+        <p>The
+<a href="https://github.com/francozappa/knob/tree/master/e0" target="_blank" rel="noopener">code</a>
+that we developed to validate and brute force
+<a href="https://en.wikipedia.org/wiki/E0_%28cipher%29" target="_blank" rel="noopener">E0</a>
+encryption keys is online.</p>
+<p>The
+<a href="https://francozappa.github.io/publication/knob/slides.pdf" target="_blank" rel="noopener">slides</a>
+of my KNOB attack SEC19 talk are also online.
+As we can see from the slides, the KNOB attack is <em>not</em>
+conducted while two Bluetooth devices are pairing, but when two devices are
+connecting (establishing a new encrypted session).
+Bluetooth (BR/EDR) is a technology with a <em>pair-once</em>
+<em>connect-multiple-times</em> paradigm. For example, you pair your smartphone
+with your car once, and then every day you connect the two and the devices
+negotiate a new (fresh) encryption key.</p>
       </div>
     </a>
     
@@ -1287,8 +1320,10 @@ The slides of my KNOB attack SEC19 talk are also online. As we can see from the 
     
     <a href="/post/2019/knob-repo/"  class="summary-link">
       <div class="article-style">
-        Our KNOB repository is online, and it includes our PoC.
-For more information visit knobattack.com
+        <p>Our <a href="https://github.com/francozappa/knob" target="_blank" rel="noopener">KNOB repository</a>
+is online, and it includes our
+<a href="https://github.com/francozappa/knob/tree/master/poc-internalblue" target="_blank" rel="noopener">PoC</a>.</p>
+<p>For more information visit <a href="https://knobattack.com/" target="_blank" rel="noopener">knobattack.com</a></p>
       </div>
     </a>
     
@@ -1380,7 +1415,10 @@ For more information visit knobattack.com
     
     <a href="/post/2019/knob-announce/"  class="summary-link">
       <div class="article-style">
-        The embargo is over! The information about The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation Of Bluetooth BR/EDR, including our research paper, CVE details, and media coverage, are publicly available at knobattack.
+        <p>The embargo is over! The information about <em>The KNOB is Broken: Exploiting Low Entropy
+in the Encryption Key Negotiation Of Bluetooth BR/EDR</em>, including our research
+paper, CVE details, and media coverage, are publicly available at
+<a href="https://knobattack.com/" target="_blank" rel="noopener">knobattack.com</a></p>
       </div>
     </a>
     
@@ -1536,7 +1574,7 @@ For more information visit knobattack.com
       
 
     
-    <script src="/js/vendor-bundle.min.c9942726f66a565fe28919297a2e3e12.js"></script>
+    <script src="/js/vendor-bundle.min.8e09daa601459f1768414cc0569ad616.js"></script>
 
     
     
