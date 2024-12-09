@@ -5,12 +5,20 @@
     <link>https://francozappa.github.io/author/r.-cestaro/</link>
       <atom:link href="https://francozappa.github.io/author/r.-cestaro/index.xml" rel="self" type="application/rss+xml" />
     <description>R. Cestaro</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Daniele Antonioli</copyright><lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Daniele Antonioli</copyright><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hu4924214685936227247.png</url>
       <title>R. Cestaro</title>
       <link>https://francozappa.github.io/author/r.-cestaro/</link>
     </image>
+    
+    <item>
+      <title>E-Trojans: Ransomware, Tracking, DoS, and Data Leaks on Battery-powered Embedded Systems</title>
+      <link>https://francozappa.github.io/publication/2024/etrojans/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2024/etrojans/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>E-Spoofer: Attacking and Defending Xiaomi Electric Scooter Ecosystem</title>

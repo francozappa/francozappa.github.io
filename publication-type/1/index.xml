@@ -5,12 +5,28 @@
     <link>https://francozappa.github.io/publication-type/1/</link>
       <atom:link href="https://francozappa.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Daniele Antonioli</copyright><lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Daniele Antonioli</copyright><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hu4924214685936227247.png</url>
       <title>1</title>
       <link>https://francozappa.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>CTRAPS: CTAP Client Impersonation and API Confusion on FIDO2</title>
+      <link>https://francozappa.github.io/publication/2024/ctraps/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2024/ctraps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E-Trojans: Ransomware, Tracking, DoS, and Data Leaks on Battery-powered Embedded Systems</title>
+      <link>https://francozappa.github.io/publication/2024/etrojans/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2024/etrojans/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BLUFFS: Bluetooth Forward and Future Secrecy Attacks and Defenses</title>
