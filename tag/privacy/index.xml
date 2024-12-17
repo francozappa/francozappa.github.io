@@ -5,12 +5,24 @@
     <link>https://francozappa.github.io/tag/privacy/</link>
       <atom:link href="https://francozappa.github.io/tag/privacy/index.xml" rel="self" type="application/rss+xml" />
     <description>Privacy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Daniele Antonioli</copyright><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Daniele Antonioli</copyright><lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hu4924214685936227247.png</url>
       <title>Privacy</title>
       <link>https://francozappa.github.io/tag/privacy/</link>
     </image>
+    
+    <item>
+      <title>AttackDefense Framework (ADF)</title>
+      <link>https://francozappa.github.io/project/adf/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/project/adf/</guid>
+      <description>&lt;p&gt;The ADF framework is described in a paper published in the ACM TECS journal in
+2024 titled &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3698396&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AttackDefense Framework (ADF): Enhancing IoT Devices and
+Lifecycles Threat Modeling&lt;/a&gt; and available on
+&lt;a href=&#34;https://github.com/francozappa/adf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>FP-tracer PETS&#39;24 Paper and Artifact</title>

@@ -5,12 +5,65 @@
     <link>https://francozappa.github.io/tag/orshin/</link>
       <atom:link href="https://francozappa.github.io/tag/orshin/index.xml" rel="self" type="application/rss+xml" />
     <description>Orshin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Daniele Antonioli</copyright><lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Daniele Antonioli</copyright><lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hu4924214685936227247.png</url>
       <title>Orshin</title>
       <link>https://francozappa.github.io/tag/orshin/</link>
     </image>
+    
+    <item>
+      <title>The AttackDefense Framework (ADF)</title>
+      <link>https://francozappa.github.io/post/2024/adf-release/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2024/adf-release/</guid>
+      <description>&lt;p&gt;We release the &lt;em&gt;AttackDefense Framework (ADF)&lt;/em&gt;, a threat modeling
+framework for IoT devices and their life cycles. The ADF employs a flexible
+and generic threat data structure called the &lt;em&gt;AttackDefense (AD) object&lt;/em&gt;. An AD can
+model attack and defense aspects, like attack vectors, surfaces, models and
+defense policies and mechanisms, at the same time.&lt;/p&gt;
+&lt;p&gt;With the ADF, we can model, among others, security, privacy, hardware, software,
+firmware, and protocol threats to a &lt;em&gt;device&lt;/em&gt; (e.g., a crypto wallet) and threats to the
+&lt;em&gt;device&amp;rsquo;s life cycle&lt;/em&gt; (e.g., supply chain attacks while implementing a device).&lt;/p&gt;
+&lt;p&gt;The ADF block diagram includes four components used to &lt;em&gt;enhance&lt;/em&gt; threat modeling:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;ADF block diagram&#34; srcset=&#34;
+               /post/2024/adf-release/adf-bd_hu14920232184833490137.webp 400w,
+               /post/2024/adf-release/adf-bd_hu8957555922077683239.webp 760w,
+               /post/2024/adf-release/adf-bd_hu11416110703906885513.webp 1200w&#34;
+               src=&#34;https://francozappa.github.io/post/2024/adf-release/adf-bd_hu14920232184833490137.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;361&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;For more details about the ADF, look at:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3698396&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ADF paper (ACM TECS&#39;24)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/francozappa/adf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ADF GitHub repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/francozappa/adf/blob/main/blogpost.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ADF usage example for BLE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://horizon-orshin.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ADF contributes to ORSHIN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let&amp;rsquo;s Threat Model All the Things!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>E-Spoofer paper presentation at WiSec&#39;23</title>
