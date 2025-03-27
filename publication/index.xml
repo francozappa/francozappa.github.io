@@ -5,7 +5,7 @@
     <link>https://francozappa.github.io/publication/</link>
       <atom:link href="https://francozappa.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hu4924214685936227247.png</url>
       <title>Publications</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>CTRAPS: CTAP Client Impersonation and API Confusion on FIDO2</title>
-      <link>https://francozappa.github.io/publication/2024/ctraps/</link>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/2024/ctraps/</guid>
+      <title>CheckOCPP: Automatic OCPP Packet Dissection and Compliance Check</title>
+      <link>https://francozappa.github.io/publication/2025/checkocpp/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2025/checkocpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CTRAPS: CTAP Impersonation and API Confusion Attacks and Defenses on FIDO2</title>
+      <link>https://francozappa.github.io/publication/2025/ctraps/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2025/ctraps/</guid>
       <description></description>
     </item>
     

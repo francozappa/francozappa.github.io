@@ -5,7 +5,7 @@
     <link>https://francozappa.github.io/</link>
       <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniele Antonioli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hu4924214685936227247.png</url>
       <title>Daniele Antonioli</title>
@@ -108,6 +108,22 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>CheckOCPP: Automatic OCPP Packet Dissection and Compliance Check</title>
+      <link>https://francozappa.github.io/publication/2025/checkocpp/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2025/checkocpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CTRAPS: CTAP Impersonation and API Confusion Attacks and Defenses on FIDO2</title>
+      <link>https://francozappa.github.io/publication/2025/ctraps/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2025/ctraps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CFP: ACSW 2025</title>
       <link>https://francozappa.github.io/post/2025/cfp-acsw25/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
@@ -183,14 +199,6 @@ firmware, and protocol threats to a &lt;em&gt;device&lt;/em&gt; (e.g., a crypto 
 &lt;/ul&gt;
 &lt;p&gt;Let&amp;rsquo;s Threat Model All the Things!&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>CTRAPS: CTAP Client Impersonation and API Confusion on FIDO2</title>
-      <link>https://francozappa.github.io/publication/2024/ctraps/</link>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/2024/ctraps/</guid>
-      <description></description>
     </item>
     
     <item>
