@@ -5,12 +5,45 @@
     <link>https://francozappa.github.io/event/</link>
       <atom:link href="https://francozappa.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hu4924214685936227247.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://francozappa.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>FP-tracer: Fine-grained Browser Fingerprinting Detection via Taint-tracking and Multi-level Entropy-based Thresholds</title>
+      <link>https://francozappa.github.io/talk/fp-tracer-fine-grained-browser-fingerprinting-detection-via-taint-tracking-and-multi-level-entropy-based-thresholds/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/fp-tracer-fine-grained-browser-fingerprinting-detection-via-taint-tracking-and-multi-level-entropy-based-thresholds/</guid>
+      <description>&lt;p&gt;Talk on FP-tracer and browser fingerprinting at
+&lt;a href=&#34;https://team.inria.fr/privatics/privacy-alpine-seminar-2025-aka-privaski/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privasky&#39;25&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats</title>
+      <link>https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/</guid>
+      <description>&lt;p&gt;Talk on Automotive Bluetooth Security at
+&lt;a href=&#34;https://conferences.cirm-math.fr/amusec-2025.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AMUSEC&#39;25&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Cars are some of the most security-critical consumer devices. On the one hand,
+owners expect rich infotainment features, including audio, hands-free calls,
+contact management, or navigation through their connected mobile phone. On the
+other hand, the infotainment unit exposes exploitable wireless attack
+surfaces. This talk focuses on protocol-level Bluetooth threats on vehicles, a
+critical but unexplored wireless attack surface. These threats are crucial
+because they are portable across vehicles, and they can achieve impactful
+goals, such as accessing sensitive data or even taking remote control of the
+vehicle. Their evaluation is novel as prior work focused on other wireless
+attack surfaces, notably Bluetooth implementation bugs. Among relevant
+protocol-level threats, we pick the KNOB and BIAS attacks because they provide
+the most effective strategy to impersonate arbitrary Bluetooth devices and are
+not yet evaluated against vehicles.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Quest to Secure Standard and Proprietary Wireless Systems</title>
