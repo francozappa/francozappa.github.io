@@ -5,7 +5,7 @@
     <link>https://francozappa.github.io/</link>
       <atom:link href="https://francozappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniele Antonioli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hu4924214685936227247.png</url>
       <title>Daniele Antonioli</title>
@@ -105,6 +105,24 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>KNOB Attack and Crypto 101 by Alfred Menezes</title>
+      <link>https://francozappa.github.io/post/2025/crypto101-knob/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2025/crypto101-knob/</guid>
+      <description>&lt;p&gt;Alfred Menezes has recently published an awesome online introductory course on
+real-world cryptography called
+&lt;a href=&#34;https://cryptography101.ca/crypto101-deployments/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Crypto 101: Real-World Deployments&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It is an honour to be featured in the Bluetooth
+Security Lecture (Lecture 4) which talks about the KNOB attack.&lt;/p&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/0Y5aciplnuk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+</description>
     </item>
     
     <item>
