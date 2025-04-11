@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>T. Sacchetti | Daniele Antonioli</title>
-    <link>https://francozappa.github.io/author/t.-sacchetti/</link>
-      <atom:link href="https://francozappa.github.io/author/t.-sacchetti/index.xml" rel="self" type="application/rss+xml" />
-    <description>T. Sacchetti</description>
+    <title>V. Zubkov | Daniele Antonioli</title>
+    <link>https://francozappa.github.io/author/v.-zubkov/</link>
+      <atom:link href="https://francozappa.github.io/author/v.-zubkov/index.xml" rel="self" type="application/rss+xml" />
+    <description>V. Zubkov</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hu4924214685936227247.png</url>
-      <title>T. Sacchetti</title>
-      <link>https://francozappa.github.io/author/t.-sacchetti/</link>
+      <title>V. Zubkov</title>
+      <link>https://francozappa.github.io/author/v.-zubkov/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://francozappa.github.io/publication/2025/btoolkit/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/publication/2025/btoolkit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AttackDefense Framework (ADF): Enhancing IoT Devices and Lifecycles Threat Modeling</title>
-      <link>https://francozappa.github.io/publication/2024/adf/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/2024/adf/</guid>
       <description></description>
     </item>
     
