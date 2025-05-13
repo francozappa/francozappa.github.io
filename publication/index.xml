@@ -5,12 +5,28 @@
     <link>https://francozappa.github.io/publication/</link>
       <atom:link href="https://francozappa.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hu4924214685936227247.png</url>
       <title>Publications</title>
       <link>https://francozappa.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>EmuOCPP: Effective and Scalable OCPP Security and Privacy Testing</title>
+      <link>https://francozappa.github.io/publication/2025/emuocpp/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2025/emuocpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimProcess: High Fidelity Simulation of Noisy ICS Physical Processes</title>
+      <link>https://francozappa.github.io/publication/2025/simprocess/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2025/simprocess/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bluetooth Security Testing with BlueToolkit: a Large-Scale Automotive Case Study </title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Crestanello | Daniele Antonioli</title>
+    <link>https://francozappa.github.io/author/g.-crestanello/</link>
+      <atom:link href="https://francozappa.github.io/author/g.-crestanello/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Crestanello</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://francozappa.github.io/media/icon_hu4924214685936227247.png</url>
+      <title>G. Crestanello</title>
+      <link>https://francozappa.github.io/author/g.-crestanello/</link>
+    </image>
+    
+    <item>
+      <title>SimProcess: High Fidelity Simulation of Noisy ICS Physical Processes</title>
+      <link>https://francozappa.github.io/publication/2025/simprocess/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2025/simprocess/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
