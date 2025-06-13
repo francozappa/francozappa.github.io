@@ -5,12 +5,24 @@
     <link>https://francozappa.github.io/post/</link>
       <atom:link href="https://francozappa.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hu4924214685936227247.png</url>
       <title>Posts</title>
       <link>https://francozappa.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>NDSS&#39;26 Artifact Evaluation Comitee Self-Nomination</title>
+      <link>https://francozappa.github.io/post/2025/ae-ndss26/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2025/ae-ndss26/</guid>
+      <description>&lt;p&gt;Mathy Vanhoef and I are co-chairing NDSS&#39;26 &lt;a href=&#34;https://www.ndss-symposium.org/ndss2026/submissions/call-for-artifacts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artifact Evaluation (AE)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are looking for motivated PhD and Postdocs to self-nominate themselves for the NDSS&#39;26 &lt;a href=&#34;https://secartifacts.github.io/ndss2026/organizers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artifact Evaluation Committee (AEC)&lt;/a&gt;. Joining it would offer them practical experience and may ease developing artifact submissions for their papers.&lt;/p&gt;
+&lt;p&gt;The self nomination form is open until &lt;em&gt;June 25th&lt;/em&gt; and available &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdQGc5NsZnYqEW7MQw4ciXOc0UIIP4cxSo82WQxJpej42qlKA/viewform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;NDSS&#39;26 AEC call is &lt;a href=&#34;https://secartifacts.github.io/ndss2026/aec-call&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>KNOB Attack and Crypto 101 by Alfred Menezes</title>
