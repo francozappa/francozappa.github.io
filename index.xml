@@ -112,7 +112,7 @@ The variance of the distribution is $\sigma^{2}$.
       <link>https://francozappa.github.io/post/2025/ctraps-eurosp25/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/2025/ctraps-eurosp25/</guid>
-      <description>&lt;p&gt;This week we presented &lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CTRAPS: CTAP Impersonation and API Confusion on FIDO2&lt;/a&gt;, a paper about the security and privacy of FIDO2, a widespread standard used for single-factor and multi-factor authentication. We focus on the  &lt;em&gt;Client to Authenticator Protocol (CTAP)&lt;/em&gt;, an application layer protocol spoken by a FIDO2 authenticator (e.g., a YubiKey) and a client (e.g., a smartphone or a laptop). We uncover seven CTAP design issues in the FIDO2 standard, including the lack of Client to Authenticator authentication, and eleven related new attacks we call &lt;em&gt;CTRAPS&lt;/em&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;This week we presented at IEEE Euro S&amp;amp;P&#39;25 &lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CTRAPS: CTAP Impersonation and API Confusion on FIDO2&lt;/a&gt;, a paper about the security and privacy of FIDO2, a widespread standard used for single-factor and multi-factor authentication. We focus on the  &lt;em&gt;Client to Authenticator Protocol (CTAP)&lt;/em&gt;, an application layer protocol spoken by a FIDO2 authenticator (e.g., a YubiKey) and a client (e.g., a smartphone or a laptop). We uncover seven CTAP design issues in the FIDO2 standard, including the lack of Client to Authenticator authentication, and eleven related new attacks we call &lt;em&gt;CTRAPS&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;The CTRAPS attacks are effective on any CTAP compliant FIDO2 client and authenticator since they exploit design issues, i.e., millions of FIDO2 devices and users. Their effects, include deletion of discoverable and non-discoverable credentials, DoS of an authenticator, and user tracking with FIDO2 credentials. The attacks affect not only a FIDO2 authenticator but also a relying party, e.g., by deleting the master key a user loses all the related non-discoverable credentials stored on the relying parties.&lt;/p&gt;
 &lt;p&gt;The eleven CTRAPS attacks are grouped into two classes:&lt;/p&gt;
 &lt;ol&gt;
@@ -128,9 +128,9 @@ Yubico promptly acknowledged the issue, see &lt;a href=&#34;https://cve.mitre.or
 &lt;p&gt;We will also present CTRAPS at &lt;a href=&#34;https://defcon.org/html/defcon-33/dc-33-speakers.html#content_60350&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DEF CON 33&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;More CTRAPS resources:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE EuroSP paper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/poster.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE EuroSP poster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE EuroSP slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/poster.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
