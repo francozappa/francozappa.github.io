@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="en-us" >
 
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -60,19 +60,11 @@
   
     
   
-  <meta name="description" content="In this webinar we talk about, Protocol-Level Bluetooth Threats (PLBT), a novel
-and relevant class of threats for automotive security. Specifically, we
-explain what they are, why they are relevant, and how they can be evaluated on
-modern cars. We also report our PLBT evaluation results on five popular
-In-Vehicle Infotainment (IVI) units used by KIA, Toyota, Suzuki, and Skoda on
-cars manufactured between 2014 and 2021. For example, we show that is trivial
-to impersonate a trusted smartphone to commercial IVIs using an attack chain
-that we developed in recent years (KNOB&#43;BIAS attacks). As a result of a
-successful impersonation, an attacker can exfiltrate sensitive data stored on
-the IVI and send malicious commands to the IVI without being detected." />
+  <meta name="description" content="Mathy Vanhoef and I are co-chairing NDSS&#39;26 Artifact Evaluation (AE).
+We are looking for motivated PhD and Postdocs to self-nominate themselves for the NDSS&#39;26 Artifact Evaluation Committee (AEC). Joining it would offer them practical experience and may ease developing artifact submissions for their papers." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/" />
+  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/2025/ae-ndss26_/" />
 
   
   
@@ -82,13 +74,10 @@ the IVI and send malicious commands to the IVI without being detected." />
 
   
   
-    
-    <script src="/js/mathjax-config.js"></script>
-  
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
 
   
   
@@ -234,15 +223,7 @@ the IVI and send malicious commands to the IVI without being detected." />
 
       
       
-
-      
-        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
-      
-    
-      
-      
-
-      
+        
       
 
       
@@ -255,6 +236,14 @@ the IVI and send malicious commands to the IVI without being detected." />
 
       
     
+      
+      
+
+      
+      
+
+      
+    
   
 
   
@@ -262,49 +251,10 @@ the IVI and send malicious commands to the IVI without being detected." />
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.512574799414e7d36471486881070b0f.css" />
+  <link rel="stylesheet" href="/css/wowchemy.css" />
 
   
 
-
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-GG8TCFGHLX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-GG8TCFGHLX', {});
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
 
 
   
@@ -329,7 +279,7 @@ the IVI and send malicious commands to the IVI without being detected." />
   <link rel="icon" type="image/png" href="/media/icon_hu5386275752558131281.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu9858370098768856769.png" />
 
-  <link rel="canonical" href="https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/" />
+  <link rel="canonical" href="http://localhost:1313/post/2025/ae-ndss26_/" />
 
   
   
@@ -340,6 +290,7 @@ the IVI and send malicious commands to the IVI without being detected." />
   
   
     
+    
   
   
 
@@ -348,38 +299,35 @@ the IVI and send malicious commands to the IVI without being detected." />
     
     
   
-  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Daniele Antonioli" />
-  <meta property="og:url" content="https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/" />
-  <meta property="og:title" content="On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats | Daniele Antonioli" />
-  <meta property="og:description" content="In this webinar we talk about, Protocol-Level Bluetooth Threats (PLBT), a novel
-and relevant class of threats for automotive security. Specifically, we
-explain what they are, why they are relevant, and how they can be evaluated on
-modern cars. We also report our PLBT evaluation results on five popular
-In-Vehicle Infotainment (IVI) units used by KIA, Toyota, Suzuki, and Skoda on
-cars manufactured between 2014 and 2021. For example, we show that is trivial
-to impersonate a trusted smartphone to commercial IVIs using an attack chain
-that we developed in recent years (KNOB&#43;BIAS attacks). As a result of a
-successful impersonation, an attacker can exfiltrate sensitive data stored on
-the IVI and send malicious commands to the IVI without being detected." /><meta property="og:image" content="https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/featured.png" />
-    <meta property="twitter:image" content="https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/featured.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="http://localhost:1313/post/2025/ae-ndss26_/" />
+  <meta property="og:title" content="NDSS&#39;26 Artifact Evaluation Comitee Self-Nomination | Daniele Antonioli" />
+  <meta property="og:description" content="Mathy Vanhoef and I are co-chairing NDSS&#39;26 Artifact Evaluation (AE).
+We are looking for motivated PhD and Postdocs to self-nominate themselves for the NDSS&#39;26 Artifact Evaluation Committee (AEC). Joining it would offer them practical experience and may ease developing artifact submissions for their papers." /><meta property="og:image" content="http://localhost:1313/media/icon_hu4924214685936227247.png" />
+    <meta property="twitter:image" content="http://localhost:1313/media/icon_hu4924214685936227247.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2022-07-14T00:00:00&#43;00:00"
+        content="2025-06-13T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2022-07-14T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2025-06-13T00:00:00&#43;00:00">
   
 
   
 
 
-
-  
     
+
+
+
+
+
+
+  
 
 
 
@@ -387,32 +335,30 @@ the IVI and send malicious commands to the IVI without being detected." /><meta 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Event",
+  "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/"
+    "@id": "http://localhost:1313/post/2025/ae-ndss26_/"
   },
-  "name": "On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats",
+  "headline": "NDSS'26 Artifact Evaluation Comitee Self-Nomination",
   
-  "location": {
-    "@type": "Place",
-    "name": "Virtual"
-  },
+  "datePublished": "2025-06-13T00:00:00Z",
+  "dateModified": "2025-06-13T00:00:00Z",
   
-  
-  "image": [
-    "https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/featured.png"
-  ],
-  
-  "startDate": "2022-07-14T00:00:00Z",
-  
-  
-  "performer": {
+  "author": {
     "@type": "Person",
     "name": "Daniele Antonioli"
   },
   
-  "description": "\u003cp\u003eIn this webinar we talk about, Protocol-Level Bluetooth Threats (PLBT), a novel\nand relevant class of threats for automotive security. Specifically, we\nexplain what they are, why they are relevant, and how they can be evaluated on\nmodern cars. We also report our PLBT evaluation results on five popular\nIn-Vehicle Infotainment (IVI) units used by KIA, Toyota, Suzuki, and Skoda on\ncars manufactured between 2014 and 2021. For example, we show that is trivial\nto impersonate a trusted smartphone to commercial IVIs using an attack chain\nthat we developed in recent years (KNOB+BIAS attacks). As a result of a\nsuccessful impersonation, an attacker can exfiltrate sensitive data stored on\nthe IVI and send malicious commands to the IVI without being detected.\u003c/p\u003e"
+  "publisher": {
+    "@type": "Organization",
+    "name": "Daniele Antonioli",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/media/icon_hu13953851204939442304.png"
+    }
+  },
+  "description": "\u003cp\u003eMathy Vanhoef and I are co-chairing NDSS'26 \u003ca href=\"https://www.ndss-symposium.org/ndss2026/submissions/call-for-artifacts/\" target=\"_blank\" rel=\"noopener\"\u003eArtifact Evaluation (AE)\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eWe are looking for motivated PhD and Postdocs to self-nominate themselves for the NDSS'26 \u003ca href=\"https://secartifacts.github.io/ndss2026/organizers\" target=\"_blank\" rel=\"noopener\"\u003eArtifact Evaluation Committee (AEC)\u003c/a\u003e. Joining it would offer them practical experience and may ease developing artifact submissions for their papers.\u003c/p\u003e"
 }
 </script>
 
@@ -422,15 +368,17 @@ the IVI and send malicious commands to the IVI without being detected." /><meta 
 
   
 
+  
 
 
 
 
-  <title>On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats | Daniele Antonioli</title>
+
+  <title>NDSS&#39;26 Artifact Evaluation Comitee Self-Nomination | Daniele Antonioli</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="b4ddf3d82ec08b37c374d8abf4d18d10" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="a856b7a18b40d873fd1cca35f863773b" >
 
   
   
@@ -441,7 +389,7 @@ the IVI and send malicious commands to the IVI without being detected." /><meta 
   
   
   
-  <script src="/js/wowchemy-init.min.7e85d6cfe81caeb57cc49452f9b55e03.js"></script>
+  <script src="/js/wowchemy-init.min.js"></script>
 
   
 
@@ -916,7 +864,7 @@ the IVI and send malicious commands to the IVI without being detected." /><meta 
   </div>
 
   <div class="page-body">
-    <div class="pub">
+    <article class="article">
 
   
 
@@ -931,25 +879,18 @@ the IVI and send malicious commands to the IVI without being detected." /><meta 
 
 
 
-
-
-
-
-
-
-
-
+  
 
   
   
-
-
+  
 <div class="article-container pt-3">
-  <h1>On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats</h1>
+  <h1>NDSS&#39;26 Artifact Evaluation Comitee Self-Nomination</h1>
 
   
 
   
+    
 
 
 <div class="article-metadata">
@@ -958,9 +899,22 @@ the IVI and send malicious commands to the IVI without being detected." /><meta 
   
 
   
+  <span class="article-date">
+    
+    
+      
+    
+    Jun 13, 2025
+  </span>
+  
 
   
 
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
   
 
   
@@ -970,7 +924,7 @@ the IVI and send malicious commands to the IVI without being detected." /><meta 
   
   
     <span class="middot-divider"></span>
-    <a href="/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/#disqus_thread"></a>
+    <a href="/post/2025/ae-ndss26_/#disqus_thread"></a>
   
 
   
@@ -978,171 +932,24 @@ the IVI and send malicious commands to the IVI without being detected." /><meta 
 
 </div>
 
-  
-
-
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
     
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header" href="https://hexhive.epfl.ch/publications/files/22WOOT.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://github.com/francozappa/bias" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-    
-  
 
 
 
 
 
   
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/slides.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=tqln99BHUzU" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-
-</div>
-
-
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 258px;">
-  <div style="position: relative">
-    <img src="/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/featured_hu2389482955297111621.webp" width="720" height="258" alt="" class="featured-image">
-    
-  </div>
 </div>
 
 
 
   <div class="article-container">
 
-    
-      <br>
-    
-
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Date</div>
-          <div class="col-12 col-md-9">
-            Jul 14, 2022 00:00
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Event</div>
-          <div class="col-12 col-md-9">
-            
-            ASRG WORLD Series Webinar, July'22
-            
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">Virtual</div>
-          
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    <div class="space-below"></div>
-
     <div class="article-style">
-      <p>In this webinar we talk about, Protocol-Level Bluetooth Threats (PLBT), a novel
-and relevant class of threats for automotive security. Specifically, we
-explain what they are, why they are relevant, and how they can be evaluated on
-modern cars. We also report our PLBT evaluation results on five popular
-In-Vehicle Infotainment (IVI) units used by KIA, Toyota, Suzuki, and Skoda on
-cars manufactured between 2014 and 2021. For example, we show that is trivial
-to impersonate a trusted smartphone to commercial IVIs using an attack chain
-that we developed in recent years (KNOB+BIAS attacks). As a result of a
-successful impersonation, an attacker can exfiltrate sensitive data stored on
-the IVI and send malicious commands to the IVI without being detected.</p>
-<p>We note that PLBTs are effective on any Bluetooth-enabled IVI as they exploit
-protocol flaws in the Bluetooth standard itself. Hence, we expect that the
-vast majority of the IVIs in the market is vulnerable to the KNOB+BIAS attack
-chain and other PLBTs. This fact should clearly motivate why it is important
-to investigate and fix PLBTs in the automotive industry.</p>
-<p>For more information please refer to our research paper presented this year at
-the IEEE <em>Workshop On Offensive Technologies (WOOT)</em> titled <strong>On the Insecurity
-of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
-<a href="https://hexhive.epfl.ch/publications/files/22WOOT.pdf" target="_blank" rel="noopener">here</a>.</p>
-
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/tqln99BHUzU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-    </div>
-
+      <p>Mathy Vanhoef and I are co-chairing NDSS'26 <a href="https://www.ndss-symposium.org/ndss2026/submissions/call-for-artifacts/" target="_blank" rel="noopener">Artifact Evaluation (AE)</a>.</p>
+<p>We are looking for motivated PhD and Postdocs to self-nominate themselves for the NDSS'26 <a href="https://secartifacts.github.io/ndss2026/organizers" target="_blank" rel="noopener">Artifact Evaluation Committee (AEC)</a>. Joining it would offer them practical experience and may ease developing artifact submissions for their papers.</p>
+<p>The self nomination form is open until <em>June 25th</em> and available <a href="https://docs.google.com/forms/d/e/1FAIpQLSdQGc5NsZnYqEW7MQw4ciXOc0UIIP4cxSo82WQxJpej42qlKA/viewform" target="_blank" rel="noopener">here</a>.</p>
+<p>NDSS'26 AEC call is <a href="https://secartifacts.github.io/ndss2026/aec-call" target="_blank" rel="noopener">here</a>.</p>
 
     </div>
 
@@ -1152,6 +959,12 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
 
 
 
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/ae/">Ae</a>
+  
+</div>
 
 
 
@@ -1166,7 +979,7 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/&amp;text=On%20the%20Insecurity%20of%20Vehicles%20Against%20Protocol-Level%20Bluetooth%20Threats" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=http://localhost:1313/post/2025/ae-ndss26_/&amp;text=NDSS&amp;#39;26%20Artifact%20Evaluation%20Comitee%20Self-Nomination" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1179,7 +992,7 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/&amp;t=On%20the%20Insecurity%20of%20Vehicles%20Against%20Protocol-Level%20Bluetooth%20Threats" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=http://localhost:1313/post/2025/ae-ndss26_/&amp;t=NDSS&amp;#39;26%20Artifact%20Evaluation%20Comitee%20Self-Nomination" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1192,7 +1005,7 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
       
       
       <li>
-        <a href="mailto:?subject=On%20the%20Insecurity%20of%20Vehicles%20Against%20Protocol-Level%20Bluetooth%20Threats&amp;body=https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=NDSS&amp;#39;26%20Artifact%20Evaluation%20Comitee%20Self-Nomination&amp;body=http://localhost:1313/post/2025/ae-ndss26_/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1205,7 +1018,7 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/&amp;title=On%20the%20Insecurity%20of%20Vehicles%20Against%20Protocol-Level%20Bluetooth%20Threats" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=http://localhost:1313/post/2025/ae-ndss26_/&amp;title=NDSS&amp;#39;26%20Artifact%20Evaluation%20Comitee%20Self-Nomination" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1218,7 +1031,7 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
       
       
       <li>
-        <a href="whatsapp://send?text=On%20the%20Insecurity%20of%20Vehicles%20Against%20Protocol-Level%20Bluetooth%20Threats%20https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=NDSS&amp;#39;26%20Artifact%20Evaluation%20Comitee%20Self-Nomination%20http://localhost:1313/post/2025/ae-ndss26_/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1231,7 +1044,7 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/&amp;title=On%20the%20Insecurity%20of%20Vehicles%20Against%20Protocol-Level%20Bluetooth%20Threats" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=http://localhost:1313/post/2025/ae-ndss26_/&amp;title=NDSS&amp;#39;26%20Artifact%20Evaluation%20Comitee%20Self-Nomination" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1307,13 +1120,22 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
 
   
   
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/post/2025/ae-ndss26/">NDSS&#39;26 Artifact Evaluation Comitee Self-Nomination</a></li>
+      
+    </ul>
+  </div>
+  
 
 
 
 
 
   </div>
-</div>
+</article>
   </div>
 
   <div class="page-footer">
@@ -1392,7 +1214,7 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
       
 
     
-    <script src="/js/vendor-bundle.min.8e09daa601459f1768414cc0569ad616.js"></script>
+    <script src="/js/vendor-bundle.min.js"></script>
 
     
     
@@ -1483,7 +1305,7 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
 
     
     
-      <script src="/js/wowchemy-headroom.6b73888494485d3b0874ca2ec83f614f.js" type="module"></script>
+      <script src="/js/wowchemy-headroom.js" type="module"></script>
     
     
     
@@ -1495,11 +1317,9 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
       
     
     
-    <script src="/en/js/wowchemy.min.d23b1e76b2646344214d0cbc47333b67.js"></script>
+    <script src="/en/js/wowchemy.min.js"></script>
 
     
-  <script async defer src="https://buttons.github.io/buttons.js"></script>
-
 
 
 

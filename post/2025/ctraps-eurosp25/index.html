@@ -60,19 +60,10 @@
   
     
   
-  <meta name="description" content="In this webinar we talk about, Protocol-Level Bluetooth Threats (PLBT), a novel
-and relevant class of threats for automotive security. Specifically, we
-explain what they are, why they are relevant, and how they can be evaluated on
-modern cars. We also report our PLBT evaluation results on five popular
-In-Vehicle Infotainment (IVI) units used by KIA, Toyota, Suzuki, and Skoda on
-cars manufactured between 2014 and 2021. For example, we show that is trivial
-to impersonate a trusted smartphone to commercial IVIs using an attack chain
-that we developed in recent years (KNOB&#43;BIAS attacks). As a result of a
-successful impersonation, an attacker can exfiltrate sensitive data stored on
-the IVI and send malicious commands to the IVI without being detected." />
+  <meta name="description" content="This week we presented CTRAPS: CTAP Impersonation and API Confusion on FIDO2, a paper about the security and privacy of FIDO2, a widespread standard used for single-factor and multi-factor authentication. We focus on the  Client to Authenticator Protocol (CTAP), an application layer protocol spoken by a FIDO2 authenticator (e.g., a YubiKey) and a client (e.g., a smartphone or a laptop). We uncover seven CTAP design issues in the FIDO2 standard, including the lack of Client to Authenticator authentication, and eleven related new attacks we call CTRAPS." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/" />
+  <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/post/2025/ctraps-eurosp25/" />
 
   
   
@@ -81,9 +72,6 @@ the IVI and send malicious commands to the IVI without being detected." />
   
 
   
-  
-    
-    <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -234,9 +222,9 @@ the IVI and send malicious commands to the IVI without being detected." />
 
       
       
-
+        
       
-        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+
       
     
       
@@ -329,7 +317,7 @@ the IVI and send malicious commands to the IVI without being detected." />
   <link rel="icon" type="image/png" href="/media/icon_hu5386275752558131281.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu9858370098768856769.png" />
 
-  <link rel="canonical" href="https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/" />
+  <link rel="canonical" href="https://francozappa.github.io/post/2025/ctraps-eurosp25/" />
 
   
   
@@ -340,6 +328,7 @@ the IVI and send malicious commands to the IVI without being detected." />
   
   
     
+    
   
   
 
@@ -348,38 +337,34 @@ the IVI and send malicious commands to the IVI without being detected." />
     
     
   
-  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Daniele Antonioli" />
-  <meta property="og:url" content="https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/" />
-  <meta property="og:title" content="On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats | Daniele Antonioli" />
-  <meta property="og:description" content="In this webinar we talk about, Protocol-Level Bluetooth Threats (PLBT), a novel
-and relevant class of threats for automotive security. Specifically, we
-explain what they are, why they are relevant, and how they can be evaluated on
-modern cars. We also report our PLBT evaluation results on five popular
-In-Vehicle Infotainment (IVI) units used by KIA, Toyota, Suzuki, and Skoda on
-cars manufactured between 2014 and 2021. For example, we show that is trivial
-to impersonate a trusted smartphone to commercial IVIs using an attack chain
-that we developed in recent years (KNOB&#43;BIAS attacks). As a result of a
-successful impersonation, an attacker can exfiltrate sensitive data stored on
-the IVI and send malicious commands to the IVI without being detected." /><meta property="og:image" content="https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/featured.png" />
-    <meta property="twitter:image" content="https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/featured.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="https://francozappa.github.io/post/2025/ctraps-eurosp25/" />
+  <meta property="og:title" content="CTRAPS at EuroS&amp;P&#39;25 and DEF CON 33 | Daniele Antonioli" />
+  <meta property="og:description" content="This week we presented CTRAPS: CTAP Impersonation and API Confusion on FIDO2, a paper about the security and privacy of FIDO2, a widespread standard used for single-factor and multi-factor authentication. We focus on the  Client to Authenticator Protocol (CTAP), an application layer protocol spoken by a FIDO2 authenticator (e.g., a YubiKey) and a client (e.g., a smartphone or a laptop). We uncover seven CTAP design issues in the FIDO2 standard, including the lack of Client to Authenticator authentication, and eleven related new attacks we call CTRAPS." /><meta property="og:image" content="https://francozappa.github.io/media/icon_hu4924214685936227247.png" />
+    <meta property="twitter:image" content="https://francozappa.github.io/media/icon_hu4924214685936227247.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2022-07-14T00:00:00&#43;00:00"
+        content="2025-07-04T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2022-07-14T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2025-07-04T00:00:00&#43;00:00">
   
 
   
 
 
-
-  
     
+
+
+
+
+
+
+  
 
 
 
@@ -387,32 +372,30 @@ the IVI and send malicious commands to the IVI without being detected." /><meta 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Event",
+  "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/"
+    "@id": "https://francozappa.github.io/post/2025/ctraps-eurosp25/"
   },
-  "name": "On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats",
+  "headline": "CTRAPS at EuroS\u0026P'25 and DEF CON 33",
   
-  "location": {
-    "@type": "Place",
-    "name": "Virtual"
-  },
+  "datePublished": "2025-07-04T00:00:00Z",
+  "dateModified": "2025-07-04T00:00:00Z",
   
-  
-  "image": [
-    "https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/featured.png"
-  ],
-  
-  "startDate": "2022-07-14T00:00:00Z",
-  
-  
-  "performer": {
+  "author": {
     "@type": "Person",
     "name": "Daniele Antonioli"
   },
   
-  "description": "\u003cp\u003eIn this webinar we talk about, Protocol-Level Bluetooth Threats (PLBT), a novel\nand relevant class of threats for automotive security. Specifically, we\nexplain what they are, why they are relevant, and how they can be evaluated on\nmodern cars. We also report our PLBT evaluation results on five popular\nIn-Vehicle Infotainment (IVI) units used by KIA, Toyota, Suzuki, and Skoda on\ncars manufactured between 2014 and 2021. For example, we show that is trivial\nto impersonate a trusted smartphone to commercial IVIs using an attack chain\nthat we developed in recent years (KNOB+BIAS attacks). As a result of a\nsuccessful impersonation, an attacker can exfiltrate sensitive data stored on\nthe IVI and send malicious commands to the IVI without being detected.\u003c/p\u003e"
+  "publisher": {
+    "@type": "Organization",
+    "name": "Daniele Antonioli",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://francozappa.github.io/media/icon_hu13953851204939442304.png"
+    }
+  },
+  "description": "\u003cp\u003eThis week we presented \u003ca href=\"https://francozappa.github.io/publication/2025/ctraps/\" target=\"_blank\" rel=\"noopener\"\u003eCTRAPS: CTAP Impersonation and API Confusion on FIDO2\u003c/a\u003e, a paper about the security and privacy of FIDO2, a widespread standard used for single-factor and multi-factor authentication. We focus on the  \u003cem\u003eClient to Authenticator Protocol (CTAP)\u003c/em\u003e, an application layer protocol spoken by a FIDO2 authenticator (e.g., a YubiKey) and a client (e.g., a smartphone or a laptop). We uncover seven CTAP design issues in the FIDO2 standard, including the lack of Client to Authenticator authentication, and eleven related new attacks we call \u003cem\u003eCTRAPS\u003c/em\u003e.\u003c/p\u003e"
 }
 </script>
 
@@ -422,15 +405,17 @@ the IVI and send malicious commands to the IVI without being detected." /><meta 
 
   
 
+  
 
 
 
 
-  <title>On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats | Daniele Antonioli</title>
+
+  <title>CTRAPS at EuroS&amp;P&#39;25 and DEF CON 33 | Daniele Antonioli</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="b4ddf3d82ec08b37c374d8abf4d18d10" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="4bcb8b2160d3efdabc03e07047dbcf85" >
 
   
   
@@ -916,7 +901,7 @@ the IVI and send malicious commands to the IVI without being detected." /><meta 
   </div>
 
   <div class="page-body">
-    <div class="pub">
+    <article class="article">
 
   
 
@@ -931,25 +916,18 @@ the IVI and send malicious commands to the IVI without being detected." /><meta 
 
 
 
-
-
-
-
-
-
-
-
+  
 
   
   
-
-
+  
 <div class="article-container pt-3">
-  <h1>On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats</h1>
+  <h1>CTRAPS at EuroS&amp;P&#39;25 and DEF CON 33</h1>
 
   
 
   
+    
 
 
 <div class="article-metadata">
@@ -958,9 +936,22 @@ the IVI and send malicious commands to the IVI without being detected." /><meta 
   
 
   
+  <span class="article-date">
+    
+    
+      
+    
+    Jul 4, 2025
+  </span>
+  
 
   
 
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
   
 
   
@@ -970,7 +961,7 @@ the IVI and send malicious commands to the IVI without being detected." /><meta 
   
   
     <span class="middot-divider"></span>
-    <a href="/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/#disqus_thread"></a>
+    <a href="/post/2025/ctraps-eurosp25/#disqus_thread"></a>
   
 
   
@@ -978,171 +969,40 @@ the IVI and send malicious commands to the IVI without being detected." /><meta 
 
 </div>
 
-  
-
-
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
     
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header" href="https://hexhive.epfl.ch/publications/files/22WOOT.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://github.com/francozappa/bias" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-    
-  
 
 
 
 
 
   
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/slides.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=tqln99BHUzU" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-
-</div>
-
-
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 258px;">
-  <div style="position: relative">
-    <img src="/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/featured_hu2389482955297111621.webp" width="720" height="258" alt="" class="featured-image">
-    
-  </div>
 </div>
 
 
 
   <div class="article-container">
 
-    
-      <br>
-    
-
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Date</div>
-          <div class="col-12 col-md-9">
-            Jul 14, 2022 00:00
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Event</div>
-          <div class="col-12 col-md-9">
-            
-            ASRG WORLD Series Webinar, July'22
-            
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">Virtual</div>
-          
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    <div class="space-below"></div>
-
     <div class="article-style">
-      <p>In this webinar we talk about, Protocol-Level Bluetooth Threats (PLBT), a novel
-and relevant class of threats for automotive security. Specifically, we
-explain what they are, why they are relevant, and how they can be evaluated on
-modern cars. We also report our PLBT evaluation results on five popular
-In-Vehicle Infotainment (IVI) units used by KIA, Toyota, Suzuki, and Skoda on
-cars manufactured between 2014 and 2021. For example, we show that is trivial
-to impersonate a trusted smartphone to commercial IVIs using an attack chain
-that we developed in recent years (KNOB+BIAS attacks). As a result of a
-successful impersonation, an attacker can exfiltrate sensitive data stored on
-the IVI and send malicious commands to the IVI without being detected.</p>
-<p>We note that PLBTs are effective on any Bluetooth-enabled IVI as they exploit
-protocol flaws in the Bluetooth standard itself. Hence, we expect that the
-vast majority of the IVIs in the market is vulnerable to the KNOB+BIAS attack
-chain and other PLBTs. This fact should clearly motivate why it is important
-to investigate and fix PLBTs in the automotive industry.</p>
-<p>For more information please refer to our research paper presented this year at
-the IEEE <em>Workshop On Offensive Technologies (WOOT)</em> titled <strong>On the Insecurity
-of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
-<a href="https://hexhive.epfl.ch/publications/files/22WOOT.pdf" target="_blank" rel="noopener">here</a>.</p>
-
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/tqln99BHUzU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-    </div>
-
+      <p>This week we presented <a href="https://francozappa.github.io/publication/2025/ctraps/" target="_blank" rel="noopener">CTRAPS: CTAP Impersonation and API Confusion on FIDO2</a>, a paper about the security and privacy of FIDO2, a widespread standard used for single-factor and multi-factor authentication. We focus on the  <em>Client to Authenticator Protocol (CTAP)</em>, an application layer protocol spoken by a FIDO2 authenticator (e.g., a YubiKey) and a client (e.g., a smartphone or a laptop). We uncover seven CTAP design issues in the FIDO2 standard, including the lack of Client to Authenticator authentication, and eleven related new attacks we call <em>CTRAPS</em>.</p>
+<p>The CTRAPS attacks are effective on any CTAP compliant FIDO2 client and authenticator since they exploit design issues, i.e., millions of FIDO2 devices and users. Their effects, include deletion of discoverable and non-discoverable credentials, DoS of an authenticator, and user tracking with FIDO2 credentials. The attacks affect not only a FIDO2 authenticator but also a relying party, e.g., by deleting the master key a user loses all the related non-discoverable credentials stored on the relying parties.</p>
+<p>The eleven CTRAPS attacks are grouped into two classes:</p>
+<ol>
+<li>four <em>Client Impersonation (CI)</em> attacks: where the attacker impersonates a client to an authenticator over CTAP to achieve several goals, like 0-click deletion of all credentials stored on the authenticator via the reset CTAP API call.</li>
+<li>seven <em>API Confusion (AC)</em> attacks: where the attacker MitM a CTAP channel between a client and an authenticator and confound the authenticator by calling a different API than the one intended to be called by the client, e.g., the client thinks it has called and authorized the make credential API while the attacker calls the reset API and deletes all credentials.</li>
+</ol>
+<p>We also release a <a href="https://github.com/Skiti/CTrAPs" target="_blank" rel="noopener">toolkit</a> implementing the attacks. It can be used for CTAP security testing as it includes a virtual CTAP testbed to test an authenticator without having to compromise real credentials and several malicious Clients to test various attack scenarios.</p>
+<p>We successfully evaluate the CTRAPS attacks on six popular FIDO2 authenticators, including (FIPS compliant) YubiKeys, Feitian, and Solo and ten popular relying parties, like apple.com, github.com, adobe.com, and facebook.com.</p>
+<p>We also release five CTRAPS attacks <a href="https://www.youtube.com/@skitisec/shorts" target="_blank" rel="noopener">demos</a>.</p>
+<p>Moreover, we discovered an implementation-specific vulnerability affecting Yubikeys allowing to enumerate relying parties without authorization.
+Yubico promptly acknowledged the issue, see <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35311" target="_blank" rel="noopener">CVE-2024-35311</a>, and
+<a href="https://www.yubico.com/support/security-advisories/ysa-2024-02/" target="_blank" rel="noopener">YSA-2024-02</a>. They released a new firmware fixing the vulnerability which is shipped with the following Yubikeys Series: 5, Security Key, Bio, FIPS,and CSPN.</p>
+<p>We will also present CTRAPS at <a href="https://defcon.org/html/defcon-33/dc-33-speakers.html#content_60350" target="_blank" rel="noopener">DEF CON 33</a>.</p>
+<p>More CTRAPS resources:</p>
+<ul>
+<li><a href="https://francozappa.github.io/publication/2025/ctraps/paper.pdf" target="_blank" rel="noopener">IEEE EuroSP paper</a></li>
+<li><a href="https://francozappa.github.io/publication/2025/ctraps/poster.pdf" target="_blank" rel="noopener">IEEE EuroSP poster</a></li>
+<li><a href="https://francozappa.github.io/publication/2025/ctraps/slides.pdf" target="_blank" rel="noopener">IEEE EuroSP slides</a></li>
+</ul>
 
     </div>
 
@@ -1152,6 +1012,16 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
 
 
 
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/ctraps/">Ctraps</a>
+  
+  <a class="badge badge-light" href="/tag/fido2/">Fido2</a>
+  
+  <a class="badge badge-light" href="/tag/ctap/">Ctap</a>
+  
+</div>
 
 
 
@@ -1166,7 +1036,7 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/&amp;text=On%20the%20Insecurity%20of%20Vehicles%20Against%20Protocol-Level%20Bluetooth%20Threats" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://francozappa.github.io/post/2025/ctraps-eurosp25/&amp;text=CTRAPS%20at%20EuroS&amp;amp;P&amp;#39;25%20and%20DEF%20CON%2033" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1179,7 +1049,7 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/&amp;t=On%20the%20Insecurity%20of%20Vehicles%20Against%20Protocol-Level%20Bluetooth%20Threats" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://francozappa.github.io/post/2025/ctraps-eurosp25/&amp;t=CTRAPS%20at%20EuroS&amp;amp;P&amp;#39;25%20and%20DEF%20CON%2033" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1192,7 +1062,7 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
       
       
       <li>
-        <a href="mailto:?subject=On%20the%20Insecurity%20of%20Vehicles%20Against%20Protocol-Level%20Bluetooth%20Threats&amp;body=https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=CTRAPS%20at%20EuroS&amp;amp;P&amp;#39;25%20and%20DEF%20CON%2033&amp;body=https://francozappa.github.io/post/2025/ctraps-eurosp25/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1205,7 +1075,7 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/&amp;title=On%20the%20Insecurity%20of%20Vehicles%20Against%20Protocol-Level%20Bluetooth%20Threats" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://francozappa.github.io/post/2025/ctraps-eurosp25/&amp;title=CTRAPS%20at%20EuroS&amp;amp;P&amp;#39;25%20and%20DEF%20CON%2033" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1218,7 +1088,7 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
       
       
       <li>
-        <a href="whatsapp://send?text=On%20the%20Insecurity%20of%20Vehicles%20Against%20Protocol-Level%20Bluetooth%20Threats%20https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=CTRAPS%20at%20EuroS&amp;amp;P&amp;#39;25%20and%20DEF%20CON%2033%20https://francozappa.github.io/post/2025/ctraps-eurosp25/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1231,7 +1101,7 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/&amp;title=On%20the%20Insecurity%20of%20Vehicles%20Against%20Protocol-Level%20Bluetooth%20Threats" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://francozappa.github.io/post/2025/ctraps-eurosp25/&amp;title=CTRAPS%20at%20EuroS&amp;amp;P&amp;#39;25%20and%20DEF%20CON%2033" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1313,7 +1183,7 @@ of Vehicles Against Protocol-Level Bluetooth Threats</strong> available
 
 
   </div>
-</div>
+</article>
   </div>
 
   <div class="page-footer">
