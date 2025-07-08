@@ -5,12 +5,21 @@
     <link>https://francozappa.github.io/event/</link>
       <atom:link href="https://francozappa.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hu4924214685936227247.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://francozappa.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>CTRAPS: CTAP Client Impersonation and API Confusion on FIDO2</title>
+      <link>https://francozappa.github.io/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/</guid>
+      <description>&lt;p&gt;Talk on &lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CTRAPS attacks on FIDO2&lt;/a&gt; as part of ETHZ ZISC seminars.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>FP-tracer: Fine-grained Browser Fingerprinting Detection via Taint-tracking and Multi-level Entropy-based Thresholds</title>

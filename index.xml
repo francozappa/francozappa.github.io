@@ -136,6 +136,15 @@ Yubico promptly acknowledged the issue, see &lt;a href=&#34;https://cve.mitre.or
     </item>
     
     <item>
+      <title>CTRAPS: CTAP Client Impersonation and API Confusion on FIDO2</title>
+      <link>https://francozappa.github.io/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/</guid>
+      <description>&lt;p&gt;Talk on &lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CTRAPS attacks on FIDO2&lt;/a&gt; as part of ETHZ ZISC seminars.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>NDSS&#39;26 Artifact Evaluation Comitee Self-Nomination</title>
       <link>https://francozappa.github.io/post/2025/ae-ndss26/</link>
       <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>

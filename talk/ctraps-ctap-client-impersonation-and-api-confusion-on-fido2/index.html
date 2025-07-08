@@ -60,10 +60,10 @@
   
     
   
-  <meta name="description" content="Assistant Professor" />
+  <meta name="description" content="Talk on CTRAPS attacks on FIDO2 as part of ETHZ ZISC seminars." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/author/daniele-antonioli/" />
+  <link rel="alternate" hreflang="en-us" href="https://francozappa.github.io/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/" />
 
   
   
@@ -72,6 +72,9 @@
   
 
   
+  
+    
+    <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -222,9 +225,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -309,8 +312,6 @@
   
 
   
-    <link rel="alternate" href="/author/daniele-antonioli/index.xml" type="application/rss+xml" title="Daniele Antonioli" />
-  
 
   
     <link rel="manifest" href="/manifest.webmanifest" />
@@ -319,7 +320,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu5386275752558131281.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu9858370098768856769.png" />
 
-  <link rel="canonical" href="https://francozappa.github.io/author/daniele-antonioli/" />
+  <link rel="canonical" href="https://francozappa.github.io/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/" />
 
   
   
@@ -330,8 +331,6 @@
   
   
     
-    
-    
   
   
 
@@ -340,15 +339,21 @@
     
     
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Daniele Antonioli" />
-  <meta property="og:url" content="https://francozappa.github.io/author/daniele-antonioli/" />
-  <meta property="og:title" content="Daniele Antonioli" />
-  <meta property="og:description" content="Assistant Professor" /><meta property="og:image" content="https://francozappa.github.io/author/daniele-antonioli/avatar_hu12047192209063628450.png" />
-    <meta property="twitter:image" content="https://francozappa.github.io/author/daniele-antonioli/avatar_hu12047192209063628450.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="https://francozappa.github.io/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/" />
+  <meta property="og:title" content="CTRAPS: CTAP Client Impersonation and API Confusion on FIDO2 | Daniele Antonioli" />
+  <meta property="og:description" content="Talk on CTRAPS attacks on FIDO2 as part of ETHZ ZISC seminars." /><meta property="og:image" content="https://francozappa.github.io/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/featured.png" />
+    <meta property="twitter:image" content="https://francozappa.github.io/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/featured.png" /><meta property="og:locale" content="en-us" />
   
     
+      <meta
+        property="article:published_time"
+        content="2025-06-20T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2025-06-20T00:00:00&#43;00:00">
   
 
   
@@ -356,6 +361,46 @@
 
 
   
+    
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://francozappa.github.io/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/"
+  },
+  "name": "CTRAPS: CTAP Client Impersonation and API Confusion on FIDO2",
+  
+  "location": {
+    "@type": "Place",
+    "name": "Zurich"
+  },
+  
+  
+  "image": [
+    "https://francozappa.github.io/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/featured.png"
+  ],
+  
+  "startDate": "2025-06-20T00:00:00Z",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "Daniele Antonioli"
+  },
+  
+  "description": "\u003cp\u003eTalk on \u003ca href=\"https://francozappa.github.io/publication/2025/ctraps/\" target=\"_blank\" rel=\"noopener\"\u003eCTRAPS attacks on FIDO2\u003c/a\u003e as part of ETHZ ZISC seminars.\u003c/p\u003e"
+}
+</script>
+
+  
+
+  
 
   
 
@@ -363,11 +408,11 @@
 
 
 
-  <title>Daniele Antonioli</title>
+  <title>CTRAPS: CTAP Client Impersonation and API Confusion on FIDO2 | Daniele Antonioli</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="2525497d367e79493fd32b198b28f040" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="110a98df54c16049faef43c48e33821f" >
 
   
   
@@ -853,19 +898,80 @@
   </div>
 
   <div class="page-body">
-    
+    <div class="pub">
+
+  
 
 
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
-    
-    
-      
-      
-      
-      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>CTRAPS: CTAP Client Impersonation and API Confusion on FIDO2</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+    <span class="middot-divider"></span>
+    <a href="/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/#disqus_thread"></a>
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
 
 
 
@@ -880,277 +986,263 @@
 
 
 
-
-<div class="row">
-  <div class="col-12 col-lg-4">
-    <div id="profile">
-
-      
-      
-      <img class="avatar avatar-circle"
-           width="270" height="270"
-           src="/author/daniele-antonioli/avatar_hu12047192209063628450.png" alt="Daniele Antonioli">
-      
-
-      <div class="portrait-title">
-
-        <h2>Daniele Antonioli</h2>
-
-        <h3>Assistant Professor</h3>
-
-        
-        <h3>
-          <a href="https://www.eurecom.fr" target="_blank" rel="noopener">
-          <span>EURECOM</span>
-          </a>
-        </h3>
-        
-        <h3>
-          <a href="http://s3.eurecom.fr" target="_blank" rel="noopener">
-          <span>Software &amp; System Security (S3)</span>
-          </a>
-        </h3>
-        
-      </div>
-
-      <ul class="network-icon" aria-hidden="true">
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="/#contact"  aria-label="envelope">
-            <i class="fas fa-envelope big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://scholar.google.com/citations?hl=en&amp;user=RkX4eFsAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener" aria-label="google-scholar">
-            <i class="ai ai-google-scholar big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://github.com/francozappa" target="_blank" rel="noopener" aria-label="github">
-            <i class="fab fa-github big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://twitter.com/francozappa" target="_blank" rel="noopener" aria-label="twitter">
-            <i class="fab fa-twitter big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://linkedin.com/in/antoniolidaniele" target="_blank" rel="noopener" aria-label="linkedin">
-            <i class="fab fa-linkedin big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://dblp.org/pers/a/Antonioli:Daniele.html" target="_blank" rel="noopener" aria-label="dblp">
-            <i class="ai ai-dblp big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://orcid.org/0000-0002-9342-3920" target="_blank" rel="noopener" aria-label="orcid">
-            <i class="ai ai-orcid big-icon"></i>
-          </a>
-        </li>
-        
-      </ul>
-
-    </div>
-  </div>
-  <div class="col-12 col-lg-8">
-
+  
     
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 459px; max-height: 173px;">
+  <div style="position: relative">
+    <img src="/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/featured_hu13776052482371198304.webp" width="459" height="173" alt="" class="featured-image">
     
-
-    <div class="article-style">
-      <p>Ciao, I am Daniele, an Assistant Professor (Class 1) at <a href="https://www.eurecom.fr/" target="_blank" rel="noopener">EURECOM</a> with the
-<a href="http://s3.eurecom.fr/" target="_blank" rel="noopener">software and system security (S3) group</a>.  I am
-doing research and teaching in <strong>applied system security and privacy</strong> with an emphasis on
-<em>wireless communication</em>, such as Bluetooth and Wi-Fi, <em>embedded systems</em>, such as
-cars and fitness trackers, <em>mobile systems</em> such as smartphones, and
-<em>cyber-physical systems</em> such as industrial control systems.</p>
-<p>In 2025, I got the French HDR (Habilitation à diriger des Recherches)  from the <a href="https://www.polytechnique.edu/en" target="_blank" rel="noopener">École polytechnique</a> presenting a thesis and talk
-titled &ldquo;Security and Privacy for Connected Devices&rdquo;.
-In 2020, spent one year and a half as a Postdoc with <a href="https://nebelwelt.net/" target="_blank" rel="noopener">Mathias Payer</a>&rsquo;s
-<a href="https://hexhive.epfl.ch/" target="_blank" rel="noopener">HexHive</a> group at
-<a href="https://www.epfl.ch/schools/ic/" target="_blank" rel="noopener">École Polytechnique Fédérale de Lausanne (EPFL)</a>. During my
-postdoc, among others, I&rsquo;ve participated in the design, implementation and evaluation of
-<a href="https://francozappa.github.io/project/gaen/" target="_blank" rel="noopener">DP3T/GAEN</a>, a privacy-preserving contact-tracing
-technology now used by Android and iOS for proximity tracing.</p>
-<p>I hold a PhD in Computer Science from the <a href="https://sutd.edu.sg/" target="_blank" rel="noopener">Singapore University of
-Technology and Design (SUTD)</a>. My PhD thesis is titled
-<a href="https://francozappa.github.io/publication/phd-thesis/thesis.pdf" target="_blank" rel="noopener">&ldquo;Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless
-Systems&rdquo;</a>.
-During my PhD I spent six months at the Computer Science Department of the <a href="http://www.cs.ox.ac.uk/" target="_blank" rel="noopener">University of
-Oxford</a> as a visiting researcher advised
-by <a href="https://www.cs.ox.ac.uk/people/kasper.rasmussen/" target="_blank" rel="noopener">Kasper Rasmussen</a>,
-and ten months as a visiting researcher at the <a href="https://cispa.saarland/" target="_blank" rel="noopener">Helmholtz Center for
-Information Security (CISPA)</a> advised by <a href="https://tippenhauer.de/" target="_blank" rel="noopener">Nils Ole
-Tippenhauer</a>.</p>
-<p>I hold a BS and MS in Electronics and Telecommunications Engineering
-from the <a href="http://www.unibo.it/en" target="_blank" rel="noopener">University of Bologna (UniBO)</a>.
-I spent three months at the <a href="http://www.umass.edu/" target="_blank" rel="noopener">University of Massachusetts (UMass
-Amherst)</a> as a research assistant to prepare my
-master thesis titled
-<a href="https://francozappa.github.io/publication/2013/master-thesis/thesis.pdf" target="_blank" rel="noopener">Design and Testing of Random Number Generators
-(RNG)</a> advised by <a href="https://ece.umass.edu/faculty/wayne-burleson" target="_blank" rel="noopener">Wayne
-Burleson</a> and <a href="https://www.unibo.it/sitoweb/riccardo.rovatti" target="_blank" rel="noopener">Riccardo
-Rovatti</a>.</p>
-
-    </div>
-
-    <div class="row">
-
-      
-      <div class="col-md-5">
-        <div class="section-subheading">Interests</div>
-        <ul class="ul-interests mb-0">
-          
-          <li>Mobile and Wireless Systems</li>
-          
-          <li>Cyber-Physical Systems</li>
-          
-          <li>Industrial Control System</li>
-          
-          <li>Automotive Systems</li>
-          
-          <li>IoT Protocols</li>
-          
-          <li>Applied Cryptography</li>
-          
-          <li>SoCurity</li>
-          
-        </ul>
-      </div>
-      
-
-      
-      <div class="col-md-7">
-        <div class="section-subheading">Education</div>
-        <ul class="ul-edu fa-ul mb-0">
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">French HDR, 2025</p>
-              <p class="institution">École polytechnique (EP)</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">PhD in Computer Science, 2019</p>
-              <p class="institution">Singapore University of Technology and Design (SUTD)</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">MS in Electronics and Telecommunications Engineering, 2013</p>
-              <p class="institution">University of Bologna (UniBO)</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">BS in Electronics and Telecommunications Engineering, 2010</p>
-              <p class="institution">University of Bologna (UniBO)</p>
-            </div>
-          </li>
-          
-        </ul>
-      </div>
-      
-
-    </div>
   </div>
 </div>
 
+
+
+  <div class="article-container">
+
+    
+      <br>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            Jun 20, 2025 00:00
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            
+            ETHZ ZISC Seminar
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
 
     
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Zurich</div>
+          
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      <p>Talk on <a href="https://francozappa.github.io/publication/2025/ctraps/" target="_blank" rel="noopener">CTRAPS attacks on FIDO2</a> as part of ETHZ ZISC seminars.</p>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://francozappa.github.io/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/&amp;text=CTRAPS:%20CTAP%20Client%20Impersonation%20and%20API%20Confusion%20on%20FIDO2" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://francozappa.github.io/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/&amp;t=CTRAPS:%20CTAP%20Client%20Impersonation%20and%20API%20Confusion%20on%20FIDO2" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=CTRAPS:%20CTAP%20Client%20Impersonation%20and%20API%20Confusion%20on%20FIDO2&amp;body=https://francozappa.github.io/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://francozappa.github.io/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/&amp;title=CTRAPS:%20CTAP%20Client%20Impersonation%20and%20API%20Confusion%20on%20FIDO2" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=CTRAPS:%20CTAP%20Client%20Impersonation%20and%20API%20Confusion%20on%20FIDO2%20https://francozappa.github.io/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://francozappa.github.io/talk/ctraps-ctap-client-impersonation-and-api-confusion-on-fido2/&amp;title=CTRAPS:%20CTAP%20Client%20Impersonation%20and%20API%20Confusion%20on%20FIDO2" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  <section id="comments">
+    
+<div id="disqus_thread"></div>
+<script>
+  var disqus_config = function () {
     
     
+    
+  };
+  (function() {
+    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+      document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+      return;
+    }
+    var d = document, s = d.createElement('script'); s.async = true;
+    s.src = 'https://' + "francozappa-github-io" + '.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+  </section>
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
   </div>
-</section>
+</div>
   </div>
 
   <div class="page-footer">
