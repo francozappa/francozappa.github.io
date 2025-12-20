@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adf | Daniele Antonioli</title>
+    <title>adf | Daniele Antonioli</title>
     <link>https://francozappa.github.io/tag/adf/</link>
       <atom:link href="https://francozappa.github.io/tag/adf/index.xml" rel="self" type="application/rss+xml" />
-    <description>Adf</description>
+    <description>adf</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/media/icon_hu4924214685936227247.png</url>
-      <title>Adf</title>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <title>adf</title>
       <link>https://francozappa.github.io/tag/adf/</link>
     </image>
     
@@ -45,10 +45,10 @@ firmware, and protocol threats to a &lt;em&gt;device&lt;/em&gt; (e.g., a crypto 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;ADF block diagram&#34; srcset=&#34;
-               /post/2024/adf-release/adf-bd_hu15625100953941001290.webp 400w,
-               /post/2024/adf-release/adf-bd_hu8957555922077683239.webp 760w,
-               /post/2024/adf-release/adf-bd_hu11416110703906885513.webp 1200w&#34;
-               src=&#34;https://francozappa.github.io/post/2024/adf-release/adf-bd_hu15625100953941001290.webp&#34;
+               /post/2024/adf-release/adf-bd_hu63b64d12bf1aceb22fc319946564a383_130421_594603a7097a58de1133279b7fd3318a.webp 400w,
+               /post/2024/adf-release/adf-bd_hu63b64d12bf1aceb22fc319946564a383_130421_032fceec1def1f36c7951522f3255487.webp 760w,
+               /post/2024/adf-release/adf-bd_hu63b64d12bf1aceb22fc319946564a383_130421_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://francozappa.github.io/post/2024/adf-release/adf-bd_hu63b64d12bf1aceb22fc319946564a383_130421_594603a7097a58de1133279b7fd3318a.webp&#34;
                width=&#34;760&#34;
                height=&#34;361&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

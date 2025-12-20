@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Book | Daniele Antonioli</title>
+    <title>book | Daniele Antonioli</title>
     <link>https://francozappa.github.io/tag/book/</link>
       <atom:link href="https://francozappa.github.io/tag/book/index.xml" rel="self" type="application/rss+xml" />
-    <description>Book</description>
+    <description>book</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Sat, 07 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/media/icon_hu4924214685936227247.png</url>
-      <title>Book</title>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
+      <title>book</title>
       <link>https://francozappa.github.io/tag/book/</link>
     </image>
     
@@ -30,7 +30,7 @@ Actually, I have to thank
 for the book recommendation!&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m very proud that the
 &lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch5-oct12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cryptography Chapter of SEv3&lt;/a&gt;
-(so far &amp;#x1f604;) includes a discussion about the
+(so far 😄) includes a discussion about the
 &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB attack&lt;/a&gt; in the subsection about
 Diffie-Hellman key establishment (5.7.2.2). I look forward to read SEv3
 once is ready!&lt;/p&gt;

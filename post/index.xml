@@ -7,7 +7,7 @@
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Daniele Antonioli</copyright><lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://francozappa.github.io/media/icon_hu4924214685936227247.png</url>
+      <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://francozappa.github.io/post/</link>
     </image>
@@ -19,9 +19,9 @@
       <guid>https://francozappa.github.io/post/2025/ctraps-offbyone/</guid>
       <description>&lt;p&gt;Marco and I talked about CTRAPS with Stephen Sims from &lt;a href=&#34;https://www.youtube.com/@OffByOneSecurity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Off By One Security&lt;/a&gt; about &lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CTRAPS: CTAP Impersonation and API Confusion on FIDO2&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/07B0etOq7OM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/07B0etOq7OM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Thank you Stephen and Randall for inviting us and keep up with the awesome content in your YouTube channel!&lt;/p&gt;
 </description>
@@ -72,15 +72,12 @@ Yubico promptly acknowledged the issue, see &lt;a href=&#34;https://cve.mitre.or
       <link>https://francozappa.github.io/post/2025/crypto101-knob/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/2025/crypto101-knob/</guid>
-      <description>&lt;p&gt;Alfred Menezes has published a fantastic online course on
-real-world cryptography called
-&lt;a href=&#34;https://cryptography101.ca/crypto101-deployments/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Crypto 101: Real-World Deployments&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;It is an honor to be featured in the Bluetooth
-Security Lecture (Lecture 4) which talks about the KNOB attack.&lt;/p&gt;
+      <description>&lt;p&gt;Alfred Menezes has published a fantastic online course on real-world cryptography called &lt;a href=&#34;https://cryptography101.ca/crypto101-deployments/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Crypto 101: Real-World Deployments&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It is an honor to be featured in the Bluetooth Security Lecture (Lecture 4) which talks about the KNOB attack.&lt;/p&gt;
 
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/0Y5aciplnuk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/0Y5aciplnuk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 </description>
     </item>
@@ -131,10 +128,10 @@ firmware, and protocol threats to a &lt;em&gt;device&lt;/em&gt; (e.g., a crypto 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;ADF block diagram&#34; srcset=&#34;
-               /post/2024/adf-release/adf-bd_hu15625100953941001290.webp 400w,
-               /post/2024/adf-release/adf-bd_hu8957555922077683239.webp 760w,
-               /post/2024/adf-release/adf-bd_hu11416110703906885513.webp 1200w&#34;
-               src=&#34;https://francozappa.github.io/post/2024/adf-release/adf-bd_hu15625100953941001290.webp&#34;
+               /post/2024/adf-release/adf-bd_hu63b64d12bf1aceb22fc319946564a383_130421_594603a7097a58de1133279b7fd3318a.webp 400w,
+               /post/2024/adf-release/adf-bd_hu63b64d12bf1aceb22fc319946564a383_130421_032fceec1def1f36c7951522f3255487.webp 760w,
+               /post/2024/adf-release/adf-bd_hu63b64d12bf1aceb22fc319946564a383_130421_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://francozappa.github.io/post/2024/adf-release/adf-bd_hu63b64d12bf1aceb22fc319946564a383_130421_594603a7097a58de1133279b7fd3318a.webp&#34;
                width=&#34;760&#34;
                height=&#34;361&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -191,7 +188,7 @@ funded by the &lt;a href=&#34;https://horizon-orshin.eu/&#34; target=&#34;_blank
 &lt;li&gt;Where: Marthe Condat auditorium, Paul Sabatier University, Toulouse&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://thcon.party/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;THCON program&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;See you in Toulouse &amp;#x1f1eb;&amp;#x1f1f7; at &lt;a href=&#34;https://thcon.party/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;THCON&#39;24&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See you in Toulouse 🇫🇷 at &lt;a href=&#34;https://thcon.party/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;THCON&#39;24&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -202,9 +199,9 @@ funded by the &lt;a href=&#34;https://horizon-orshin.eu/&#34; target=&#34;_blank
       <guid>https://francozappa.github.io/post/2023/bluffs-37c3-video/</guid>
       <description>&lt;h2 id=&#34;youtube&#34;&gt;YouTube&lt;/h2&gt;
 
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2HstGZPZpZY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/2HstGZPZpZY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;media-ccc&#34;&gt;Media CCC&lt;/h2&gt;
 &lt;iframe width=&#34;512&#34; height=&#34;288&#34;
@@ -220,7 +217,7 @@ frameborder=&#34;0&#34; title=&#34;BLUFFS&#34; allowfullscreen&gt;&lt;/iframe&gt
       <link>https://francozappa.github.io/post/2023/bluffs-37c3/</link>
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/2023/bluffs-37c3/</guid>
-      <description>&lt;p&gt;See you in Hamburg &amp;#x1f1e9;&amp;#x1f1ea; at
+      <description>&lt;p&gt;See you in Hamburg 🇩🇪 at
 &lt;a href=&#34;https://events.ccc.de/congress/2023/infos/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37c3&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 
@@ -291,9 +288,9 @@ frameborder=&#34;0&#34; title=&#34;BLUFFS&#34; allowfullscreen&gt;&lt;/iframe&gt
       <description>&lt;p&gt;Marco Casagrande&amp;rsquo;s presentation of our &lt;a href=&#34;https://francozappa.github.io/publication/2023/espoofer/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E-Spoofer paper&lt;/a&gt; about Xiaomi e-scooters&#39;
 security and privacy recorded at ACM WiSec&#39;23&lt;/p&gt;
 
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/yQvsoKBc304?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/yQvsoKBc304&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 </description>
     </item>
@@ -386,7 +383,7 @@ Air Force Office of Scientific Research.&lt;/p&gt;
       <description>&lt;p&gt;The Digital Security Department of EURECOM invites applications for a &lt;em&gt;tenured&lt;/em&gt;
 position at the &lt;em&gt;Assistant Professor&lt;/em&gt; level in the area of &lt;em&gt;Digital Security&lt;/em&gt;.
 Starting date: ASAP. Full info &lt;a href=&#34;https://www.eurecom.fr/en/job/digital-security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Please spread the word &amp;#x1f604; !&lt;/p&gt;
+&lt;p&gt;Please spread the word 😄 !&lt;/p&gt;
 </description>
     </item>
     
@@ -448,10 +445,10 @@ during EURECOM&amp;rsquo;s Scientific Council (SC).&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image alt&#34; srcset=&#34;
-               /post/2023/breakmi-poster/images/poster_hu16480711159477306760.webp 400w,
-               /post/2023/breakmi-poster/images/poster_hu3408434408705006530.webp 760w,
-               /post/2023/breakmi-poster/images/poster_hu17938424808268908061.webp 1200w&#34;
-               src=&#34;https://francozappa.github.io/post/2023/breakmi-poster/images/poster_hu16480711159477306760.webp&#34;
+               /post/2023/breakmi-poster/images/poster_hu71f71713b931b7aeee0ba9752f154afd_934076_d9f19a8ccdd4fc3f9d33b4dcdc0af9cc.webp 400w,
+               /post/2023/breakmi-poster/images/poster_hu71f71713b931b7aeee0ba9752f154afd_934076_28579351d3ce547cbebdd64164fdbc1a.webp 760w,
+               /post/2023/breakmi-poster/images/poster_hu71f71713b931b7aeee0ba9752f154afd_934076_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://francozappa.github.io/post/2023/breakmi-poster/images/poster_hu71f71713b931b7aeee0ba9752f154afd_934076_d9f19a8ccdd4fc3f9d33b4dcdc0af9cc.webp&#34;
                width=&#34;534&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -459,9 +456,9 @@ during EURECOM&amp;rsquo;s Scientific Council (SC).&lt;/p&gt;
 &lt;/p&gt;
 &lt;p&gt;For more info see at the paper&amp;rsquo;s presentation starting around min 56:&lt;/p&gt;
 
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/zD5EdvGs98U?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/zD5EdvGs98U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 </description>
     </item>
@@ -568,9 +565,9 @@ publish the instructions to reproduce the BLUR attacks
 in a &lt;a href=&#34;https://github.com/francozappa/blur&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Below you can find the paper presentation streamed at AsiaCCS&#39;22:&lt;/p&gt;
 
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/FzFQD3XTLlA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/FzFQD3XTLlA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 </description>
     </item>
@@ -588,9 +585,9 @@ Threats&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The webinar will also be linked for &lt;a href=&#34;https://www.ieee-security.org/TC/SP2022/WOOT22/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WOOT&#39;22&lt;/a&gt;
 as the talk I gave at the workshop was not recorded because of some issues.&lt;/p&gt;
 
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/tqln99BHUzU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/tqln99BHUzU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 </description>
     </item>
@@ -759,7 +756,7 @@ its &lt;a href=&#34;https://illinois.adsc.com.sg/CPSS2022/CPSS%20CFP2022.pdf&#34
       <description>&lt;p&gt;The Digital Security Department of EURECOM invites applications for a &lt;em&gt;tenured&lt;/em&gt;
 position at the &lt;em&gt;Assistant Professor&lt;/em&gt; level in the area of &lt;em&gt;Digital Security&lt;/em&gt;.
 Full info &lt;a href=&#34;https://www.eurecom.fr/en/job/digital-security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Please spread the word &amp;#x1f604; !&lt;/p&gt;
+&lt;p&gt;Please spread the word 😄 !&lt;/p&gt;
 </description>
     </item>
     
@@ -816,7 +813,7 @@ adventure with &lt;a href=&#34;https://www.eurecom.fr/&#34; target=&#34;_blank&#
 &lt;p&gt;I&amp;rsquo;m thrilled and honored to have joined a team of talented and diverse people,
 and I&amp;rsquo;m looking forward give my contribution!&lt;/p&gt;
 &lt;p&gt;The location is also pretty amusing, and I feel closer to  Italy than
-usual &amp;#x1f604;&lt;/p&gt;
+usual 😄&lt;/p&gt;
 </description>
     </item>
     
@@ -835,7 +832,7 @@ to share my take on why you would want to submit
 your work to Hardwear.io and few tips and tricks to improve the quality of your presentation.
 What follow are some random and personal thoughts that might be useful for
 somebody and might overlap with what is already suggested in the CFP
-&amp;#x1f604;&lt;/p&gt;
+😄&lt;/p&gt;
 &lt;h2 id=&#34;why-one-should-submit&#34;&gt;Why one should submit?&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -857,7 +854,7 @@ it that is active every day and from which you can get advice.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;If you are a fan of merchandise (i.e., shirts, pins, magnets, &amp;hellip;) then Hardwear.io
-is not going to disappoint you &amp;#x1f389;&lt;/p&gt;
+is not going to disappoint you 🎉&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;tips-and-tricks-to-strengthen-your-submission&#34;&gt;Tips and Tricks to strengthen your submission&lt;/h2&gt;
@@ -897,7 +894,7 @@ Mauro Conti for supporting my candidature. Their support was instrumental
 and I will be pleased to keep collaborating with them in the future.&lt;/p&gt;
 &lt;p&gt;I look forward to join EURECOM and the sunny French riviera and in the
 meantime I&amp;rsquo;m ramping up my French knowledge.
-&amp;#x1f1eb;&amp;#x1f1f7; :beach: &amp;#x26f0;&amp;#xfe0f;&lt;/p&gt;
+🇫🇷 🏖 ⛰️&lt;/p&gt;
 </description>
     </item>
     
@@ -908,7 +905,7 @@ meantime I&amp;rsquo;m ramping up my French knowledge.
       <guid>https://francozappa.github.io/post/2021/cfp-woot21/</guid>
       <description>&lt;p&gt;The call for papers for the 2021 IEEE Workshop on Offensive Technologies (WOOT)
 is open. Please submit your great research work and spread the word among
-attackers &amp;#x1f525; &amp;#x1f604; &amp;#x1f525;&lt;/p&gt;
+attackers 🔥 😄 🔥&lt;/p&gt;
 &lt;p&gt;Here are the deadlines:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Abstract registration deadline: Wednesday, January 27, 2021, 11:59 AoE (Anywhere on Earth)&lt;/li&gt;
@@ -947,7 +944,7 @@ attackers &amp;#x1f525; &amp;#x1f604; &amp;#x1f525;&lt;/p&gt;
 &lt;a href=&#34;https://www.ieee-security.org/TC/SP2021/SPW2021/WOOT21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop on Offensive Technologies (WOOT)&lt;/a&gt;
 and the
 &lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity21&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USENIX Security Symposium (SEC)&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Lots of good papers ahead &amp;#x1f604;&lt;/p&gt;
+&lt;p&gt;Lots of good papers ahead 😄&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
 &lt;iframe src=&#34;https://giphy.com/embed/13bUdxDy4jJUR2&#34; width=&#34;480&#34; height=&#34;270&#34;
 frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a
@@ -972,9 +969,9 @@ Energy Vulnerability (BLURtooth)&lt;/a&gt;.&lt;/p&gt;
 of the &lt;a href=&#34;https://arxiv.org/abs/2009.11776&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BLURtooth technical report&lt;/a&gt;. Enjoy!&lt;/p&gt;
 &lt;p&gt;Bonus track:&lt;/p&gt;
 
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/LJzCYSdrHMI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/LJzCYSdrHMI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 </description>
     </item>
@@ -986,9 +983,9 @@ of the &lt;a href=&#34;https://arxiv.org/abs/2009.11776&#34; target=&#34;_blank&
       <guid>https://francozappa.github.io/post/2020/wac320-video/</guid>
       <description>&lt;p&gt;BIAS + KNOB attack against Bluetooth:&lt;/p&gt;
 
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;All the WAC talks are available on &lt;a href=&#34;https://www.youtube.com/watch?v=XS_DZ5F-y3k&amp;amp;list=PLeeS-3Ml-rppRzqiDB7l-TIyE-YSqXGR3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -1119,22 +1116,22 @@ tutorial in Italiano (e prossimamente anche in Inglese) su argomenti matematici,
 informatici e ingegneristici. Per esempio linko qui sotto una playlist con un
 corso per ingegneri che vogliono programmare in MATLAB/Octave:&lt;/p&gt;
 
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2ro75VG9UWs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/2ro75VG9UWs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Paolo è un bravissimo insegnante e divulgatore scientifico con anni di
 esperienza alle spalle sia universitaria che professionale. Paolo ha anche
 esperienza in ambito informatico e dai sui video sicuramente imparerete molto
 di più che l&amp;rsquo;argomento centrale del video. Il canale di Paolo
 è anche molto curato dal punto di vista audio, video e grafico e questo non
-guasta mai &amp;#x1f604;&lt;/p&gt;
+guasta mai 😄&lt;/p&gt;
 &lt;p&gt;Tutor Island  offre materiale esclusivo per studenti con una piccola donazione su
 &lt;a href=&#34;https://www.patreon.com/tutorisland&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Patreon&lt;/a&gt;.
 Potete seguire il feed del canale, oltre che su YouTube, su
 &lt;a href=&#34;https://twitter.com/tutor_island&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt; e
 &lt;a href=&#34;https://www.facebook.com/tutorislandfb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;:beach: :sun: :island:&lt;/p&gt;
+&lt;p&gt;🏖 ☀ 🏝&lt;/p&gt;
 </description>
     </item>
     
@@ -1198,9 +1195,9 @@ website&lt;/a&gt; and specifically in the
 and the recording of our hardwear.io talk titled &lt;em&gt;From Bluetooth Standard to
 Standard-Compliant 0-days&lt;/em&gt;:&lt;/p&gt;
 
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZVSbF11uxuk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ZVSbF11uxuk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 </description>
     </item>
@@ -1232,12 +1229,12 @@ the amendment of the Bluetooth standard.&lt;/p&gt;
 will be presented at the
 &lt;a href=&#34;https://www.ieee-security.org/TC/SP2020//index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Symposium on Security and Privacy (IEEE S&amp;amp;P) 2020&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/fASGU7Og5_4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fASGU7Og5_4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;More information are available in the &lt;a href=&#34;https://francozappa.github.io/about-bias&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIAS website&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The BIAS code will be also uploaded soon! Stay tuned and unbiased &amp;#x1f604;&lt;/p&gt;
+&lt;p&gt;The BIAS code will be also uploaded soon! Stay tuned and unbiased 😄&lt;/p&gt;
 </description>
     </item>
     
@@ -1254,7 +1251,7 @@ together with &lt;a href=&#34;https://nebelwelt.net/&#34; target=&#34;_blank&#34
 &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Key Negotiation Of Bluetooth (KNOB) attack on Bluetooth BR/EDR&lt;/a&gt;,
 its extension to BLE, and the countermeasures adopted by vendors, such as Google and Apple, to
 mitigate the KNOB attacks.&lt;/p&gt;
-&lt;p&gt;Please join us at the virtual conference! &amp;#x1f604;&lt;/p&gt;
+&lt;p&gt;Please join us at the virtual conference! 😄&lt;/p&gt;
 </description>
     </item>
     
@@ -1289,7 +1286,7 @@ Actually, I have to thank
 for the book recommendation!&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m very proud that the
 &lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch5-oct12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cryptography Chapter of SEv3&lt;/a&gt;
-(so far &amp;#x1f604;) includes a discussion about the
+(so far 😄) includes a discussion about the
 &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB attack&lt;/a&gt; in the subsection about
 Diffie-Hellman key establishment (5.7.2.2). I look forward to read SEv3
 once is ready!&lt;/p&gt;
@@ -1304,7 +1301,7 @@ once is ready!&lt;/p&gt;
       <description>&lt;p&gt;Next January I will join as a postdoc &lt;a href=&#34;https://nebelwelt.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathias Payer&lt;/a&gt;&amp;rsquo;s
 &lt;a href=&#34;https://hexhive.epfl.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HexHive&lt;/a&gt; group at &lt;a href=&#34;https://www.epfl.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EPFL&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Looking forward to start a new adventure, and meet old and new friends.&lt;/p&gt;
-&lt;p&gt;&amp;#x1f606;&lt;/p&gt;
+&lt;p&gt;😆&lt;/p&gt;
 </description>
     </item>
     
@@ -1331,9 +1328,9 @@ find other relevant links!&lt;/p&gt;
 &lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
 in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;:&lt;/p&gt;
 
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/v9Xg9XcnNh0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/v9Xg9XcnNh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;More info at &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -1366,13 +1363,13 @@ and the
 of my final presentation.
 For more information have a look
 &lt;a href=&#34;https://francozappa.github.io/publication/phd-thesis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&amp;#x1f3b6; &amp;#x1f606; &amp;#x1f3b6;&lt;/p&gt;
+&lt;p&gt;🎶 😆 🎶&lt;/p&gt;
 
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/kHx5hCVN26E?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/kHx5hCVN26E&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&amp;#x1f3b6; &amp;#x1f606; &amp;#x1f3b6;&lt;/p&gt;
+&lt;p&gt;🎶 😆 🎶&lt;/p&gt;
 </description>
     </item>
     
@@ -1592,9 +1589,9 @@ and its related projects and use cases.&lt;/p&gt;
       <description>&lt;p&gt;My NDSS 2019 presentation of
 &lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;&lt;/p&gt;
 
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/h5geJLoQIsU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/h5geJLoQIsU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 </description>
     </item>
@@ -1744,7 +1741,7 @@ and
       <guid>https://francozappa.github.io/post/2018/cispa-visiting/</guid>
       <description>&lt;p&gt;As part of my PhD I&amp;rsquo;ve recently joined as a visiting researcher the
 &lt;a href=&#34;https://cispa.saarland/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CISPA – Helmholtz-Zentrum, Saarbruecken&lt;/a&gt;
-&amp;#x1f1e9;&amp;#x1f1ea;.&lt;/p&gt;
+🇩🇪.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m going to spend six months there, supervised by
 &lt;a href=&#34;https://cispa.saarland/people/nils.tippenhauer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. N.O. Tippenhauer&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -1792,7 +1789,7 @@ SUTD.&lt;/p&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/sutd-eduroam.png&#34; alt=&#34;SUTD eduroam&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;&amp;#x1f427;&lt;/p&gt;
+&lt;p&gt;🐧&lt;/p&gt;
 </description>
     </item>
     
@@ -1846,7 +1843,7 @@ or post a comment below.&lt;/p&gt;
 &lt;a href=&#34;http://people.sutd.edu.sg/~nils_tippenhauer/connecting-to-sutd-vpn-from-linux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nils&amp;rsquo;s post&lt;/a&gt;
 from which I&amp;rsquo;ve started my research,
 this post should update it with an easier setup!&lt;/p&gt;
-&lt;p&gt;&amp;#x1f427;&lt;/p&gt;
+&lt;p&gt;🐧&lt;/p&gt;
 </description>
     </item>
     
@@ -1857,7 +1854,7 @@ this post should update it with an easier setup!&lt;/p&gt;
       <guid>https://francozappa.github.io/post/2018/oxford-visiting/</guid>
       <description>&lt;p&gt;As part of my PhD I&amp;rsquo;ve recently joined as a visiting researcher the
 &lt;a href=&#34;https://www.cs.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Computer Science, University of Oxford&lt;/a&gt;
-&amp;#x1f1ec;&amp;#x1f1e7;.&lt;/p&gt;
+🇬🇧.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m going to spend around six months there, supervised by
 &lt;a href=&#34;https://www.cs.ox.ac.uk/people/kasper.rasmussen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Kasper Rasmussen&lt;/a&gt;
 and co-supervised by
@@ -1891,7 +1888,7 @@ I&amp;rsquo;ve discovered it only this week and I&amp;rsquo;m still trying to re
 apologize if you recently got an error message while trying to send me an
 email to that address.&lt;/p&gt;
 &lt;p&gt;Please use the &lt;code&gt;surname.name@gmail.com&lt;/code&gt;
-address instead. I &amp;#x2764;&amp;#xfe0f; &amp;#x1f4e7;&lt;/p&gt;
+address instead. I ❤️ ✉️&lt;/p&gt;
 </description>
     </item>
     
