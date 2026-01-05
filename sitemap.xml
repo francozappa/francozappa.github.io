@@ -10,7 +10,27 @@
   <url>
     <loc>https://francozappa.github.io/courses/example/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://francozappa.github.io/</loc><lastmod>2025-09-22T00:00:00+00:00</lastmod></url>
+    <loc>https://francozappa.github.io/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/publication-type/1/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/authors/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/publication/2026/blerp/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/author/d.-antonioli/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/author/f.-hofhammer/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/author/m.-payer/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/publication/2026/pshield/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/publication_types/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/publication/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/author/t.-sacchetti/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/tag/ctap/</loc><lastmod>2025-09-22T00:00:00+00:00</lastmod></url>
   <url>
@@ -34,12 +54,6 @@
   <url>
     <loc>https://francozappa.github.io/post/2025/ae-ndss26/</loc><lastmod>2025-06-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://francozappa.github.io/publication-type/1/</loc><lastmod>2025-05-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://francozappa.github.io/authors/</loc><lastmod>2025-05-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://francozappa.github.io/author/d.-antonioli/</loc><lastmod>2025-05-13T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://francozappa.github.io/author/d.-donadel/</loc><lastmod>2025-05-13T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/publication/2025/emuocpp/</loc><lastmod>2025-05-13T00:00:00+00:00</lastmod></url>
@@ -52,10 +66,6 @@
   <url>
     <loc>https://francozappa.github.io/author/m.-merro/</loc><lastmod>2025-05-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://francozappa.github.io/publication_types/</loc><lastmod>2025-05-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://francozappa.github.io/publication/</loc><lastmod>2025-05-13T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://francozappa.github.io/author/s.-boussaha/</loc><lastmod>2025-05-13T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/publication/2025/simprocess/</loc><lastmod>2025-05-13T00:00:00+00:00</lastmod></url>
@@ -67,8 +77,6 @@
     <loc>https://francozappa.github.io/publication/2025/btoolkit/</loc><lastmod>2025-04-11T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/author/m.-strohmeier/</loc><lastmod>2025-04-11T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://francozappa.github.io/author/t.-sacchetti/</loc><lastmod>2025-04-11T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/author/v.-zubkov/</loc><lastmod>2025-04-11T00:00:00+00:00</lastmod></url>
   <url>
@@ -269,8 +277,6 @@
     <loc>https://francozappa.github.io/post/2022/breakmi-announce/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/publication/2022/breakmi/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://francozappa.github.io/author/m.-payer/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/publication/2022/btcar/</loc><lastmod>2022-03-25T00:00:00+00:00</lastmod></url>
   <url>
