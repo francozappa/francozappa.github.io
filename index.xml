@@ -108,6 +108,21 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>BLERP: BLE Re-Pairing Attacks and Defenses</title>
+      <link>https://francozappa.github.io/post/2026/blerp-ndss/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2026/blerp-ndss/</guid>
+      <description>&lt;p&gt;In mid 2024, &lt;a href=&#34;https://s3.eurecom.fr/~sacchetti/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tom&lt;/a&gt; and I looked at BLE re-pairing, an underlooked attack surface. We uncovered four critical re-pairing attacks and design-level vulnerabilities that allow device impersonation and MitM of arbitrary devices in BLE range. The attacks work even in the most secure BLE modes, like authenticated pairing and Secure Connections Only, and require 0-click or 1-click interactions.&lt;/p&gt;
+&lt;p&gt;As part of our responsible disclosure we also proposed effective countermeasures that can be adopted by implementers and by the Bluetooth SIG. AFAIK, the Bluetooth SIG is not planning to fix the BLERP attacks and vulnerabilities, although they should.&lt;/p&gt;
+&lt;p&gt;After almost 1.5 years, we publicly release the BLERP paper and codebase:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ndss-symposium.org/wp-content/uploads/2026-f121-paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BLERP NDSS&#39;26 paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sacca97/blerp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BLERP toolkit repo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CTRAPS on the DEF CON 33 Hackers&#39; Almanack</title>
       <link>https://francozappa.github.io/post/2026/defcon-almanack/</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
