@@ -5,12 +5,30 @@
     <link>https://francozappa.github.io/post/</link>
       <atom:link href="https://francozappa.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Daniele Antonioli</copyright><lastBuildDate>Sat, 14 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Daniele Antonioli</copyright><lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://francozappa.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>DCS-CI: Design for Cyber Secure Critical Infra</title>
+      <link>https://francozappa.github.io/post/2026/dcsci-cfp/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/post/2026/dcsci-cfp/</guid>
+      <description>&lt;p&gt;The call for submission for the first edition of the DCS-CI conference is &lt;a href=&#34;https://dcs-ci.github.io/call-for-papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Design of Cyber-Secure Critical Infrastructure (DCS-CI) 26 conference
+invites researchers, practitioners, and thought leaders to submit original
+work that advances our collective understanding of how to design, deploy, and
+maintain secure critical infrastructure systems. We welcome submissions from
+diverse disciplinary perspectives, including computer science, control systems
+engineering, security studies, public policy, and operations management.
+Interdisciplinary contributions that bridge theoretical innovation with
+practical application are particularly encouraged.&lt;/p&gt;
+&lt;p&gt;Submit you research papers &lt;a href=&#34;https://easychair.org/account/signin?l=5801184989022072166.1773657775.ecc862e0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BLERP: BLE Re-Pairing Attacks and Defenses</title>
