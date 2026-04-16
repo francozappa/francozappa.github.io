@@ -5,12 +5,28 @@
     <link>https://francozappa.github.io/publication/</link>
       <atom:link href="https://francozappa.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Daniele Antonioli</copyright><lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Daniele Antonioli</copyright><lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://francozappa.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>BlueBrothers: Three New Protocols to Secure Bluetooth</title>
+      <link>https://francozappa.github.io/publication/2026/bbro/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2026/bbro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HardaBLE: Hardening BLE Against Software Compromise</title>
+      <link>https://francozappa.github.io/publication/2026/hardable/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2026/hardable/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MaDoS: Matter DoS Attacks via Secure Channel Status Reports</title>
