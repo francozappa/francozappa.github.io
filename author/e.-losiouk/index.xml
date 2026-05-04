@@ -5,7 +5,7 @@
     <link>https://francozappa.github.io/author/e.-losiouk/</link>
       <atom:link href="https://francozappa.github.io/author/e.-losiouk/index.xml" rel="self" type="application/rss+xml" />
     <description>E. Losiouk</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Daniele Antonioli</copyright><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Daniele Antonioli</copyright><lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>E. Losiouk</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>E-Trojans: Ransomware, Tracking, DoS, and Data Leaks on the  Xiaomi E-Scooter Ecosystem</title>
+      <link>https://francozappa.github.io/publication/2026/etrojans/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2026/etrojans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>E-Trojans: Ransomware, Tracking, DoS, and Data Leaks on Battery-powered Embedded Systems</title>
-      <link>https://francozappa.github.io/publication/2024/etrojans/</link>
+      <link>https://francozappa.github.io/publication/2024/etrojans-prep/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/2024/etrojans/</guid>
+      <guid>https://francozappa.github.io/publication/2024/etrojans-prep/</guid>
       <description></description>
     </item>
     
