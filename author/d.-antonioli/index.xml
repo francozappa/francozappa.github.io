@@ -110,9 +110,9 @@
     
     <item>
       <title>E-Trojans: Ransomware, Tracking, DoS, and Data Leaks on Battery-powered Embedded Systems</title>
-      <link>https://francozappa.github.io/publication/2024/etrojans-prep/</link>
+      <link>https://francozappa.github.io/publication/2024/etrojans-preprint/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/2024/etrojans-prep/</guid>
+      <guid>https://francozappa.github.io/publication/2024/etrojans-preprint/</guid>
       <description></description>
     </item>
     
@@ -169,6 +169,14 @@
       <link>https://francozappa.github.io/publication/2021/lightblue/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/publication/2021/lightblue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy</title>
+      <link>https://francozappa.github.io/publication/2020/blur-preprint/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2020/blur-preprint/</guid>
       <description></description>
     </item>
     
