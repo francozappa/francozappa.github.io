@@ -5,12 +5,20 @@
     <link>https://francozappa.github.io/publication-type/7/</link>
       <atom:link href="https://francozappa.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Daniele Antonioli</copyright><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Daniele Antonioli</copyright><lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>7</title>
       <link>https://francozappa.github.io/publication-type/7/</link>
     </image>
+    
+    <item>
+      <title>Security and Privacy for Connected Devices</title>
+      <link>https://francozappa.github.io/publication/2025/hdr-thesis/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/publication/2025/hdr-thesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless Systems</title>
