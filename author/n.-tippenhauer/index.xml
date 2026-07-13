@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>D. Donadel | Daniele Antonioli</title>
-    <link>https://francozappa.github.io/author/d.-donadel/</link>
-      <atom:link href="https://francozappa.github.io/author/d.-donadel/index.xml" rel="self" type="application/rss+xml" />
-    <description>D. Donadel</description>
+    <title>N. Tippenhauer | Daniele Antonioli</title>
+    <link>https://francozappa.github.io/author/n.-tippenhauer/</link>
+      <atom:link href="https://francozappa.github.io/author/n.-tippenhauer/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Tippenhauer</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Daniele Antonioli</copyright><lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
-      <title>D. Donadel</title>
-      <link>https://francozappa.github.io/author/d.-donadel/</link>
+      <title>N. Tippenhauer</title>
+      <link>https://francozappa.github.io/author/n.-tippenhauer/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://francozappa.github.io/publication/2026/shadowics/</link>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/publication/2026/shadowics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SimProcess: High Fidelity Simulation of Noisy ICS Physical Processes</title>
-      <link>https://francozappa.github.io/publication/2025/simprocess/</link>
-      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/publication/2025/simprocess/</guid>
       <description></description>
     </item>
     
