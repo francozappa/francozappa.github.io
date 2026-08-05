@@ -162,7 +162,7 @@ Yubico promptly acknowledged the issue, see &lt;a href=&#34;https://cve.mitre.or
     </item>
     
     <item>
-      <title>NDSS&#39;26 Artifact Evaluation Comitee Self-Nomination</title>
+      <title>NDSS&#39;26 Artifact Evaluation Committee Self-Nomination</title>
       <link>https://francozappa.github.io/post/2025/ae-ndss26/</link>
       <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/2025/ae-ndss26/</guid>
@@ -424,7 +424,7 @@ that we recently presented at WiSec&#39;23.&lt;/p&gt;
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/2023/hiring-postdoc-pepr5g/</guid>
       <description>&lt;p&gt;I am looking for a postdoc interested in
-&lt;strong&gt;Industrial Internet-of-Thing (IIoT) network security and privacy&lt;/strong&gt;. The
+&lt;strong&gt;Industrial Internet-of-Things (IIoT) network security and privacy&lt;/strong&gt;. The
 postdoc will be funded by the PEPR5g ANR project, work under my supervision at
 and join &lt;a href=&#34;https://www.s3.eurecom.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EURECOM&amp;rsquo;s S3 group&lt;/a&gt;.
 I can start hiring from the beginning of this summer.&lt;/p&gt;
@@ -826,7 +826,7 @@ Workshop date: Thursday, May 26, 2022&lt;/p&gt;
 &lt;p&gt;Authors of accepted papers will have to provide a paper for the proceedings following the above guidelines. A shepherd may be assigned to ensure the quality of the proceedings version of the paper.&lt;/p&gt;
 &lt;p&gt;If your paper should not be published prior to the event, please notify the chairs. Submissions accompanied by non-disclosure agreement forms will not be considered. Accepted submissions will be treated as confidential prior to publication on the WOOT &amp;lsquo;22 website; rejected submissions will be permanently treated as confidential.&lt;/p&gt;
 &lt;h3 id=&#34;policies-and-contact-information&#34;&gt;Policies and Contact Information&lt;/h3&gt;
-&lt;p&gt;Simultaneous submission of the same work to multiple competing academic venues, submission of previously published work without substantial novel contributions, or plagiarism constitutes dishonesty or fraud may lead to instant or later rejecion.
+&lt;p&gt;Simultaneous submission of the same work to multiple competing academic venues, submission of previously published work without substantial novel contributions, or plagiarism constitutes dishonesty or fraud may lead to instant or later rejection.
 Note: Work presented by the authors at industry conferences, such as Black Hat, is not considered to have been &amp;ldquo;previously published&amp;rdquo; for the purposes of WOOT &amp;lsquo;22. We strongly encourage the submission of such work to WOOT &amp;lsquo;22, particularly work that is well suited to a more formal and complete treatment in a published, peer-reviewed setting. In your submission, please do note any previous presentations of the work.&lt;/p&gt;
 &lt;h3 id=&#34;vulnerability-disclosure&#34;&gt;Vulnerability Disclosure&lt;/h3&gt;
 &lt;p&gt;If the submission describes, or otherwise takes advantage of, newly identified vulnerabilities (e.g., software vulnerabilities in a given program or design weaknesses in a hardware system) the authors should disclose these vulnerabilities to the vendors/maintainers of affected software or hardware systems prior to the CFP deadline. When disclosure is necessary, authors should include a statement within their submission and/or final paper about steps taken to fulfill the goal of disclosure.&lt;/p&gt;
@@ -942,7 +942,7 @@ somebody and might overlap with what is already suggested in the CFP
 &lt;h2 id=&#34;why-one-should-submit&#34;&gt;Why one should submit?&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Hardwear.io is (still) a &amp;ldquo;nichy&amp;rdquo; venue where you present
+&lt;p&gt;Hardwear.io is (still) a &amp;ldquo;niche&amp;rdquo; venue where you present
 to a relatively small but relevant audience of experts.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -1367,7 +1367,7 @@ mitigate the KNOB attacks.&lt;/p&gt;
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/2020/knob-ir/</guid>
       <description>&lt;p&gt;The
-&lt;a href=&#34;https://www.cs.ox.ac.uk/innovation/inspiredresearch/InspiredResearch-winter2019.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In&lt;em&gt;spired&lt;/em&gt;Research (Winter 2019 Issue 15)&lt;/a&gt;
+&lt;a href=&#34;https://www.cs.ox.ac.uk/innovation/inspiredresearch/InspiredResearch-winter2019.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;InspiredResearch (Winter 2019 Issue 15)&lt;/a&gt;
 twice-yearly newsletter from the Computer Science Department of the University of
 Oxford features a nice article about the KNOB attack by
 &lt;a href=&#34;https://www.cs.ox.ac.uk/people/kasper.rasmussen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Kasper Rasmussen&lt;/a&gt;.&lt;/p&gt;
@@ -1813,7 +1813,7 @@ theme).&lt;/p&gt;
 rearby. This functionality is accessed by clicking the magnifying glass icon
 close to the theme switch icon or by using &lt;code&gt;vim&lt;/code&gt;-like shortcuts: &lt;code&gt;/&lt;/code&gt; enables
 search and &lt;code&gt;Esc&lt;/code&gt; disables it. Currently, this functionality can be supported
-using built-in Fuse (client-side) or Agolia (server-side). I&amp;rsquo;m using the first
+using built-in Fuse (client-side) or Algolia (server-side). I&amp;rsquo;m using the first
 option.&lt;/p&gt;
 &lt;p&gt;If you are browsing from a mobile device the icons can be found by tapping the
 global menu icon.&lt;/p&gt;
@@ -2134,7 +2134,7 @@ SUTD cybersecurity professors about novel cybersecurity problems and
 solutions, such as cyber-physical systems, IoT and adversarial machine
 learning. We understood the importance of education and awareness when
 talking about cybersecurity.&lt;/p&gt;
-&lt;p&gt;After lunch we visited SUTD&amp;rsquo;s world-class cybersecurity facilites. We started
+&lt;p&gt;After lunch we visited SUTD&amp;rsquo;s world-class cybersecurity facilities. We started
 from &lt;a href=&#34;https://itrust.sutd.edu.sg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iTrust&lt;/a&gt;, SUTD&amp;rsquo;s cybersecurity research
 centre. iTrust covers a broad range of topics spanning from theoretical
 to applied cybersecurity. The range of research area covered spans from
@@ -2152,7 +2152,7 @@ of a water distribution facility with six consumers tanks with
 independent demands patters. WaDi can be used to simulated water
 leakages, water-hammer attacks and water contamination. Both SWaT and
 WaDi can be powered by EPIC the smart grid testbed. EPIC is the newest
-and less-know testbed at SUTD and several researchers are actively
+and less-known testbed at SUTD and several researchers are actively
 working to evaluate it.  Finally, we visited the Internet-of-Things
 testbed that includes an anechoic chamber to perform radio tests and
 several Commercial-Off-The-Shelf devices (such as IP camera, smart
