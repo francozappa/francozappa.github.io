@@ -17,8 +17,7 @@
       <link>https://francozappa.github.io/post/2018/sutd-eduroam/</link>
       <pubDate>Sat, 27 Jan 2018 11:28:36 +0800</pubDate>
       <guid>https://francozappa.github.io/post/2018/sutd-eduroam/</guid>
-      <description>&lt;p&gt;After the
-&lt;a href=&#34;https://francozappa.github.io/post/sutd-vpn-student/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post about connecting to SUTD&amp;rsquo;s VPN&lt;/a&gt;
+      <description>&lt;p&gt;After the post about connecting to SUTD&amp;rsquo;s VPN
 is now time to connect eduroam! Again, SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of
 writing is &lt;em&gt;none&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;SUTD runs a setup with only username-password (no certificates required) and

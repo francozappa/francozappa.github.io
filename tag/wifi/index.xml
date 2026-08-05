@@ -18,7 +18,7 @@
       <pubDate>Sat, 02 Feb 2019 17:46:49 +0800</pubDate>
       <guid>https://francozappa.github.io/project/rearby/</guid>
       <description>&lt;p&gt;In 2019 in a paper titled
-&lt;a href=&#34;https://francozappa.github.io/publication/rearby/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby
+&lt;a href=&#34;https://francozappa.github.io/publication/2019/rearby/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby
 Connections’ on Android&lt;/a&gt;
 we uncovered issues on Nearby Connections, an proprietary Google API
 included in all Android devices. The API is used to provide proximity-based

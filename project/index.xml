@@ -157,9 +157,7 @@ targeting one of the two.&lt;/p&gt;
       <link>https://francozappa.github.io/project/gaen/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/project/gaen/</guid>
-      <description>&lt;p&gt;The
-&lt;a href=&#34;https://francozappa.github.io/publication/dp3t-preprint/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decentralized Privacy-Preserving Proximity Tracing
-(DP3T)&lt;/a&gt;
+      <description>&lt;p&gt;The &lt;strong&gt;Decentralized Privacy-Preserving Proximity Tracing (DP3T)&lt;/strong&gt;
 is a system that we developed
 for secure and privacy-preserving proximity tracing at large scale. DP3T
 provides a technological foundation to help slow the spread of SARS-CoV-2 by
@@ -229,7 +227,7 @@ negotiation protocols of Bluetooth Classic (BC) and Bluetooth Low Energy
 are tracked as &lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2019-9506&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2019-9506&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Our first work titled &lt;a href=&#34;https://www.usenix.org/system/files/sec19-antonioli.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation of Bluetooth BR/EDR&lt;/a&gt; explains how to exploit BC&amp;rsquo;s entropy negotiation to downgrade the entropy of a Bluetooth security key to 1 byte and then brute-force it.&lt;/p&gt;
 &lt;p&gt;In a follow-up work  titled
-&lt;a href=&#34;https://francozappa.github.io/publication/knob-ble/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy&lt;/a&gt;
+&lt;a href=&#34;https://francozappa.github.io/publication/2020/knob-ble/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Key Negotiation Downgrade Attacks on Bluetooth and Bluetooth Low Energy&lt;/a&gt;
 we analyzed also BLE and found that it is vulnerable as
 well to the KNOB attacks. In this case the attacker can downgrade the entropy
 of BLE security key to 7 bytes and then brute-force it.&lt;/p&gt;
@@ -266,7 +264,7 @@ of BLE security key to 7 bytes and then brute-force it.&lt;/p&gt;
       <pubDate>Sat, 02 Feb 2019 17:46:49 +0800</pubDate>
       <guid>https://francozappa.github.io/project/rearby/</guid>
       <description>&lt;p&gt;In 2019 in a paper titled
-&lt;a href=&#34;https://francozappa.github.io/publication/rearby/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby
+&lt;a href=&#34;https://francozappa.github.io/publication/2019/rearby/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby
 Connections’ on Android&lt;/a&gt;
 we uncovered issues on Nearby Connections, an proprietary Google API
 included in all Android devices. The API is used to provide proximity-based

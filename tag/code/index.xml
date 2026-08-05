@@ -38,7 +38,7 @@ that we developed to validate and brute force
 &lt;a href=&#34;https://en.wikipedia.org/wiki/E0_%28cipher%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E0&lt;/a&gt;
 encryption keys is online.&lt;/p&gt;
 &lt;p&gt;The
-&lt;a href=&#34;https://francozappa.github.io/publication/knob/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;
+&lt;a href=&#34;https://francozappa.github.io/publication/2019/knob/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;
 of my KNOB attack SEC19 talk are also online.
 As we can see from the slides, the KNOB attack is &lt;em&gt;not&lt;/em&gt;
 conducted while two Bluetooth devices are pairing, but when two devices are
@@ -71,7 +71,7 @@ is online, and it includes our
       <description>&lt;p&gt;The camera-ready version of
 &lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;
 is available
-&lt;a href=&#34;https://francozappa.github.io/publication/rearby/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://francozappa.github.io/publication/2019/rearby/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We also released a
 &lt;a href=&#34;https://github.com/francozappa/REarby/tree/master/poc-hostapd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;proof of concept code&lt;/a&gt;
 to perform the &lt;em&gt;Soft AP manipulation attack&lt;/em&gt;. The code was previously

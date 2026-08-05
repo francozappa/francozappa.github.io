@@ -21,10 +21,10 @@
 &lt;a href=&#34;https://www.ndss-symposium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Network and Distributed System Security Symposium (NDSS)
 2019&lt;/a&gt; conference.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve presented our paper about
-&lt;a href=&#34;https://francozappa.github.io/publication/rearby/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby
+&lt;a href=&#34;https://francozappa.github.io/publication/2019/rearby/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby
 Connections’ on Android&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Please have a look at the
-&lt;a href=&#34;https://francozappa.github.io/publication/rearby/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;,
+&lt;a href=&#34;https://francozappa.github.io/publication/2019/rearby/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;,
 at the,
 &lt;a href=&#34;https://github.com/francozappa/REarby/tree/master/poc-hostapd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Soft AP manipulation PoC&lt;/a&gt;
 and the
@@ -40,7 +40,7 @@ and the
       <description>&lt;p&gt;The camera-ready version of
 &lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby Connections&amp;rdquo; on Android&lt;/em&gt;
 is available
-&lt;a href=&#34;https://francozappa.github.io/publication/rearby/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://francozappa.github.io/publication/2019/rearby/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We also released a
 &lt;a href=&#34;https://github.com/francozappa/REarby/tree/master/poc-hostapd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;proof of concept code&lt;/a&gt;
 to perform the &lt;em&gt;Soft AP manipulation attack&lt;/em&gt;. The code was previously
