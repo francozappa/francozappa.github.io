@@ -57,8 +57,7 @@ framework based on DP3T.&lt;/p&gt;
       <link>https://francozappa.github.io/project/bias/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/project/bias/</guid>
-      <description>&lt;p&gt;In 2020 we disclosed the &lt;a href=&#34;https://francozappa.github.io/about-bias/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bluetooth Impersonation AttackS
-(BIAS)&lt;/a&gt;,
+      <description>&lt;p&gt;In 2020 we disclosed the Bluetooth Impersonation AttackS (BIAS),
 a family of high impact attacks affecting Bluetooth&amp;rsquo;s
 authentication protocols. The attacks allow
 impersonating any Bluetooth device during secure
