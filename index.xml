@@ -183,6 +183,15 @@ practical application are particularly encouraged.&lt;/p&gt;
     </item>
     
     <item>
+      <title>CTRAPS: CTAP Impersonation and API Confusion on FIDO2</title>
+      <link>https://francozappa.github.io/talk/ctraps-ctap-impersonation-and-api-confusion-on-fido2/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/ctraps-ctap-impersonation-and-api-confusion-on-fido2/</guid>
+      <description>&lt;p&gt;Invited talk at ENS in Paris about &lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CTRAPS&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>AttackDefense Framework (ADF): Enhancing IoT Devices and Lifecycles Threat Modeling</title>
       <link>https://francozappa.github.io/publication/2025/adf/</link>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>

@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Daniele Antonioli</title>
+    <title>Talks | Daniele Antonioli</title>
     <link>https://francozappa.github.io/event/</link>
       <atom:link href="https://francozappa.github.io/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Daniele Antonioli</copyright><lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Daniele Antonioli</copyright><lastBuildDate>Sun, 14 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Talks</title>
       <link>https://francozappa.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>CTRAPS: CTAP Impersonation and API Confusion on FIDO2</title>
+      <link>https://francozappa.github.io/talk/ctraps-ctap-impersonation-and-api-confusion-on-fido2/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/ctraps-ctap-impersonation-and-api-confusion-on-fido2/</guid>
+      <description>&lt;p&gt;Invited talk at ENS in Paris about &lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CTRAPS&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CTRAPS: CTAP Client Impersonation and API Confusion on FIDO2</title>
