@@ -5,7 +5,7 @@
     <link>https://francozappa.github.io/event/</link>
       <atom:link href="https://francozappa.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Daniele Antonioli</copyright><lastBuildDate>Sun, 14 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Daniele Antonioli</copyright><lastBuildDate>Fri, 03 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://francozappa.github.io/media/icon_hufd6449924b8771808a89b636be1cd7b0_295644_512x512_fill_lanczos_center_3.png</url>
       <title>Talks</title>
@@ -13,11 +13,65 @@
     </image>
     
     <item>
+      <title>IoT Threat Assessment with the AttackDefense Framework</title>
+      <link>https://francozappa.github.io/talk/iot-threat-assessment-with-the-attackdefense-framework/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/iot-threat-assessment-with-the-attackdefense-framework/</guid>
+      <description>&lt;p&gt;DIMVA 2026 keynote about &lt;a href=&#34;https://francozappa.github.io/publication/2025/adf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ADF&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Zen of Bluetooth Security</title>
+      <link>https://francozappa.github.io/talk/the-zen-of-bluetooth-security/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/the-zen-of-bluetooth-security/</guid>
+      <description>&lt;p&gt;ACM WiSec 2026 keynote about &lt;a href=&#34;https://francozappa.github.io/publication/2026/zobs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ZOBS&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breaking and Fixing EV Charging Standard with CheckOCPP and EmuOCPP</title>
+      <link>https://francozappa.github.io/talk/breaking-and-fixing-ev-charging-standard-with-checkocpp-and-emuocpp/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/breaking-and-fixing-ev-charging-standard-with-checkocpp-and-emuocpp/</guid>
+      <description>&lt;p&gt;DEF CON Singapore talk about &lt;a href=&#34;https://francozappa.github.io/publication/2025/emuocpp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EmuOCPP&lt;/a&gt;, and &lt;a href=&#34;https://francozappa.github.io/publication/2025/checkocpp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CheckOCPP&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploiting BLE Re-Pairing with the BLERP Attacks</title>
+      <link>https://francozappa.github.io/talk/exploiting-ble-re-pairing-with-the-blerp-attacks/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/exploiting-ble-re-pairing-with-the-blerp-attacks/</guid>
+      <description>&lt;p&gt;Black Hat Asia talk about &lt;a href=&#34;https://francozappa.github.io/publication/2026/blerp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BLERP&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CTRAPS: CTAP Impersonation and API Confusion on FIDO2</title>
       <link>https://francozappa.github.io/talk/ctraps-ctap-impersonation-and-api-confusion-on-fido2/</link>
       <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/talk/ctraps-ctap-impersonation-and-api-confusion-on-fido2/</guid>
       <description>&lt;p&gt;Invited talk at ENS in Paris about &lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CTRAPS&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CTRAPS-CTAP Impersonation, API Confusion Attacks on FIDO2</title>
+      <link>https://francozappa.github.io/talk/ctraps-ctap-impersonation-api-confusion-attacks-on-fido2/</link>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/ctraps-ctap-impersonation-api-confusion-attacks-on-fido2/</guid>
+      <description>&lt;p&gt;DEF CON 33 talk about &lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CTRAPS&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ransomware, Tracking, DoS, and Data Leaks on Xiaomi Electric Scooters</title>
+      <link>https://francozappa.github.io/talk/ransomware-tracking-dos-and-data-leaks-on-xiaomi-electric-scooters/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://francozappa.github.io/talk/ransomware-tracking-dos-and-data-leaks-on-xiaomi-electric-scooters/</guid>
+      <description>&lt;p&gt;Black Hat USA talk about &lt;a href=&#34;https://francozappa.github.io/publication/2026/etrojans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E-Trojans&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

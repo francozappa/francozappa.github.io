@@ -34,6 +34,12 @@
   <url>
     <loc>https://francozappa.github.io/publication/2026/zobs/</loc><lastmod>2026-07-06T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>https://francozappa.github.io/talk/iot-threat-assessment-with-the-attackdefense-framework/</loc><lastmod>2026-07-03T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/event/</loc><lastmod>2026-07-03T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/talk/the-zen-of-bluetooth-security/</loc><lastmod>2026-06-30T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>https://francozappa.github.io/publication/2026/etrojans/</loc><lastmod>2026-05-04T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/author/e.-losiouk/</loc><lastmod>2026-05-04T00:00:00+00:00</lastmod></url>
@@ -43,6 +49,10 @@
     <loc>https://francozappa.github.io/author/m.-conti/</loc><lastmod>2026-05-04T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/author/r.-cestaro/</loc><lastmod>2026-05-04T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/talk/breaking-and-fixing-ev-charging-standard-with-checkocpp-and-emuocpp/</loc><lastmod>2026-04-28T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/talk/exploiting-ble-re-pairing-with-the-blerp-attacks/</loc><lastmod>2026-04-23T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/publication/2026/bbro/</loc><lastmod>2026-04-16T00:00:00+00:00</lastmod></url>
   <url>
@@ -92,8 +102,6 @@
   <url>
     <loc>https://francozappa.github.io/talk/ctraps-ctap-impersonation-and-api-confusion-on-fido2/</loc><lastmod>2025-12-14T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://francozappa.github.io/event/</loc><lastmod>2025-12-14T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://francozappa.github.io/publication-type/2/</loc><lastmod>2025-10-15T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/author/a.-gringiani/</loc><lastmod>2025-10-15T00:00:00+00:00</lastmod></url>
@@ -121,6 +129,10 @@
     <loc>https://francozappa.github.io/post/2025/ctraps-offbyone/</loc><lastmod>2025-09-22T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/tag/fido2/</loc><lastmod>2025-09-22T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/talk/ctraps-ctap-impersonation-api-confusion-attacks-on-fido2/</loc><lastmod>2025-08-09T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://francozappa.github.io/talk/ransomware-tracking-dos-and-data-leaks-on-xiaomi-electric-scooters/</loc><lastmod>2025-08-07T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://francozappa.github.io/post/2025/ctraps-eurosp25/</loc><lastmod>2025-07-04T00:00:00+00:00</lastmod></url>
   <url>
