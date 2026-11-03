@@ -13,6 +13,31 @@
     </image>
     
     <item>
+      <title>Mobile System Security (MOBISEC)</title>
+      <link>https://francozappa.github.io/mobisec/</link>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0100</pubDate>
+      <guid>https://francozappa.github.io/mobisec/</guid>
+      <description>&lt;p&gt;MOBISEC is an MSc course at &lt;a href=&#34;https://www.eurecom.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EURECOM&lt;/a&gt; about the
+security of mobile systems, with a focus on Android and iOS. This page
+collects the public slide decks used in the course.&lt;/p&gt;
+&lt;p&gt;The course is based on &lt;a href=&#34;https://reyammer.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yanick Fratantonio&amp;rsquo;s&lt;/a&gt;
+&lt;a href=&#34;https://mobisec.reyammer.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MOBISEC course&lt;/a&gt;. Thanks Yanick!&lt;/p&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1yE-uBaxsOj6S2R9AV1MOKTCHHKlhVMwfd9Oe9RD_6HI/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Welcome!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1FSIaGddC3Qaw8E9ZbyMnUHP99Y4kAxyE9T1taDEa9PY/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mobile Systems and Smartphones&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1990U18D5u_A691shCG0pFwYN7Iw-ZLAbNEtHRDgpHLI/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intro to App Development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/19Spi87hcrJKZn472_teiwpjCxqPu2XrWa4SfF0-o4uo/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intro to Android Architecture and Security&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1nKpI37ZmEEdgwZX_FyK6Fe3aHZ2F4mLy_7IqcVAL_0E/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Real-World Android Apps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1MfXY1v943Z2_eW8ROgItKLQg1bPBFmKTpSYqcEi-kqA/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More on Key Android Aspects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/15zNl98rPoF3PHZZVYScwB_Tg8eNmq4wCbTvFJ8PYukI/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Messing with Android Apps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1LHzICZukfFUNGQhvXUXyZdi2aJ_P2EY6VndUexr9-VE/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reverse Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TBD&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Zen of Bluetooth Security (ZOBS)</title>
       <link>https://francozappa.github.io/post/2026/zobs-init/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
