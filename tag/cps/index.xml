@@ -19,9 +19,9 @@
       <guid>https://francozappa.github.io/project/minicps/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/citation.cfm?id=2808715&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MiniCPS&lt;/a&gt; is a framework that we developed to
 simulate/emulate
-Cyber-Physical Systems, including Industrial Control System. MiniCPS is open
-source and available on &lt;a href=&#34;https://github.com/scy-phy/minicps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;. The framework is
-build on top of &lt;a href=&#34;http://mininet.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mininet&lt;/a&gt;.&lt;/p&gt;
+Cyber-Physical Systems, including Industrial Control Systems. MiniCPS is open
+source and available on &lt;a href=&#34;https://github.com/scy-phy/minicps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. The framework is
+built on top of &lt;a href=&#34;http://mininet.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mininet&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;We used the framework in
 several other projects such as the development of
 novel attacks (e.g., &lt;a href=&#34;https://arxiv.org/pdf/1802.00152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICS botnets&lt;/a&gt;), countermeasures

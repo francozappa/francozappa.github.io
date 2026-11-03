@@ -71,7 +71,7 @@ diverse disciplinary perspectives, including computer science, control systems
 engineering, security studies, public policy, and operations management.
 Interdisciplinary contributions that bridge theoretical innovation with
 practical application are particularly encouraged.&lt;/p&gt;
-&lt;p&gt;Submit you research papers &lt;a href=&#34;https://easychair.org/account/signin?l=5801184989022072166.1773657775.ecc862e0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Submit your research papers &lt;a href=&#34;https://easychair.org/account/signin?l=5801184989022072166.1773657775.ecc862e0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -89,7 +89,7 @@ practical application are particularly encouraged.&lt;/p&gt;
 &lt;li&gt;Notification: &lt;strong&gt;April 21, 2026&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Camera-ready: &lt;strong&gt;May 5, 2026&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Please also share the word!&lt;/p&gt;
+&lt;p&gt;Please also spread the word!&lt;/p&gt;
 </description>
     </item>
     
@@ -98,7 +98,7 @@ practical application are particularly encouraged.&lt;/p&gt;
       <link>https://francozappa.github.io/post/2026/blerp-ndss/</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/2026/blerp-ndss/</guid>
-      <description>&lt;p&gt;In mid 2024, &lt;a href=&#34;https://s3.eurecom.fr/~sacchetti/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tom&lt;/a&gt; and I looked at BLE re-pairing, an underlooked attack surface. We uncovered four critical re-pairing attacks and design-level vulnerabilities that allow device impersonation and MitM of arbitrary devices in BLE range. The attacks work even in the most secure BLE modes, like authenticated pairing and Secure Connections Only, and require 0-click or 1-click interactions.&lt;/p&gt;
+      <description>&lt;p&gt;In mid 2024, &lt;a href=&#34;https://s3.eurecom.fr/~sacchetti/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tom&lt;/a&gt; and I looked at BLE re-pairing, an overlooked attack surface. We uncovered four critical re-pairing attacks and design-level vulnerabilities that allow device impersonation and MitM of arbitrary devices in BLE range. The attacks work even in the most secure BLE modes, like authenticated pairing and Secure Connections Only, and require 0-click or 1-click interactions.&lt;/p&gt;
 &lt;p&gt;As part of our responsible disclosure we also proposed effective countermeasures that can be adopted by implementers and by the Bluetooth SIG. AFAIK, the Bluetooth SIG is not planning to fix the BLERP attacks and vulnerabilities, although they should.&lt;/p&gt;
 &lt;p&gt;After almost 1.5 years, we publicly release the BLERP paper and codebase:&lt;/p&gt;
 &lt;ul&gt;
@@ -113,7 +113,7 @@ practical application are particularly encouraged.&lt;/p&gt;
       <link>https://francozappa.github.io/post/2026/defcon-almanack/</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/2026/defcon-almanack/</guid>
-      <description>&lt;p&gt;The DEF CON 33 Hackers&amp;rsquo; Almanack just &lt;a href=&#34;https://harris.uchicago.edu/sites/default/files/the_def_con_33_hackers_almanack.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dropped&lt;/a&gt;. We would like to thank Paul Chang and their team for featuring &lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CTRAPS&lt;/a&gt; in the Right to Repair section. Read and share the Almanack!.&lt;/p&gt;
+      <description>&lt;p&gt;The DEF CON 33 Hackers&amp;rsquo; Almanack just &lt;a href=&#34;https://harris.uchicago.edu/sites/default/files/the_def_con_33_hackers_almanack.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dropped&lt;/a&gt;. We would like to thank Paul Chang and their team for featuring &lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CTRAPS&lt;/a&gt; in the Right to Repair section. Read and share the Almanack!&lt;/p&gt;
 &lt;p&gt;Links: CTRAPS &lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=WZChYxX5i_I&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DEF CON talk&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -139,18 +139,18 @@ practical application are particularly encouraged.&lt;/p&gt;
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/2025/ctraps-eurosp25/</guid>
       <description>&lt;p&gt;This week we presented at IEEE Euro S&amp;amp;P&#39;25 &lt;a href=&#34;https://francozappa.github.io/publication/2025/ctraps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CTRAPS: CTAP Impersonation and API Confusion on FIDO2&lt;/a&gt;, a paper about the security and privacy of FIDO2, a widespread standard used for single-factor and multi-factor authentication. We focus on the  &lt;em&gt;Client to Authenticator Protocol (CTAP)&lt;/em&gt;, an application layer protocol spoken by a FIDO2 authenticator (e.g., a YubiKey) and a client (e.g., a smartphone or a laptop). We uncover seven CTAP design issues in the FIDO2 standard, including the lack of Client to Authenticator authentication, and eleven related new attacks we call &lt;em&gt;CTRAPS&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;The CTRAPS attacks are effective on any CTAP compliant FIDO2 client and authenticator since they exploit design issues, i.e., millions of FIDO2 devices and users. Their effects, include deletion of discoverable and non-discoverable credentials, DoS of an authenticator, and user tracking with FIDO2 credentials. The attacks affect not only a FIDO2 authenticator but also a relying party, e.g., by deleting the master key a user loses all the related non-discoverable credentials stored on the relying parties.&lt;/p&gt;
+&lt;p&gt;The CTRAPS attacks are effective on any CTAP compliant FIDO2 client and authenticator since they exploit design issues, i.e., millions of FIDO2 devices and users. Their effects include deletion of discoverable and non-discoverable credentials, DoS of an authenticator, and user tracking with FIDO2 credentials. The attacks affect not only a FIDO2 authenticator but also a relying party, e.g., by deleting the master key a user loses all the related non-discoverable credentials stored on the relying parties.&lt;/p&gt;
 &lt;p&gt;The eleven CTRAPS attacks are grouped into two classes:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;four &lt;em&gt;Client Impersonation (CI)&lt;/em&gt; attacks: where the attacker impersonates a client to an authenticator over CTAP to achieve several goals, like 0-click deletion of all credentials stored on the authenticator via the reset CTAP API call.&lt;/li&gt;
-&lt;li&gt;seven &lt;em&gt;API Confusion (AC)&lt;/em&gt; attacks: where the attacker MitM a CTAP channel between a client and an authenticator and confound the authenticator by calling a different API than the one intended to be called by the client, e.g., the client thinks it has called and authorized the make credential API while the attacker calls the reset API and deletes all credentials.&lt;/li&gt;
+&lt;li&gt;seven &lt;em&gt;API Confusion (AC)&lt;/em&gt; attacks: where the attacker MitMs a CTAP channel between a client and an authenticator and confounds the authenticator by calling a different API than the one intended to be called by the client, e.g., the client thinks it has called and authorized the make credential API while the attacker calls the reset API and deletes all credentials.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;We also release a &lt;a href=&#34;https://github.com/Skiti/CTrAPs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;toolkit&lt;/a&gt; implementing the attacks. It can be used for CTAP security testing as it includes a virtual CTAP testbed to test an authenticator without having to compromise real credentials and several malicious Clients to test various attack scenarios.&lt;/p&gt;
 &lt;p&gt;We successfully evaluate the CTRAPS attacks on six popular FIDO2 authenticators, including (FIPS compliant) YubiKeys, Feitian, and Solo and ten popular relying parties, like apple.com, github.com, adobe.com, and facebook.com.&lt;/p&gt;
 &lt;p&gt;We also release five CTRAPS attacks &lt;a href=&#34;https://www.youtube.com/@skitisec/shorts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;demos&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Moreover, we discovered an implementation-specific vulnerability affecting Yubikeys allowing to enumerate relying parties without authorization.
+&lt;p&gt;Moreover, we discovered an implementation-specific vulnerability affecting YubiKeys allowing to enumerate relying parties without authorization.
 Yubico promptly acknowledged the issue, see &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35311&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-35311&lt;/a&gt;, and
-&lt;a href=&#34;https://www.yubico.com/support/security-advisories/ysa-2024-02/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YSA-2024-02&lt;/a&gt;. They released a new firmware fixing the vulnerability which is shipped with the following Yubikeys Series: 5, Security Key, Bio, FIPS,and CSPN.&lt;/p&gt;
+&lt;a href=&#34;https://www.yubico.com/support/security-advisories/ysa-2024-02/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YSA-2024-02&lt;/a&gt;. They released a new firmware fixing the vulnerability which is shipped with the following YubiKey Series: 5, Security Key, Bio, FIPS, and CSPN.&lt;/p&gt;
 &lt;p&gt;We will also present CTRAPS at &lt;a href=&#34;https://defcon.org/html/defcon-33/dc-33-speakers.html#content_60350&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DEF CON 33&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;More CTRAPS resources:&lt;/p&gt;
 &lt;ul&gt;
@@ -290,7 +290,7 @@ at the 2024 Toulouse Hacking Convention (THCON)! Both research works are
 funded by the &lt;a href=&#34;https://horizon-orshin.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORSHIN&lt;/a&gt; Horizon Europe research grant.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;E-Spoofer talk: 4th April 2024, &lt;em&gt;10:15-10:45&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;BLUFFS talk: 4th April 2024, &lt;em&gt;11:15-10:45&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;BLUFFS talk: 4th April 2024, &lt;em&gt;11:15-11:45&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Where: Marthe Condat auditorium, Paul Sabatier University, Toulouse&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://thcon.party/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;THCON program&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -436,12 +436,12 @@ systems). To get a feeling, please see my
 &lt;p&gt;If you are interested please send me (&lt;a href=&#34;mailto:daniele.antonioli@eurecom.fr&#34;&gt;daniele.antonioli@eurecom.fr&lt;/a&gt;) an &lt;em&gt;HTML-less&lt;/em&gt; email containing:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;[PEPR5G] in the email subject&lt;/li&gt;
-&lt;li&gt;The names and email addresses of two referrer (e.g., PhD advisors) in the email body&lt;/li&gt;
-&lt;li&gt;A CV with a list to publications in PDF&lt;/li&gt;
+&lt;li&gt;The names and email addresses of two referees (e.g., PhD advisors) in the email body&lt;/li&gt;
+&lt;li&gt;A CV with a list of publications in PDF&lt;/li&gt;
 &lt;li&gt;A short research statement in PDF (max 2 pages) explaining why you are interested in IIoT network security and
-privacy, what you did so far and are what you planning to do in this research area&lt;/li&gt;
+privacy, what you did so far and what you are planning to do in this research area&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Elseif you know someone that might be interested, please spread the word.&lt;/p&gt;
+&lt;p&gt;Otherwise, if you know someone that might be interested, please spread the word.&lt;/p&gt;
 &lt;p&gt;Grazie!&lt;/p&gt;
 </description>
     </item>
@@ -456,7 +456,7 @@ privacy, what you did so far and are what you planning to do in this research ar
 our paper titled: &lt;strong&gt;E-Spoofer: Attacking and Defending Xiaomi Electric Scooter
 Ecosystem&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;In a nutshell, we reverse-engineered the proprietary wireless protocols used
-by Xiaomi e-scooters and companions applications (i.e., Mi Home) over BLE,
+by Xiaomi e-scooters and companion applications (i.e., Mi Home) over BLE,
 found critical vulnerabilities, exploited them to get arbitrary read and
 write capabilities on an e-scooter both in proximity and remotely (via a
 malicious Android app), developed concrete countermeasures, released a toolkit
@@ -501,7 +501,7 @@ Starting date: ASAP. Full info &lt;a href=&#34;https://www.eurecom.fr/en/job/dig
       <description>&lt;p&gt;Our talk titled &lt;strong&gt;BreakMi: Reversing, Exploiting and Fixing Xiaomi (and Fitbit) Fitness Tracking Ecosystems&lt;/strong&gt; has been accepted at
 Hardwear.io USA&#39;23. The talk extends and complements our paper titled
 &lt;a href=&#34;https://tches.iacr.org/index.php/TCHES/article/download/9704/9234&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;BreakMi: Reversing, Exploiting and Fixing Xiaomi Fitness Tracking Ecosystem&lt;/em&gt;&lt;/a&gt;.
-The talk covers new relevant and educational aspect about our study that we
+The talk covers new relevant and educational aspects about our study that we
 did not have time to talk about during the
 &lt;a href=&#34;https://www.youtube.com/watch?t=3412&amp;amp;v=zD5EdvGs98U&amp;amp;feature=youtu.be&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper presentation at CHES&#39;22&lt;/a&gt;.
 For instance we will cover in detail:&lt;/p&gt;
@@ -560,7 +560,7 @@ during EURECOM&amp;rsquo;s Scientific Council (SC).&lt;/p&gt;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;For more info see at the paper&amp;rsquo;s presentation starting around min 56:&lt;/p&gt;
+&lt;p&gt;For more info see the paper&amp;rsquo;s presentation starting around min 56:&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/zD5EdvGs98U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -598,7 +598,7 @@ facing CPS. We seek submissions describing theoretical and practical solutions
 to security challenges in CPS. Submissions pertinent to the security of
 embedded systems, IoT, SCADA, smart grid, and other critical infrastructure
 are welcome.&lt;/p&gt;
-&lt;h2 id=&#34;topic-of-interest&#34;&gt;Topic of interest&lt;/h2&gt;
+&lt;h2 id=&#34;topics-of-interest&#34;&gt;Topics of interest&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Attack detection for CPS&lt;/li&gt;
 &lt;li&gt;Authentication and access control for CPS&lt;/li&gt;
@@ -643,7 +643,7 @@ given by Marco Casagrande. You can also check out the presentation
 &lt;a href=&#34;https://github.com/Skiti/BreakMi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BreakMi repository&lt;/a&gt;
 to reproduce our findings (with the help of video tutorials nicely prepared by
 Marco).&lt;/p&gt;
-&lt;p&gt;For more information, such our reverse engineering methodology, analysis and exploitation of &lt;em&gt;Fitbit&lt;/em&gt; trackers,
+&lt;p&gt;For more information, such as our reverse engineering methodology, analysis and exploitation of &lt;em&gt;Fitbit&lt;/em&gt; trackers,
 and &lt;em&gt;countermeasures&lt;/em&gt;, have a look at the &lt;a href=&#34;https://tches.iacr.org/index.php/TCHES/article/download/9704/9234&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -741,7 +741,7 @@ security. These topics inherently involve systems topics as part of their
 mechanisms, policies, or attacks. While attacks are in scope, the focus of
 this track is on constructive security, i.e., mitigating and avoiding attacks
 along with systematizing knowledge.&lt;/p&gt;
-&lt;p&gt;Topic of interests:&lt;/p&gt;
+&lt;p&gt;Topics of interest:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Analysis of network and security protocols&lt;/li&gt;
 &lt;li&gt;Attacks with novel insights, techniques, or results&lt;/li&gt;
@@ -875,7 +875,7 @@ conference.
 Students can register to SecMT for &lt;em&gt;free&lt;/em&gt; by filling this
 &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfwNOLR8AJmbJo5F954hTXvhsTfKXE3FvTVFr-OLmLcbWmTyg/viewform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google form&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Talk title&lt;/strong&gt;:&lt;/p&gt;
-&lt;p&gt;Why is Hard to Secure Mobile Proximity Services&lt;/p&gt;
+&lt;p&gt;Why It Is Hard to Secure Mobile Proximity Services&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Talk abstract&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;Mobile devices such as phones, tablets, and wearables enable proximity
 services on a large scale. These services use wireless technologies (such as
@@ -891,7 +891,7 @@ challenging to provide confidentiality and authenticity while at the same time
 provide energy-efficient and accurate proximity tracing. On top of that, a
 usable proximity service has to scale well with the number of users and
 provide the same quality of services across different software and hardware
-ecosystems (e.g., Android and iOS) and usage condition (e.g., indoor and
+ecosystems (e.g., Android and iOS) and usage conditions (e.g., indoor and
 outdoor). In this talk, we look at two commercial proximity services. First,
 Google&amp;rsquo;s Nearby Connections (NC) is an API to connect Android devices using a
 combination of Wi-Fi and Bluetooth and without requiring an Internet
@@ -913,7 +913,7 @@ related research trends.&lt;/p&gt;
 adventure with &lt;a href=&#34;https://www.eurecom.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EURECOM&lt;/a&gt;  and the
 &lt;a href=&#34;http://s3.eurecom.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;System Security Group (S3)&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m thrilled and honored to have joined a team of talented and diverse people,
-and I&amp;rsquo;m looking forward give my contribution!&lt;/p&gt;
+and I&amp;rsquo;m looking forward to giving my contribution!&lt;/p&gt;
 &lt;p&gt;The location is also pretty amusing, and I feel closer to  Italy than
 usual 😄&lt;/p&gt;
 </description>
@@ -931,8 +931,8 @@ at the virtual edition of
 &lt;p&gt;The organizers recently opened the
 &lt;a href=&#34;https://hardwear.io/usa-2021/cfp.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;call-for-papers (CFP) for Hardwear.io USA 2021&lt;/a&gt; and asked me
 to share my take on why you would want to submit
-your work to Hardwear.io and few tips and tricks to improve the quality of your presentation.
-What follow are some random and personal thoughts that might be useful for
+your work to Hardwear.io and a few tips and tricks to improve the quality of your presentation.
+What follows are some random and personal thoughts that might be useful for
 somebody and might overlap with what is already suggested in the CFP
 😄&lt;/p&gt;
 &lt;h2 id=&#34;why-one-should-submit&#34;&gt;Why one should submit?&lt;/h2&gt;
@@ -951,7 +951,7 @@ from different angles and hear more voices.&lt;/p&gt;
 security topics such as embedded, industrial, hardware, and wireless systems.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Hardwear.io is not only about talks and conferences, there is whole community surrounding
+&lt;p&gt;Hardwear.io is not only about talks and conferences, there is a whole community surrounding
 it that is active every day and from which you can get advice.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -961,7 +961,7 @@ is not going to disappoint you 🎉&lt;/p&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;tips-and-tricks-to-strengthen-your-submission&#34;&gt;Tips and Tricks to strengthen your submission&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Clearly scope you work to one (or more) submission topic(s)&lt;/li&gt;
+&lt;li&gt;Clearly scope your work to one (or more) submission topic(s)&lt;/li&gt;
 &lt;li&gt;Keep a mix of technical and non-technical content&lt;/li&gt;
 &lt;li&gt;The non-technical content is useful to let non-expert reviewers
 appreciate your work (i.e., what you did)&lt;/li&gt;
@@ -994,7 +994,7 @@ and providing useful feedback and support during the interview process.&lt;/p&gt
 &lt;p&gt;I also acknowledge Mathias Payer, Kasper Rasmussen, Nils Tippenhauer, and
 Mauro Conti for supporting my candidature. Their support was instrumental
 and I will be pleased to keep collaborating with them in the future.&lt;/p&gt;
-&lt;p&gt;I look forward to join EURECOM and the sunny French riviera and in the
+&lt;p&gt;I look forward to joining EURECOM and the sunny French riviera and in the
 meantime I&amp;rsquo;m ramping up my French knowledge.
 🇫🇷 🏖 ⛰️&lt;/p&gt;
 </description>
@@ -1110,7 +1110,7 @@ submit your great research works!&lt;/p&gt;
 &lt;li&gt;Camera ready due to: 25 November 2020&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;2st round deadlines
+&lt;li&gt;2nd round deadlines
 &lt;ul&gt;
 &lt;li&gt;Paper submission: 11 December 2020&lt;/li&gt;
 &lt;li&gt;Author notification: 15 February 2021&lt;/li&gt;
@@ -1164,7 +1164,7 @@ exploit such vulnerabilities to perform key negotiation attacks on
 Bluetooth Classic and BLE (KNOB attacks, CVE-2019-9506) and
 impersonation attacks on Bluetooth Classic (BIAS attacks,
 CVE-2020-10135). The attacks are presented together with a detailed
-description of the Bluetooth treat model and the affected security
+description of the Bluetooth threat model and the affected security
 mechanism. We also explain how we implemented such attacks using
 low-cost hardware and open-source software and how we evaluated them
 on actual devices from the major vendors including Apple, Broadcom,
@@ -1389,8 +1389,8 @@ for the book recommendation!&lt;/p&gt;
 Cryptography Chapter of SEv3
 (so far 😄) includes a discussion about the
 &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB attack&lt;/a&gt; in the subsection about
-Diffie-Hellman key establishment (5.7.2.2). I look forward to read SEv3
-once is ready!&lt;/p&gt;
+Diffie-Hellman key establishment (5.7.2.2). I look forward to reading SEv3
+once it is ready!&lt;/p&gt;
 </description>
     </item>
     
@@ -1401,7 +1401,7 @@ once is ready!&lt;/p&gt;
       <guid>https://francozappa.github.io/post/2019/epfl-postdoc/</guid>
       <description>&lt;p&gt;Next January I will join as a postdoc &lt;a href=&#34;https://nebelwelt.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathias Payer&lt;/a&gt;&amp;rsquo;s
 &lt;a href=&#34;https://hexhive.epfl.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HexHive&lt;/a&gt; group at &lt;a href=&#34;https://www.epfl.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EPFL&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Looking forward to start a new adventure, and meet old and new friends.&lt;/p&gt;
+&lt;p&gt;Looking forward to starting a new adventure, and meet old and new friends.&lt;/p&gt;
 &lt;p&gt;😆&lt;/p&gt;
 </description>
     </item>
@@ -1513,10 +1513,10 @@ who kindly lent me their Bluetooth devices.&lt;/p&gt;
 &lt;p&gt;The KNOB attack is performed while two Bluetooth BR/EDR devices are pairing&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. The KNOB attack targets the connection phase and can be conducted
-between two devices are already paired. See also
+between two devices that are already paired. See also
 &lt;a href=&#34;https://francozappa.github.io/publication/2019/knob/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide 6&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The KNOB attack can only be used to spy Bluetooth communications&lt;/p&gt;
+&lt;p&gt;The KNOB attack can only be used to spy on Bluetooth communications&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Partially true&lt;/strong&gt;. The KNOB attack can also be used to inject valid
 ciphertext, e.g., to impersonate a legitimate Bluetooth device.&lt;/p&gt;
@@ -1525,7 +1525,7 @@ ciphertext, e.g., to impersonate a legitimate Bluetooth device.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. The encryption key size stays the same (16 bytes). The KNOB attack reduces
 the &lt;em&gt;entropy (randomness)&lt;/em&gt; of the key to 1 byte. For example the key
-&lt;code&gt;0xa395a045bf2410983b4309214598beaf&lt;/code&gt; (16 byte of entropy)
+&lt;code&gt;0xa395a045bf2410983b4309214598beaf&lt;/code&gt; (16 bytes of entropy)
 is reduced to
 &lt;code&gt;0xa3000000000000000000000000000000&lt;/code&gt; (1 byte of entropy) and not
 to &lt;code&gt;0xa3&lt;/code&gt;.&lt;/p&gt;
@@ -1628,7 +1628,7 @@ is online, and it includes our
       <guid>https://francozappa.github.io/post/2019/knob-announce/</guid>
       <description>&lt;p&gt;The embargo is over! The information about &lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
 in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;, including our research
-paper, CVE details, and media coverage, are publicly available at
+paper, CVE details, and media coverage, is publicly available at
 &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -1649,7 +1649,7 @@ paper, CVE details, and media coverage, are publicly available at
 &lt;/blockquote&gt;
 &lt;p&gt;Title of the talk:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless System&lt;/p&gt;
+&lt;p&gt;Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless Systems&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Abstract:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1661,9 +1661,9 @@ to advance the security of wireless systems:
 effectiveness of deployed physical layer features as defense mechanisms,
 complexity and accessibility of wireless technologies, and security
 evaluations of wireless protocols. Firstly, we present a theoretical and
-empirical comparisons between b/n/ac amendments of IEEE 802.11 (WLAN).
+empirical comparison between b/n/ac amendments of IEEE 802.11 (WLAN).
 Our goal is to estimate and measure whether or not modern physical layer
-features, such as MIMO and beamforming, could be used to as defense mechanism.
+features, such as MIMO and beamforming, could be used as defense mechanisms.
 Afterwards, we will talk about our security analysis of Nearby Connections, a
 proprietary API for proximity-based services developed by Google. This API
 uses a combination of Bluetooth and Wi-Fi, and it is included in all Android
@@ -1702,7 +1702,7 @@ and its related projects and use cases.&lt;/p&gt;
       <link>https://francozappa.github.io/post/2019/ndss19-conf/</link>
       <pubDate>Tue, 26 Feb 2019 11:28:36 +0800</pubDate>
       <guid>https://francozappa.github.io/post/2019/ndss19-conf/</guid>
-      <description>&lt;p&gt;This week I&amp;rsquo;ve been in San Diego CA for the
+      <description>&lt;p&gt;This week I&amp;rsquo;ve been in San Diego CA for
 &lt;a href=&#34;https://www.ndss-symposium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Network and Distributed System Security Symposium (NDSS)
 2019&lt;/a&gt; conference.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve presented our paper about
@@ -1710,7 +1710,7 @@ and its related projects and use cases.&lt;/p&gt;
 Connections’ on Android&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Please have a look at the
 &lt;a href=&#34;https://francozappa.github.io/publication/2019/rearby/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;,
-at the,
+at the
 &lt;a href=&#34;https://github.com/francozappa/REarby/tree/master/poc-hostapd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Soft AP manipulation PoC&lt;/a&gt;
 and the
 &lt;a href=&#34;https://www.reddit.com/r/netsec/comments/aye2q9/nearby_threats_reversing_analyzing_and_attacking/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;reddit thread&lt;/a&gt;.&lt;/p&gt;
@@ -1786,7 +1786,7 @@ to perform the &lt;em&gt;Soft AP manipulation attack&lt;/em&gt;. The code was pr
 disclosed to Google. In summary, the attack allows a malicious Nearby
 Connections server (advertiser) to redirect a client to a malicious Internet
 connected access point. As a result the attacker can reconfigure the wireless
-network interface of the victim via DHCP and gets access to all the Wi-Fi
+network interface of the victim via DHCP and get access to all the Wi-Fi
 traffic (even traffic from non Nearby Connections applications).&lt;/p&gt;
 </description>
     </item>
@@ -1822,12 +1822,12 @@ global menu icon.&lt;/p&gt;
       <guid>https://francozappa.github.io/post/2018/ndss19/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m very happy to announce that our paper titled
 &lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby
-Connections&amp;rdquo; on Android&lt;/em&gt; has been accepted for the
+Connections&amp;rdquo; on Android&lt;/em&gt; has been accepted for
 &lt;a href=&#34;https://www.ndss-symposium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Network and Distributed System Security Symposium (NDSS)&lt;/a&gt;. Here you can download a
 &lt;a href=&#34;http://www.cs.ox.ac.uk/files/10367/ndss19-paper367.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-print&lt;/a&gt;.
 Here is the list of
 &lt;a href=&#34;https://www.ndss-symposium.org/ndss2019/accepted-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;accepted papers for NDSS 2019&lt;/a&gt;
-Soon I&amp;rsquo;ll update more material such an exploit PoC code.&lt;/p&gt;
+Soon I&amp;rsquo;ll update more material such as exploit PoC code.&lt;/p&gt;
 &lt;p&gt;Congratulations to
 &lt;a href=&#34;https://www.cs.ox.ac.uk/people/kasper.rasmussen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kasper&lt;/a&gt;
 and
@@ -1854,7 +1854,7 @@ Prof. N.O. Tippenhauer.&lt;/p&gt;
       <pubDate>Sat, 27 Jan 2018 11:28:36 +0800</pubDate>
       <guid>https://francozappa.github.io/post/2018/sutd-eduroam/</guid>
       <description>&lt;p&gt;After the post about connecting to SUTD&amp;rsquo;s VPN
-is now time to connect eduroam! Again, SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of
+it is now time to connect to eduroam! Again, SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of
 writing is &lt;em&gt;none&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;SUTD runs a setup with only username-password (no certificates required) and
 the connection can be established using the GUI of NetworkManager. If your
@@ -1863,7 +1863,7 @@ on the list of the available WiFi networks. If you attempt to connect then
 all you need to do is enter your &lt;code&gt;username&lt;/code&gt; and &lt;code&gt;password&lt;/code&gt;. As usual, PhD
 student and staff are separated into different namespaces. Use the username
 &lt;code&gt;name_surname@sutd.edu.sg&lt;/code&gt; if you are a staff member or &lt;code&gt;xxxxxxx@sutd.edu.sg&lt;/code&gt;
-if you are a student (&lt;code&gt;xxxxxxx&lt;/code&gt; is your 7-digits student id). The password
+if you are a student (&lt;code&gt;xxxxxxx&lt;/code&gt; is your 7-digit student id). The password
 should be the same as the one you are using to connect to the Internet from
 SUTD.&lt;/p&gt;
 &lt;p&gt;Your NetworkManager Wi-Fi Security screen should look like this (&lt;code&gt;username&lt;/code&gt; and
@@ -1898,13 +1898,13 @@ SUTD.&lt;/p&gt;
       <link>https://francozappa.github.io/post/2018/sutd-vpn/</link>
       <pubDate>Sat, 20 Jan 2018 11:28:36 +0800</pubDate>
       <guid>https://francozappa.github.io/post/2018/sutd-vpn/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve recently came across the problem of connecting to the SUTD VPN server
+      <description>&lt;p&gt;I&amp;rsquo;ve recently come across the problem of connecting to the SUTD VPN server
 from overseas. SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of writing
 is &lt;em&gt;none&lt;/em&gt;, and after a bit of research I&amp;rsquo;ve found a quick and easy solution.&lt;/p&gt;
 &lt;p&gt;SUTD runs &lt;em&gt;Pulse Connect Secure (PCS)&lt;/em&gt; server, a commercial solution known as
 &lt;em&gt;Juniper SSL VPN&lt;/em&gt;. Luckily there is an open-source client that supports PCS
 named &lt;em&gt;OpenConnect&lt;/em&gt;. Arch has an &lt;code&gt;openconnect&lt;/code&gt; package and a NetworkManager
-plugin called &lt;code&gt;networkmanager-openconnect&lt;/code&gt;. Install both packages trough your
+plugin called &lt;code&gt;networkmanager-openconnect&lt;/code&gt;. Install both packages through your
 package manager.&lt;/p&gt;
 &lt;p&gt;Then you can use the (user-friendly?) NetworkManager GUI to add the new VPN setup.
 Use the openconnect profile and all the default options (eg: no need of Realm, and Certificates).
@@ -2106,21 +2106,21 @@ one award:&lt;/p&gt;
       <guid>https://francozappa.github.io/post/2017/smart17/</guid>
       <description>&lt;p&gt;Recently I was selected as a &lt;em&gt;mentor&lt;/em&gt; for the cybersecurity track of the
 &lt;em&gt;Future of Science, Technology and Policy&lt;/em&gt; Workshop, organized by
-&lt;a href=&#34;https://smart.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SMART&lt;/a&gt;. I had the privilege to supervision
+&lt;a href=&#34;https://smart.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SMART&lt;/a&gt;. I had the privilege to supervise
 six graduate and post-graduate colleagues with different backgrounds:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Jukka Isohätälä from NUS (Physics and CS)&lt;/li&gt;
 &lt;li&gt;Nikhil Mallareddy from MIT (Environmental Engineering)&lt;/li&gt;
 &lt;li&gt;Ioannis Fousekis from ETH (EECS and Economics)&lt;/li&gt;
 &lt;li&gt;Michael Wicki from ETH (Political sciences and Economics)&lt;/li&gt;
-&lt;li&gt;Fabian Willibaldf rom ETH (Environmental Engineering)&lt;/li&gt;
+&lt;li&gt;Fabian Willibald from ETH (Environmental Engineering)&lt;/li&gt;
 &lt;li&gt;Jay Prakash from SUTD (EECS)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;I&amp;rsquo;m presenting the summary of our activities of day 2 related to
 cybersecurity organized at my institution &lt;a href=&#34;https://www.sutd.edu.sg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SUTD&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;We started knowing about Singapore&amp;rsquo;s Cyber-Security Agency (CSA). In
 particular, we were introduced to Singapore cybersecurity strategies and
-long-term plans.Then we heard the personal story of a cybersecurity
+long-term plans. Then we heard the personal story of a cybersecurity
 startup founder and we discovered common and effective threats in the
 cybersecurity landscape. Finally, we heard two presentations from two
 SUTD cybersecurity professors about novel cybersecurity problems and
@@ -2130,19 +2130,19 @@ talking about cybersecurity.&lt;/p&gt;
 &lt;p&gt;After lunch we visited SUTD&amp;rsquo;s world-class cybersecurity facilities. We started
 from &lt;a href=&#34;https://itrust.sutd.edu.sg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iTrust&lt;/a&gt;, SUTD&amp;rsquo;s cybersecurity research
 centre. iTrust covers a broad range of topics spanning from theoretical
-to applied cybersecurity. The range of research area covered spans from
+to applied cybersecurity. The range of research areas covered spans from
 traditional computer security to domain-specific areas such as: industrial
 control systems, Internet of Things, and autonomous vehicles.&lt;/p&gt;
 &lt;p&gt;iTrust in collaboration with the Singapore government and private
-industries has developed four state-of-the-art testbeds. Those testbed
+industries has developed four state-of-the-art testbeds. Those testbeds
 allow researchers to apply and evaluate their ideas in realistic and
-safe environment. We now briefly comment of each of the testbed. The
+safe environment. We now briefly comment on each of the testbeds. The
 Secure Water Treatment testbed is the oldest and it includes advanced
 sub-processes such as Ultrafiltration and Reverse Osmosis. The water
 treated by SWaT is one of the sources of the second oldest testbed: the
 Water Distribution (WaDi) testbed. WaDi is a miniaturized reproduction
-of a water distribution facility with six consumers tanks with
-independent demands patters. WaDi can be used to simulated water
+of a water distribution facility with six consumer tanks with
+independent demand patterns. WaDi can be used to simulate water
 leakages, water-hammer attacks and water contamination. Both SWaT and
 WaDi can be powered by EPIC the smart grid testbed. EPIC is the newest
 and less-known testbed at SUTD and several researchers are actively

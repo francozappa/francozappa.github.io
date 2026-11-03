@@ -1104,7 +1104,7 @@ protocols (HCI, LMP, and SMP). Then we talk about the Key Negotiation of
 Bluetooth (KNOB) attack on Bluetooth &ldquo;classic&rdquo; BR/EDR [CVE-2019-9506] and its
 extension to BLE. The KNOB attacks are enabled by standard-compliant 0-days
 in the key negotiation protocols of Bluetooth &ldquo;classic&rdquo; BR/EDR and BLE. In
-particular, those protocols allow to negotiate keys with very low entropy
+particular, those protocols allow negotiating keys with very low entropy
 (strength), and they do not protect the integrity of entropy negotiation.
 Using the KNOB attack, a man-in-the-middle attacker can force a Bluetooth
 &ldquo;classic&rdquo; BR/EDR session key to 1 byte of entropy, and a BLE long term key to
@@ -1123,7 +1123,7 @@ we describe some of those patches and why they are not effective. We also
 describe why the majority of low-end devices that we tested remains vulnerable
 to the 1-byte entropy downgrade. We conclude the talk describing the main
 lessons that we learned while finding and exploiting Bluetooth standard
-compliant 0 days.</p>
+compliant 0-days.</p>
 <p>The KNOB attacks were identified, investigated, and demonstrated by Daniele
 Antonioli, Nils Tippenhauer, and Kasper Rasmussen, more information at
 <a href="https://knobattack.com" target="_blank" rel="noopener">https://knobattack.com</a>.</p>

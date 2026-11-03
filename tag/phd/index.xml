@@ -52,7 +52,7 @@ For more information have a look
 &lt;/blockquote&gt;
 &lt;p&gt;Title of the talk:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless System&lt;/p&gt;
+&lt;p&gt;Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless Systems&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Abstract:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -64,9 +64,9 @@ to advance the security of wireless systems:
 effectiveness of deployed physical layer features as defense mechanisms,
 complexity and accessibility of wireless technologies, and security
 evaluations of wireless protocols. Firstly, we present a theoretical and
-empirical comparisons between b/n/ac amendments of IEEE 802.11 (WLAN).
+empirical comparison between b/n/ac amendments of IEEE 802.11 (WLAN).
 Our goal is to estimate and measure whether or not modern physical layer
-features, such as MIMO and beamforming, could be used to as defense mechanism.
+features, such as MIMO and beamforming, could be used as defense mechanisms.
 Afterwards, we will talk about our security analysis of Nearby Connections, a
 proprietary API for proximity-based services developed by Google. This API
 uses a combination of Bluetooth and Wi-Fi, and it is included in all Android

@@ -1003,10 +1003,10 @@ who kindly lent me their Bluetooth devices.</p>
 <p>The KNOB attack is performed while two Bluetooth BR/EDR devices are pairing</p>
 </blockquote>
 <p><strong>False</strong>. The KNOB attack targets the connection phase and can be conducted
-between two devices are already paired. See also
+between two devices that are already paired. See also
 <a href="https://francozappa.github.io/publication/2019/knob/slides.pdf" target="_blank" rel="noopener">slide 6</a></p>
 <blockquote>
-<p>The KNOB attack can only be used to spy Bluetooth communications</p>
+<p>The KNOB attack can only be used to spy on Bluetooth communications</p>
 </blockquote>
 <p><strong>Partially true</strong>. The KNOB attack can also be used to inject valid
 ciphertext, e.g., to impersonate a legitimate Bluetooth device.</p>
@@ -1015,7 +1015,7 @@ ciphertext, e.g., to impersonate a legitimate Bluetooth device.</p>
 </blockquote>
 <p><strong>False</strong>. The encryption key size stays the same (16 bytes). The KNOB attack reduces
 the <em>entropy (randomness)</em> of the key to 1 byte. For example the key
-<code>0xa395a045bf2410983b4309214598beaf</code> (16 byte of entropy)
+<code>0xa395a045bf2410983b4309214598beaf</code> (16 bytes of entropy)
 is reduced to
 <code>0xa3000000000000000000000000000000</code> (1 byte of entropy) and not
 to <code>0xa3</code>.</p>

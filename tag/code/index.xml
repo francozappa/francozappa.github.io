@@ -78,7 +78,7 @@ to perform the &lt;em&gt;Soft AP manipulation attack&lt;/em&gt;. The code was pr
 disclosed to Google. In summary, the attack allows a malicious Nearby
 Connections server (advertiser) to redirect a client to a malicious Internet
 connected access point. As a result the attacker can reconfigure the wireless
-network interface of the victim via DHCP and gets access to all the Wi-Fi
+network interface of the victim via DHCP and get access to all the Wi-Fi
 traffic (even traffic from non Nearby Connections applications).&lt;/p&gt;
 </description>
     </item>

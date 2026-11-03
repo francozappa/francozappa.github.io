@@ -17,13 +17,13 @@
       <link>https://francozappa.github.io/post/2018/sutd-vpn/</link>
       <pubDate>Sat, 20 Jan 2018 11:28:36 +0800</pubDate>
       <guid>https://francozappa.github.io/post/2018/sutd-vpn/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve recently came across the problem of connecting to the SUTD VPN server
+      <description>&lt;p&gt;I&amp;rsquo;ve recently come across the problem of connecting to the SUTD VPN server
 from overseas. SUTD&amp;rsquo;s IT support for (Arch) Linux at the time of writing
 is &lt;em&gt;none&lt;/em&gt;, and after a bit of research I&amp;rsquo;ve found a quick and easy solution.&lt;/p&gt;
 &lt;p&gt;SUTD runs &lt;em&gt;Pulse Connect Secure (PCS)&lt;/em&gt; server, a commercial solution known as
 &lt;em&gt;Juniper SSL VPN&lt;/em&gt;. Luckily there is an open-source client that supports PCS
 named &lt;em&gt;OpenConnect&lt;/em&gt;. Arch has an &lt;code&gt;openconnect&lt;/code&gt; package and a NetworkManager
-plugin called &lt;code&gt;networkmanager-openconnect&lt;/code&gt;. Install both packages trough your
+plugin called &lt;code&gt;networkmanager-openconnect&lt;/code&gt;. Install both packages through your
 package manager.&lt;/p&gt;
 &lt;p&gt;Then you can use the (user-friendly?) NetworkManager GUI to add the new VPN setup.
 Use the openconnect profile and all the default options (eg: no need of Realm, and Certificates).

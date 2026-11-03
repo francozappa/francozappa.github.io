@@ -104,7 +104,7 @@ exploit such vulnerabilities to perform key negotiation attacks on
 Bluetooth Classic and BLE (KNOB attacks, CVE-2019-9506) and
 impersonation attacks on Bluetooth Classic (BIAS attacks,
 CVE-2020-10135). The attacks are presented together with a detailed
-description of the Bluetooth treat model and the affected security
+description of the Bluetooth threat model and the affected security
 mechanism. We also explain how we implemented such attacks using
 low-cost hardware and open-source software and how we evaluated them
 on actual devices from the major vendors including Apple, Broadcom,
@@ -214,8 +214,8 @@ for the book recommendation!&lt;/p&gt;
 Cryptography Chapter of SEv3
 (so far 😄) includes a discussion about the
 &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB attack&lt;/a&gt; in the subsection about
-Diffie-Hellman key establishment (5.7.2.2). I look forward to read SEv3
-once is ready!&lt;/p&gt;
+Diffie-Hellman key establishment (5.7.2.2). I look forward to reading SEv3
+once it is ready!&lt;/p&gt;
 </description>
     </item>
     
@@ -302,10 +302,10 @@ who kindly lent me their Bluetooth devices.&lt;/p&gt;
 &lt;p&gt;The KNOB attack is performed while two Bluetooth BR/EDR devices are pairing&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. The KNOB attack targets the connection phase and can be conducted
-between two devices are already paired. See also
+between two devices that are already paired. See also
 &lt;a href=&#34;https://francozappa.github.io/publication/2019/knob/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide 6&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The KNOB attack can only be used to spy Bluetooth communications&lt;/p&gt;
+&lt;p&gt;The KNOB attack can only be used to spy on Bluetooth communications&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Partially true&lt;/strong&gt;. The KNOB attack can also be used to inject valid
 ciphertext, e.g., to impersonate a legitimate Bluetooth device.&lt;/p&gt;
@@ -314,7 +314,7 @@ ciphertext, e.g., to impersonate a legitimate Bluetooth device.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;False&lt;/strong&gt;. The encryption key size stays the same (16 bytes). The KNOB attack reduces
 the &lt;em&gt;entropy (randomness)&lt;/em&gt; of the key to 1 byte. For example the key
-&lt;code&gt;0xa395a045bf2410983b4309214598beaf&lt;/code&gt; (16 byte of entropy)
+&lt;code&gt;0xa395a045bf2410983b4309214598beaf&lt;/code&gt; (16 bytes of entropy)
 is reduced to
 &lt;code&gt;0xa3000000000000000000000000000000&lt;/code&gt; (1 byte of entropy) and not
 to &lt;code&gt;0xa3&lt;/code&gt;.&lt;/p&gt;
@@ -417,7 +417,7 @@ is online, and it includes our
       <guid>https://francozappa.github.io/post/2019/knob-announce/</guid>
       <description>&lt;p&gt;The embargo is over! The information about &lt;em&gt;The KNOB is Broken: Exploiting Low Entropy
 in the Encryption Key Negotiation Of Bluetooth BR/EDR&lt;/em&gt;, including our research
-paper, CVE details, and media coverage, are publicly available at
+paper, CVE details, and media coverage, is publicly available at
 &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knobattack.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

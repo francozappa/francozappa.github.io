@@ -26,7 +26,7 @@
 &lt;li&gt;Notification: &lt;strong&gt;April 21, 2026&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Camera-ready: &lt;strong&gt;May 5, 2026&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Please also share the word!&lt;/p&gt;
+&lt;p&gt;Please also spread the word!&lt;/p&gt;
 </description>
     </item>
     
@@ -55,7 +55,7 @@ security and privacy recorded at ACM WiSec&#39;23&lt;/p&gt;
 our paper titled: &lt;strong&gt;E-Spoofer: Attacking and Defending Xiaomi Electric Scooter
 Ecosystem&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;In a nutshell, we reverse-engineered the proprietary wireless protocols used
-by Xiaomi e-scooters and companions applications (i.e., Mi Home) over BLE,
+by Xiaomi e-scooters and companion applications (i.e., Mi Home) over BLE,
 found critical vulnerabilities, exploited them to get arbitrary read and
 write capabilities on an e-scooter both in proximity and remotely (via a
 malicious Android app), developed concrete countermeasures, released a toolkit

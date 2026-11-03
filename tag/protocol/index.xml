@@ -21,7 +21,7 @@
 &lt;a href=&#34;https://hexhive.epfl.ch/BLURtooth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BLUR attacks&lt;/a&gt;,
 a family of high impact threats affecting Bluetooth&amp;rsquo;s cross-transport key derivation (CTKD).
 The BLUR attacks are the first sample of cross-transport attacks for Bluetooth
-as they allow to exploit Bluetooth Classic and Bluetooth Low Energy jut by
+as they allow exploiting Bluetooth Classic and Bluetooth Low Energy just by
 targeting one of the two.&lt;/p&gt;
 &lt;p&gt;The BLUR attacks are tracked with &lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2020-15802&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2020-15802&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -62,7 +62,7 @@ a family of high impact attacks affecting Bluetooth&amp;rsquo;s
 authentication protocols. The attacks allow
 impersonating any Bluetooth device during secure
 session establishment without knowing the long term pairing key.
-The BIAS attacks are tracked with &lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2020-10135&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2019-9506&lt;/a&gt;&lt;/p&gt;
+The BIAS attacks are tracked with &lt;a href=&#34;https://nvd.nist.gov/vuln/detail/CVE-2020-10135&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2020-10135&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ieee-sp-oakland-2020-paper-teaser&#34;&gt;IEEE S&amp;amp;P (Oakland) 2020 Paper Teaser&lt;/h2&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -140,10 +140,10 @@ of BLE security key to 7 bytes and then brute-force it.&lt;/p&gt;
       <description>&lt;p&gt;In 2019 in a paper titled
 &lt;a href=&#34;https://francozappa.github.io/publication/2019/rearby/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby
 Connections’ on Android&lt;/a&gt;
-we uncovered issues on Nearby Connections, an proprietary Google API
+we uncovered issues on Nearby Connections, a proprietary Google API
 included in all Android devices. The API is used to provide proximity-based
 services using a combination of Bluetooth and Wi-Fi wireless technologies.&lt;/p&gt;
-&lt;p&gt;We developed an open-sourced &lt;a href=&#34;https://github.com/francozappa/REarby&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;REarby&lt;/a&gt;,
+&lt;p&gt;We developed and open-sourced &lt;a href=&#34;https://github.com/francozappa/REarby&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;REarby&lt;/a&gt;,
 a toolkit to automate reverse engineering and attacking Nearby Connections.&lt;/p&gt;
 &lt;h2 id=&#34;ndss-2019-paper-presentation&#34;&gt;NDSS 2019 Paper Presentation&lt;/h2&gt;
 

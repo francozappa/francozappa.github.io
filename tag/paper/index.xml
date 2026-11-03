@@ -17,7 +17,7 @@
       <link>https://francozappa.github.io/post/2019/ndss19-conf/</link>
       <pubDate>Tue, 26 Feb 2019 11:28:36 +0800</pubDate>
       <guid>https://francozappa.github.io/post/2019/ndss19-conf/</guid>
-      <description>&lt;p&gt;This week I&amp;rsquo;ve been in San Diego CA for the
+      <description>&lt;p&gt;This week I&amp;rsquo;ve been in San Diego CA for
 &lt;a href=&#34;https://www.ndss-symposium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Network and Distributed System Security Symposium (NDSS)
 2019&lt;/a&gt; conference.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve presented our paper about
@@ -25,7 +25,7 @@
 Connections’ on Android&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Please have a look at the
 &lt;a href=&#34;https://francozappa.github.io/publication/2019/rearby/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;,
-at the,
+at the
 &lt;a href=&#34;https://github.com/francozappa/REarby/tree/master/poc-hostapd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Soft AP manipulation PoC&lt;/a&gt;
 and the
 &lt;a href=&#34;https://www.reddit.com/r/netsec/comments/aye2q9/nearby_threats_reversing_analyzing_and_attacking/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;reddit thread&lt;/a&gt;.&lt;/p&gt;
@@ -47,7 +47,7 @@ to perform the &lt;em&gt;Soft AP manipulation attack&lt;/em&gt;. The code was pr
 disclosed to Google. In summary, the attack allows a malicious Nearby
 Connections server (advertiser) to redirect a client to a malicious Internet
 connected access point. As a result the attacker can reconfigure the wireless
-network interface of the victim via DHCP and gets access to all the Wi-Fi
+network interface of the victim via DHCP and get access to all the Wi-Fi
 traffic (even traffic from non Nearby Connections applications).&lt;/p&gt;
 </description>
     </item>
@@ -59,12 +59,12 @@ traffic (even traffic from non Nearby Connections applications).&lt;/p&gt;
       <guid>https://francozappa.github.io/post/2018/ndss19/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m very happy to announce that our paper titled
 &lt;em&gt;Nearby Threats: Reversing‚ Analyzing‚ and Attacking Google&amp;rsquo;s &amp;ldquo;Nearby
-Connections&amp;rdquo; on Android&lt;/em&gt; has been accepted for the
+Connections&amp;rdquo; on Android&lt;/em&gt; has been accepted for
 &lt;a href=&#34;https://www.ndss-symposium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Network and Distributed System Security Symposium (NDSS)&lt;/a&gt;. Here you can download a
 &lt;a href=&#34;http://www.cs.ox.ac.uk/files/10367/ndss19-paper367.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-print&lt;/a&gt;.
 Here is the list of
 &lt;a href=&#34;https://www.ndss-symposium.org/ndss2019/accepted-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;accepted papers for NDSS 2019&lt;/a&gt;
-Soon I&amp;rsquo;ll update more material such an exploit PoC code.&lt;/p&gt;
+Soon I&amp;rsquo;ll update more material such as exploit PoC code.&lt;/p&gt;
 &lt;p&gt;Congratulations to
 &lt;a href=&#34;https://www.cs.ox.ac.uk/people/kasper.rasmussen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kasper&lt;/a&gt;
 and

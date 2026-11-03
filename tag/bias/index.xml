@@ -89,7 +89,7 @@ exploit such vulnerabilities to perform key negotiation attacks on
 Bluetooth Classic and BLE (KNOB attacks, CVE-2019-9506) and
 impersonation attacks on Bluetooth Classic (BIAS attacks,
 CVE-2020-10135). The attacks are presented together with a detailed
-description of the Bluetooth treat model and the affected security
+description of the Bluetooth threat model and the affected security
 mechanism. We also explain how we implemented such attacks using
 low-cost hardware and open-source software and how we evaluated them
 on actual devices from the major vendors including Apple, Broadcom,

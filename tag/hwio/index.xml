@@ -20,7 +20,7 @@
       <description>&lt;p&gt;Our talk titled &lt;strong&gt;BreakMi: Reversing, Exploiting and Fixing Xiaomi (and Fitbit) Fitness Tracking Ecosystems&lt;/strong&gt; has been accepted at
 Hardwear.io USA&#39;23. The talk extends and complements our paper titled
 &lt;a href=&#34;https://tches.iacr.org/index.php/TCHES/article/download/9704/9234&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;BreakMi: Reversing, Exploiting and Fixing Xiaomi Fitness Tracking Ecosystem&lt;/em&gt;&lt;/a&gt;.
-The talk covers new relevant and educational aspect about our study that we
+The talk covers new relevant and educational aspects about our study that we
 did not have time to talk about during the
 &lt;a href=&#34;https://www.youtube.com/watch?t=3412&amp;amp;v=zD5EdvGs98U&amp;amp;feature=youtu.be&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper presentation at CHES&#39;22&lt;/a&gt;.
 For instance we will cover in detail:&lt;/p&gt;
@@ -54,8 +54,8 @@ at the virtual edition of
 &lt;p&gt;The organizers recently opened the
 &lt;a href=&#34;https://hardwear.io/usa-2021/cfp.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;call-for-papers (CFP) for Hardwear.io USA 2021&lt;/a&gt; and asked me
 to share my take on why you would want to submit
-your work to Hardwear.io and few tips and tricks to improve the quality of your presentation.
-What follow are some random and personal thoughts that might be useful for
+your work to Hardwear.io and a few tips and tricks to improve the quality of your presentation.
+What follows are some random and personal thoughts that might be useful for
 somebody and might overlap with what is already suggested in the CFP
 😄&lt;/p&gt;
 &lt;h2 id=&#34;why-one-should-submit&#34;&gt;Why one should submit?&lt;/h2&gt;
@@ -74,7 +74,7 @@ from different angles and hear more voices.&lt;/p&gt;
 security topics such as embedded, industrial, hardware, and wireless systems.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Hardwear.io is not only about talks and conferences, there is whole community surrounding
+&lt;p&gt;Hardwear.io is not only about talks and conferences, there is a whole community surrounding
 it that is active every day and from which you can get advice.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -84,7 +84,7 @@ is not going to disappoint you 🎉&lt;/p&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;tips-and-tricks-to-strengthen-your-submission&#34;&gt;Tips and Tricks to strengthen your submission&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Clearly scope you work to one (or more) submission topic(s)&lt;/li&gt;
+&lt;li&gt;Clearly scope your work to one (or more) submission topic(s)&lt;/li&gt;
 &lt;li&gt;Keep a mix of technical and non-technical content&lt;/li&gt;
 &lt;li&gt;The non-technical content is useful to let non-expert reviewers
 appreciate your work (i.e., what you did)&lt;/li&gt;

@@ -25,7 +25,7 @@ conference.
 Students can register to SecMT for &lt;em&gt;free&lt;/em&gt; by filling this
 &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfwNOLR8AJmbJo5F954hTXvhsTfKXE3FvTVFr-OLmLcbWmTyg/viewform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google form&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Talk title&lt;/strong&gt;:&lt;/p&gt;
-&lt;p&gt;Why is Hard to Secure Mobile Proximity Services&lt;/p&gt;
+&lt;p&gt;Why It Is Hard to Secure Mobile Proximity Services&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Talk abstract&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;Mobile devices such as phones, tablets, and wearables enable proximity
 services on a large scale. These services use wireless technologies (such as
@@ -41,7 +41,7 @@ challenging to provide confidentiality and authenticity while at the same time
 provide energy-efficient and accurate proximity tracing. On top of that, a
 usable proximity service has to scale well with the number of users and
 provide the same quality of services across different software and hardware
-ecosystems (e.g., Android and iOS) and usage condition (e.g., indoor and
+ecosystems (e.g., Android and iOS) and usage conditions (e.g., indoor and
 outdoor). In this talk, we look at two commercial proximity services. First,
 Google&amp;rsquo;s Nearby Connections (NC) is an API to connect Android devices using a
 combination of Wi-Fi and Bluetooth and without requiring an Internet
@@ -96,7 +96,7 @@ exploit such vulnerabilities to perform key negotiation attacks on
 Bluetooth Classic and BLE (KNOB attacks, CVE-2019-9506) and
 impersonation attacks on Bluetooth Classic (BIAS attacks,
 CVE-2020-10135). The attacks are presented together with a detailed
-description of the Bluetooth treat model and the affected security
+description of the Bluetooth threat model and the affected security
 mechanism. We also explain how we implemented such attacks using
 low-cost hardware and open-source software and how we evaluated them
 on actual devices from the major vendors including Apple, Broadcom,
@@ -139,7 +139,7 @@ for organizing it and for the invitation!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Title of the talk:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless System&lt;/p&gt;
+&lt;p&gt;Design, Implementation, and Evaluation of Secure Cyber-Physical and Wireless Systems&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Abstract:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -151,9 +151,9 @@ to advance the security of wireless systems:
 effectiveness of deployed physical layer features as defense mechanisms,
 complexity and accessibility of wireless technologies, and security
 evaluations of wireless protocols. Firstly, we present a theoretical and
-empirical comparisons between b/n/ac amendments of IEEE 802.11 (WLAN).
+empirical comparison between b/n/ac amendments of IEEE 802.11 (WLAN).
 Our goal is to estimate and measure whether or not modern physical layer
-features, such as MIMO and beamforming, could be used to as defense mechanism.
+features, such as MIMO and beamforming, could be used as defense mechanisms.
 Afterwards, we will talk about our security analysis of Nearby Connections, a
 proprietary API for proximity-based services developed by Google. This API
 uses a combination of Bluetooth and Wi-Fi, and it is included in all Android

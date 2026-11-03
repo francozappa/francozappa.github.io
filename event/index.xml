@@ -90,7 +90,7 @@
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/talk/fp-tracer-fine-grained-browser-fingerprinting-detection-via-taint-tracking-and-multi-level-entropy-based-thresholds/</guid>
       <description>&lt;p&gt;Talk on FP-tracer and browser fingerprinting at
-&lt;a href=&#34;https://team.inria.fr/privatics/privacy-alpine-seminar-2025-aka-privaski/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privasky&#39;25&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://team.inria.fr/privatics/privacy-alpine-seminar-2025-aka-privaski/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PrivaSki&#39;25&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -277,17 +277,17 @@ frameborder=&#34;0&#34; title=&#34;BLUFFS&#34; allowfullscreen&gt;&lt;/iframe&gt
       <link>https://francozappa.github.io/talk/bluetooth-security-and-the-knob-attack-on-ble/</link>
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/talk/bluetooth-security-and-the-knob-attack-on-ble/</guid>
-      <description>&lt;p&gt;In this lecture we cover an Introduction about Bluetooth security, its main
+      <description>&lt;p&gt;In this lecture we cover an introduction about Bluetooth security, its main
 transports (BC, BLE), procedures (discovery, connect) and logical entities
 (Host, Controller, HCI). Then we look at Bluetooth security architecture and
 the specific BC/BLE algorithms and protocols. We conclude by talking about
-state of the art attacks that we developed against this protocols including
+state of the art attacks that we developed against these protocols including
 KNOB, BIAS, and BLUR.&lt;/p&gt;
-&lt;p&gt;In this lab we cover an Introduction about Bluetooth security, its main
+&lt;p&gt;In this lab we cover an introduction about Bluetooth security, its main
 transports (BC, BLE), procedures (discovery, connect) and logical entities
 (Host, Controller, HCI). Then we look at Bluetooth security architecture and
 the specific BC/BLE algorithms and protocols. We conclude by talking about
-state of the art attacks that we developed against this protocols including
+state of the art attacks that we developed against these protocols including
 KNOB, BIAS, and BLUR&lt;/p&gt;
 &lt;p&gt;Summer school program
 &lt;a href=&#34;https://www.s3.eurecom.fr/~aurel/summer-school-2023/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -318,7 +318,7 @@ authentication.&lt;/p&gt;
 &lt;p&gt;Those issues are critical as they affect all Xiaomi trackers released since
 2016 and up-to-date Xiaomi companion apps for Android and iOS. We show in
 practice how to exploit the identified vulnerabilities by presenting six
-impactful attacks. Four attacks enable to wirelessly impersonate any Xiaomi
+impactful attacks. Four attacks enable an attacker to wirelessly impersonate any Xiaomi
 fitness tracker and companion app, man-in-the-middle (MitM) them, and
 eavesdrop on their communication. The other two attacks leverage a malicious
 Android application to remotely eavesdrop on data from a tracker and
@@ -327,7 +327,7 @@ impersonate a Xiaomi fitness app.&lt;/p&gt;
 inject sensitive data from any Xiaomi tracker and compatible app. We propose
 five practical and low-overhead countermeasures to mitigate the presented
 vulnerabilities. Moreover, we present BreakMi, a modular toolkit that we
-developed to automate our reverse-engineering process and attacks. breakmi
+developed to automate our reverse-engineering process and attacks. BreakMi
 understands Xiaomi application-layer proprietary protocols, reimplements
 Xiaomi security mechanisms, and automatically performs our attacks. We
 demonstrate that our toolkit can be generalized by extending it to be
@@ -347,7 +347,7 @@ millions of devices and users. In particular, I will cover the BLUR
 attacks on Bluetooth, a novel class of threats capable of exploiting
 Bluetooth Classic from Bluetooth Low Energy and vice versa. Then, I
 will report on our security evaluation of protocol-level Bluetooth
-threats on vehicles (i.e., cars), a currently unexplored by impactful
+threats on vehicles (i.e., cars), a currently unexplored but impactful
 attack surface. Next, I will shift to proprietary wireless protocols
 and describe our security assessments of Xiaomi and Fitbit fitness
 trackers&amp;rsquo; proprietary protocols. Finally, I will conclude by covering
@@ -360,12 +360,12 @@ our latest work on custom Xiaomi e-scooters&amp;rsquo; wireless protocols.&lt;/p
       <link>https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/talk/on-the-insecurity-of-vehicles-against-protocol-level-bluetooth-threats/</guid>
-      <description>&lt;p&gt;In this webinar we talk about, Protocol-Level Bluetooth Threats (PLBT), a novel
+      <description>&lt;p&gt;In this webinar we talk about Protocol-Level Bluetooth Threats (PLBT), a novel
 and relevant class of threats for automotive security. Specifically, we
 explain what they are, why they are relevant, and how they can be evaluated on
 modern cars. We also report our PLBT evaluation results on five popular
 In-Vehicle Infotainment (IVI) units used by KIA, Toyota, Suzuki, and Skoda on
-cars manufactured between 2014 and 2021. For example, we show that is trivial
+cars manufactured between 2014 and 2021. For example, we show that it is trivial
 to impersonate a trusted smartphone to commercial IVIs using an attack chain
 that we developed in recent years (KNOB+BIAS attacks). As a result of a
 successful impersonation, an attacker can exfiltrate sensitive data stored on
@@ -418,8 +418,8 @@ Bluetooth devices as they must be compliant with the Bluetooth standard.&lt;/p&g
 exploiting, and fixing three critical vulnerabilities in the Bluetooth
 standard affecting BT and BLE. The vulns are KNOB (CVE-2019-9506), BIAS
 (CVE-2020-10135), and BLUR (CVE-2020-15802). KNOB affects both BT and
-BLE and enables to weaken and brute force Bluetooth&amp;rsquo;s cryptographic
-keys. BIAS affects BT and allows to bypass Bluetooth&amp;rsquo;s authentication.
+BLE and enables weakening and brute-forcing Bluetooth&amp;rsquo;s cryptographic
+keys. BIAS affects BT and allows bypassing Bluetooth&amp;rsquo;s authentication.
 BLUR exploits the boundary between BT and BLE and results in
 cross-transport exploitation of BT and BLE. Despite our reports to the
 Bluetooth consortium (SIG), the presented vulnerabilities are either not
@@ -449,7 +449,7 @@ Those mechanisms include &lt;em&gt;pairing&lt;/em&gt; and &lt;em&gt;secure sessi
 protocols used to establish keys and protect the communication.&lt;/p&gt;
 &lt;p&gt;This talk revisits our recent work about uncovering,
 exploring, and fixing three critical vulnerabilities in the Bluetooth
-standard. The vulnerabilities affect both BC and BLE, and we named them.
+standard. The vulnerabilities affect both BC and BLE, and we named them:
 KNOB (CVE-2019-9506), BIAS (CVE-2020-10135) and BLUR (CVE-2020-15802).
 As these vulnerabilities are &lt;em&gt;standard-compliant&lt;/em&gt; (i.e., exploit
 specification flaws in the Bluetooth standard), they are effective on
@@ -467,10 +467,10 @@ secure the Bluetooth standard from its foundations.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Why is Hard to Secure Mobile Proximity Services</title>
-      <link>https://francozappa.github.io/talk/why-is-hard-to-secure-mobile-proximity-services/</link>
+      <title>Why It Is Hard to Secure Mobile Proximity Services</title>
+      <link>https://francozappa.github.io/talk/why-it-is-hard-to-secure-mobile-proximity-services/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://francozappa.github.io/talk/why-is-hard-to-secure-mobile-proximity-services/</guid>
+      <guid>https://francozappa.github.io/talk/why-it-is-hard-to-secure-mobile-proximity-services/</guid>
       <description>&lt;p&gt;Mobile devices such as phones, tablets, and wearables enable proximity
 services on a large scale. These services use wireless technologies (such as
 Wi-Fi and Bluetooth) to connect users within a specific range and exchange
@@ -485,7 +485,7 @@ it is challenging to provide confidentiality and authenticity while at the
 same time provide energy-efficient and accurate proximity tracing. On top
 of that, a usable proximity service has to scale well with the number of
 users and provide the same quality of services across different software and
-hardware ecosystems (e.g., Android and iOS) and usage condition (e.g., indoor
+hardware ecosystems (e.g., Android and iOS) and usage conditions (e.g., indoor
 and outdoor). In this talk, we look at two commercial proximity services.
 First, Google&amp;rsquo;s Nearby Connections (NC) is an API to connect Android devices
 using a combination of Wi-Fi and Bluetooth and without requiring an Internet
@@ -503,7 +503,7 @@ related research trends.&lt;/p&gt;
       <link>https://francozappa.github.io/talk/bias-and-knob-attacks-against-bluetooth-br/edr/le/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/talk/bias-and-knob-attacks-against-bluetooth-br/edr/le/</guid>
-      <description>&lt;p&gt;Bluetooth is a ubiquitous technology for low power wireless communications.  Bluetooth runs on billions of devices including mobile, wearables, home automation, smart speakers, headsets, industrial and medical appliances, and vehicles. As a result, Bluetooth&amp;rsquo;s attack surface is huge and includes significant threats such as identity thefts, privacy violations, and malicious device control. Bluetooth is a complex technology specified in an open standard. The standard defines two wireless stacks Bluetooth Classic for high throughput services (e.g., audio and voice) and Bluetooth Low Energy (BLE) for very low power services (e.g., localization, and monitoring). The standard defines security mechanisms to protect the confidentiality, integrity, and authenticity of Bluetooth communications. Those mechanisms include pairing to share a long term key among two devices, and secure session establishment to let two paired devices negotiate session keys to protect their communication. A single vulnerability in a standard-compliant security mechanism translates into billions of exploitable devices. This talk reviews several standard-compliant vulnerabilities that we recently uncovered on the key negotiation and authentication mechanisms of Bluetooth Classic and BLE. We also describe how to exploit such vulnerabilities to perform key negotiation attacks on Bluetooth Classic and BLE (KNOB attacks, CVE-2019-9506) and impersonation attacks on Bluetooth Classic (BIAS attacks, CVE-2020-10135). The attacks are presented together with a detailed description of the Bluetooth treat model and the affected security mechanism.  We also explain how we implemented such attacks using low-cost hardware and open-source software and how we evaluated them on actual devices from the major vendors including Apple, Broadcom, Cypress, CSR, Google, Intel, Microsoft, and Qualcomm. Finally, we describe how the Bluetooth standard was amended after the disclosure of our attacks, our proposed countermeasures, and why most of the Bluetooth devices are still vulnerable to our attacks.&lt;/p&gt;
+      <description>&lt;p&gt;Bluetooth is a ubiquitous technology for low power wireless communications.  Bluetooth runs on billions of devices including mobile, wearables, home automation, smart speakers, headsets, industrial and medical appliances, and vehicles. As a result, Bluetooth&amp;rsquo;s attack surface is huge and includes significant threats such as identity thefts, privacy violations, and malicious device control. Bluetooth is a complex technology specified in an open standard. The standard defines two wireless stacks Bluetooth Classic for high throughput services (e.g., audio and voice) and Bluetooth Low Energy (BLE) for very low power services (e.g., localization, and monitoring). The standard defines security mechanisms to protect the confidentiality, integrity, and authenticity of Bluetooth communications. Those mechanisms include pairing to share a long term key among two devices, and secure session establishment to let two paired devices negotiate session keys to protect their communication. A single vulnerability in a standard-compliant security mechanism translates into billions of exploitable devices. This talk reviews several standard-compliant vulnerabilities that we recently uncovered on the key negotiation and authentication mechanisms of Bluetooth Classic and BLE. We also describe how to exploit such vulnerabilities to perform key negotiation attacks on Bluetooth Classic and BLE (KNOB attacks, CVE-2019-9506) and impersonation attacks on Bluetooth Classic (BIAS attacks, CVE-2020-10135). The attacks are presented together with a detailed description of the Bluetooth threat model and the affected security mechanism.  We also explain how we implemented such attacks using low-cost hardware and open-source software and how we evaluated them on actual devices from the major vendors including Apple, Broadcom, Cypress, CSR, Google, Intel, Microsoft, and Qualcomm. Finally, we describe how the Bluetooth standard was amended after the disclosure of our attacks, our proposed countermeasures, and why most of the Bluetooth devices are still vulnerable to our attacks.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/2Sx-81wz9LA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -541,7 +541,7 @@ protocols (HCI, LMP, and SMP). Then we talk about the Key Negotiation of
 Bluetooth (KNOB) attack on Bluetooth &amp;ldquo;classic&amp;rdquo; BR/EDR [CVE-2019-9506] and its
 extension to BLE. The KNOB attacks are enabled by standard-compliant 0-days
 in the key negotiation protocols of Bluetooth &amp;ldquo;classic&amp;rdquo; BR/EDR and BLE. In
-particular, those protocols allow to negotiate keys with very low entropy
+particular, those protocols allow negotiating keys with very low entropy
 (strength), and they do not protect the integrity of entropy negotiation.
 Using the KNOB attack, a man-in-the-middle attacker can force a Bluetooth
 &amp;ldquo;classic&amp;rdquo; BR/EDR session key to 1 byte of entropy, and a BLE long term key to
@@ -560,7 +560,7 @@ we describe some of those patches and why they are not effective. We also
 describe why the majority of low-end devices that we tested remains vulnerable
 to the 1-byte entropy downgrade. We conclude the talk describing the main
 lessons that we learned while finding and exploiting Bluetooth standard
-compliant 0 days.&lt;/p&gt;
+compliant 0-days.&lt;/p&gt;
 &lt;p&gt;The KNOB attacks were identified, investigated, and demonstrated by Daniele
 Antonioli, Nils Tippenhauer, and Kasper Rasmussen, more information at
 &lt;a href=&#34;https://knobattack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://knobattack.com&lt;/a&gt;.&lt;/p&gt;

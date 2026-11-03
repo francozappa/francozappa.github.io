@@ -20,10 +20,10 @@
       <description>&lt;p&gt;In 2019 in a paper titled
 &lt;a href=&#34;https://francozappa.github.io/publication/2019/rearby/paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby
 Connections’ on Android&lt;/a&gt;
-we uncovered issues on Nearby Connections, an proprietary Google API
+we uncovered issues on Nearby Connections, a proprietary Google API
 included in all Android devices. The API is used to provide proximity-based
 services using a combination of Bluetooth and Wi-Fi wireless technologies.&lt;/p&gt;
-&lt;p&gt;We developed an open-sourced &lt;a href=&#34;https://github.com/francozappa/REarby&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;REarby&lt;/a&gt;,
+&lt;p&gt;We developed and open-sourced &lt;a href=&#34;https://github.com/francozappa/REarby&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;REarby&lt;/a&gt;,
 a toolkit to automate reverse engineering and attacking Nearby Connections.&lt;/p&gt;
 &lt;h2 id=&#34;ndss-2019-paper-presentation&#34;&gt;NDSS 2019 Paper Presentation&lt;/h2&gt;
 
