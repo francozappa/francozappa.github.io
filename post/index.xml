@@ -62,7 +62,7 @@ In this setup, an attacker in proximity impersonates a trusted mouse, triggers a
       <link>https://francozappa.github.io/post/2026/dcsci-cfp/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/2026/dcsci-cfp/</guid>
-      <description>&lt;p&gt;The call for submission for the first edition of the DCS-CI conference is &lt;a href=&#34;https://dcs-ci.github.io/call-for-submissions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;The call for submission for the first edition of the DCS-CI conference is online.&lt;/p&gt;
 &lt;p&gt;The Design of Cyber-Secure Critical Infrastructure (DCS-CI) 26 &lt;a href=&#34;https://dcs-ci.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;conference&lt;/a&gt;
 invites researchers, practitioners, and thought leaders to submit original
 work that advances our collective understanding of how to design, deploy, and
@@ -765,8 +765,7 @@ along with systematizing knowledge.&lt;/p&gt;
       <guid>https://francozappa.github.io/post/2022/cfp-woot22/</guid>
       <description>&lt;p&gt;The WOOT&#39;22 CFP is open. Please submit and spread the word.&lt;/p&gt;
 &lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
-&lt;p&gt;URL: &lt;a href=&#34;https://www.ieee-security.org/TC/SP2022/WOOT22/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ieee-security.org/TC/SP2022/WOOT22/index.html&lt;/a&gt;
-Submission: &lt;a href=&#34;https://woot22.secpriv.tuwien.ac.at/woot22/paper/new&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://woot22.secpriv.tuwien.ac.at/woot22/paper/new&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;URL: &lt;a href=&#34;https://www.ieee-security.org/TC/SP2022/WOOT22/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ieee-security.org/TC/SP2022/WOOT22/index.html&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;The Workshop on Offensive Technologies (WOOT) aims to present a broad picture of offense and its contributions, bringing together researchers and practitioners across all areas of computer security. Offensive security has changed from a hobby to an industry. No longer an exercise for isolated enthusiasts, offensive security is today a large-scale operation managed by organized, capitalized actors. Meanwhile, the landscape has shifted: software used by millions is built by startups less than a year old, delivered on mobile phones and surveilled by national signals intelligence agencies. In the field&amp;rsquo;s infancy, offensive security research was conducted separately by industry, independent hackers, or in academia. Collaboration between these groups was difficult. Since 2007, the Workshop on Offensive Technologies (WOOT) has been bringing those communities together.&lt;/p&gt;
 &lt;h3 id=&#34;symposium-topics&#34;&gt;Symposium Topics&lt;/h3&gt;
@@ -818,7 +817,6 @@ attacks on and offensive research into:&lt;/p&gt;
 Notification date: Thursday, February 27, 2022
 Camera-ready paper deadline: Tuesday, March 8, 2022
 Workshop date: Thursday, May 26, 2022&lt;/p&gt;
-&lt;p&gt;Please submit your paper at &lt;a href=&#34;https://woot22.secpriv.tuwien.ac.at/woot22/paper/new&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://woot22.secpriv.tuwien.ac.at/woot22/paper/new&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;what-to-submit&#34;&gt;What to Submit&lt;/h3&gt;
 &lt;p&gt;Submissions must be in PDF format. Papers should be succinct but thorough in presenting the work. The contribution needs to be well motivated, clearly exposed, and compared to the state of the art. Typical research papers are at least 4 pages, and maximum 10 pages long (not counting bibliography and appendix). Yet, papers whose lengths are incommensurate with their contributions will be rejected.&lt;/p&gt;
 &lt;p&gt;The submission should be formatted in 2-columns, using 10-point Times Roman type on 12-point leading, in a text block of 6.5” x 9”. Please number the pages. Authors must use the IEEE templates, for LaTeX papers this is IEEETran.cls version 1.8b.&lt;/p&gt;
@@ -849,8 +847,6 @@ Note: Work presented by the authors at industry conferences, such as Black Hat, 
 (CPSS 2022) held in conjunction with ACM AsiaCCS&#39;22 is closing in 1 month
 (December 3, 2021).&lt;/p&gt;
 &lt;p&gt;Make sure to submit your awesome CPS security papers :D&lt;/p&gt;
-&lt;p&gt;For more information see the CPSS &lt;a href=&#34;https://illinois.adsc.com.sg/CPSS2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; and
-its &lt;a href=&#34;https://illinois.adsc.com.sg/CPSS2022/CPSS%20CFP2022.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;call for papers&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1390,7 +1386,7 @@ Actually, I have to thank
 &lt;a href=&#34;https://ece.umass.edu/faculty/wayne-burleson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Wayne Burleson&lt;/a&gt;
 for the book recommendation!&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m very proud that the
-&lt;a href=&#34;https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch5-oct12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cryptography Chapter of SEv3&lt;/a&gt;
+Cryptography Chapter of SEv3
 (so far 😄) includes a discussion about the
 &lt;a href=&#34;https://knobattack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNOB attack&lt;/a&gt; in the subsection about
 Diffie-Hellman key establishment (5.7.2.2). I look forward to read SEv3
@@ -1727,9 +1723,9 @@ and the
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://francozappa.github.io/post/2019/cfp-cps-sec19/</guid>
       <description>&lt;p&gt;Recently, I&amp;rsquo;ve accepted the invitation to join the
-&lt;a href=&#34;https://cns2019.ieee-cns.org/workshop/cps-sec-international-workshop-cyber-physical-systems-security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE CPS-SEC workshop&lt;/a&gt;
+IEEE CPS-SEC workshop
 TPC. CPS-SEC is co-located with the
-&lt;a href=&#34;https://cns2019.ieee-cns.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE CNS conference&lt;/a&gt; .
+IEEE CNS conference.
 From the official website:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The IEEE International Workshop on Cyber-Physical Systems Security (CPS-Sec)
@@ -1848,7 +1844,7 @@ and
 &lt;a href=&#34;https://cispa.saarland/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CISPA – Helmholtz-Zentrum, Saarbruecken&lt;/a&gt;
 🇩🇪.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m going to spend six months there, supervised by
-&lt;a href=&#34;https://cispa.saarland/people/nils.tippenhauer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. N.O. Tippenhauer&lt;/a&gt;.&lt;/p&gt;
+Prof. N.O. Tippenhauer.&lt;/p&gt;
 </description>
     </item>
     
@@ -1944,7 +1940,7 @@ If you encounter problems try to have a look
 &lt;a href=&#34;https://wiki.archlinux.org/index.php?title=Pulse_Connect_Secure&amp;amp;mobileaction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 or post a comment below.&lt;/p&gt;
 &lt;p&gt;P.S. Thanks to
-&lt;a href=&#34;http://people.sutd.edu.sg/~nils_tippenhauer/connecting-to-sutd-vpn-from-linux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nils&amp;rsquo;s post&lt;/a&gt;
+Nils&amp;rsquo;s post
 from which I&amp;rsquo;ve started my research,
 this post should update it with an easier setup!&lt;/p&gt;
 &lt;p&gt;🐧&lt;/p&gt;
@@ -1976,7 +1972,7 @@ and co-supervised by
 &lt;em&gt;State-Aware Anomaly Detection for Industrial Control Systems&lt;/em&gt;
 has been accepted for the
 &lt;a href=&#34;https://www.sigapp.org/sac/sac2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Symposium On Applied Computing (SAC) 2018&lt;/a&gt; conference.&lt;/p&gt;
-&lt;p&gt;Congratulations to &lt;a href=&#34;http://people.sutd.edu.sg/~1001407/?page_id=10&amp;amp;lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hamid&lt;/a&gt;,
+&lt;p&gt;Congratulations to Hamid,
 and the co-authors!&lt;/p&gt;
 </description>
     </item>
@@ -2029,9 +2025,9 @@ challenges locally use:&lt;/p&gt;
       <guid>https://francozappa.github.io/post/2017/first17/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m happy to announce that my poster titled
 Towards high-interaction virtual ICS honeypots-in-a-box won the
-&lt;a href=&#34;https://www.stengg.com/en/electronics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ST Engineering&lt;/a&gt;
+ST Engineering
 Poster Award at the
-&lt;a href=&#34;https://gradevents.sutd.edu.sg/first/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FIRST industry workshop&lt;/a&gt;, held at
+FIRST industry workshop, held at
 SUTD. This is a special gift one day before my 30th birthday!
 Here I&amp;rsquo;m sharing a picture from the award ceremony:&lt;/p&gt;
 &lt;p&gt;
@@ -2055,7 +2051,7 @@ Here I&amp;rsquo;m sharing a picture from the award ceremony:&lt;/p&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/first17-award.jpg&#34; alt=&#34;FIRST17 Award Ceremony&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Congratulations also to &lt;a href=&#34;http://people.sutd.edu.sg/~1001407/?page_id=10&amp;amp;lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hamid&lt;/a&gt; who won
+&lt;p&gt;Congratulations also to Hamid who won
 one award:&lt;/p&gt;
 &lt;p&gt;
 
@@ -2078,7 +2074,7 @@ one award:&lt;/p&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://francozappa.github.io/img/posts/first17-hamid.jpg&#34; alt=&#34;FIRST17 Hamid and Me&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;and &lt;a href=&#34;http://people.sutd.edu.sg/~eyasugetahun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eyasu&lt;/a&gt; who managed to win two awards:&lt;/p&gt;
+&lt;p&gt;and Eyasu who managed to win two awards:&lt;/p&gt;
 &lt;p&gt;
 
 
